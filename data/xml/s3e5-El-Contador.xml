@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:02.170" end="00:00:04.805">ARCHER: C'mon Cyril,<tt:br/>beat it, get outta here.</tt:p>
+            <tt:p begin="00:00:04.838" end="00:00:07.575">ARCHER: This meeting's for<tt:br/>field agents only.</tt:p>
+            <tt:p begin="00:00:07.608" end="00:00:09.677">MALORY: Which brings me to<tt:br/>item one.</tt:p>
+            <tt:p begin="00:00:09.710" end="00:00:14.182">We don't have enough field<tt:br/>agents to effectively run our<tt:br/>covert operations.</tt:p>
+            <tt:p begin="00:00:14.215" end="00:00:17.218">Especially since this one went<tt:br/>and got himself paralyzed.</tt:p>
+            <tt:p begin="00:00:17.251" end="00:00:19.087">GILLETTE: Yeah that's me,<tt:br/>Mr. Selfish.</tt:p>
+            <tt:p begin="00:00:19.120" end="00:00:20.421">MALORY: More like Ms.</tt:p>
+            <tt:p begin="00:00:20.454" end="00:00:24.125">Anyway, effective immediately,<tt:br/>I'm promoting Cyril<tt:br/>to field agent.</tt:p>
+            <tt:p begin="00:00:24.158" end="00:00:24.625">LANA: What? !</tt:p>
+            <tt:p begin="00:00:24.658" end="00:00:25.593">GILLETTE: Do what? !</tt:p>
+            <tt:p begin="00:00:25.626" end="00:00:27.195">ARCHER: Hey, that sounds great,<tt:br/>best of luck.</tt:p>
+            <tt:p begin="00:00:27.228" end="00:00:28.596">MALORY: Where do you think<tt:br/>you're going?</tt:p>
+            <tt:p begin="00:00:28.629" end="00:00:31.232">ARCHER: Oh, sorry,<tt:br/>I gotta get back to Earth before<tt:br/>the Stargate closes.</tt:p>
+            <tt:p begin="00:00:31.265" end="00:00:32.400">MALORY: Get back in here!</tt:p>
+            <tt:p begin="00:00:32.433" end="00:00:34.635">ARCHER: Mother the chevrons are<tt:br/>locking!</tt:p>
+            <tt:p begin="00:00:34.668" end="00:00:38.739">LANA: And Cyril is utterly,<tt:br/>laughably unqualified to be a<tt:br/>field agent!</tt:p>
+            <tt:p begin="00:00:38.772" end="00:00:39.740">Some offense.</tt:p>
+            <tt:p begin="00:00:39.773" end="00:00:41.041">CYRIL: Some taken.</tt:p>
+            <tt:p begin="00:00:41.075" end="00:00:43.644">MALORY: Well, none of you<tt:br/>were qualified when<tt:br/>you first started.</tt:p>
+            <tt:p begin="00:00:43.677" end="00:00:46.080">And you've already given Cyril<tt:br/>some training...</tt:p>
+            <tt:p begin="00:00:46.114" end="00:00:48.349">ARCHER: Which ended with a dead<tt:br/>hooker in my trunk!</tt:p>
+            <tt:p begin="00:00:48.382" end="00:00:49.383">CYRIL: No it didn't!</tt:p>
+            <tt:p begin="00:00:49.417" end="00:00:50.551">ARCHER: It easily could have!</tt:p>
+            <tt:p begin="00:00:50.584" end="00:00:51.685">LANA: Malory, you can't just --</tt:p>
+            <tt:p begin="00:00:51.719" end="00:00:54.088">MALORY: End! Of discussion.</tt:p>
+            <tt:p begin="00:00:54.122" end="00:00:57.325">And since this meeting is for<tt:br/>field agents only...</tt:p>
+            <tt:p begin="00:00:57.358" end="00:00:59.427">GILLETTE: You're taking me out<tt:br/>of the field? !</tt:p>
+            <tt:p begin="00:00:59.460" end="00:01:02.496">MALORY: Well,<tt:br/>unless we need someone to go<tt:br/>undercover as a shopping cart.</tt:p>
+            <tt:p begin="00:01:02.530" end="00:01:06.300">GILLETTE: [annoyed sigh]</tt:p>
+            <tt:p begin="00:01:06.334" end="00:01:10.504">MALORY: This is Román Calzado,<tt:br/>the notorious<tt:br/>Colombian drug lord.</tt:p>
+            <tt:p begin="00:01:10.538" end="00:01:14.175">And hopefully an infusion of<tt:br/>much-needed capital.</tt:p>
+            <tt:p begin="00:01:14.208" end="00:01:16.177">LANA: Since when are we bounty<tt:br/>hunters?</tt:p>
+            <tt:p begin="00:01:16.210" end="00:01:19.813">MALORY: Since the DEA's budget<tt:br/>was gutted by all those federal<tt:br/>spending cutbacks.</tt:p>
+            <tt:p begin="00:01:19.847" end="00:01:22.483">CYRIL: Which is ridiculous,<tt:br/>given the current economy.</tt:p>
+            <tt:p begin="00:01:22.516" end="00:01:25.186">The most efficient way to<tt:br/>decrease the budget deficit is</tt:p>
+            <tt:p begin="00:01:25.219" end="00:01:27.855">to increase tax revenue,<tt:br/>through, um...</tt:p>
+            <tt:p begin="00:01:27.888" end="00:01:30.624">MALORY: Cyril don't make me<tt:br/>regret this decision.</tt:p>
+            <tt:p begin="00:01:30.658" end="00:01:31.792">CYRIL: Sorry.</tt:p>
+            <tt:p begin="00:01:31.825" end="00:01:33.594">MALORY: And if you were in my<tt:br/>tax bracket you wouldn't be</tt:p>
+            <tt:p begin="00:01:33.627" end="00:01:35.763">spouting that socialist<tt:br/>propaganda.</tt:p>
+            <tt:p begin="00:01:35.796" end="00:01:37.465">ARCHER: Or wearing such shitty<tt:br/>clothes.</tt:p>
+            <tt:p begin="00:01:37.498" end="00:01:39.300">LANA: Or doing such shitty<tt:br/>missions!</tt:p>
+            <tt:p begin="00:01:39.333" end="00:01:40.801">MALORY: What are you talking<tt:br/>about?</tt:p>
+            <tt:p begin="00:01:40.834" end="00:01:42.203">The reward is a million dollars!</tt:p>
+            <tt:p begin="00:01:42.236" end="00:01:45.639">LANA: Exactly,<tt:br/>and how many drug users could be<tt:br/>treated with that money?</tt:p>
+            <tt:p begin="00:01:45.673" end="00:01:46.607">MALORY: Who cares? !</tt:p>
+            <tt:p begin="00:01:46.640" end="00:01:48.075">LANA: Seriously? !</tt:p>
+            <tt:p begin="00:01:48.108" end="00:01:50.611">ARCHER: Lana,<tt:br/>they'd just go buy a million<tt:br/>dollars worth of crack with it.</tt:p>
+            <tt:p begin="00:01:50.644" end="00:01:52.713">LANA: You don't give them<tt:br/>the money.</tt:p>
+            <tt:p begin="00:01:52.746" end="00:01:54.148">ARCHER: You can't,<tt:br/>they'll blow it on crack.</tt:p>
+            <tt:p begin="00:01:54.182" end="00:01:55.383">LANA: Oh my God...</tt:p>
+            <tt:p begin="00:01:55.416" end="00:01:57.918">MALORY: No they won't,<tt:br/>because it'll in the ISIS bank<tt:br/>account.</tt:p>
+            <tt:p begin="00:01:57.951" end="00:02:01.489">Because you're going to get<tt:br/>Calzado, dead or alive.</tt:p>
+            <tt:p begin="00:02:01.522" end="00:02:04.692">And Cyril, dress appropriately,<tt:br/>you'll be helicoptering into the<tt:br/>jungle.</tt:p>
+            <tt:p begin="00:02:04.725" end="00:02:05.693">CYRIL: Coool...</tt:p>
+            <tt:p begin="00:02:05.726" end="00:02:09.597">MALORY: Oh,<tt:br/>and this whole thing reminds<tt:br/>me...</tt:p>
+            <tt:p begin="00:02:09.630" end="00:02:14.602">Pam? Nine AM Friday morning,<tt:br/>all ISIS employees will take<tt:br/>a drug test.</tt:p>
+            <tt:p begin="00:02:14.635" end="00:02:18.506">PAM: Nkay.</tt:p>
+            <tt:p begin="00:02:18.539" end="00:02:22.676">MALORY: And knock off that damn<tt:br/>beatboxing!</tt:p>
+            <tt:p begin="00:02:22.710" end="00:02:24.212">MALORY: Ugh.</tt:p>
+            <tt:p begin="00:02:24.245" end="00:02:26.347">Last week it was freestyling.</tt:p>
+            <tt:p begin="00:03:00.748" end="00:03:02.283">ARCHER: Yes, this LZ!</tt:p>
+            <tt:p begin="00:03:02.316" end="00:03:03.484">You dumbass!</tt:p>
+            <tt:p begin="00:03:03.517" end="00:03:05.353">Where we are right now!</tt:p>
+            <tt:p begin="00:03:05.386" end="00:03:07.255">In twenty-four hours!</tt:p>
+            <tt:p begin="00:03:07.288" end="00:03:10.891">And you better be here!</tt:p>
+            <tt:p begin="00:03:10.924" end="00:03:11.959">What a dick.</tt:p>
+            <tt:p begin="00:03:11.992" end="00:03:14.795">LANA: Well he's probably just<tt:br/>under a lot of stress.</tt:p>
+            <tt:p begin="00:03:14.828" end="00:03:18.432">Since he's our only way out of<tt:br/>this stupid jungle! Dumbass!</tt:p>
+            <tt:p begin="00:03:18.466" end="00:03:19.633">CYRIL: Seriously...</tt:p>
+            <tt:p begin="00:03:19.667" end="00:03:21.569">ARCHER: Thanks,<tt:br/>ghost of Teddy Roosevelt.</tt:p>
+            <tt:p begin="00:03:21.602" end="00:03:23.504">CYRIL: Ms. Archer said dress for<tt:br/>the tropics!</tt:p>
+            <tt:p begin="00:03:23.537" end="00:03:25.839">ARCHER: Tropics or<tt:br/>Busch Gardens?</tt:p>
+            <tt:p begin="00:03:25.873" end="00:03:26.674">CYRIL: Hey, ya know what? !</tt:p>
+            <tt:p begin="00:03:26.707" end="00:03:27.508">ARCHER: Yes.</tt:p>
+            <tt:p begin="00:03:27.541" end="00:03:28.342">LANA: Heckle?</tt:p>
+            <tt:p begin="00:03:28.376" end="00:03:29.477">Jeckle?</tt:p>
+            <tt:p begin="00:03:29.510" end="00:03:30.911">Between us and Calzado's<tt:br/>fortified compound there's about</tt:p>
+            <tt:p begin="00:03:30.944" end="00:03:35.283">ten clicks of jungle that I<tt:br/>just assume is one giant<tt:br/>booby-trap showroom.</tt:p>
+            <tt:p begin="00:03:35.316" end="00:03:38.819">So shut your dickholes,<tt:br/>get your gear, shut up again,<tt:br/>and start walking.</tt:p>
+            <tt:p begin="00:03:38.852" end="00:03:42.290">Any questions?</tt:p>
+            <tt:p begin="00:03:42.323" end="00:03:44.258">Cyril.</tt:p>
+            <tt:p begin="00:03:44.292" end="00:03:45.859">CYRIL: What's a click.</tt:p>
+            <tt:p begin="00:03:45.893" end="00:03:48.629">ARCHER: Yeah you say that all<tt:br/>the time and I never know what<tt:br/>you're talking about.</tt:p>
+            <tt:p begin="00:03:48.662" end="00:03:50.798">I'm assuming it's<tt:br/>a sound of some sort?</tt:p>
+            <tt:p begin="00:03:50.831" end="00:03:52.232">CHERYL/CAROL: Nuh-uhh!</tt:p>
+            <tt:p begin="00:03:52.266" end="00:03:54.835">PAM: Swear to God,<tt:br/>first thing Friday morning we<tt:br/>all gotta pee in a cup -</tt:p>
+            <tt:p begin="00:03:54.868" end="00:03:58.005">GILLETTE: Which I can't even<tt:br/>do... y'all</tt:p>
+            <tt:p begin="00:03:58.038" end="00:04:01.342">PAM: Cleaning out my freezer<tt:br/>last week, found a big bag<tt:br/>of skank.</tt:p>
+            <tt:p begin="00:04:01.375" end="00:04:03.477">I guess I brought it back from<tt:br/>Jamaica, but --</tt:p>
+            <tt:p begin="00:04:03.511" end="00:04:05.379">CHERYL/CAROL: But it's<tt:br/>just a pot test, right? !</tt:p>
+            <tt:p begin="00:04:05.413" end="00:04:06.347">PAM: No, stupid.</tt:p>
+            <tt:p begin="00:04:06.380" end="00:04:07.581">All drugs.</tt:p>
+            <tt:p begin="00:04:07.615" end="00:04:09.550">CHERYL/CAROL: Oh shit.</tt:p>
+            <tt:p begin="00:04:09.583" end="00:04:10.718">I call 'em groovi bears.</tt:p>
+            <tt:p begin="00:04:10.751" end="00:04:11.819">PAM: How bout you, Ironsides?</tt:p>
+            <tt:p begin="00:04:11.852" end="00:04:12.853">You rollin dirty?</tt:p>
+            <tt:p begin="00:04:12.886" end="00:04:17.291">GILLETTE: Umm...</tt:p>
+            <tt:p begin="00:04:17.325" end="00:04:18.559">Possibly.</tt:p>
+            <tt:p begin="00:04:18.592" end="00:04:20.060">PAM: Well then we're all<tt:br/>screwed.</tt:p>
+            <tt:p begin="00:04:20.093" end="00:04:21.829">KRIEGER: Talking about the<tt:br/>drug test, huh?</tt:p>
+            <tt:p begin="00:04:21.862" end="00:04:23.431">CHERYL/CAROL: Duh.</tt:p>
+            <tt:p begin="00:04:23.464" end="00:04:28.336">KRIEGER: Well -- What if I told<tt:br/>you I had a way to beat any drug<tt:br/>test in the world.</tt:p>
+            <tt:p begin="00:04:28.369" end="00:04:30.338">PAM: Are you telling us that?</tt:p>
+            <tt:p begin="00:04:30.371" end="00:04:31.038">KRIEGER: Yes.</tt:p>
+            <tt:p begin="00:04:31.071" end="00:04:31.772">CHERYL/CAROL: Well?</tt:p>
+            <tt:p begin="00:04:31.805" end="00:04:32.573">What is it? !</tt:p>
+            <tt:p begin="00:04:32.606" end="00:04:33.374">KRIEGER: I call it...</tt:p>
+            <tt:p begin="00:04:33.407" end="00:04:34.642">Krieger-Kleanse.</tt:p>
+            <tt:p begin="00:04:34.675" end="00:04:37.077">It's an herbal tea, all-natural,<tt:br/>and it's guaranteed to rid your</tt:p>
+            <tt:p begin="00:04:37.110" end="00:04:40.314">body of all traces of any<tt:br/>illicit substance.</tt:p>
+            <tt:p begin="00:04:40.348" end="00:04:42.350">PAM: Well here,<tt:br/>gimme gimme give it!</tt:p>
+            <tt:p begin="00:04:42.383" end="00:04:43.551">KRIEGER: Ah ah ahh!</tt:p>
+            <tt:p begin="00:04:43.584" end="00:04:46.654">I literal - figuratively scoured<tt:br/>the globe for these special</tt:p>
+            <tt:p begin="00:04:46.687" end="00:04:49.823">herbs,<tt:br/>at no small expense to myself.</tt:p>
+            <tt:p begin="00:04:49.857" end="00:04:51.659">CHERYL/CAROL: Ugh. How much.</tt:p>
+            <tt:p begin="00:04:51.692" end="00:04:52.660">KRIEGER: Hundred bucks each.</tt:p>
+            <tt:p begin="00:04:52.693" end="00:04:54.261">EVERYBODY: [ Complaining ]</tt:p>
+            <tt:p begin="00:04:54.294" end="00:05:00.634">KRIEGER: Or you can save your<tt:br/>money, and try your luck in the<tt:br/>current job market.</tt:p>
+            <tt:p begin="00:05:00.668" end="00:05:02.636">Non-sequential bills, please.</tt:p>
+            <tt:p begin="00:05:02.670" end="00:05:04.538">ARCHER: Well then why not just<tt:br/>say kilometer?</tt:p>
+            <tt:p begin="00:05:04.572" end="00:05:05.873">LANA: Because shut up.</tt:p>
+            <tt:p begin="00:05:05.906" end="00:05:07.441">ARCHER: Jungle ziiing...</tt:p>
+            <tt:p begin="00:05:07.475" end="00:05:10.110">CYRIL: So it says here that<tt:br/>Calzado isn't even the head of<tt:br/>the whole operation...</tt:p>
+            <tt:p begin="00:05:10.143" end="00:05:11.479">LANA: Cyril.</tt:p>
+            <tt:p begin="00:05:11.512" end="00:05:13.847">CYRIL: He's actually just a<tt:br/>distributor for somebody named<tt:br/>La Sombra.</tt:p>
+            <tt:p begin="00:05:13.881" end="00:05:15.883">The Shade?</tt:p>
+            <tt:p begin="00:05:15.916" end="00:05:17.385">LANA: Cyril.</tt:p>
+            <tt:p begin="00:05:17.418" end="00:05:19.052">CYRIL: No, I bet in this<tt:br/>context, The Shadow.</tt:p>
+            <tt:p begin="00:05:19.086" end="00:05:20.120">LANA: Cyril.</tt:p>
+            <tt:p begin="00:05:20.153" end="00:05:20.954">CYRIL: Oof.</tt:p>
+            <tt:p begin="00:05:20.988" end="00:05:22.523">Hey, what's your problem?</tt:p>
+            <tt:p begin="00:05:22.556" end="00:05:25.025">LANA: My problem is I don't want<tt:br/>a thousand of steel balls<tt:br/>to shred my genitals.</tt:p>
+            <tt:p begin="00:05:25.058" end="00:05:25.893">CYRIL: Huh?</tt:p>
+            <tt:p begin="00:05:25.926" end="00:05:27.127">ARCHER: Claymore mine.</tt:p>
+            <tt:p begin="00:05:27.160" end="00:05:30.431">Full of steel balls that fly a<tt:br/>thousand meters - or one click -</tt:p>
+            <tt:p begin="00:05:30.464" end="00:05:32.099">a second, right at dick level.</tt:p>
+            <tt:p begin="00:05:32.132" end="00:05:33.501">CYRIL: Jeezy petes...</tt:p>
+            <tt:p begin="00:05:33.534" end="00:05:36.804">LANA: Or ass level,<tt:br/>which in your case would also<tt:br/>take off your head.</tt:p>
+            <tt:p begin="00:05:36.837" end="00:05:39.407">So quit reading and pay<tt:br/>attention.</tt:p>
+            <tt:p begin="00:05:39.440" end="00:05:41.108">CYRIL: But there's a lot of<tt:br/>useful stuff in here,</tt:p>
+            <tt:p begin="00:05:41.141" end="00:05:44.044">organizational charts,<tt:br/>inventory and cash-flow<tt:br/>analyses...</tt:p>
+            <tt:p begin="00:05:44.077" end="00:05:45.245">spreadsheets?</tt:p>
+            <tt:p begin="00:05:45.278" end="00:05:48.516">ARCHER: Of what,<tt:br/>possible outcomes with a<tt:br/>twenty-sided die?</tt:p>
+            <tt:p begin="00:05:48.549" end="00:05:50.250">CYRIL: Well you don't need a<tt:br/>spreadsheet for that...</tt:p>
+            <tt:p begin="00:05:50.283" end="00:05:53.621">ARCHER: Yeah and you don't need<tt:br/>one to know you're gonna suck at<tt:br/>being a field agent Cyril.</tt:p>
+            <tt:p begin="00:05:53.654" end="00:05:55.022">So why do you wanna be one?</tt:p>
+            <tt:p begin="00:05:55.055" end="00:05:59.493">CYRIL: I dunno,<tt:br/>I just wanna feel like I'm a<tt:br/>part of the team, ya know?</tt:p>
+            <tt:p begin="00:05:59.527" end="00:06:00.728">I guess I wanna...</tt:p>
+            <tt:p begin="00:06:00.761" end="00:06:02.062">feel like I matter more.</tt:p>
+            <tt:p begin="00:06:02.095" end="00:06:05.733">ARCHER: Wow, not afraid<tt:br/>to dump out your purse<tt:br/>in the jungle, huh?</tt:p>
+            <tt:p begin="00:06:05.766" end="00:06:07.668">Okay Cyril, then lesson One-A.</tt:p>
+            <tt:p begin="00:06:07.701" end="00:06:10.003">In a potentially hostile<tt:br/>environment, like this,</tt:p>
+            <tt:p begin="00:06:10.037" end="00:06:12.573">the key is total situational<tt:br/>awareness.</tt:p>
+            <tt:p begin="00:06:12.606" end="00:06:13.441">CYRIL: Okay...</tt:p>
+            <tt:p begin="00:06:13.474" end="00:06:15.409">ARCHER: You look, you listen,<tt:br/>you smell.</tt:p>
+            <tt:p begin="00:06:15.443" end="00:06:16.777">And you remember to check your<tt:br/>six.</tt:p>
+            <tt:p begin="00:06:16.810" end="00:06:17.745">CYRIL: My six what.</tt:p>
+            <tt:p begin="00:06:17.778" end="00:06:18.946">Is that my gun?</tt:p>
+            <tt:p begin="00:06:18.979" end="00:06:20.047">The old six shooter.</tt:p>
+            <tt:p begin="00:06:20.080" end="00:06:23.150">ARCHER: Oh my God,<tt:br/>a clock Cyril,<tt:br/>It means behind you.</tt:p>
+            <tt:p begin="00:06:23.183" end="00:06:26.153">Because the last thing you want<tt:br/>is -- Uh Lana, hold up a sec?</tt:p>
+            <tt:p begin="00:06:26.186" end="00:06:28.656">LANA: Archer we don't have a --</tt:p>
+            <tt:p begin="00:06:28.689" end="00:06:29.523">Cyril?</tt:p>
+            <tt:p begin="00:06:29.557" end="00:06:31.024">ARCHER: Yeah,<tt:br/>that's why I said hold up.</tt:p>
+            <tt:p begin="00:06:31.058" end="00:06:32.526">LANA: Archer!</tt:p>
+            <tt:p begin="00:06:32.560" end="00:06:34.895">ARCHER: Don't yell at me,<tt:br/>I looked away for literally<tt:br/>literally one second!</tt:p>
+            <tt:p begin="00:06:34.928" end="00:06:36.196">LANA: Well where the hell did<tt:br/>he go? !</tt:p>
+            <tt:p begin="00:06:36.229" end="00:06:36.930">ARCHER: I dunno, it's like...</tt:p>
+            <tt:p begin="00:06:36.964" end="00:06:42.670">he just...</tt:p>
+            <tt:p begin="00:06:42.703" end="00:06:45.706">LANA: You're looking for<tt:br/>Predator, aren't you?</tt:p>
+            <tt:p begin="00:06:45.739" end="00:06:46.974">ARCHER: Yes.</tt:p>
+            <tt:p begin="00:06:47.007" end="00:06:47.741">LANA: Couple things.</tt:p>
+            <tt:p begin="00:06:47.775" end="00:06:49.109">A, he's invisible -</tt:p>
+            <tt:p begin="00:06:49.142" end="00:06:50.944">ARCHER: Not totally,<tt:br/>he has a telltale shimmer.</tt:p>
+            <tt:p begin="00:06:50.978" end="00:06:51.779">Ow!</tt:p>
+            <tt:p begin="00:06:51.812" end="00:06:53.881">LANA: And B, lower your<tt:br/>frickin voice.</tt:p>
+            <tt:p begin="00:06:53.914" end="00:06:54.615">MAN: iOye! !</tt:p>
+            <tt:p begin="00:06:54.648" end="00:06:56.183">Manos arriba!</tt:p>
+            <tt:p begin="00:06:56.216" end="00:06:56.984">ARCHER: Is that Cyril?</tt:p>
+            <tt:p begin="00:06:57.017" end="00:06:57.818">MAN: ¿iQuien es? !</tt:p>
+            <tt:p begin="00:06:57.851" end="00:07:00.454">ARCHER: No,<tt:br/>it's not whimpery enough.</tt:p>
+            <tt:p begin="00:07:00.488" end="00:07:02.990">LANA: Cyril! Cyril!</tt:p>
+            <tt:p begin="00:07:03.023" end="00:07:03.824">God damn it.</tt:p>
+            <tt:p begin="00:07:03.857" end="00:07:06.193">ARCHER: Well,<tt:br/>look on the bright side.</tt:p>
+            <tt:p begin="00:07:06.226" end="00:07:08.128">LANA: Which is?</tt:p>
+            <tt:p begin="00:07:08.161" end="00:07:08.829">ARCHER: Which is what?</tt:p>
+            <tt:p begin="00:07:08.862" end="00:07:09.997">LANA: What's the bright side? !</tt:p>
+            <tt:p begin="00:07:10.030" end="00:07:11.064">ARCHER: Oh.</tt:p>
+            <tt:p begin="00:07:11.098" end="00:07:13.166">That's a figure of speech.</tt:p>
+            <tt:p begin="00:07:15.903" end="00:07:18.071">ARCHER: All I'm saying is there<tt:br/>are a million green</tt:p>
+            <tt:p begin="00:07:18.105" end="00:07:21.975">rectangularly reasons to<tt:br/>complete the mission, and zero<tt:br/>reasons not to.</tt:p>
+            <tt:p begin="00:07:22.009" end="00:07:23.744">LANA: You mean besides<tt:br/>Cyril getting captured.</tt:p>
+            <tt:p begin="00:07:23.777" end="00:07:25.112">ARCHER: Yeah! Besides that.</tt:p>
+            <tt:p begin="00:07:25.145" end="00:07:28.248">And if Calzado's men got<tt:br/>Cyril, we'll rescue him<tt:br/>when we get Calzado.</tt:p>
+            <tt:p begin="00:07:28.281" end="00:07:30.984">Problemo solvedo<tt:br/>LANA: What if it was F.A.R.K.</tt:p>
+            <tt:p begin="00:07:31.018" end="00:07:32.452">or V.E.L.N.</tt:p>
+            <tt:p begin="00:07:32.486" end="00:07:35.222">ARCHER: Then we'll use some of<tt:br/>the million dallar reward to<tt:br/>pay his ransom.</tt:p>
+            <tt:p begin="00:07:35.255" end="00:07:39.159">So shut up, Cyril's going to<tt:br/>be fine.</tt:p>
+            <tt:p begin="00:07:39.192" end="00:07:40.027">Unless a tiger ate him.</tt:p>
+            <tt:p begin="00:07:40.060" end="00:07:42.730">LANA: Tigers don't live in<tt:br/>South America.</tt:p>
+            <tt:p begin="00:07:42.763" end="00:07:45.766">ARCHER: Well at least one does<tt:br/>because I just heard its<tt:br/>spine-tingling roar.</tt:p>
+            <tt:p begin="00:07:45.799" end="00:07:47.234">LANA: That was a jaguar,<tt:br/>dumbass.</tt:p>
+            <tt:p begin="00:07:47.267" end="00:07:49.102">ARCHER: Thanks, Marlon Perkins.</tt:p>
+            <tt:p begin="00:07:49.136" end="00:07:54.241">I think I know a tiger<tt:br/>when I hear one.</tt:p>
+            <tt:p begin="00:07:54.274" end="00:07:58.211">LANA: Every time, your big fat<tt:br/>mouth get's us caught,<tt:br/>every time.</tt:p>
+            <tt:p begin="00:07:58.245" end="00:08:02.583">ARCHER: Not every time,<tt:br/>like a third of the time.</tt:p>
+            <tt:p begin="00:08:02.616" end="00:08:06.954">And a thousand bucks that's<tt:br/>a tiger Lana.</tt:p>
+            <tt:p begin="00:08:06.987" end="00:08:10.190">CHERYL/CAROL: If this doesn't<tt:br/>work we just paid a hundred<tt:br/>bucks for liquid fart.</tt:p>
+            <tt:p begin="00:08:10.223" end="00:08:14.928">PAM: Yeah, well here's<tt:br/>shit in your eye.</tt:p>
+            <tt:p begin="00:08:14.962" end="00:08:17.631">GILLETTE: Oh god, it tastes<tt:br/>worse than it smells.</tt:p>
+            <tt:p begin="00:08:17.665" end="00:08:20.000">PAM: Man, if I had a nickel<tt:br/>for every time I heard</tt:p>
+            <tt:p begin="00:08:20.033" end="00:08:24.004">a guy said that,<tt:br/>I'd have eight nickels.</tt:p>
+            <tt:p begin="00:08:24.037" end="00:08:26.774">LANA: Archer, I swear to God<tt:br/>if you don't shut up.</tt:p>
+            <tt:p begin="00:08:26.807" end="00:08:29.076">ARCHER: I'm just saying if it<tt:br/>comes down to that,</tt:p>
+            <tt:p begin="00:08:29.109" end="00:08:33.547">and I hope it doesn't,<tt:br/>there's no sense in us both<tt:br/>getting raped.</tt:p>
+            <tt:p begin="00:08:33.581" end="00:08:38.151">CALZADO: Fernando, our special<tt:br/>guests must not be injured<tt:br/>in any way.</tt:p>
+            <tt:p begin="00:08:38.185" end="00:08:39.953">ARCHER: Uh, does that include<tt:br/>rape related injuries?</tt:p>
+            <tt:p begin="00:08:39.987" end="00:08:40.821">CALZADO: Of course.</tt:p>
+            <tt:p begin="00:08:40.854" end="00:08:42.222">No one is going to rape you.</tt:p>
+            <tt:p begin="00:08:42.255" end="00:08:43.557">What is wrong with you?</tt:p>
+            <tt:p begin="00:08:43.591" end="00:08:44.592">LANA: We're scared.</tt:p>
+            <tt:p begin="00:08:44.625" end="00:08:46.126">We're just tourists, see,<tt:br/>and our car broke down.</tt:p>
+            <tt:p begin="00:08:46.159" end="00:08:50.864">CALZADO: So the assault weapons<tt:br/>and plastic explosives,<tt:br/>why do you have these?</tt:p>
+            <tt:p begin="00:08:50.898" end="00:08:52.700">ARCHER: O.K. yes,<tt:br/>let me explain.</tt:p>
+            <tt:p begin="00:08:52.733" end="00:08:54.702">Busted, we're arms dealers.</tt:p>
+            <tt:p begin="00:08:54.735" end="00:08:57.771">CALZADO: No, I think not.</tt:p>
+            <tt:p begin="00:08:57.805" end="00:09:00.007">I Think you are hunting<tt:br/>Román Calzado.</tt:p>
+            <tt:p begin="00:09:00.040" end="00:09:02.109">In the hopes of a million<tt:br/>dollar reward.</tt:p>
+            <tt:p begin="00:09:02.142" end="00:09:04.177">ARCHER: O.K. yes, busted again.</tt:p>
+            <tt:p begin="00:09:04.211" end="00:09:07.114">but I think now we're kinda<tt:br/>rethinking that.</tt:p>
+            <tt:p begin="00:09:07.147" end="00:09:10.951">CALZADO: So, if I give you<tt:br/>two million, will you go away<tt:br/>and say you never found me?</tt:p>
+            <tt:p begin="00:09:10.984" end="00:09:13.654">LANA: I -- Oh my God,<tt:br/>totally yes.</tt:p>
+            <tt:p begin="00:09:13.687" end="00:09:17.190">ARCHER: Then we give mother<tt:br/>a million and you and I can<tt:br/>split the other million.</tt:p>
+            <tt:p begin="00:09:17.224" end="00:09:19.159">Calzado, you've got yourself<tt:br/>a deal.</tt:p>
+            <tt:p begin="00:09:19.192" end="00:09:20.193">CALZADO: Excellent.</tt:p>
+            <tt:p begin="00:09:20.227" end="00:09:22.229">But of course I was joking.</tt:p>
+            <tt:p begin="00:09:22.262" end="00:09:24.231">Obviously I can not allow you<tt:br/>to live.</tt:p>
+            <tt:p begin="00:09:24.264" end="00:09:25.165">ARCHER: No, yes you can.</tt:p>
+            <tt:p begin="00:09:25.198" end="00:09:27.801">CALZADO: Or choose not to,<tt:br/>whatever, besides,</tt:p>
+            <tt:p begin="00:09:27.835" end="00:09:30.871">throwing money away like that<tt:br/>would not please el contador.</tt:p>
+            <tt:p begin="00:09:30.904" end="00:09:32.706">LANA: El contador,<tt:br/>doesn't that mean.</tt:p>
+            <tt:p begin="00:09:32.740" end="00:09:34.942">CYRIL: The accountant, si.</tt:p>
+            <tt:p begin="00:09:34.975" end="00:09:36.176">ARCHER: Cyril? !</tt:p>
+            <tt:p begin="00:09:36.209" end="00:09:38.178">CALZADO: Que?</tt:p>
+            <tt:p begin="00:09:38.211" end="00:09:39.980">LANA: No he said cereal.</tt:p>
+            <tt:p begin="00:09:40.013" end="00:09:40.881">CALZADO: Que?</tt:p>
+            <tt:p begin="00:09:40.914" end="00:09:42.916">CYRIL: Cerealas.</tt:p>
+            <tt:p begin="00:09:42.950" end="00:09:45.352">El quiere desayuno.</tt:p>
+            <tt:p begin="00:09:45.385" end="00:09:52.626">CALZADO: And people in hell<tt:br/>want ice water.</tt:p>
+            <tt:p begin="00:09:52.660" end="00:09:53.961">Oye.</tt:p>
+            <tt:p begin="00:09:53.994" end="00:09:59.166">CYRIL: Pardon.</tt:p>
+            <tt:p begin="00:09:59.199" end="00:10:00.333">CHERYL/CAROL: Oh my God!</tt:p>
+            <tt:p begin="00:10:00.367" end="00:10:04.304">I'm gonna die in a toilet stall<tt:br/>just like the gypsy said.</tt:p>
+            <tt:p begin="00:10:04.337" end="00:10:05.906">PAM: Damn that Krieger.</tt:p>
+            <tt:p begin="00:10:05.939" end="00:10:07.875">Nazi-clone-bastard.</tt:p>
+            <tt:p begin="00:10:07.908" end="00:10:10.077">GILLETTE: Well,<tt:br/>we don't know it was the tea.</tt:p>
+            <tt:p begin="00:10:10.110" end="00:10:10.944">PAM: Aagh!</tt:p>
+            <tt:p begin="00:10:10.978" end="00:10:12.145">Who the hell are you? !</tt:p>
+            <tt:p begin="00:10:12.179" end="00:10:15.048">GILLETTE: I'm your friend, Pam,<tt:br/>I'm -- Pam? !</tt:p>
+            <tt:p begin="00:10:15.082" end="00:10:18.719">PAM: You're not my friend,<tt:br/>you're a Decepticon<tt:br/>CHERYL/CAROL: Waaaagh!</tt:p>
+            <tt:p begin="00:10:18.752" end="00:10:20.754">How are you both<tt:br/>still alive? !</tt:p>
+            <tt:p begin="00:10:20.788" end="00:10:22.756">The floor is lava!</tt:p>
+            <tt:p begin="00:10:22.790" end="00:10:26.193">The floor is lava!</tt:p>
+            <tt:p begin="00:10:26.226" end="00:10:27.895">KRIEGER: Clinical trial<tt:br/>thirteen.</tt:p>
+            <tt:p begin="00:10:27.928" end="00:10:30.998">Subjects' responses are<tt:br/>exceeding expectations.</tt:p>
+            <tt:p begin="00:10:31.031" end="00:10:32.265">GILLETTE: Pam you're melting!</tt:p>
+            <tt:p begin="00:10:32.299" end="00:10:33.300">You're melting!</tt:p>
+            <tt:p begin="00:10:33.333" end="00:10:36.804">CHERYL/CAROL: Because the floor<tt:br/>is lah-vuh-huhhhh!</tt:p>
+            <tt:p begin="00:10:36.837" end="00:10:40.841">PAM: Must! Kill! Decepticon!</tt:p>
+            <tt:p begin="00:10:40.874" end="00:10:43.844">KRIEGER: Oh, which reminds me:<tt:br/>call Terry.</tt:p>
+            <tt:p begin="00:10:43.877" end="00:10:45.178">RROWWR!</tt:p>
+            <tt:p begin="00:10:45.212" end="00:10:46.880">ARCHER: The tiger says...</tt:p>
+            <tt:p begin="00:10:46.914" end="00:10:48.381">RROWWR!</tt:p>
+            <tt:p begin="00:10:48.415" end="00:10:51.885">ARCHER: The tiger also says you<tt:br/>owe me a thousand dollars, so -</tt:p>
+            <tt:p begin="00:10:51.919" end="00:10:52.686">LANA: No! I don't!</tt:p>
+            <tt:p begin="00:10:52.720" end="00:10:54.121">Because I didn't bet!</tt:p>
+            <tt:p begin="00:10:54.154" end="00:10:55.455">ARCHER: The welsher says...</tt:p>
+            <tt:p begin="00:10:55.488" end="00:10:56.857">CYRIL: Psssst!</tt:p>
+            <tt:p begin="00:10:56.890" end="00:10:58.025">ARCHER: No, that's a snake.</tt:p>
+            <tt:p begin="00:10:58.058" end="00:10:59.993">CYRIL: Oh boy,<tt:br/>am I glad to see you guys!</tt:p>
+            <tt:p begin="00:11:00.027" end="00:11:01.762">LANA: Cyril,<tt:br/>what the hell's going on? !</tt:p>
+            <tt:p begin="00:11:01.795" end="00:11:03.196">ARCHER: Are you a drug dealer<tt:br/>now, or...?</tt:p>
+            <tt:p begin="00:11:03.230" end="00:11:04.798">CYRIL: What? No!</tt:p>
+            <tt:p begin="00:11:04.832" end="00:11:06.466">And you guys aren't gonna<tt:br/>believe what happened!</tt:p>
+            <tt:p begin="00:11:06.499" end="00:11:09.770">I had, um, gastric distress,<tt:br/>or whatever,</tt:p>
+            <tt:p begin="00:11:09.803" end="00:11:11.805">so I was just gonna duck off the<tt:br/>trail...</tt:p>
+            <tt:p begin="00:11:11.839" end="00:11:13.106">ARCHER: And you remember to<tt:br/>check your six.</tt:p>
+            <tt:p begin="00:11:13.140" end="00:11:14.007">CYRIL: My six what?</tt:p>
+            <tt:p begin="00:11:14.041" end="00:11:20.380">CYRIL: Before I knew<tt:br/>what was happening...</tt:p>
+            <tt:p begin="00:11:20.413" end="00:11:22.916">Oh man, right in my new pants!</tt:p>
+            <tt:p begin="00:11:22.950" end="00:11:23.817">HENCHMAN: iOye!</tt:p>
+            <tt:p begin="00:11:23.851" end="00:11:24.885">CYRIL: Hellooo...</tt:p>
+            <tt:p begin="00:11:24.918" end="00:11:25.819">HENCHMAN: ! Manos arriba! ¿!</tt:p>
+            <tt:p begin="00:11:25.853" end="00:11:27.287">Quien es? !</tt:p>
+            <tt:p begin="00:11:27.320" end="00:11:31.191">CYRIL: And I only had a second<tt:br/>to answer, so I thought,<tt:br/>what would Lana do?</tt:p>
+            <tt:p begin="00:11:31.224" end="00:11:32.826">ARCHER: Not Archer?</tt:p>
+            <tt:p begin="00:11:32.860" end="00:11:34.862">CYRIL: No,<tt:br/>I had to outsmart them.</tt:p>
+            <tt:p begin="00:11:34.895" end="00:11:38.231">ARCHER: He said,<tt:br/>suddenly too big for his<tt:br/>shit-caked britches.</tt:p>
+            <tt:p begin="00:11:38.265" end="00:11:39.166">LANA: Archer.</tt:p>
+            <tt:p begin="00:11:39.199" end="00:11:40.367">CYRIL: And then it came to me!</tt:p>
+            <tt:p begin="00:11:40.400" end="00:11:42.803">Uh... quien soy?</tt:p>
+            <tt:p begin="00:11:42.836" end="00:11:44.872">Soy el contador!</tt:p>
+            <tt:p begin="00:11:44.905" end="00:11:46.406">Enviado de La Sombra!</tt:p>
+            <tt:p begin="00:11:46.439" end="00:11:48.408">Donde está Calzado? !</tt:p>
+            <tt:p begin="00:11:48.441" end="00:11:49.509">ARCHER: What's a La Sombra?</tt:p>
+            <tt:p begin="00:11:49.542" end="00:11:52.012">CYRIL: Calzado's boss, don't<tt:br/>you remember the dossier?</tt:p>
+            <tt:p begin="00:11:52.045" end="00:11:52.846">ARCHER: No.</tt:p>
+            <tt:p begin="00:11:52.880" end="00:11:53.814">LANA: Yes.</tt:p>
+            <tt:p begin="00:11:53.847" end="00:11:57.951">But, what about the gunshot?</tt:p>
+            <tt:p begin="00:11:57.985" end="00:12:00.320">CYRIL: Then they brought<tt:br/>me here, and I bluffed<tt:br/>my way through the rest...</tt:p>
+            <tt:p begin="00:12:00.353" end="00:12:02.422">CALZADO: La Sombra did not say<tt:br/>you were coming.</tt:p>
+            <tt:p begin="00:12:02.455" end="00:12:05.893">CYRIL: Well,<tt:br/>I assume he did not want to give<tt:br/>you the time to cook your books.</tt:p>
+            <tt:p begin="00:12:05.926" end="00:12:08.195">CALZADO: I -- that -- I swear I<tt:br/>don't do that!</tt:p>
+            <tt:p begin="00:12:08.228" end="00:12:09.329">CYRIL: Well, then you are<tt:br/>a fool.</tt:p>
+            <tt:p begin="00:12:09.362" end="00:12:10.730">CALZADO: ¿Que?</tt:p>
+            <tt:p begin="00:12:10.764" end="00:12:13.166">CYRIL: You pay La Sombra<tt:br/>sixty-four cents on every dollar<tt:br/>you make, no?</tt:p>
+            <tt:p begin="00:12:13.200" end="00:12:14.601">CALZADO: Mmmmas o menos, pero...</tt:p>
+            <tt:p begin="00:12:14.634" end="00:12:19.072">CYRIL: I can get that down to<tt:br/>thirty cents,<tt:br/>and he will never even know.</tt:p>
+            <tt:p begin="00:12:19.106" end="00:12:20.841">CALZADO: Sí? ! Pero como? !</tt:p>
+            <tt:p begin="00:12:20.874" end="00:12:22.509">CYRIL: You just leave that<tt:br/>to me, amigo.</tt:p>
+            <tt:p begin="00:12:22.542" end="00:12:27.114">CALZADO: Wait,<tt:br/>what's in this for you?</tt:p>
+            <tt:p begin="00:12:27.147" end="00:12:29.850">CYRIL: We split the<tt:br/>difference, of course!</tt:p>
+            <tt:p begin="00:12:29.883" end="00:12:31.384">But first I need some<tt:br/>clean clothes.</tt:p>
+            <tt:p begin="00:12:31.418" end="00:12:34.554">This is not mud all over my<tt:br/>pants.</tt:p>
+            <tt:p begin="00:12:34.587" end="00:12:35.789">It's caca.</tt:p>
+            <tt:p begin="00:12:35.823" end="00:12:36.924">LANA: Holy shit, Cyril!</tt:p>
+            <tt:p begin="00:12:36.957" end="00:12:38.191">ARCHER: Literally.</tt:p>
+            <tt:p begin="00:12:38.225" end="00:12:41.094">CYRIL: Yeah,<tt:br/>really kinda wish I'd skipped<tt:br/>the diarrhea part...</tt:p>
+            <tt:p begin="00:12:41.128" end="00:12:42.562">LANA: Forget that,<tt:br/>you did great!</tt:p>
+            <tt:p begin="00:12:42.595" end="00:12:43.964">CYRIL: Really?</tt:p>
+            <tt:p begin="00:12:43.997" end="00:12:47.067">ARCHER: It figuratively<tt:br/>kills me to say this Cyril,<tt:br/>but yeah, you did.</tt:p>
+            <tt:p begin="00:12:47.100" end="00:12:48.936">LANA: So now what,<tt:br/>what's the plan?</tt:p>
+            <tt:p begin="00:12:48.969" end="00:12:51.538">CYRIL: Oh. Well,<tt:br/>I was hoping you guys could come<tt:br/>up with something.</tt:p>
+            <tt:p begin="00:12:51.571" end="00:12:54.207">And ideally before tomorrow at<tt:br/>dawn.</tt:p>
+            <tt:p begin="00:12:54.241" end="00:12:54.942">ARCHER: Why, what's --</tt:p>
+            <tt:p begin="00:12:54.975" end="00:12:56.443">CALZADO: What is<tt:br/>going on here? !</tt:p>
+            <tt:p begin="00:12:56.476" end="00:12:57.677">CYRIL: Ah, amigo!</tt:p>
+            <tt:p begin="00:12:57.710" end="00:13:02.015">I was just mocking this giant<tt:br/>negress and her sissy sidekick.</tt:p>
+            <tt:p begin="00:13:02.049" end="00:13:04.885">CALZADO: Yes,<tt:br/>they are ridiculous, no?</tt:p>
+            <tt:p begin="00:13:04.918" end="00:13:06.820">Are the accommodations<tt:br/>to your liking?</tt:p>
+            <tt:p begin="00:13:06.854" end="00:13:07.320">ARCHER: Honestly?</tt:p>
+            <tt:p begin="00:13:07.354" end="00:13:08.388">LANA: No.</tt:p>
+            <tt:p begin="00:13:08.421" end="00:13:09.990">You shouldn't even keep animals<tt:br/>in these conditions.</tt:p>
+            <tt:p begin="00:13:10.023" end="00:13:11.424">Look at them.</tt:p>
+            <tt:p begin="00:13:11.458" end="00:13:15.528">Cement floors, steel bars,<tt:br/>no room to run around,<tt:br/>nothing to play with...</tt:p>
+            <tt:p begin="00:13:15.562" end="00:13:18.932">CALZADO: Ah,<tt:br/>I think perhaps you are<tt:br/>confusing this with a zoo.</tt:p>
+            <tt:p begin="00:13:18.966" end="00:13:21.601">ARCHER: I think, maybe, it's all<tt:br/>these exotic animals.</tt:p>
+            <tt:p begin="00:13:21.634" end="00:13:24.071">CALZADO: Yes, exotic animals<tt:br/>for me to hunt.</tt:p>
+            <tt:p begin="00:13:24.104" end="00:13:25.038">LANA: You hunt them? !</tt:p>
+            <tt:p begin="00:13:25.072" end="00:13:26.106">How can you do that? !</tt:p>
+            <tt:p begin="00:13:26.139" end="00:13:28.976">CALZADO: Like this.</tt:p>
+            <tt:p begin="00:13:29.009" end="00:13:30.143">ARCHER: God damn dude.</tt:p>
+            <tt:p begin="00:13:30.177" end="00:13:31.178">CALZADO: But you see?</tt:p>
+            <tt:p begin="00:13:31.211" end="00:13:33.981">Even the majestic Bengal tiger<tt:br/>is too easy to kill!</tt:p>
+            <tt:p begin="00:13:34.014" end="00:13:35.615">It's boring!</tt:p>
+            <tt:p begin="00:13:35.648" end="00:13:39.619">Which is why tomorrow at dawn,<tt:br/>I will be hunting the most<tt:br/>dangerous game in the world!</tt:p>
+            <tt:p begin="00:13:39.652" end="00:13:40.954">ARCHER: Jai alai?</tt:p>
+            <tt:p begin="00:13:40.988" end="00:13:41.588">LANA: Us!</tt:p>
+            <tt:p begin="00:13:41.621" end="00:13:42.355">ARCHER: What? !</tt:p>
+            <tt:p begin="00:13:42.389" end="00:13:43.123">CALZADO: Sí.</tt:p>
+            <tt:p begin="00:13:43.156" end="00:13:44.024">So sleep well, amigos!</tt:p>
+            <tt:p begin="00:13:44.057" end="00:13:46.026">I want you rested and strong<tt:br/>for tomorrow!</tt:p>
+            <tt:p begin="00:13:46.059" end="00:13:48.395">Venga, Señor Contador,<tt:br/>cenamos juntos!</tt:p>
+            <tt:p begin="00:13:48.428" end="00:13:51.164">CYRIL: So yeah,<tt:br/>try to think of a plan!</tt:p>
+            <tt:p begin="00:13:51.198" end="00:13:53.967">LANA: Well,<tt:br/>go ahead and say it.</tt:p>
+            <tt:p begin="00:13:54.001" end="00:13:55.368">ARCHER: Say what.</tt:p>
+            <tt:p begin="00:13:55.402" end="00:13:57.370">LANA: How since we're gonna die<tt:br/>in the morning we should have<tt:br/>sex now.</tt:p>
+            <tt:p begin="00:13:57.404" end="00:13:59.606">ARCHER: After seeing a tiger get<tt:br/>murdered, Lana?</tt:p>
+            <tt:p begin="00:13:59.639" end="00:14:04.912">No offense,<tt:br/>but I'm not really in the mood.</tt:p>
+            <tt:p begin="00:14:04.945" end="00:14:07.247">If you want, I can watch<tt:br/>while you masturbate.</tt:p>
+            <tt:p begin="00:14:07.280" end="00:14:09.950">But I can tell you right now my<tt:br/>heart's not gonna be in it.</tt:p>
+            <tt:p begin="00:14:09.983" end="00:14:12.519">It will be with that tiger's<tt:br/>family.</tt:p>
+            <tt:p begin="00:14:12.552" end="00:14:15.588">But, go ahead, start.</tt:p>
+            <tt:p begin="00:14:19.226" end="00:14:22.662">CALZADO: And so begins the hunt<tt:br/>for the most dangerous game!</tt:p>
+            <tt:p begin="00:14:22.695" end="00:14:24.197">CYRIL: Hooray...</tt:p>
+            <tt:p begin="00:14:24.231" end="00:14:25.665">LANA: So what are the rules<tt:br/>here, exactly?</tt:p>
+            <tt:p begin="00:14:25.698" end="00:14:26.599">ARCHER: Lana be still.</tt:p>
+            <tt:p begin="00:14:26.633" end="00:14:27.968">CALZADO: You get a thirty-minute<tt:br/>head start.</tt:p>
+            <tt:p begin="00:14:28.001" end="00:14:32.439">Then El Contador and I,<tt:br/>just us, alone,<tt:br/>will track you and kill you.</tt:p>
+            <tt:p begin="00:14:32.472" end="00:14:34.007">CYRIL: Uh, uh... oh!</tt:p>
+            <tt:p begin="00:14:34.041" end="00:14:35.075">Can they split up?</tt:p>
+            <tt:p begin="00:14:35.108" end="00:14:36.476">CALZADO: Ehhh, sure, why not.</tt:p>
+            <tt:p begin="00:14:36.509" end="00:14:38.979">CYRIL: Then I propose a friendly<tt:br/>wager.</tt:p>
+            <tt:p begin="00:14:39.012" end="00:14:42.049">We each hunt one of them,<tt:br/>and the first to kill his<tt:br/>quarry is the winner.</tt:p>
+            <tt:p begin="00:14:42.082" end="00:14:43.083">CALZADO: I like this idea.</tt:p>
+            <tt:p begin="00:14:43.116" end="00:14:43.917">But which --</tt:p>
+            <tt:p begin="00:14:43.951" end="00:14:45.986">CYRIL: I get the woman<tt:br/>called it boom!</tt:p>
+            <tt:p begin="00:14:46.019" end="00:14:51.224">CALZADO: I -- all right,<tt:br/>since you called it.</tt:p>
+            <tt:p begin="00:14:51.258" end="00:14:52.993">iOye! Cochino...</tt:p>
+            <tt:p begin="00:14:53.026" end="00:14:56.163">Okay, let's hunt some humans!</tt:p>
+            <tt:p begin="00:14:56.196" end="00:14:58.365">LANA: Go go go go gunngh!</tt:p>
+            <tt:p begin="00:14:58.398" end="00:15:00.033">Are you really that selfish? !</tt:p>
+            <tt:p begin="00:15:00.067" end="00:15:03.270">ARCHER: Apparently!</tt:p>
+            <tt:p begin="00:15:03.303" end="00:15:05.205">KRIEGER: Clinical trial<tt:br/>thirteen, update.</tt:p>
+            <tt:p begin="00:15:05.238" end="00:15:07.507">As hypothesized,<tt:br/>after mind-shredding</tt:p>
+            <tt:p begin="00:15:07.540" end="00:15:12.045">hallucinations,<tt:br/>subjects B and C have lapsed<tt:br/>into deep unconsciousness...</tt:p>
+            <tt:p begin="00:15:12.079" end="00:15:16.683">Subject A, however,<tt:br/>remains at large.</tt:p>
+            <tt:p begin="00:15:16.716" end="00:15:20.087">Begin clinical trial fourteen...</tt:p>
+            <tt:p begin="00:15:20.120" end="00:15:22.355">CYRIL: Lana? Lana.</tt:p>
+            <tt:p begin="00:15:22.389" end="00:15:24.124">Where the heck is - shmmpf!</tt:p>
+            <tt:p begin="00:15:24.157" end="00:15:25.258">LANA: Don't scream, it's me.</tt:p>
+            <tt:p begin="00:15:25.292" end="00:15:27.961">CYRIL: Oh thank God,<tt:br/>I thought those were yeti<tt:br/>hands...</tt:p>
+            <tt:p begin="00:15:27.995" end="00:15:29.096">LANA: Never gets old.</tt:p>
+            <tt:p begin="00:15:29.129" end="00:15:31.464">But good idea back there,<tt:br/>getting everybody to split up.</tt:p>
+            <tt:p begin="00:15:31.498" end="00:15:33.266">CYRIL: Thanks, yeah,<tt:br/>I figured you'd know to head</tt:p>
+            <tt:p begin="00:15:33.300" end="00:15:35.502">back to the, uh,<tt:br/>LZ thingy --</tt:p>
+            <tt:p begin="00:15:35.535" end="00:15:37.604">LANA: Which we've only got about<tt:br/>an hour to get to so --</tt:p>
+            <tt:p begin="00:15:37.637" end="00:15:39.606">CYRIL: -- and I figured once I<tt:br/>found you we could work together</tt:p>
+            <tt:p begin="00:15:39.639" end="00:15:42.609">to rescue Archer,<tt:br/>capture Calzado, and escape.</tt:p>
+            <tt:p begin="00:15:42.642" end="00:15:45.045">LANA: Ya know,<tt:br/>you don't actually suck at this.</tt:p>
+            <tt:p begin="00:15:45.078" end="00:15:46.013">CYRIL: Really?</tt:p>
+            <tt:p begin="00:15:46.046" end="00:15:47.347">LANA: You're thinking<tt:br/>tactically, making quick</tt:p>
+            <tt:p begin="00:15:47.380" end="00:15:50.617">decisions... and I gotta tell<tt:br/>ya, confidence is pretty damn<tt:br/>sexy.</tt:p>
+            <tt:p begin="00:15:50.650" end="00:15:51.985">CYRIL: Reeally...</tt:p>
+            <tt:p begin="00:15:52.019" end="00:15:52.752">LANA: Theoretically.</tt:p>
+            <tt:p begin="00:15:52.785" end="00:15:54.187">CYRIL: Sorry.</tt:p>
+            <tt:p begin="00:15:54.221" end="00:15:57.290">LANA: Okay,<tt:br/>you're doing pretty well so far,<tt:br/>so what's the plan, rookie?</tt:p>
+            <tt:p begin="00:15:57.324" end="00:15:59.326">And sooner would be better than<tt:br/>later.</tt:p>
+            <tt:p begin="00:15:59.359" end="00:16:01.328">CYRIL: Yeah, Calzado's<tt:br/>on a darn threewheeler.</tt:p>
+            <tt:p begin="00:16:01.361" end="00:16:02.395">Can you believe that guy?</tt:p>
+            <tt:p begin="00:16:02.429" end="00:16:05.065">LANA: Who, the drug-lord<tt:br/>who hunts humans for sport?</tt:p>
+            <tt:p begin="00:16:05.098" end="00:16:06.599">CYRIL: I know,<tt:br/>but that's just lame.</tt:p>
+            <tt:p begin="00:16:06.633" end="00:16:07.634">LANA: Cyril?</tt:p>
+            <tt:p begin="00:16:07.667" end="00:16:08.968">CYRIL: Uh, uh, okay,<tt:br/>so we have to assume Archer's</tt:p>
+            <tt:p begin="00:16:09.002" end="00:16:12.572">heading back to the LZ too,<tt:br/>but he can't possibly outrun<tt:br/>Calzado...</tt:p>
+            <tt:p begin="00:16:12.605" end="00:16:14.574">LANA: Yeah, neither can we,<tt:br/>so...?</tt:p>
+            <tt:p begin="00:16:14.607" end="00:16:16.209">CYRIL: We don't need<tt:br/>to outrun him!</tt:p>
+            <tt:p begin="00:16:16.243" end="00:16:17.177">Just Archer!</tt:p>
+            <tt:p begin="00:16:17.210" end="00:16:17.644">LANA: What?</tt:p>
+            <tt:p begin="00:16:17.677" end="00:16:19.612">CYRIL: Come on!</tt:p>
+            <tt:p begin="00:16:19.646" end="00:16:21.548">ARCHER: Oww!</tt:p>
+            <tt:p begin="00:16:21.581" end="00:16:24.184">Oh eat a dick, jungle!</tt:p>
+            <tt:p begin="00:16:24.217" end="00:16:26.086">Cover it with malaria<tt:br/>and leeches,</tt:p>
+            <tt:p begin="00:16:26.119" end="00:16:28.055">sprinkle some dengue fever<tt:br/>on it,</tt:p>
+            <tt:p begin="00:16:28.088" end="00:16:31.424">and eat a big goddamn jungly<tt:br/>dick!</tt:p>
+            <tt:p begin="00:16:31.458" end="00:16:34.394">Yeah, you do that,<tt:br/>and I'll just wait here for a</tt:p>
+            <tt:p begin="00:16:34.427" end="00:16:39.399">bask of Orinoco crocodiles to<tt:br/>wander by and eat me.</tt:p>
+            <tt:p begin="00:16:39.432" end="00:16:42.102">Oh great, that's probably them<tt:br/>now, tearing around on</tt:p>
+            <tt:p begin="00:16:42.135" end="00:16:45.538">specially-equipped<tt:br/>croc-choppers.</tt:p>
+            <tt:p begin="00:16:45.572" end="00:16:46.739">Wait, what the...?</tt:p>
+            <tt:p begin="00:17:00.287" end="00:17:04.524">Goddess of the Jungle,<tt:br/>I take it all back!</tt:p>
+            <tt:p begin="00:17:04.557" end="00:17:11.164">For when I was thirsty,<tt:br/>you saw fit to slake my<tt:br/>thiiiiiirrrrst!</tt:p>
+            <tt:p begin="00:17:11.198" end="00:17:15.102">Goddess of the Jungle,<tt:br/>you are a whore.</tt:p>
+            <tt:p begin="00:17:15.135" end="00:17:17.837">Oh thank God,<tt:br/>I thought you were crocodiles.</tt:p>
+            <tt:p begin="00:17:17.870" end="00:17:18.805">CALZADO: Crocodiles?</tt:p>
+            <tt:p begin="00:17:18.838" end="00:17:20.107">On a three-wheeler?</tt:p>
+            <tt:p begin="00:17:20.140" end="00:17:20.740">ARCHER: Right?</tt:p>
+            <tt:p begin="00:17:20.773" end="00:17:21.708">How scary would that be?</tt:p>
+            <tt:p begin="00:17:21.741" end="00:17:23.176">CALZADO: Mmm,<tt:br/>probably not as scary as knowing</tt:p>
+            <tt:p begin="00:17:23.210" end="00:17:27.780">that I am going to cut you down<tt:br/>from there,<tt:br/>and then gut you like a fish.</tt:p>
+            <tt:p begin="00:17:27.814" end="00:17:30.117">ARCHER: Well then you're<tt:br/>obviously an idiot when it comes</tt:p>
+            <tt:p begin="00:17:30.150" end="00:17:34.154">to crocodiles,<tt:br/>AKA the world's most deadliest<tt:br/>predators.</tt:p>
+            <tt:p begin="00:17:34.187" end="00:17:36.323">CALZADO: I am the world's<tt:br/>deadliest predator!</tt:p>
+            <tt:p begin="00:17:36.356" end="00:17:37.457">CYRIL: Or are you?</tt:p>
+            <tt:p begin="00:17:37.490" end="00:17:38.191">CALZADO: ¿Que?</tt:p>
+            <tt:p begin="00:17:38.225" end="00:17:38.858">ARCHER: Cyril? !</tt:p>
+            <tt:p begin="00:17:38.891" end="00:17:39.626">CALZADO: No breakfast for you!</tt:p>
+            <tt:p begin="00:17:39.659" end="00:17:41.594">CYRIL: No, that's my name,<tt:br/>Calzado.</tt:p>
+            <tt:p begin="00:17:41.628" end="00:17:42.595">Cyril Figgis...</tt:p>
+            <tt:p begin="00:17:42.629" end="00:17:43.763">ISIS agent.</tt:p>
+            <tt:p begin="00:17:43.796" end="00:17:45.165">CALZADO: Bastardo mentiroso!</tt:p>
+            <tt:p begin="00:17:45.198" end="00:17:45.765">ISIS? !</tt:p>
+            <tt:p begin="00:17:45.798" end="00:17:46.699">CYRIL: That's right.</tt:p>
+            <tt:p begin="00:17:46.733" end="00:17:48.601">And you're under arrest.</tt:p>
+            <tt:p begin="00:17:48.635" end="00:17:49.769">Albeit extra-judicially.</tt:p>
+            <tt:p begin="00:17:49.802" end="00:17:51.438">CALZADO: Over my dead body!</tt:p>
+            <tt:p begin="00:17:51.471" end="00:17:52.839">CYRIL: Well,<tt:br/>that can be arranged.</tt:p>
+            <tt:p begin="00:17:52.872" end="00:17:54.707">Lana?</tt:p>
+            <tt:p begin="00:17:54.741" end="00:17:55.742">LANA: Hellooo...</tt:p>
+            <tt:p begin="00:17:55.775" end="00:17:57.477">CALZADO: Ay, caramba...</tt:p>
+            <tt:p begin="00:17:57.510" end="00:17:59.112">ARCHER: Wh-? Wait a minute,<tt:br/>was I just bait? !</tt:p>
+            <tt:p begin="00:17:59.146" end="00:18:00.113">CYRIL: That's right, Archer.</tt:p>
+            <tt:p begin="00:18:00.147" end="00:18:01.781">All part of my brilliant plan.</tt:p>
+            <tt:p begin="00:18:01.814" end="00:18:04.517">Lana,<tt:br/>get some vines and tie him up,<tt:br/>chop-chop.</tt:p>
+            <tt:p begin="00:18:04.551" end="00:18:05.785">LANA: Chop-chop?</tt:p>
+            <tt:p begin="00:18:05.818" end="00:18:06.786">ARCHER: Here we go...</tt:p>
+            <tt:p begin="00:18:06.819" end="00:18:08.355">CYRIL: Uh yeah, it means hurry?</tt:p>
+            <tt:p begin="00:18:08.388" end="00:18:11.691">C'mon,<tt:br/>we got a chopper to catch,<tt:br/>tie him up!</tt:p>
+            <tt:p begin="00:18:11.724" end="00:18:12.592">LANA: You do it.</tt:p>
+            <tt:p begin="00:18:12.625" end="00:18:14.727">CYRIL: Okay,<tt:br/>I see what you're doing here.</tt:p>
+            <tt:p begin="00:18:14.761" end="00:18:16.163">Hands behind your back, Calzado.</tt:p>
+            <tt:p begin="00:18:16.196" end="00:18:17.297">CALZADO: Make me.</tt:p>
+            <tt:p begin="00:18:17.330" end="00:18:19.499">CYRIL: I -- look,<tt:br/>she will shoot you!</tt:p>
+            <tt:p begin="00:18:19.532" end="00:18:20.533">LANA: No I won't.</tt:p>
+            <tt:p begin="00:18:20.567" end="00:18:22.435">ARCHER: No she won't!</tt:p>
+            <tt:p begin="00:18:22.469" end="00:18:24.837">C'mon Cyril,<tt:br/>go all rogue on him!</tt:p>
+            <tt:p begin="00:18:24.871" end="00:18:29.542">CYRIL: Guys c'mon,<tt:br/>this is ridicul -- ungh!</tt:p>
+            <tt:p begin="00:18:29.576" end="00:18:32.545">I think I'm gonna be -- ungh!</tt:p>
+            <tt:p begin="00:18:32.579" end="00:18:35.215">Yeah, I'm gonna be sick...</tt:p>
+            <tt:p begin="00:18:35.248" end="00:18:37.150">ARCHER: Here,<tt:br/>maybe this'll help...</tt:p>
+            <tt:p begin="00:18:37.184" end="00:18:41.321">CYRIL: Aaagh! My eyes!</tt:p>
+            <tt:p begin="00:18:41.354" end="00:18:42.655">ARCHER: Probably shouldn't have<tt:br/>done that.</tt:p>
+            <tt:p begin="00:18:42.689" end="00:18:46.926">Not enough left to get drunk on.</tt:p>
+            <tt:p begin="00:18:46.959" end="00:18:48.495">CALZADO: Bastardo!</tt:p>
+            <tt:p begin="00:18:48.528" end="00:18:51.698">I kill you!</tt:p>
+            <tt:p begin="00:18:51.731" end="00:18:54.767">CYRIL: Lanaaaa!</tt:p>
+            <tt:p begin="00:18:54.801" end="00:18:56.269">CALZADO: What the hell damn guy.</tt:p>
+            <tt:p begin="00:18:56.303" end="00:18:57.704">CYRIL: Oh thank you thank you<tt:br/>thank you...</tt:p>
+            <tt:p begin="00:18:57.737" end="00:18:58.638">LANA: You're welcome, Cyril.</tt:p>
+            <tt:p begin="00:18:58.671" end="00:19:01.408">So, did you learn any valuable<tt:br/>lessons today?</tt:p>
+            <tt:p begin="00:19:01.441" end="00:19:02.542">CYRIL: Yes, I did.</tt:p>
+            <tt:p begin="00:19:02.575" end="00:19:04.711">ARCHER: Me too.</tt:p>
+            <tt:p begin="00:19:04.744" end="00:19:07.180">I learned I don't like<tt:br/>being bait.</tt:p>
+            <tt:p begin="00:19:07.214" end="00:19:08.248">CYRIL: Owww!</tt:p>
+            <tt:p begin="00:19:08.281" end="00:19:09.849">ARCHER: Sorry, Cyril,<tt:br/>did that hurt?</tt:p>
+            <tt:p begin="00:19:09.882" end="00:19:13.720">Cyril. Cyril.</tt:p>
+            <tt:p begin="00:19:13.753" end="00:19:14.787">Cyriiillll!</tt:p>
+            <tt:p begin="00:19:14.821" end="00:19:15.955">CYRIL: Yes it frickin hurt!</tt:p>
+            <tt:p begin="00:19:15.988" end="00:19:17.324">ARCHER: Yeah, right?</tt:p>
+            <tt:p begin="00:19:17.357" end="00:19:18.391">MALORY: What? !</tt:p>
+            <tt:p begin="00:19:18.425" end="00:19:20.660">Yes, obviously I heard<tt:br/>what you said!</tt:p>
+            <tt:p begin="00:19:20.693" end="00:19:25.198">I just can't believe the head of<tt:br/>the DEA has the balls<tt:br/>to say it!</tt:p>
+            <tt:p begin="00:19:25.232" end="00:19:26.899">Oh, is that a fact!</tt:p>
+            <tt:p begin="00:19:26.933" end="00:19:28.568">Oh it is.</tt:p>
+            <tt:p begin="00:19:28.601" end="00:19:31.838">M-hm. Yep.</tt:p>
+            <tt:p begin="00:19:31.871" end="00:19:34.307">ARCHER: So, uh...</tt:p>
+            <tt:p begin="00:19:34.341" end="00:19:35.242">How'd that go?</tt:p>
+            <tt:p begin="00:19:35.275" end="00:19:36.976">MALORY: Oh, fine.</tt:p>
+            <tt:p begin="00:19:37.009" end="00:19:40.947">He was just explaining to me why<tt:br/>ISIS won't be receiving any<tt:br/>reward for capturing Calzado.</tt:p>
+            <tt:p begin="00:19:40.980" end="00:19:42.782">EVERYBODY: [ What ? !]</tt:p>
+            <tt:p begin="00:19:42.815" end="00:19:46.253">Because apparently there's no<tt:br/>proof that we did.</tt:p>
+            <tt:p begin="00:19:46.286" end="00:19:48.588">LANA: We literally handed<tt:br/>Calzado to them!</tt:p>
+            <tt:p begin="00:19:48.621" end="00:19:52.359">MALORY: And in return,<tt:br/>did they hand you a signed<tt:br/>receipt for the prisoner?</tt:p>
+            <tt:p begin="00:19:52.392" end="00:19:54.427">ARCHER: No, they -- oh.</tt:p>
+            <tt:p begin="00:19:54.461" end="00:19:55.395">LANA: Oh, shit.</tt:p>
+            <tt:p begin="00:19:55.428" end="00:19:57.630">MALORY: Mm. So, well done.</tt:p>
+            <tt:p begin="00:19:57.664" end="00:20:00.633">Because that's exactly<tt:br/>the brand of unparalleled</tt:p>
+            <tt:p begin="00:20:00.667" end="00:20:03.703">professional excellence that<tt:br/>I've come to expect at ISIS.</tt:p>
+            <tt:p begin="00:20:03.736" end="00:20:04.737">PAM: No no no no nooo!</tt:p>
+            <tt:p begin="00:20:04.771" end="00:20:05.538">ARCHER: What the --</tt:p>
+            <tt:p begin="00:20:05.572" end="00:20:07.307">CYRIL: Oh, I wish I was<tt:br/>still blind.</tt:p>
+            <tt:p begin="00:20:07.340" end="00:20:10.910">PAM: You'll never take me<tt:br/>aliiiive!</tt:p>
+            <tt:p begin="00:20:10.943" end="00:20:12.779">MALORY: What was I saying?</tt:p>
+            <tt:p begin="00:20:12.812" end="00:20:14.914">Oh yes, unparalleled...</tt:p>
+            <tt:p begin="00:20:14.947" end="00:20:16.583">KRIEGER: Paaaam!</tt:p>
+            <tt:p begin="00:20:16.616" end="00:20:20.920">For the love of God,<tt:br/>seal the exits!</tt:p>
+            <tt:p begin="00:20:20.953" end="00:20:24.991">MALORY: Professional...</tt:p>
+            <tt:p begin="00:20:25.024" end="00:20:28.361">CHERYL/CAROL: That's our pee,<tt:br/>and that's the last I better<tt:br/>hear about it.</tt:p>
+            <tt:p begin="00:20:28.395" end="00:20:36.669">Because this stupid building<tt:br/>is a tinderbox, and I will<tt:br/>burn it to the ground.</tt:p>
+            <tt:p begin="00:20:36.703" end="00:20:38.037">MALORY: Excellence.</tt:p>
+            <tt:p begin="00:20:38.070" end="00:20:42.275">ARCHER: Oh hey,<tt:br/>speaking of excellent,<tt:br/>did you hear we met a tiger? !</tt:p>
+            <tt:p begin="00:20:42.309" end="00:20:44.977">But he got murdered.</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

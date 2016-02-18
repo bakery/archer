@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:04.833" end="00:00:06.667">ARCHER: Rat Patrol!</tt:p>
+            <tt:p begin="00:00:06.700" end="00:00:08.667">God, that was killing me.</tt:p>
+            <tt:p begin="00:00:08.700" end="00:00:11.533">So yeah, these exact same jeeps,<tt:br/>only with fifty-cal machine guns</tt:p>
+            <tt:p begin="00:00:11.567" end="00:00:14.700">on the back, and the Rat Patrol<tt:br/>just tore ass all over</tt:p>
+            <tt:p begin="00:00:14.733" end="00:00:17.533">North Africa, hassling Rommel.</tt:p>
+            <tt:p begin="00:00:17.567" end="00:00:18.767">How did you never see that show?</tt:p>
+            <tt:p begin="00:00:18.800" end="00:00:21.533">GILLETTE: I was probably here,<tt:br/>digging this goddamn jeep outta</tt:p>
+            <tt:p begin="00:00:21.567" end="00:00:23.200">this goddamn sand!</tt:p>
+            <tt:p begin="00:00:23.233" end="00:00:25.033">ARCHER: Hey don't yell at me,<tt:br/>I'm not the idiot who got us</tt:p>
+            <tt:p begin="00:00:25.067" end="00:00:25.600">stuck!</tt:p>
+            <tt:p begin="00:00:25.633" end="00:00:26.667">CYRIL: You were driving!</tt:p>
+            <tt:p begin="00:00:26.700" end="00:00:30.033">So yes, you are exactly the<tt:br/>idiot who got us stuck!</tt:p>
+            <tt:p begin="00:00:30.067" end="00:00:31.800">ARCHER: Well whatever,<tt:br/>the Rat Patrol drove through</tt:p>
+            <tt:p begin="00:00:31.833" end="00:00:33.367">way deeper sand than this.</tt:p>
+            <tt:p begin="00:00:33.400" end="00:00:34.533">GILLETTE: Ya know...</tt:p>
+            <tt:p begin="00:00:34.567" end="00:00:36.467">ARCHER: Although I think one<tt:br/>guy's backstory was that he'd</tt:p>
+            <tt:p begin="00:00:36.500" end="00:00:37.733">been like, a bootlegger?</tt:p>
+            <tt:p begin="00:00:37.767" end="00:00:40.233">But Kentucky's not all<tt:br/>sand-duney, so --</tt:p>
+            <tt:p begin="00:00:40.267" end="00:00:41.633">CYRIL: Can you at least get out<tt:br/>of the jeep? !</tt:p>
+            <tt:p begin="00:00:41.667" end="00:00:42.667">ARCHER: Yes.</tt:p>
+            <tt:p begin="00:00:42.700" end="00:00:44.200">GILLETTE: Well? !</tt:p>
+            <tt:p begin="00:00:44.233" end="00:00:44.967">ARCHER: Hang on?</tt:p>
+            <tt:p begin="00:00:45.000" end="00:00:46.733">[BELCHES]<tt:br/>But only because taking</tt:p>
+            <tt:p begin="00:00:46.767" end="00:00:49.633">a dump on Turkmenistan<tt:br/>is on my bucket list.</tt:p>
+            <tt:p begin="00:00:49.667" end="00:00:51.533">CYRIL: A true citizen of the<tt:br/>world.</tt:p>
+            <tt:p begin="00:00:51.567" end="00:00:52.333">ARCHER: Right?</tt:p>
+            <tt:p begin="00:00:52.367" end="00:00:53.500">I mean shut up?</tt:p>
+            <tt:p begin="00:00:53.533" end="00:00:55.067">Is...</tt:p>
+            <tt:p begin="00:00:55.100" end="00:00:56.167">damn.</tt:p>
+            <tt:p begin="00:00:56.200" end="00:00:58.067">Okay, I guess this'll have<tt:br/>to do.</tt:p>
+            <tt:p begin="00:00:58.100" end="00:00:58.967">GILLETTE: Noooop!</tt:p>
+            <tt:p begin="00:00:59.000" end="00:01:00.133">CYRIL: You're not using the map<tt:br/>for that!</tt:p>
+            <tt:p begin="00:01:00.167" end="00:01:03.067">ARCHER: Hey, I'm not the idiot<tt:br/>who didn't -- I mean, I also</tt:p>
+            <tt:p begin="00:01:03.100" end="00:01:05.400">didn't think to bring toilet<tt:br/>paper, but I'm not, ya know...</tt:p>
+            <tt:p begin="00:01:05.433" end="00:01:06.300">GILLETTE: An idiot.</tt:p>
+            <tt:p begin="00:01:06.333" end="00:01:07.500">ARCHER: Exactly.</tt:p>
+            <tt:p begin="00:01:07.533" end="00:01:08.800">CYRIL: Right, because an idiot<tt:br/>wouldn't wipe his ass with our</tt:p>
+            <tt:p begin="00:01:08.833" end="00:01:10.033">only map.</tt:p>
+            <tt:p begin="00:01:10.067" end="00:01:13.333">ARCHER: No, an idiot would wipe<tt:br/>his ass with our only compass.</tt:p>
+            <tt:p begin="00:01:13.367" end="00:01:15.167">GILLETTE: Wait,<tt:br/>which is where? !</tt:p>
+            <tt:p begin="00:01:15.200" end="00:01:17.300">ARCHER: Who am I,<tt:br/>Lewis and-or Clark?</tt:p>
+            <tt:p begin="00:01:17.333" end="00:01:18.567">CYRIL: Archer.</tt:p>
+            <tt:p begin="00:01:18.600" end="00:01:20.533">ARCHER: Well the last time I saw<tt:br/>it was on the bar in the Athens</tt:p>
+            <tt:p begin="00:01:20.567" end="00:01:22.667">airport, but --<tt:br/>GILLETTE: God damn it!</tt:p>
+            <tt:p begin="00:01:22.700" end="00:01:24.500">ARCHER: Yeah, I doubt it's still<tt:br/>there.</tt:p>
+            <tt:p begin="00:01:24.533" end="00:01:26.633">CYRIL: [annoyed sigh]<tt:br/>ARCHER: A sticky-fingered</tt:p>
+            <tt:p begin="00:01:26.667" end="00:01:27.467">people, the Greeks.</tt:p>
+            <tt:p begin="00:01:27.500" end="00:01:27.867">GILLETTE: Well you're not!</tt:p>
+            <tt:p begin="00:01:27.900" end="00:01:29.167">Using the map!</tt:p>
+            <tt:p begin="00:01:29.200" end="00:01:30.033">ARCHER: Okay!</tt:p>
+            <tt:p begin="00:01:30.067" end="00:01:31.567">Jesus...</tt:p>
+            <tt:p begin="00:01:31.600" end="00:01:32.500">CYRIL: Wh-?</tt:p>
+            <tt:p begin="00:01:32.533" end="00:01:34.067">Noooo no no no no!</tt:p>
+            <tt:p begin="00:01:34.100" end="00:01:35.467">ARCHER: Well it's this or the<tt:br/>map, so...</tt:p>
+            <tt:p begin="00:01:35.500" end="00:01:37.233">GILLETTE: Great, we'll just tell<tt:br/>him his money's out in the</tt:p>
+            <tt:p begin="00:01:37.267" end="00:01:38.633">desert covered with shit.</tt:p>
+            <tt:p begin="00:01:38.667" end="00:01:40.500">ARCHER: There's still<tt:br/>ninety-five grand in the bag!</tt:p>
+            <tt:p begin="00:01:40.533" end="00:01:42.100">And if what's-his-name...</tt:p>
+            <tt:p begin="00:01:42.133" end="00:01:44.167">CYRIL: Gorbagun Gorbanguly.</tt:p>
+            <tt:p begin="00:01:44.200" end="00:01:44.667">ARCHER: Really?</tt:p>
+            <tt:p begin="00:01:44.700" end="00:01:45.567">CYRIL: Yes, really.</tt:p>
+            <tt:p begin="00:01:45.600" end="00:01:46.633">And you can have a hundred.</tt:p>
+            <tt:p begin="00:01:46.667" end="00:01:47.867">ARCHER: What?</tt:p>
+            <tt:p begin="00:01:47.900" end="00:01:52.033">Cyril, since what, Monday, I've<tt:br/>had nothing but ouzo and lamb.</tt:p>
+            <tt:p begin="00:01:52.067" end="00:01:54.033">C'mon, I need at least a<tt:br/>thousand.</tt:p>
+            <tt:p begin="00:01:54.067" end="00:01:54.733">CYRIL: Three hundred.</tt:p>
+            <tt:p begin="00:01:54.767" end="00:01:56.467">ARCHER: Oh for -- eight hundred!</tt:p>
+            <tt:p begin="00:01:56.500" end="00:01:57.200">CYRIL: Five.</tt:p>
+            <tt:p begin="00:01:57.233" end="00:02:00.167">ARCHER: Seven!</tt:p>
+            <tt:p begin="00:02:00.200" end="00:02:02.533">CYRIL: Seven, and you dig out<tt:br/>the jeep.</tt:p>
+            <tt:p begin="00:02:02.567" end="00:02:04.100">ARCHER: Okay, deal.</tt:p>
+            <tt:p begin="00:02:04.133" end="00:02:04.800">But I take the map.</tt:p>
+            <tt:p begin="00:02:04.833" end="00:02:05.600">CYRIL: No!</tt:p>
+            <tt:p begin="00:02:05.633" end="00:02:06.567">We just went over --<tt:br/>ARCHER: To read!</tt:p>
+            <tt:p begin="00:02:06.600" end="00:02:10.033">Now c'mon, hurry up!</tt:p>
+            <tt:p begin="00:02:10.067" end="00:02:11.533">The lambs are screaming!</tt:p>
+            <tt:p begin="00:02:11.567" end="00:02:13.633">CYRIL: Hey be careful,<tt:br/>there might be snakes!</tt:p>
+            <tt:p begin="00:02:13.667" end="00:02:15.400">ARCHER: Not even gonna swing at<tt:br/>that one.</tt:p>
+            <tt:p begin="00:02:15.433" end="00:02:16.367">CYRIL: Ha ha.</tt:p>
+            <tt:p begin="00:02:16.400" end="00:02:17.300">I'm talking about cobras.</tt:p>
+            <tt:p begin="00:02:17.333" end="00:02:19.400">ARCHER: What do you know about<tt:br/>cobras, Cyril?</tt:p>
+            <tt:p begin="00:02:19.433" end="00:02:21.667">CYRIL: I know the Caspian cobra,<tt:br/>which is indigenous to</tt:p>
+            <tt:p begin="00:02:21.700" end="00:02:24.533">Turkmenistan, is often light<tt:br/>brown with darker ventral bands.</tt:p>
+            <tt:p begin="00:02:24.567" end="00:02:26.467">ARCHER: Well goody, you win...</tt:p>
+            <tt:p begin="00:02:26.500" end="00:02:27.667">cobra-knowing.</tt:p>
+            <tt:p begin="00:02:27.700" end="00:02:29.567">GILLETTE: Dukes, it's gonna<tt:br/>be dark soon.</tt:p>
+            <tt:p begin="00:02:29.600" end="00:02:30.433">How far is it?</tt:p>
+            <tt:p begin="00:02:30.467" end="00:02:32.633">CYRIL: I dunno, I need to look<tt:br/>at the --</tt:p>
+            <tt:p begin="00:02:32.667" end="00:02:34.300">God damn it, Archer!</tt:p>
+            <tt:p begin="00:02:34.333" end="00:02:37.033">ARCHER: What, I said I needed a<tt:br/>thousand!</tt:p>
+            <tt:p begin="00:02:37.067" end="00:02:39.200">Bet three hundred bucks<tt:br/>seems pretty cheap for a map</tt:p>
+            <tt:p begin="00:02:39.233" end="00:02:43.133">right about nyowwww!</tt:p>
+            <tt:p begin="00:02:43.167" end="00:02:47.200">So hey, so yeah, did you<tt:br/>say light brown with darker</tt:p>
+            <tt:p begin="00:02:47.233" end="00:02:48.633">whateveral bands?</tt:p>
+            <tt:p begin="00:02:48.667" end="00:02:52.633">CYRIL: Ventral bands, on --<tt:br/>wait, why?</tt:p>
+            <tt:p begin="00:02:52.667" end="00:02:53.333">ARCHER: Eh.</tt:p>
+            <tt:p begin="00:02:53.367" end="00:02:56.567">Just curious.</tt:p>
+            <tt:p begin="00:03:34.233" end="00:03:37.167">MALORY: &quot;Curious&quot;<tt:br/>meaning what, exactly?</tt:p>
+            <tt:p begin="00:03:37.200" end="00:03:39.333">LANA: Uh, meaning odd<tt:br/>or strange?</tt:p>
+            <tt:p begin="00:03:39.367" end="00:03:41.400">MALORY: First of all,<tt:br/>Turkmenistan isn't --</tt:p>
+            <tt:p begin="00:03:41.433" end="00:03:43.633">LANA: Or how about just sexist<tt:br/>and stupi --</tt:p>
+            <tt:p begin="00:03:43.667" end="00:03:44.600">MALORY: Enough!</tt:p>
+            <tt:p begin="00:03:44.633" end="00:03:47.067">Please, we've talked about<tt:br/>this, it's not even</tt:p>
+            <tt:p begin="00:03:47.100" end="00:03:49.233">eight-thirty.</tt:p>
+            <tt:p begin="00:03:49.267" end="00:03:51.800">Let me get settled before<tt:br/>you clomp in here in one</tt:p>
+            <tt:p begin="00:03:51.833" end="00:03:53.333">of your jealous snits.</tt:p>
+            <tt:p begin="00:03:53.367" end="00:03:55.533">LANA: One of my --<tt:br/>wait, whoa, clomp?</tt:p>
+            <tt:p begin="00:03:55.567" end="00:03:57.533">MALORY: Yes, Lana, clomp,<tt:br/>meaning --</tt:p>
+            <tt:p begin="00:03:57.567" end="00:03:58.567">LANA: I know what clomp means!</tt:p>
+            <tt:p begin="00:03:58.600" end="00:04:00.200">PAM: Your clompin' ass<tt:br/>oughta know...</tt:p>
+            <tt:p begin="00:04:00.233" end="00:04:01.333">LANA: Wh-?</tt:p>
+            <tt:p begin="00:04:01.367" end="00:04:03.700">PAM: Seriously, I bet your<tt:br/>downstairs neighbors hate you.</tt:p>
+            <tt:p begin="00:04:03.733" end="00:04:04.667">LANA: For your information.</tt:p>
+            <tt:p begin="00:04:04.700" end="00:04:07.533">The Flatows are always<tt:br/>incredibly polite to me.</tt:p>
+            <tt:p begin="00:04:07.567" end="00:04:09.567">PAM: That's because the Flatows<tt:br/>think they live under a frickin</tt:p>
+            <tt:p begin="00:04:09.600" end="00:04:10.567">AT-AT.</tt:p>
+            <tt:p begin="00:04:10.600" end="00:04:11.367">CHERYL/CAROL: Zhwizz-clonk!</tt:p>
+            <tt:p begin="00:04:11.400" end="00:04:12.467">Zhwizz-clonk!</tt:p>
+            <tt:p begin="00:04:12.500" end="00:04:15.167">Zhwizz --<tt:br/>LANA: Okay!</tt:p>
+            <tt:p begin="00:04:15.200" end="00:04:17.733">MALORY: Whereas this one,<tt:br/>almost impossibly light on</tt:p>
+            <tt:p begin="00:04:17.767" end="00:04:18.633">her feet.</tt:p>
+            <tt:p begin="00:04:18.667" end="00:04:19.533">It's like...</tt:p>
+            <tt:p begin="00:04:19.567" end="00:04:22.300">if you've ever seen<tt:br/>Jackie Gleason dance.</tt:p>
+            <tt:p begin="00:04:22.333" end="00:04:24.633">PAM: So, is that a compliment,<tt:br/>or --</tt:p>
+            <tt:p begin="00:04:24.667" end="00:04:26.167">MALORY: I don't see how<tt:br/>it possibly could be.</tt:p>
+            <tt:p begin="00:04:26.200" end="00:04:27.167">PAM: Okay.</tt:p>
+            <tt:p begin="00:04:27.200" end="00:04:29.367">MALORY: Nor do I see<tt:br/>how you could possibly think</tt:p>
+            <tt:p begin="00:04:29.400" end="00:04:33.100">that you're at all suited to a<tt:br/>covert mission in Turkmenistan.</tt:p>
+            <tt:p begin="00:04:33.133" end="00:04:35.200">LANA: Why, because I'm black,<tt:br/>or because I'm a woman?</tt:p>
+            <tt:p begin="00:04:35.233" end="00:04:35.667">MALORY: Wh-?</tt:p>
+            <tt:p begin="00:04:35.700" end="00:04:36.667">Pick one!</tt:p>
+            <tt:p begin="00:04:36.700" end="00:04:39.700">I mean look, I don't want to<tt:br/>sound racist, but --</tt:p>
+            <tt:p begin="00:04:39.733" end="00:04:41.500">LANA: But you're gonna<tt:br/>power through it.</tt:p>
+            <tt:p begin="00:04:41.533" end="00:04:44.100">MALORY: Not about you,<tt:br/>about Turkmenistan!</tt:p>
+            <tt:p begin="00:04:44.133" end="00:04:48.167">Lana, this is a Central Asian,<tt:br/>maledominated, xenophobic</tt:p>
+            <tt:p begin="00:04:48.200" end="00:04:51.567">puppet-state whose dictator<tt:br/>changed the words for bread and</tt:p>
+            <tt:p begin="00:04:51.600" end="00:04:54.033">Friday to his dog's name.</tt:p>
+            <tt:p begin="00:04:54.067" end="00:04:55.000">CHERYL/CAROL: Gurpgork.</tt:p>
+            <tt:p begin="00:04:55.033" end="00:04:58.167">MALORY: Yes, Gurpgor --<tt:br/>how did you know that?</tt:p>
+            <tt:p begin="00:04:58.200" end="00:05:00.033">CHERYL/CAROL: Oh my God how<tt:br/>did I know that? !</tt:p>
+            <tt:p begin="00:05:00.067" end="00:05:01.233">PAM: Okay.</tt:p>
+            <tt:p begin="00:05:01.267" end="00:05:04.200">MALORY: And all that crazy is<tt:br/>sitting on top of an ocean of</tt:p>
+            <tt:p begin="00:05:04.233" end="00:05:06.200">oil and natural gas.</tt:p>
+            <tt:p begin="00:05:06.233" end="00:05:09.200">Making this pipeline crucial to<tt:br/>the Russians, which is why</tt:p>
+            <tt:p begin="00:05:09.233" end="00:05:11.633">we're paying Gurbanguly to...</tt:p>
+            <tt:p begin="00:05:11.667" end="00:05:13.300">hinder construction.</tt:p>
+            <tt:p begin="00:05:13.333" end="00:05:14.500">LANA: Wh-?</tt:p>
+            <tt:p begin="00:05:14.533" end="00:05:16.567">Wait, so now we're paying people<tt:br/>to blow up oil pipelines? !</tt:p>
+            <tt:p begin="00:05:16.600" end="00:05:17.333">MALORY: See?</tt:p>
+            <tt:p begin="00:05:17.367" end="00:05:19.300">Another reason I didn't<tt:br/>send you.</tt:p>
+            <tt:p begin="00:05:19.333" end="00:05:20.633">LANA: What, the environment? !</tt:p>
+            <tt:p begin="00:05:20.667" end="00:05:22.333">MALORY: Of what, this litterbox?</tt:p>
+            <tt:p begin="00:05:22.367" end="00:05:23.800">Or Western Europe?</tt:p>
+            <tt:p begin="00:05:23.833" end="00:05:26.700">Because T-72 tanks aren't<tt:br/>exactly known for their low</tt:p>
+            <tt:p begin="00:05:26.733" end="00:05:27.833">emissions.</tt:p>
+            <tt:p begin="00:05:27.867" end="00:05:30.667">LANA: I want it officially on<tt:br/>record that I am strongly</tt:p>
+            <tt:p begin="00:05:30.700" end="00:05:34.733">opposed to this mission.</tt:p>
+            <tt:p begin="00:05:34.767" end="00:05:35.867">MALORY: What record?</tt:p>
+            <tt:p begin="00:05:35.900" end="00:05:38.300">PAM: Aww, can I at least put<tt:br/>something in the newsletter?</tt:p>
+            <tt:p begin="00:05:38.333" end="00:05:39.733">MALORY: Wh-?</tt:p>
+            <tt:p begin="00:05:39.767" end="00:05:41.400">You're not still doing that? !</tt:p>
+            <tt:p begin="00:05:41.433" end="00:05:42.200">PAM: No?</tt:p>
+            <tt:p begin="00:05:42.233" end="00:05:42.667">ARCHER: Yes!</tt:p>
+            <tt:p begin="00:05:42.700" end="00:05:43.400">GILLETTE: No!</tt:p>
+            <tt:p begin="00:05:43.433" end="00:05:44.400">ARCHER: Please!</tt:p>
+            <tt:p begin="00:05:44.433" end="00:05:47.800">Just pretend I'm --<tt:br/>who's your go-to movie star,</tt:p>
+            <tt:p begin="00:05:47.833" end="00:05:49.633">ya know, for --<tt:br/>GILLETTE: Lorne Greene.</tt:p>
+            <tt:p begin="00:05:49.667" end="00:05:50.533">ARCHER: Wow.</tt:p>
+            <tt:p begin="00:05:50.567" end="00:05:51.200">GILLETTE: Yeah.</tt:p>
+            <tt:p begin="00:05:51.233" end="00:05:52.700">ARCHER: Bonanza or Battlestar?</tt:p>
+            <tt:p begin="00:05:52.733" end="00:05:53.867">GILLETTE: Duh.</tt:p>
+            <tt:p begin="00:05:53.900" end="00:05:56.567">So, I come to the Ponderosa<tt:br/>looking for ranch work, but my</tt:p>
+            <tt:p begin="00:05:56.600" end="00:06:00.567">chaps get torn and Hop Sing --<tt:br/>ARCHER: Ray?</tt:p>
+            <tt:p begin="00:06:00.600" end="00:06:02.167">Time's kind of a factor here.</tt:p>
+            <tt:p begin="00:06:02.200" end="00:06:03.067">GILLETTE: I am not.</tt:p>
+            <tt:p begin="00:06:03.100" end="00:06:03.633">Ever.</tt:p>
+            <tt:p begin="00:06:03.667" end="00:06:05.500">Sucking your taint.</tt:p>
+            <tt:p begin="00:06:05.533" end="00:06:07.233">ARCHER: Okay, so Cyril...</tt:p>
+            <tt:p begin="00:06:07.267" end="00:06:08.700">Better chapstick it up, buddy.</tt:p>
+            <tt:p begin="00:06:08.733" end="00:06:11.067">CYRIL: First of all, not only<tt:br/>does sucking out the venom not</tt:p>
+            <tt:p begin="00:06:11.100" end="00:06:13.400">help the snakebite victim, it<tt:br/>can also envenom the --</tt:p>
+            <tt:p begin="00:06:13.433" end="00:06:16.233">ARCHER: Taint-sucker,<tt:br/>that's you, let's go.</tt:p>
+            <tt:p begin="00:06:16.267" end="00:06:18.167">CYRIL: And second of all, the<tt:br/>venom's not there anymore, it's</tt:p>
+            <tt:p begin="00:06:18.200" end="00:06:20.400">pumping through your veins to<tt:br/>your heart and brain.</tt:p>
+            <tt:p begin="00:06:20.433" end="00:06:22.200">ARCHER: My --<tt:br/>well put a tourniquet on me!</tt:p>
+            <tt:p begin="00:06:22.233" end="00:06:24.667">GILLETTE: You can't tourniquet<tt:br/>the taint.</tt:p>
+            <tt:p begin="00:06:24.700" end="00:06:26.567">ARCHER: But -- wait is my dick<tt:br/>gonna be okay? !</tt:p>
+            <tt:p begin="00:06:26.600" end="00:06:28.167">CYRIL: Well the danger there is<tt:br/>cytotoxins, which can cause</tt:p>
+            <tt:p begin="00:06:28.200" end="00:06:29.533">severe necrosis.</tt:p>
+            <tt:p begin="00:06:29.567" end="00:06:31.467">ARCHER: Nec -- so my dick's<tt:br/>gonna fall off? !</tt:p>
+            <tt:p begin="00:06:31.500" end="00:06:32.367">CYRIL: Maybe.</tt:p>
+            <tt:p begin="00:06:32.400" end="00:06:33.567">ARCHER: Aaagh!</tt:p>
+            <tt:p begin="00:06:33.600" end="00:06:34.667">CYRIL: But the bigger danger is<tt:br/>the neuro and cardiotoxins,</tt:p>
+            <tt:p begin="00:06:34.700" end="00:06:37.667">which can cause respiratory<tt:br/>failure, cardiac arrest --</tt:p>
+            <tt:p begin="00:06:37.700" end="00:06:42.200">ARCHER: Aaaaaaaaaaaaaaaaaaaaagh!</tt:p>
+            <tt:p begin="00:06:42.233" end="00:06:46.133">CYRIL: So the most important<tt:br/>thing is for you to stay calm.</tt:p>
+            <tt:p begin="00:06:46.167" end="00:06:47.333">GILLETTE: Ew.</tt:p>
+            <tt:p begin="00:06:47.367" end="00:06:48.033">CYRIL: Oh boy...</tt:p>
+            <tt:p begin="00:06:48.067" end="00:06:50.033">ARCHER: What, that's good right?</tt:p>
+            <tt:p begin="00:06:50.067" end="00:06:51.667">If my body's throwing up the<tt:br/>poison?</tt:p>
+            <tt:p begin="00:06:51.700" end="00:06:52.667">CYRIL: It might be.</tt:p>
+            <tt:p begin="00:06:52.700" end="00:06:54.067">If you had drunk it.</tt:p>
+            <tt:p begin="00:06:54.100" end="00:06:56.167">ARCHER: Jesus H. Thirst,<tt:br/>speaking of...</tt:p>
+            <tt:p begin="00:06:56.200" end="00:06:58.333">Ray, back pocket down there,<tt:br/>flask.</tt:p>
+            <tt:p begin="00:06:58.367" end="00:06:58.967">CYRIL: Wh-?</tt:p>
+            <tt:p begin="00:06:59.000" end="00:07:00.067">No, alcohol's a vasodilator!</tt:p>
+            <tt:p begin="00:07:00.100" end="00:07:03.167">It's the absolute worst possible<tt:br/>thing you can do for a</tt:p>
+            <tt:p begin="00:07:03.200" end="00:07:04.000">snakebite!</tt:p>
+            <tt:p begin="00:07:04.033" end="00:07:05.333">ARCHER: Well maybe for regular<tt:br/>people.</tt:p>
+            <tt:p begin="00:07:05.367" end="00:07:06.567">CYRIL: ...?!</tt:p>
+            <tt:p begin="00:07:06.600" end="00:07:07.533">ARCHER: Cyril, it's already full<tt:br/>of cobra venom, now's not the</tt:p>
+            <tt:p begin="00:07:07.567" end="00:07:11.500">time for any more chemical<tt:br/>changes to my blood!</tt:p>
+            <tt:p begin="00:07:11.533" end="00:07:13.633">CYRIL: Okay, give it to him.</tt:p>
+            <tt:p begin="00:07:13.667" end="00:07:16.367">ARCHER: Wh-? Gimme that!</tt:p>
+            <tt:p begin="00:07:16.400" end="00:07:17.667">GILLETTE: Here, baby.</tt:p>
+            <tt:p begin="00:07:17.700" end="00:07:18.800">ARCHER: It's half empty!</tt:p>
+            <tt:p begin="00:07:18.833" end="00:07:20.700">CYRIL: That's still way more<tt:br/>than you --</tt:p>
+            <tt:p begin="00:07:20.733" end="00:07:26.200">ARCHER: Just shut up and --<tt:br/>Dig.</tt:p>
+            <tt:p begin="00:07:26.233" end="00:07:27.667">I'm not doing super great.</tt:p>
+            <tt:p begin="00:07:27.700" end="00:07:29.133">CYRIL: Well I could use<tt:br/>some help!</tt:p>
+            <tt:p begin="00:07:29.167" end="00:07:31.200">ARCHER: I would,<tt:br/>but I can't feel my hands.</tt:p>
+            <tt:p begin="00:07:31.233" end="00:07:32.200">CYRIL: I meant Ray!</tt:p>
+            <tt:p begin="00:07:32.233" end="00:07:33.367">Who's just standing there...</tt:p>
+            <tt:p begin="00:07:33.400" end="00:07:35.733">Ray, dammit, on bionic legs!</tt:p>
+            <tt:p begin="00:07:35.767" end="00:07:36.733">GILLETTE: Oh right.</tt:p>
+            <tt:p begin="00:07:36.767" end="00:07:37.700">ARCHER: God damn it, Ray!</tt:p>
+            <tt:p begin="00:07:37.733" end="00:07:38.700">GILLETTE: I forgot!</tt:p>
+            <tt:p begin="00:07:38.733" end="00:07:40.800">ARCHER: How do you forget you<tt:br/>have bionic legs?!</tt:p>
+            <tt:p begin="00:07:40.833" end="00:07:43.067">GILLETTE: I, ya know, are you<tt:br/>constantly aware you have</tt:p>
+            <tt:p begin="00:07:43.100" end="00:07:44.800">regular leg bones?!</tt:p>
+            <tt:p begin="00:07:44.833" end="00:07:45.800">No, you're --<tt:br/>ARCHER: Just pick</tt:p>
+            <tt:p begin="00:07:45.833" end="00:07:46.567">up the goddamn jeep!</tt:p>
+            <tt:p begin="00:07:46.600" end="00:07:48.233">GILLETTE: He said,<tt:br/>suddenly all...</tt:p>
+            <tt:p begin="00:07:48.267" end="00:07:49.633">pro-bionic.</tt:p>
+            <tt:p begin="00:07:49.667" end="00:07:51.067">Okay, on three.</tt:p>
+            <tt:p begin="00:07:51.100" end="00:07:55.367">One, two, threeaagh!</tt:p>
+            <tt:p begin="00:07:55.400" end="00:07:56.267">CYRIL: Ray?</tt:p>
+            <tt:p begin="00:07:56.300" end="00:07:57.200">ARCHER: What is that,<tt:br/>what're you doing? !</tt:p>
+            <tt:p begin="00:07:57.233" end="00:07:59.567">GILLETTE: My back my back<tt:br/>my back my back...</tt:p>
+            <tt:p begin="00:07:59.600" end="00:08:00.500">ARCHER: Are you shitting me? !</tt:p>
+            <tt:p begin="00:08:00.533" end="00:08:05.700">Bionic legs, and you lifted<tt:br/>with your back?!</tt:p>
+            <tt:p begin="00:08:05.733" end="00:08:08.633">Cyril, my gun's in the gear bag,<tt:br/>could you hand it to me, please?</tt:p>
+            <tt:p begin="00:08:08.667" end="00:08:09.367">CYRIL: To...</tt:p>
+            <tt:p begin="00:08:09.400" end="00:08:10.567">use as a signal?</tt:p>
+            <tt:p begin="00:08:10.600" end="00:08:11.700">ARCHER: Yeah, maybe.</tt:p>
+            <tt:p begin="00:08:11.733" end="00:08:14.567">If there's any bullets left<tt:br/>after I murder both of you.</tt:p>
+            <tt:p begin="00:08:14.600" end="00:08:15.167">CYRIL: Wh-?</tt:p>
+            <tt:p begin="00:08:15.200" end="00:08:16.067">Why me?!</tt:p>
+            <tt:p begin="00:08:16.100" end="00:08:18.733">ARCHER: It's number two<tt:br/>on my bucket list.</tt:p>
+            <tt:p begin="00:08:18.767" end="00:08:19.900">CYRIL: What's number one?</tt:p>
+            <tt:p begin="00:08:19.933" end="00:08:21.667">ARCHER: Going to one of those<tt:br/>things where they make some</tt:p>
+            <tt:p begin="00:08:21.700" end="00:08:25.800">record-breakingly huge kind<tt:br/>of food, like a frittata</tt:p>
+            <tt:p begin="00:08:25.833" end="00:08:29.133">the size of a hockey rink.</tt:p>
+            <tt:p begin="00:08:29.167" end="00:08:31.733">And then eating a<tt:br/>piece, and then laughing,</tt:p>
+            <tt:p begin="00:08:31.767" end="00:08:33.733">because I murdered you.</tt:p>
+            <tt:p begin="00:08:37.100" end="00:08:39.167">MALORY: Krieger,<tt:br/>I need you to --</tt:p>
+            <tt:p begin="00:08:39.200" end="00:08:41.133">Krieger, Krieger?</tt:p>
+            <tt:p begin="00:08:41.167" end="00:08:41.567">KRIEGER: Yep!</tt:p>
+            <tt:p begin="00:08:41.600" end="00:08:42.733">Yep yep yep!</tt:p>
+            <tt:p begin="00:08:42.767" end="00:08:45.067">MALORY: Whatever unspeakable<tt:br/>thing you're doing back there</tt:p>
+            <tt:p begin="00:08:45.100" end="00:08:47.233">can wait --<tt:br/>KRIEGER: Well, you say that...</tt:p>
+            <tt:p begin="00:08:47.267" end="00:08:50.233">MALORY: Yes I do, and I just<tt:br/>did, so come on, I need you in</tt:p>
+            <tt:p begin="00:08:50.267" end="00:08:51.733">the control room.</tt:p>
+            <tt:p begin="00:08:51.767" end="00:08:53.667">Because they should have<tt:br/>checked in by now.</tt:p>
+            <tt:p begin="00:08:53.700" end="00:08:56.133">So keep trying to reach them<tt:br/>on the sat-phone, and if that</tt:p>
+            <tt:p begin="00:08:56.167" end="00:08:58.800">doesn't work try to get<tt:br/>satellite photos on the next</tt:p>
+            <tt:p begin="00:08:58.833" end="00:09:00.233">pass.</tt:p>
+            <tt:p begin="00:09:00.267" end="00:09:03.033">And not a word of this to<tt:br/>anyone, especially --</tt:p>
+            <tt:p begin="00:09:03.067" end="00:09:05.367">Lanaaa!</tt:p>
+            <tt:p begin="00:09:05.400" end="00:09:08.200">I thought I heard self-righteous<tt:br/>clomping.</tt:p>
+            <tt:p begin="00:09:08.233" end="00:09:09.133">Can I help you?</tt:p>
+            <tt:p begin="00:09:09.167" end="00:09:11.200">LANA: Funny, I was just gonna<tt:br/>ask you that.</tt:p>
+            <tt:p begin="00:09:11.233" end="00:09:12.500">MALORY: No, we're fine.</tt:p>
+            <tt:p begin="00:09:12.533" end="00:09:14.200">Aren't we, Krieger?</tt:p>
+            <tt:p begin="00:09:14.233" end="00:09:15.067">KRIEGER: Yes?</tt:p>
+            <tt:p begin="00:09:15.100" end="00:09:16.800">LANA: So, the mission?</tt:p>
+            <tt:p begin="00:09:16.833" end="00:09:17.900">Going as planned?</tt:p>
+            <tt:p begin="00:09:17.933" end="00:09:20.233">MALORY: Yes, as a matter of fact<tt:br/>they just this minute</tt:p>
+            <tt:p begin="00:09:20.267" end="00:09:21.300">checked in.</tt:p>
+            <tt:p begin="00:09:21.333" end="00:09:22.533">All good.</tt:p>
+            <tt:p begin="00:09:22.567" end="00:09:25.200">LANA: Uh-huh.</tt:p>
+            <tt:p begin="00:09:25.233" end="00:09:26.400">MALORY: &quot;Uh-huh.&quot;</tt:p>
+            <tt:p begin="00:09:26.433" end="00:09:31.200">Ugh, have you ever heard such a<tt:br/>superior, know-it-all tone?</tt:p>
+            <tt:p begin="00:09:31.233" end="00:09:33.200">KRIEGER: Oh, you're serious?</tt:p>
+            <tt:p begin="00:09:33.233" end="00:09:34.200">GILLETTE: Yes!</tt:p>
+            <tt:p begin="00:09:34.233" end="00:09:34.633">CYRIL: No!</tt:p>
+            <tt:p begin="00:09:34.667" end="00:09:35.233">GILLETTE: Cyril!</tt:p>
+            <tt:p begin="00:09:35.267" end="00:09:37.467">I can't move, Archer's...</tt:p>
+            <tt:p begin="00:09:37.500" end="00:09:40.367">Oh. Well, very nearly dead,<tt:br/>so --</tt:p>
+            <tt:p begin="00:09:40.400" end="00:09:42.133">CYRIL: I'm not calling for<tt:br/>an extraction!</tt:p>
+            <tt:p begin="00:09:42.167" end="00:09:44.300">GILLETTE: Look, just because<tt:br/>Lana makes you feel insecure in</tt:p>
+            <tt:p begin="00:09:44.333" end="00:09:46.033">your masculinity --<tt:br/>CYRIL: Mascu --</tt:p>
+            <tt:p begin="00:09:46.067" end="00:09:47.267">look who's talking!</tt:p>
+            <tt:p begin="00:09:47.300" end="00:09:49.667">GILLETTE: Oh for -- Cyril, when<tt:br/>I was ten years old I killed a</tt:p>
+            <tt:p begin="00:09:49.700" end="00:09:50.733">bear.</tt:p>
+            <tt:p begin="00:09:50.767" end="00:09:52.200">CYRIL: Nuh-uh...</tt:p>
+            <tt:p begin="00:09:52.233" end="00:09:52.733">really?</tt:p>
+            <tt:p begin="00:09:52.767" end="00:09:53.933">GILLETTE: With a bow.</tt:p>
+            <tt:p begin="00:09:53.967" end="00:09:57.033">And then Daddy made me take a<tt:br/>big ol' bite out of its heart.</tt:p>
+            <tt:p begin="00:09:57.067" end="00:09:58.167">CYRIL: Oh my God!</tt:p>
+            <tt:p begin="00:09:58.200" end="00:09:58.700">That is...</tt:p>
+            <tt:p begin="00:09:58.733" end="00:09:59.633">horrible!</tt:p>
+            <tt:p begin="00:09:59.667" end="00:10:02.367">GILLETTE: No shit, I was bawling<tt:br/>my eyes out.</tt:p>
+            <tt:p begin="00:10:02.400" end="00:10:04.667">But he kept slapping me until<tt:br/>I did it.</tt:p>
+            <tt:p begin="00:10:04.700" end="00:10:05.567">CYRIL: Jesus...</tt:p>
+            <tt:p begin="00:10:05.600" end="00:10:07.300">ARCHER: Seriously.</tt:p>
+            <tt:p begin="00:10:07.333" end="00:10:09.067">No wonder you're gay.</tt:p>
+            <tt:p begin="00:10:09.100" end="00:10:11.800">And Cyril if you call ISIS,<tt:br/>I will literally literally,</tt:p>
+            <tt:p begin="00:10:11.833" end="00:10:12.967">murder you alright.</tt:p>
+            <tt:p begin="00:10:13.000" end="00:10:16.067">I'd rather die than sit through<tt:br/>another one of Lana's big</tt:p>
+            <tt:p begin="00:10:16.100" end="00:10:19.167">&quot;I told you so's.&quot;</tt:p>
+            <tt:p begin="00:10:19.200" end="00:10:20.367">At least you get to bang her.</tt:p>
+            <tt:p begin="00:10:20.400" end="00:10:22.033">GILLETTE: Well, you seem to be<tt:br/>feeling better.</tt:p>
+            <tt:p begin="00:10:22.067" end="00:10:23.367">ARCHER: Hang on.</tt:p>
+            <tt:p begin="00:10:23.400" end="00:10:30.133">Gay-vy Crockett,<tt:br/>boom, nailed it.</tt:p>
+            <tt:p begin="00:10:30.167" end="00:10:32.100">But no,<tt:br/>I'm pretty sure I'm dying.</tt:p>
+            <tt:p begin="00:10:32.133" end="00:10:33.633">GILLETTE: So since you're<tt:br/>too pussy to call</tt:p>
+            <tt:p begin="00:10:33.667" end="00:10:34.333">for an extraction...</tt:p>
+            <tt:p begin="00:10:34.367" end="00:10:36.167">CYRIL: I'm digging, I'm digging!</tt:p>
+            <tt:p begin="00:10:36.200" end="00:10:36.933">ARCHER: Well wait, hang on.</tt:p>
+            <tt:p begin="00:10:36.967" end="00:10:39.167">Because unless I'm<tt:br/>hallucinating...</tt:p>
+            <tt:p begin="00:10:39.200" end="00:10:41.400">There's a Landcruiser over there<tt:br/>flipping his highbeams</tt:p>
+            <tt:p begin="00:10:41.433" end="00:10:43.200">at us.</tt:p>
+            <tt:p begin="00:10:43.233" end="00:10:45.100">BOTH: You're hallucinating.</tt:p>
+            <tt:p begin="00:10:45.133" end="00:10:46.267">ARCHER: Oh.</tt:p>
+            <tt:p begin="00:10:46.300" end="00:10:47.700">Well the good news is, we don't<tt:br/>have to worry about these</tt:p>
+            <tt:p begin="00:10:47.733" end="00:10:50.067">alligators.</tt:p>
+            <tt:p begin="00:10:50.100" end="00:10:52.333">That's not actually<tt:br/>good news, is it.</tt:p>
+            <tt:p begin="00:10:52.367" end="00:10:53.033">CYRIL: No.</tt:p>
+            <tt:p begin="00:10:53.067" end="00:10:55.200">No it is not.</tt:p>
+            <tt:p begin="00:10:55.233" end="00:10:56.367">ARCHER: Okay...</tt:p>
+            <tt:p begin="00:10:56.400" end="00:10:58.367">later, gator!</tt:p>
+            <tt:p begin="00:11:01.733" end="00:11:05.567">JAMES MASON: No no no no no,<tt:br/>what is the meaning of this?!</tt:p>
+            <tt:p begin="00:11:05.600" end="00:11:07.200">ESCORT: I'm sorry, James Mason!</tt:p>
+            <tt:p begin="00:11:07.233" end="00:11:10.067">But he just won't stop<tt:br/>tooting that darn tooter!</tt:p>
+            <tt:p begin="00:11:10.100" end="00:11:13.167">JAMES MASON: Mr. Archer, I'm<tt:br/>afraid I must ask you to cease</tt:p>
+            <tt:p begin="00:11:13.200" end="00:11:17.333">your insufferable tooting --<tt:br/>This instant.</tt:p>
+            <tt:p begin="00:11:17.367" end="00:11:18.233">ARCHER: Fine by me.</tt:p>
+            <tt:p begin="00:11:18.267" end="00:11:19.233">I hate opera.</tt:p>
+            <tt:p begin="00:11:19.267" end="00:11:21.367">Almost as much as I hate<tt:br/>hoodies, what the hell's</tt:p>
+            <tt:p begin="00:11:21.400" end="00:11:22.433">going on here?</tt:p>
+            <tt:p begin="00:11:22.467" end="00:11:24.733">JAMES MASON: Oh no, not hell,<tt:br/>Mr. Archer, this is --</tt:p>
+            <tt:p begin="00:11:24.767" end="00:11:25.267">ARCHER: Hey.</tt:p>
+            <tt:p begin="00:11:25.300" end="00:11:26.167">Cut-rate James Mason.</tt:p>
+            <tt:p begin="00:11:26.200" end="00:11:29.033">I got kicked out of Episcopal<tt:br/>prep school.</tt:p>
+            <tt:p begin="00:11:29.067" end="00:11:30.133">Twice.</tt:p>
+            <tt:p begin="00:11:30.167" end="00:11:32.467">So if there is a heaven --<tt:br/>JAMES MASON: Oh, I'm sorry,</tt:p>
+            <tt:p begin="00:11:32.500" end="00:11:33.400">nor is this heaven.</tt:p>
+            <tt:p begin="00:11:33.433" end="00:11:35.400">ARCHER: Well no,<tt:br/>obviously it's not heaven --</tt:p>
+            <tt:p begin="00:11:35.433" end="00:11:36.400">JAMES MASON: No,<tt:br/>it's a --</tt:p>
+            <tt:p begin="00:11:36.433" end="00:11:38.367">ARCHER: -- because Janis<tt:br/>Joplin's not giving me a</tt:p>
+            <tt:p begin="00:11:38.400" end="00:11:39.300">rim job.</tt:p>
+            <tt:p begin="00:11:39.333" end="00:11:41.233">JAMES MASON: Way station,<tt:br/>I beg your pardon?</tt:p>
+            <tt:p begin="00:11:41.267" end="00:11:43.100">ARCHER: Right?</tt:p>
+            <tt:p begin="00:11:43.133" end="00:11:45.333">Sorry, a cobra bit my taint.</tt:p>
+            <tt:p begin="00:11:45.367" end="00:11:45.900">JAMES MASON: Yes.</tt:p>
+            <tt:p begin="00:11:45.933" end="00:11:47.067">ARCHER: I'm not myself.</tt:p>
+            <tt:p begin="00:11:47.100" end="00:11:48.067">JAMES MASON: Aren't you?</tt:p>
+            <tt:p begin="00:11:48.100" end="00:11:49.067">ARCHER: Are I?</tt:p>
+            <tt:p begin="00:11:49.100" end="00:11:51.100">JAMES MASON: Are you, indeed.</tt:p>
+            <tt:p begin="00:11:51.133" end="00:11:55.067">Would you like to know who<tt:br/>Sterling Archer really is?</tt:p>
+            <tt:p begin="00:11:55.100" end="00:11:56.033">ARCHER: No?</tt:p>
+            <tt:p begin="00:11:56.067" end="00:11:57.067">LANA: Why not?</tt:p>
+            <tt:p begin="00:11:57.100" end="00:11:59.333">Why won't you guys stand<tt:br/>up to Malory with me about</tt:p>
+            <tt:p begin="00:11:59.367" end="00:12:00.200">blowing up the pipeline?</tt:p>
+            <tt:p begin="00:12:00.233" end="00:12:03.500">PAM: Mmmmmmmmmmmcuz we don't<tt:br/>give a shit?</tt:p>
+            <tt:p begin="00:12:03.533" end="00:12:04.733">LANA: About the earth?!</tt:p>
+            <tt:p begin="00:12:04.767" end="00:12:07.800">CHERYL/CAROL: Oh please, if you<tt:br/>really cared you'd resign, but</tt:p>
+            <tt:p begin="00:12:07.833" end="00:12:10.400">there's no way you ever will<tt:br/>because you're just counting</tt:p>
+            <tt:p begin="00:12:10.433" end="00:12:14.333">the days until, her face bloated<tt:br/>and yellow from liver failure,</tt:p>
+            <tt:p begin="00:12:14.367" end="00:12:17.233">she calls you to her deathbed<tt:br/>and, in a croaky whisper,</tt:p>
+            <tt:p begin="00:12:17.267" end="00:12:19.533">explains that Mr. Archer is<tt:br/>totally incompetent and that</tt:p>
+            <tt:p begin="00:12:19.567" end="00:12:22.100">you, the long-suffering<tt:br/>Lana Kane, are the only one</tt:p>
+            <tt:p begin="00:12:22.133" end="00:12:24.700">qualified to run ISIS, and you<tt:br/>weep shameful tears, because</tt:p>
+            <tt:p begin="00:12:24.733" end="00:12:28.200">you know this terrible place is<tt:br/>the only true love you will</tt:p>
+            <tt:p begin="00:12:28.233" end="00:12:31.200">ever know.</tt:p>
+            <tt:p begin="00:12:31.233" end="00:12:33.167">LANA: Excuse me.</tt:p>
+            <tt:p begin="00:12:33.200" end="00:12:35.067">PAM: Daaamn...</tt:p>
+            <tt:p begin="00:12:35.100" end="00:12:36.100">CHERYL/CAROL: What?</tt:p>
+            <tt:p begin="00:12:36.133" end="00:12:39.800">Oh my God, was I talking?</tt:p>
+            <tt:p begin="00:12:39.833" end="00:12:40.200">CYRIL: Who the...</tt:p>
+            <tt:p begin="00:12:40.233" end="00:12:41.700">hell is he...</tt:p>
+            <tt:p begin="00:12:41.733" end="00:12:43.033">talking to?</tt:p>
+            <tt:p begin="00:12:43.067" end="00:12:45.200">ARCHER: James Mason...</tt:p>
+            <tt:p begin="00:12:45.233" end="00:12:46.067">CYRIL: Oh.</tt:p>
+            <tt:p begin="00:12:46.100" end="00:12:47.033">GILLETTE: Maybe that's his<tt:br/>Lorne Greene.</tt:p>
+            <tt:p begin="00:12:47.067" end="00:12:50.733">ARCHER: James Mason,<tt:br/>why are we in Baltimore?!</tt:p>
+            <tt:p begin="00:12:50.767" end="00:12:53.200">JAMES MASON: I thought you might<tt:br/>like some insight into how you</tt:p>
+            <tt:p begin="00:12:53.233" end="00:12:54.467">became the man you are.</tt:p>
+            <tt:p begin="00:12:54.500" end="00:12:56.333">ARCHER: No, I would absolutely<tt:br/>not like some --</tt:p>
+            <tt:p begin="00:12:56.367" end="00:12:59.067">JAMES MASON: Sterling Archer,<tt:br/>age eighteen...</tt:p>
+            <tt:p begin="00:12:59.100" end="00:13:02.033">ARCHER: The most recruited prep<tt:br/>school lacrosse player in</tt:p>
+            <tt:p begin="00:13:02.067" end="00:13:03.267">America...</tt:p>
+            <tt:p begin="00:13:03.300" end="00:13:06.033">JAMES MASON: Visiting Baltimore<tt:br/>for the weekend, to decide if</tt:p>
+            <tt:p begin="00:13:06.067" end="00:13:09.233">he will accept a full athletic<tt:br/>scholarship to Johns Hopkins.</tt:p>
+            <tt:p begin="00:13:09.267" end="00:13:11.300">ARCHER: Whooooo!</tt:p>
+            <tt:p begin="00:13:11.333" end="00:13:13.300">Yeah, so we don't need to see<tt:br/>how...</tt:p>
+            <tt:p begin="00:13:13.333" end="00:13:15.567">JAMES MASON: At a stop on the<tt:br/>train ride from New York</tt:p>
+            <tt:p begin="00:13:15.600" end="00:13:20.533">you struck out the major league<tt:br/>homerun champion, Slammer Sloan.</tt:p>
+            <tt:p begin="00:13:20.567" end="00:13:22.467">ARCHER: Whooooo!</tt:p>
+            <tt:p begin="00:13:22.500" end="00:13:25.233">ARCHER: Well obviously, I was<tt:br/>awesome, but I --</tt:p>
+            <tt:p begin="00:13:25.267" end="00:13:28.067">JAMES MASON: Drew the attention<tt:br/>of a beautiful woman named</tt:p>
+            <tt:p begin="00:13:28.100" end="00:13:30.300">Ruth Ann Litzenberger...</tt:p>
+            <tt:p begin="00:13:30.333" end="00:13:33.367">Qui était, vraiment,<tt:br/>une femme fatale.</tt:p>
+            <tt:p begin="00:13:33.400" end="00:13:37.233">And who followed you here, to<tt:br/>this very hotel in Baltimore,</tt:p>
+            <tt:p begin="00:13:37.267" end="00:13:40.067">and sent you a note,<tt:br/>to come to her room...</tt:p>
+            <tt:p begin="00:13:40.100" end="00:13:42.333">ARCHER: Look, seriously --<tt:br/>Woooooo!</tt:p>
+            <tt:p begin="00:13:42.367" end="00:13:45.367">Wait, how did you know<tt:br/>I was staying --</tt:p>
+            <tt:p begin="00:13:45.400" end="00:13:46.233">What's going on here?</tt:p>
+            <tt:p begin="00:13:46.267" end="00:13:48.167">RUTH ANN: Sterling?</tt:p>
+            <tt:p begin="00:13:48.200" end="00:13:52.333">Will you be the best there ever<tt:br/>was in the game?</tt:p>
+            <tt:p begin="00:13:52.367" end="00:13:53.167">ARCHER: Wh-?!</tt:p>
+            <tt:p begin="00:13:53.200" end="00:13:54.100">YOUNG ARCHER: Uh...</tt:p>
+            <tt:p begin="00:13:54.133" end="00:13:54.567">ARCHER: Noooo!</tt:p>
+            <tt:p begin="00:13:54.600" end="00:13:56.033">YOUNG ARCHER: Duh.</tt:p>
+            <tt:p begin="00:14:03.567" end="00:14:05.333">ARCHER: Yeah, sooo...</tt:p>
+            <tt:p begin="00:14:05.367" end="00:14:09.167">I don't know if you're deaf<tt:br/>or just an asshole or both,</tt:p>
+            <tt:p begin="00:14:09.200" end="00:14:11.667">but I'm pretty sure I said I<tt:br/>didn't wanna see this.</tt:p>
+            <tt:p begin="00:14:11.700" end="00:14:14.333">JAMES MASON: But Sterling, do<tt:br/>you not see how the actions of</tt:p>
+            <tt:p begin="00:14:14.367" end="00:14:18.467">a deeply disturbed woman have<tt:br/>profoundly influenced your life?</tt:p>
+            <tt:p begin="00:14:18.500" end="00:14:19.700">ARCHER: Well obviously!</tt:p>
+            <tt:p begin="00:14:19.733" end="00:14:22.200">I mean --<tt:br/>Oh, you mean my lacrosse career</tt:p>
+            <tt:p begin="00:14:22.233" end="00:14:25.167">ending because a crazy stalker<tt:br/>gut-shot me.</tt:p>
+            <tt:p begin="00:14:25.200" end="00:14:26.100">JAMES MASON: Do I?</tt:p>
+            <tt:p begin="00:14:26.133" end="00:14:29.167">ARCHER: I don't know,<tt:br/>James Mason! Do you?!</tt:p>
+            <tt:p begin="00:14:29.200" end="00:14:31.533">Besides, what freakin' movie<tt:br/>is this?</tt:p>
+            <tt:p begin="00:14:31.567" end="00:14:34.067">What's next,<tt:br/>Mr. Gower slaps me deaf?!</tt:p>
+            <tt:p begin="00:14:34.100" end="00:14:36.067">C'mon, you're all over the road<tt:br/>here!</tt:p>
+            <tt:p begin="00:14:36.100" end="00:14:36.567">CYRIL: Well?!</tt:p>
+            <tt:p begin="00:14:36.600" end="00:14:37.267">ARCHER: Well what?!</tt:p>
+            <tt:p begin="00:14:37.300" end="00:14:38.800">CYRIL: I'm doing the best I can!</tt:p>
+            <tt:p begin="00:14:38.833" end="00:14:41.333">GILLETTE: If that's the best you<tt:br/>can do -- gaagh!</tt:p>
+            <tt:p begin="00:14:41.367" end="00:14:42.167">Just kill your -- gaagh!</tt:p>
+            <tt:p begin="00:14:42.200" end="00:14:44.533">Wh-?</tt:p>
+            <tt:p begin="00:14:44.567" end="00:14:46.167">Are you bouncing on purpose? !</tt:p>
+            <tt:p begin="00:14:46.200" end="00:14:49.167">CYRIL: No, I'm trying to get<tt:br/>Archer to whatever passes for a</tt:p>
+            <tt:p begin="00:14:49.200" end="00:14:51.200">doctor around here before it's<tt:br/>too late!</tt:p>
+            <tt:p begin="00:14:51.233" end="00:14:54.200">ARCHER: Sounds like a plan,<tt:br/>James Mason.</tt:p>
+            <tt:p begin="00:14:54.233" end="00:14:56.400">CYRIL: And maybe if you shut up<tt:br/>I can concentrate on the</tt:p>
+            <tt:p begin="00:14:56.433" end="00:14:58.333">rowaaaghhhhh!</tt:p>
+            <tt:p begin="00:14:58.367" end="00:14:59.667">GILLETTE: Gaagh!</tt:p>
+            <tt:p begin="00:14:59.700" end="00:15:01.300">What the shit was that? !</tt:p>
+            <tt:p begin="00:15:01.333" end="00:15:02.733">CYRIL: A camel.</tt:p>
+            <tt:p begin="00:15:02.767" end="00:15:05.233">GILLETTE: Well great, now we've<tt:br/>both killed a large animal!</tt:p>
+            <tt:p begin="00:15:05.267" end="00:15:06.467">Drive around it!</tt:p>
+            <tt:p begin="00:15:06.500" end="00:15:08.033">CYRIL: I, uh...</tt:p>
+            <tt:p begin="00:15:08.067" end="00:15:10.267">don't think that's an option.</tt:p>
+            <tt:p begin="00:15:14.067" end="00:15:16.333">ARCHER: Hey check it out,<tt:br/>Fred and Barney, we're at the</tt:p>
+            <tt:p begin="00:15:16.367" end="00:15:20.033">Water Buffalo Lodge!</tt:p>
+            <tt:p begin="00:15:24.233" end="00:15:26.200">MALORY: Krieger, any word from<tt:br/>Sterling?</tt:p>
+            <tt:p begin="00:15:26.233" end="00:15:26.700">KRIEGER: Yep!</tt:p>
+            <tt:p begin="00:15:26.733" end="00:15:28.100">Yep yep yep!</tt:p>
+            <tt:p begin="00:15:28.133" end="00:15:28.567">MALORY: Well?</tt:p>
+            <tt:p begin="00:15:28.600" end="00:15:29.200">What did they say?</tt:p>
+            <tt:p begin="00:15:29.233" end="00:15:30.200">KRIEGER: Oh.</tt:p>
+            <tt:p begin="00:15:30.233" end="00:15:30.667">I mean nope.</tt:p>
+            <tt:p begin="00:15:30.700" end="00:15:31.600">Nope nope nope.</tt:p>
+            <tt:p begin="00:15:31.633" end="00:15:33.400">MALORY: [annoyed sigh]<tt:br/>KRIEGER: But, ya know,</tt:p>
+            <tt:p begin="00:15:33.433" end="00:15:35.100">I'm sure they're fine.</tt:p>
+            <tt:p begin="00:15:35.133" end="00:15:36.200">CYRIL: Wait, no!</tt:p>
+            <tt:p begin="00:15:36.233" end="00:15:37.200">I had the right of way!</tt:p>
+            <tt:p begin="00:15:37.233" end="00:15:38.467">GILLETTE: Gaagh!</tt:p>
+            <tt:p begin="00:15:38.500" end="00:15:40.300">GILLETTE: Seriously, I get that<tt:br/>you're upset but I think I have</tt:p>
+            <tt:p begin="00:15:40.333" end="00:15:43.500">a pinched nnngghhh!</tt:p>
+            <tt:p begin="00:15:43.533" end="00:15:44.467">GILLETTE: Gaaagh!</tt:p>
+            <tt:p begin="00:15:44.500" end="00:15:46.033">CYRIL: Now just a darn minute!</tt:p>
+            <tt:p begin="00:15:46.067" end="00:15:50.067">We're Americ --<tt:br/>Hello...</tt:p>
+            <tt:p begin="00:15:50.100" end="00:15:50.800">GILLETTE: Yeah.</tt:p>
+            <tt:p begin="00:15:50.833" end="00:15:52.067">Way to not call it in.</tt:p>
+            <tt:p begin="00:15:52.100" end="00:15:53.300">JAMES MASON: I beg your pardon?</tt:p>
+            <tt:p begin="00:15:53.333" end="00:15:54.467">ARCHER: Yeah, you should.</tt:p>
+            <tt:p begin="00:15:54.500" end="00:15:56.067">And I'm outta here.</tt:p>
+            <tt:p begin="00:15:56.100" end="00:15:57.667">JAMES MASON: I'm afraid that<tt:br/>isn't possible.</tt:p>
+            <tt:p begin="00:15:57.700" end="00:15:58.633">ARCHER: Oh really?</tt:p>
+            <tt:p begin="00:15:58.667" end="00:16:00.067">And why is --<tt:br/>AMBULANCE DRIVER: Comin through!</tt:p>
+            <tt:p begin="00:16:00.100" end="00:16:01.033">C'mon, make a hole!</tt:p>
+            <tt:p begin="00:16:01.067" end="00:16:02.367">YOUNG ARCHER: Phrasing, boom.</tt:p>
+            <tt:p begin="00:16:02.400" end="00:16:03.633">ARCHER: Boom.</tt:p>
+            <tt:p begin="00:16:03.667" end="00:16:05.567">Scholarship to Johns Hopkins.</tt:p>
+            <tt:p begin="00:16:05.600" end="00:16:06.733">JAMES MASON: Mmm.</tt:p>
+            <tt:p begin="00:16:06.767" end="00:16:11.400">Bit of a moot point though,<tt:br/>really, given your SAT scores.</tt:p>
+            <tt:p begin="00:16:11.433" end="00:16:12.633">ARCHER: Goodbye, James Mason.</tt:p>
+            <tt:p begin="00:16:12.667" end="00:16:15.167">JAMES MASON: No, you --<tt:br/>Mr. Archer, wait!</tt:p>
+            <tt:p begin="00:16:15.200" end="00:16:16.167">CYRIL: Please, here!</tt:p>
+            <tt:p begin="00:16:16.200" end="00:16:18.067">Here's forty-three<tt:br/>hundred dollars, surely that's</tt:p>
+            <tt:p begin="00:16:18.100" end="00:16:20.467">enough for a camel.</tt:p>
+            <tt:p begin="00:16:20.500" end="00:16:23.800">TURKMEN CHIEF: Ah, baksheesh!</tt:p>
+            <tt:p begin="00:16:23.833" end="00:16:26.467">CYRIL: Baksheesh, exactly, but<tt:br/>our friend...</tt:p>
+            <tt:p begin="00:16:26.500" end="00:16:28.300">okay, snake is...</tt:p>
+            <tt:p begin="00:16:28.333" end="00:16:32.233">oh, okay, so &quot;Our friend was<tt:br/>bitten by a snake&quot; is...</tt:p>
+            <tt:p begin="00:16:32.267" end="00:16:34.233">Ozum jora?</tt:p>
+            <tt:p begin="00:16:34.267" end="00:16:37.567">Bishlemek gurpgork?</tt:p>
+            <tt:p begin="00:16:37.600" end="00:16:41.033">TURKMEN CHIEF: Etmek bishlemek<tt:br/>gurpgork.</tt:p>
+            <tt:p begin="00:16:41.067" end="00:16:41.700">CYRIL: Wh-?</tt:p>
+            <tt:p begin="00:16:41.733" end="00:16:43.133">No, no!</tt:p>
+            <tt:p begin="00:16:43.167" end="00:16:44.033">I mean...</tt:p>
+            <tt:p begin="00:16:44.067" end="00:16:45.100">Yok,yok.</tt:p>
+            <tt:p begin="00:16:45.133" end="00:16:46.333">JAMES MASON: No, no!</tt:p>
+            <tt:p begin="00:16:46.367" end="00:16:48.167">JAMES MASON: Mr. Archer, please!</tt:p>
+            <tt:p begin="00:16:48.200" end="00:16:50.333">ARCHER: You please, cut-rate<tt:br/>James Mason!</tt:p>
+            <tt:p begin="00:16:50.367" end="00:16:53.733">And then shut up, because I'm<tt:br/>going...</tt:p>
+            <tt:p begin="00:16:53.767" end="00:16:55.067">ARCHER: Home.</tt:p>
+            <tt:p begin="00:16:55.100" end="00:16:57.167">Goddammit.</tt:p>
+            <tt:p begin="00:16:57.200" end="00:16:57.667">Or...</tt:p>
+            <tt:p begin="00:16:57.700" end="00:16:58.100">what is it?</tt:p>
+            <tt:p begin="00:16:58.133" end="00:16:59.367">CYRIL: Gurpgork!</tt:p>
+            <tt:p begin="00:16:59.400" end="00:17:00.367">TURKMEN CHIEF: Ah!</tt:p>
+            <tt:p begin="00:17:00.400" end="00:17:02.700">Gowushmak eshek gurpgork!</tt:p>
+            <tt:p begin="00:17:02.733" end="00:17:02.933">CYRIL: Wh-?</tt:p>
+            <tt:p begin="00:17:02.967" end="00:17:03.567">No!</tt:p>
+            <tt:p begin="00:17:03.600" end="00:17:04.033">Yok!</tt:p>
+            <tt:p begin="00:17:04.067" end="00:17:07.033">Not that Gurpgork!</tt:p>
+            <tt:p begin="00:17:07.067" end="00:17:09.100">(Makes claw, growls) Rawr, rawr!</tt:p>
+            <tt:p begin="00:17:09.133" end="00:17:10.033">TURKMEN CHIEF: Ah, Gurpgork!</tt:p>
+            <tt:p begin="00:17:10.067" end="00:17:12.100">Patysha alabai!</tt:p>
+            <tt:p begin="00:17:12.133" end="00:17:13.167">TURKMENI: Ah, Gurpgork!</tt:p>
+            <tt:p begin="00:17:13.200" end="00:17:14.033">Hawa hawa!</tt:p>
+            <tt:p begin="00:17:14.067" end="00:17:14.600">Gurpgork!</tt:p>
+            <tt:p begin="00:17:14.633" end="00:17:15.767">TURKMEN CHIEF: Gurpgork.</tt:p>
+            <tt:p begin="00:17:15.800" end="00:17:16.800">CYRIL: [deeply weary sigh]<tt:br/>GILLETTE: How's it the same word</tt:p>
+            <tt:p begin="00:17:16.833" end="00:17:20.067">for bread and snake and Friday<tt:br/>and that damn dog?!</tt:p>
+            <tt:p begin="00:17:20.100" end="00:17:21.533">CYRIL: How the hell should I<tt:br/>know?!</tt:p>
+            <tt:p begin="00:17:21.567" end="00:17:23.567">MALORY: Because you have an<tt:br/>entire satellite array at your</tt:p>
+            <tt:p begin="00:17:23.600" end="00:17:25.333">disposal, you idiot!</tt:p>
+            <tt:p begin="00:17:25.367" end="00:17:28.033">KRIEGER: Yeah, I don't actually<tt:br/>know how any of this works.</tt:p>
+            <tt:p begin="00:17:28.067" end="00:17:29.300">MALORY: But --<tt:br/>KRIEGER: That was the fat guy,</tt:p>
+            <tt:p begin="00:17:29.333" end="00:17:30.367">you killed.</tt:p>
+            <tt:p begin="00:17:30.400" end="00:17:32.700">LANA: Oh, and just so you know?</tt:p>
+            <tt:p begin="00:17:32.733" end="00:17:36.533">I do know what true love is,<tt:br/>so...</tt:p>
+            <tt:p begin="00:17:36.567" end="00:17:39.633">yeah.</tt:p>
+            <tt:p begin="00:17:39.667" end="00:17:42.133">MALORY: What in God's name was<tt:br/>that about?</tt:p>
+            <tt:p begin="00:17:42.167" end="00:17:46.033">KRIEGER: She'd probably ruin<tt:br/>the wedding.</tt:p>
+            <tt:p begin="00:17:46.067" end="00:17:47.700">ARCHER: Come on,<tt:br/>what the hell is this?</tt:p>
+            <tt:p begin="00:17:47.733" end="00:17:49.467">JAMES MASON: I thought you'd<tt:br/>like to see something.</tt:p>
+            <tt:p begin="00:17:49.500" end="00:17:52.333">ARCHER: I've seen poverty, I've<tt:br/>been to -- oh, how's it going</tt:p>
+            <tt:p begin="00:17:52.367" end="00:17:53.400">in Turkmenistan?</tt:p>
+            <tt:p begin="00:17:53.433" end="00:17:55.333">JAMES MASON: Mmmmm, not great.</tt:p>
+            <tt:p begin="00:17:55.367" end="00:17:57.300">TURKMENI [excited chattering]<tt:br/>GILLETTE: Cyril, just draw a</tt:p>
+            <tt:p begin="00:17:57.333" end="00:17:58.667">snake!</tt:p>
+            <tt:p begin="00:17:58.700" end="00:17:59.400">CYRIL: Oh right.</tt:p>
+            <tt:p begin="00:17:59.433" end="00:18:01.100">CYRIL: Okay, uh...</tt:p>
+            <tt:p begin="00:18:01.133" end="00:18:02.300">doo doo doo...</tt:p>
+            <tt:p begin="00:18:02.333" end="00:18:05.167">elliptical head, oblique dorsal<tt:br/>scales, symmetric sub-caudal</tt:p>
+            <tt:p begin="00:18:05.200" end="00:18:09.667">scalation, darker ventral<tt:br/>bands, obviously...</tt:p>
+            <tt:p begin="00:18:09.700" end="00:18:15.467">okay, here we go.</tt:p>
+            <tt:p begin="00:18:15.500" end="00:18:16.167">CYRIL: Wh-?</tt:p>
+            <tt:p begin="00:18:16.200" end="00:18:17.800">What is wrong with you people?!</tt:p>
+            <tt:p begin="00:18:17.833" end="00:18:19.033">GILLETTE: What's wrong with you?</tt:p>
+            <tt:p begin="00:18:19.067" end="00:18:22.167">Gimme that!</tt:p>
+            <tt:p begin="00:18:22.200" end="00:18:23.100">GILLETTE: Here!</tt:p>
+            <tt:p begin="00:18:23.133" end="00:18:23.700">Tada. A Snake!</tt:p>
+            <tt:p begin="00:18:23.733" end="00:18:24.733">CYRIL: Oh that's crap...</tt:p>
+            <tt:p begin="00:18:24.767" end="00:18:26.667">TURKMENI [alarmed gasp]<tt:br/>TURKMEN CHIEF: Gurpgork?!</tt:p>
+            <tt:p begin="00:18:26.700" end="00:18:28.233">Dishlemek gurpgork?!</tt:p>
+            <tt:p begin="00:18:28.267" end="00:18:31.067">CYRIL: I -- wanna say duh,<tt:br/>but...</tt:p>
+            <tt:p begin="00:18:31.100" end="00:18:32.233">ARCHER: What's the point?</tt:p>
+            <tt:p begin="00:18:32.267" end="00:18:35.100">ARCHER: C'mon, this is stupid, I<tt:br/>don't need to see this, I</tt:p>
+            <tt:p begin="00:18:35.133" end="00:18:36.100">remember all of it.</tt:p>
+            <tt:p begin="00:18:36.133" end="00:18:38.067">JAMES MASON: Do you?</tt:p>
+            <tt:p begin="00:18:38.100" end="00:18:39.000">CHILD ARCHER: Yeah...</tt:p>
+            <tt:p begin="00:18:39.033" end="00:18:41.367">ARCHER: Yeah I mean, that's me,<tt:br/>I'm like...</tt:p>
+            <tt:p begin="00:18:41.400" end="00:18:42.700">Six.</tt:p>
+            <tt:p begin="00:18:42.733" end="00:18:45.133">I'm six today, it's my birthday.</tt:p>
+            <tt:p begin="00:18:45.167" end="00:18:47.200">JAMES MASON: And your Mother<tt:br/>isn't home, is she?</tt:p>
+            <tt:p begin="00:18:47.233" end="00:18:50.633">ARCHER: No, she had to -- look,<tt:br/>Guatemala's democratically</tt:p>
+            <tt:p begin="00:18:50.667" end="00:18:53.233">elected government wasn't gonna<tt:br/>overthrow itself.</tt:p>
+            <tt:p begin="00:18:53.267" end="00:18:54.200">JAMES MASON: Mmm.</tt:p>
+            <tt:p begin="00:18:54.233" end="00:18:57.200">And with Woodhouse, shall we<tt:br/>say, indisposed...</tt:p>
+            <tt:p begin="00:18:57.233" end="00:19:00.033">WOODHOUSE:<tt:br/>[heroin-induced snoring]</tt:p>
+            <tt:p begin="00:19:00.067" end="00:19:02.167">JAMES MASON: There was no one to<tt:br/>give you a birthday present.</tt:p>
+            <tt:p begin="00:19:02.200" end="00:19:03.167">ARCHER: I...</tt:p>
+            <tt:p begin="00:19:03.200" end="00:19:05.533">wait, no, yeah, I got...</tt:p>
+            <tt:p begin="00:19:05.567" end="00:19:07.100">TURKMEN CHIEF: Derman!</tt:p>
+            <tt:p begin="00:19:07.133" end="00:19:08.633">Derman gurpgork!</tt:p>
+            <tt:p begin="00:19:08.667" end="00:19:11.200">Derman gurpgork etmek!</tt:p>
+            <tt:p begin="00:19:11.233" end="00:19:13.167">GILLETTE: No, I don't think he<tt:br/>can keep bread down...</tt:p>
+            <tt:p begin="00:19:13.200" end="00:19:16.200">CYRIL: No, I think it's --<tt:br/>Derman is medicine!</tt:p>
+            <tt:p begin="00:19:16.233" end="00:19:18.067">TURKMEN CHIEF: Derman gurpgork!</tt:p>
+            <tt:p begin="00:19:18.100" end="00:19:19.167">CYRIL: I think it's antivenom!</tt:p>
+            <tt:p begin="00:19:19.200" end="00:19:19.733">Gimme!</tt:p>
+            <tt:p begin="00:19:19.767" end="00:19:20.567">TURKMEN CHIEF: Yok, yok!</tt:p>
+            <tt:p begin="00:19:20.600" end="00:19:22.500">Kop kop<tt:br/>kop baksheesh.</tt:p>
+            <tt:p begin="00:19:22.533" end="00:19:24.467">CYRIL: Oh.</tt:p>
+            <tt:p begin="00:19:24.500" end="00:19:27.067">He wants a lot lot lot of money.</tt:p>
+            <tt:p begin="00:19:27.100" end="00:19:27.700">GILLETTE: So?</tt:p>
+            <tt:p begin="00:19:27.733" end="00:19:29.467">We've got ninety-five grand!</tt:p>
+            <tt:p begin="00:19:29.500" end="00:19:31.067">CYRIL: But that's for the<tt:br/>mission, to --</tt:p>
+            <tt:p begin="00:19:31.100" end="00:19:33.067">GILLETTE: Blow up a<tt:br/>frickin oil pipeline?</tt:p>
+            <tt:p begin="00:19:33.100" end="00:19:34.067">CYRIL: Wait, really?</tt:p>
+            <tt:p begin="00:19:34.100" end="00:19:36.200">GILLETTE: Cyril, what did<tt:br/>you think she meant by</tt:p>
+            <tt:p begin="00:19:36.233" end="00:19:40.400">&quot;hinder construction?&quot;<tt:br/>CYRIL: Oh.</tt:p>
+            <tt:p begin="00:19:40.433" end="00:19:43.333">Do you ever think maybe we're<tt:br/>kinda not always a hundred</tt:p>
+            <tt:p begin="00:19:43.367" end="00:19:46.033">percent of the time doing the<tt:br/>right thing?</tt:p>
+            <tt:p begin="00:19:46.067" end="00:19:48.100">GILLETTE: Do you ever shut up<tt:br/>and give that man-bear</tt:p>
+            <tt:p begin="00:19:48.133" end="00:19:53.067">twenty-five grand so you and I<tt:br/>can split the other seventy?</tt:p>
+            <tt:p begin="00:19:53.100" end="00:19:55.233">CYRIL: Yes, yes I do.</tt:p>
+            <tt:p begin="00:19:55.267" end="00:19:57.067">ARCHER: I got a...</tt:p>
+            <tt:p begin="00:19:57.100" end="00:19:59.533">yeah, I got an alligator!</tt:p>
+            <tt:p begin="00:19:59.567" end="00:20:01.800">CHILD ARCHER: [tiny gasp]<tt:br/>MYSTERY MAN: Hello, Sterling.</tt:p>
+            <tt:p begin="00:20:01.833" end="00:20:04.200">MYSTERY MAN: Your mother doesn't<tt:br/>know I'm here, but I wanted to</tt:p>
+            <tt:p begin="00:20:04.233" end="00:20:06.100">bring you a birthday present.</tt:p>
+            <tt:p begin="00:20:06.133" end="00:20:07.800">I hope you like alligators.</tt:p>
+            <tt:p begin="00:20:07.833" end="00:20:09.067">CHILD ARCHER: I do...</tt:p>
+            <tt:p begin="00:20:09.100" end="00:20:10.133">ARCHER: I did...</tt:p>
+            <tt:p begin="00:20:10.167" end="00:20:12.067">CHILD ARCHER: Thank you, sir.</tt:p>
+            <tt:p begin="00:20:12.100" end="00:20:13.467">But... who are you?</tt:p>
+            <tt:p begin="00:20:13.500" end="00:20:15.500">MYSTERY MAN: Sterling, I...</tt:p>
+            <tt:p begin="00:20:15.533" end="00:20:17.100">am your real father.</tt:p>
+            <tt:p begin="00:20:17.133" end="00:20:21.200">CHILD ARCHER: [small gasp]<tt:br/>ARCHER: [huge gasp]</tt:p>
+            <tt:p begin="00:20:21.233" end="00:20:22.100">CYRIL: Archer?</tt:p>
+            <tt:p begin="00:20:22.133" end="00:20:23.167">ARCHER: Buck Henry?</tt:p>
+            <tt:p begin="00:20:23.200" end="00:20:26.033">Oh my God, Cyril! Ray! I know --<tt:br/>CYRIL: You're okay!</tt:p>
+            <tt:p begin="00:20:26.067" end="00:20:28.200">We gave you the antivenom --<tt:br/>ARCHER: Cyril shut your</tt:p>
+            <tt:p begin="00:20:28.233" end="00:20:29.100">dickhole!</tt:p>
+            <tt:p begin="00:20:29.133" end="00:20:31.567">Jesus God, I know who my real<tt:br/>father was!</tt:p>
+            <tt:p begin="00:20:31.600" end="00:20:32.533">GILLETTE: Well? !</tt:p>
+            <tt:p begin="00:20:32.567" end="00:20:33.300">CYRIL: Who was he? !</tt:p>
+            <tt:p begin="00:20:33.333" end="00:20:35.467">ARCHER: He... was...</tt:p>
+            <tt:p begin="00:20:35.500" end="00:20:39.100">da gone... uh...</tt:p>
+            <tt:p begin="00:20:39.133" end="00:20:41.300">No, it's gone.</tt:p>
+            <tt:p begin="00:20:41.333" end="00:20:43.067">Goddammit.</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

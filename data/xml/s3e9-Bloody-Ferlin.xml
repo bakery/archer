@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:02.236" end="00:00:04.738">LANA: Wait, here's an idea:<tt:br/>you talk louder,</tt:p>
+            <tt:p begin="00:00:04.772" end="00:00:06.274">and maybe they'll just come to<tt:br/>us.</tt:p>
+            <tt:p begin="00:00:06.307" end="00:00:08.209">ARCHER: We'd lose the element of<tt:br/>surprise Lana.</tt:p>
+            <tt:p begin="00:00:08.242" end="00:00:09.210">LANA: That was sarcasm!</tt:p>
+            <tt:p begin="00:00:09.243" end="00:00:10.578">ARCHER: No way, really?</tt:p>
+            <tt:p begin="00:00:10.611" end="00:00:12.380">Because so was that, just now.</tt:p>
+            <tt:p begin="00:00:12.413" end="00:00:14.648">LANA: I pretty much insist that<tt:br/>you shut up.</tt:p>
+            <tt:p begin="00:00:14.682" end="00:00:15.783">Oh shit, they're in the armory.</tt:p>
+            <tt:p begin="00:00:15.816" end="00:00:18.086">ARCHER: Good, then we got 'em,<tt:br/>this is the only way out.</tt:p>
+            <tt:p begin="00:00:18.119" end="00:00:19.420">LANA: Of the armory.</tt:p>
+            <tt:p begin="00:00:19.453" end="00:00:20.354">ARCHER: I heard you.</tt:p>
+            <tt:p begin="00:00:20.388" end="00:00:21.755">And I can also read, so --</tt:p>
+            <tt:p begin="00:00:21.789" end="00:00:23.791">LANA: So what's in the armory?</tt:p>
+            <tt:p begin="00:00:23.824" end="00:00:28.096">ARCHER: Burglars, Lana,<tt:br/>that's why I'm here and not up<tt:br/>to my ears in stewardess.</tt:p>
+            <tt:p begin="00:00:28.129" end="00:00:29.397">LANA: What else is in the<tt:br/>armory.</tt:p>
+            <tt:p begin="00:00:29.430" end="00:00:30.598">ARCHER: Well,<tt:br/>there's a bunch of automatic</tt:p>
+            <tt:p begin="00:00:30.631" end="00:00:35.269">weapons, rocket launchers, um,<tt:br/>about a jillion grenades, oh.</tt:p>
+            <tt:p begin="00:00:35.303" end="00:00:36.470">They may have fire superiority.</tt:p>
+            <tt:p begin="00:00:36.504" end="00:00:37.738">LANA: Ya think?</tt:p>
+            <tt:p begin="00:00:37.771" end="00:00:39.407">ARCHER: Lana, for all we<tt:br/>know they're building a</tt:p>
+            <tt:p begin="00:00:39.440" end="00:00:41.175">gundam-suit with bazookas<tt:br/>for hands.</tt:p>
+            <tt:p begin="00:00:41.209" end="00:00:42.343">LANA: Really wish we had some<tt:br/>backup.</tt:p>
+            <tt:p begin="00:00:42.376" end="00:00:43.544">ARCHER: Who, Cyril?</tt:p>
+            <tt:p begin="00:00:43.577" end="00:00:47.115">Or ooh,<tt:br/>maybe Ray could run over them<tt:br/>with his wheelchair!</tt:p>
+            <tt:p begin="00:00:47.148" end="00:00:50.551">That was also sarcasm,<tt:br/>since apparently now we're<tt:br/>saying whenever we do it.</tt:p>
+            <tt:p begin="00:00:50.584" end="00:00:51.619">LANA: Are you ready?</tt:p>
+            <tt:p begin="00:00:51.652" end="00:00:52.286">ARCHER: No.</tt:p>
+            <tt:p begin="00:00:52.320" end="00:00:55.289">Sarcasm again, yes I'm ready.</tt:p>
+            <tt:p begin="00:01:04.732" end="00:01:05.666">LANA: What the hell<tt:br/>are you doing? !</tt:p>
+            <tt:p begin="00:01:05.699" end="00:01:06.367">ARCHER: Nothing!</tt:p>
+            <tt:p begin="00:01:06.400" end="00:01:07.101">LANA: Archer!</tt:p>
+            <tt:p begin="00:01:07.135" end="00:01:08.436">ARCHER: What!</tt:p>
+            <tt:p begin="00:01:08.469" end="00:01:09.770">The hell are you doing?</tt:p>
+            <tt:p begin="00:01:09.803" end="00:01:10.771">GILLETTE: Nothin.</tt:p>
+            <tt:p begin="00:01:10.804" end="00:01:12.273">What're y'all doing?</tt:p>
+            <tt:p begin="00:01:12.306" end="00:01:15.643">LANA: The alarm company called<tt:br/>us because the motion sensors<tt:br/>were going off.</tt:p>
+            <tt:p begin="00:01:15.676" end="00:01:17.010">GILLETTE: Dukes!</tt:p>
+            <tt:p begin="00:01:17.044" end="00:01:20.748">LANA: Yeah,<tt:br/>the rest of us got new keycodes<tt:br/>Monday, but you were...</tt:p>
+            <tt:p begin="00:01:20.781" end="00:01:21.782">where was it?</tt:p>
+            <tt:p begin="00:01:21.815" end="00:01:22.850">GILLETTE: Physical therapy.</tt:p>
+            <tt:p begin="00:01:22.883" end="00:01:25.886">LANA: For your limp,<tt:br/>useless legs.</tt:p>
+            <tt:p begin="00:01:25.919" end="00:01:28.656">ARCHER: Well it's obviously<tt:br/>working,<tt:br/>you're on a -- wait a minute!</tt:p>
+            <tt:p begin="00:01:28.689" end="00:01:30.658">How the hell are you walking<tt:br/>around on ladders? !</tt:p>
+            <tt:p begin="00:01:30.691" end="00:01:32.493">LANA: Because he's not<tt:br/>paralyzed!</tt:p>
+            <tt:p begin="00:01:32.526" end="00:01:34.562">GILLETTE: And is that not the<tt:br/>stuff of miracles?</tt:p>
+            <tt:p begin="00:01:34.595" end="00:01:36.197">LANA: You lying little --</tt:p>
+            <tt:p begin="00:01:36.230" end="00:01:37.765">GILLETTE: I never said I was<tt:br/>paralyzed!</tt:p>
+            <tt:p begin="00:01:37.798" end="00:01:39.467">Y'all just assumed I was!</tt:p>
+            <tt:p begin="00:01:39.500" end="00:01:41.569">ARCHER: Because you left the<tt:br/>hospital in a wheelchair!</tt:p>
+            <tt:p begin="00:01:41.602" end="00:01:43.371">GILLETTE: They make you!</tt:p>
+            <tt:p begin="00:01:43.404" end="00:01:46.607">And then I couldn't get a cab,<tt:br/>so I just got back in the chair,<tt:br/>and...</tt:p>
+            <tt:p begin="00:01:46.640" end="00:01:48.709">LANA: Spent the last six months<tt:br/>pretending to be handicapped.</tt:p>
+            <tt:p begin="00:01:48.742" end="00:01:49.877">GILLETTE: Handi-capable.</tt:p>
+            <tt:p begin="00:01:49.910" end="00:01:52.280">ARCHER: So before I kick this<tt:br/>ladder over in the hopes of</tt:p>
+            <tt:p begin="00:01:52.313" end="00:01:54.882">paralyzing you for real,<tt:br/>why are you in here stealing</tt:p>
+            <tt:p begin="00:01:54.915" end="00:01:58.752">guns and grenades and what<tt:br/>better not be my night vision<tt:br/>goggles? !</tt:p>
+            <tt:p begin="00:01:58.786" end="00:02:01.522">GILLETTE: I kinda have some<tt:br/>family problems.</tt:p>
+            <tt:p begin="00:02:01.555" end="00:02:03.891">LANA: So your brother,<tt:br/>the drug dealer --</tt:p>
+            <tt:p begin="00:02:03.924" end="00:02:05.659">GILLETTE: He's not a drug<tt:br/>dealer!</tt:p>
+            <tt:p begin="00:02:05.693" end="00:02:07.094">He's a drug farmer.</tt:p>
+            <tt:p begin="00:02:07.127" end="00:02:10.331">LANA: Whatever,<tt:br/>is gonna be murdered by your<tt:br/>hometown's crooked sheriff?</tt:p>
+            <tt:p begin="00:02:10.364" end="00:02:14.202">GILLETTE: E.Z. Ponder, yes,<tt:br/>and he used to bully me so bad<tt:br/>in high school...</tt:p>
+            <tt:p begin="00:02:14.235" end="00:02:15.369">ARCHER: Nooo!</tt:p>
+            <tt:p begin="00:02:15.403" end="00:02:16.370">Ray, that was sarcasm.</tt:p>
+            <tt:p begin="00:02:16.404" end="00:02:18.706">GILLETTE: Anyway,<tt:br/>he wants Randy's dope farm for</tt:p>
+            <tt:p begin="00:02:18.739" end="00:02:21.175">himself or he's gonna kill him,<tt:br/>so I gotta go down there and...</tt:p>
+            <tt:p begin="00:02:21.209" end="00:02:22.310">stop him.</tt:p>
+            <tt:p begin="00:02:22.343" end="00:02:22.843">ARCHER: Count me in.</tt:p>
+            <tt:p begin="00:02:22.876" end="00:02:24.378">LANA: What? ! Why? !</tt:p>
+            <tt:p begin="00:02:24.412" end="00:02:28.249">ARCHER: Well for one thing it's<tt:br/>eerily similar to the plot of<tt:br/>White Lightning.</tt:p>
+            <tt:p begin="00:02:28.282" end="00:02:29.817">And this is Ray's brother, Lana.</tt:p>
+            <tt:p begin="00:02:29.850" end="00:02:32.286">What's more important than<tt:br/>family?</tt:p>
+            <tt:p begin="00:02:32.320" end="00:02:35.689">LANA: Getting hammered on<tt:br/>moonshine and trying to bang<tt:br/>skanky trailer-chicks?</tt:p>
+            <tt:p begin="00:02:35.723" end="00:02:36.857">ARCHER: Trying?</tt:p>
+            <tt:p begin="00:02:36.890" end="00:02:38.792">GILLETTE: Oh, that reminds me.</tt:p>
+            <tt:p begin="00:02:38.826" end="00:02:42.496">They all think I'm married to<tt:br/>like, a woman, so...</tt:p>
+            <tt:p begin="00:02:42.530" end="00:02:44.498">LANA: Oh alright,<tt:br/>I'll be your beard.</tt:p>
+            <tt:p begin="00:02:44.532" end="00:02:45.799">GILLETTE: What're you, insane?</tt:p>
+            <tt:p begin="00:02:45.833" end="00:02:47.968">&quot;Hey y'all,<tt:br/>here's my great big ol' black<tt:br/>wife!&quot;</tt:p>
+            <tt:p begin="00:02:48.001" end="00:02:49.337">LANA: Wh-?</tt:p>
+            <tt:p begin="00:02:49.370" end="00:02:50.404">ARCHER: Lana, c'mon.</tt:p>
+            <tt:p begin="00:02:50.438" end="00:02:52.406">You're gigantic.</tt:p>
+            <tt:p begin="00:03:28.909" end="00:03:32.346">MALORY: Now what's all this<tt:br/>nonsense about a break-in<tt:br/>last night?</tt:p>
+            <tt:p begin="00:03:32.380" end="00:03:35.816">I swear to God, if Krieger<tt:br/>was doing more of his --</tt:p>
+            <tt:p begin="00:03:35.849" end="00:03:38.018">what's his new awful thing?</tt:p>
+            <tt:p begin="00:03:38.051" end="00:03:41.455">LANA: Ultimate Bum Shockfights,<tt:br/>and no, it looks like it was<tt:br/>an actual break-in.</tt:p>
+            <tt:p begin="00:03:41.489" end="00:03:41.955">MALORY: What? !</tt:p>
+            <tt:p begin="00:03:41.989" end="00:03:42.856">CYRIL: Jeezy Petes!</tt:p>
+            <tt:p begin="00:03:42.890" end="00:03:44.292">MALORY: Did they get into the<tt:br/>mainframe? !</tt:p>
+            <tt:p begin="00:03:44.325" end="00:03:46.026">LANA: I... don't know, but --</tt:p>
+            <tt:p begin="00:03:46.059" end="00:03:47.728">MALORY: We need Sterling,<tt:br/>where is he? !</tt:p>
+            <tt:p begin="00:03:47.761" end="00:03:50.898">LANA: He's tracking down, um,<tt:br/>leads.</tt:p>
+            <tt:p begin="00:03:50.931" end="00:03:52.766">From the clues.</tt:p>
+            <tt:p begin="00:03:52.800" end="00:03:53.967">That there were some of.</tt:p>
+            <tt:p begin="00:03:54.001" end="00:03:55.569">CYRIL: What kind of clues?</tt:p>
+            <tt:p begin="00:03:55.603" end="00:03:59.840">LANA: The kind I'm gonna show<tt:br/>you, if you're not too busy<tt:br/>shutting up to come on.</tt:p>
+            <tt:p begin="00:03:59.873" end="00:04:01.975">MALORY: And put Sterling through<tt:br/>to me the minute he calls in!</tt:p>
+            <tt:p begin="00:04:02.009" end="00:04:03.911">ARCHER: Which I guess<tt:br/>will be never...</tt:p>
+            <tt:p begin="00:04:03.944" end="00:04:05.846">So, are there just<tt:br/>no towers here?</tt:p>
+            <tt:p begin="00:04:05.879" end="00:04:08.015">Or have we literally<tt:br/>gone back in time?</tt:p>
+            <tt:p begin="00:04:08.048" end="00:04:08.782">GILLETTE: Both?</tt:p>
+            <tt:p begin="00:04:08.816" end="00:04:10.951">CHERYL/CAROL: Ow,<tt:br/>you dumb idiot!</tt:p>
+            <tt:p begin="00:04:10.984" end="00:04:11.919">ARCHER: Great...</tt:p>
+            <tt:p begin="00:04:11.952" end="00:04:12.953">GILLETTE: Great...</tt:p>
+            <tt:p begin="00:04:12.986" end="00:04:14.922">CHERYL/CAROL: Why am I in a,<tt:br/>whatever, dune buggy?</tt:p>
+            <tt:p begin="00:04:14.955" end="00:04:16.089">ARCHER: Remember?</tt:p>
+            <tt:p begin="00:04:16.123" end="00:04:18.592">We picked you up last night,<tt:br/>said we were going on a trip?</tt:p>
+            <tt:p begin="00:04:18.626" end="00:04:19.927">CHERYL/CAROL: No, and to where?</tt:p>
+            <tt:p begin="00:04:19.960" end="00:04:22.630">Six Flags Over The Shittier<tt:br/>Parts of Chernobyl?</tt:p>
+            <tt:p begin="00:04:22.663" end="00:04:24.031">GILLETTE: Ferlin, West Virginia.</tt:p>
+            <tt:p begin="00:04:24.064" end="00:04:26.867">ARCHER: Yeah,<tt:br/>and you and Ray are married.</tt:p>
+            <tt:p begin="00:04:26.900" end="00:04:28.736">CHERYL/CAROL: Oh my God<tt:br/>oh my God oh my God!</tt:p>
+            <tt:p begin="00:04:28.769" end="00:04:29.737">GILLETTE: We're not actually --</tt:p>
+            <tt:p begin="00:04:29.770" end="00:04:31.339">ARCHER: Actually it'll be better<tt:br/>if she thinks --</tt:p>
+            <tt:p begin="00:04:31.372" end="00:04:32.873">CHERYL/CAROL: We're<tt:br/>marrieeeeed...</tt:p>
+            <tt:p begin="00:04:32.906" end="00:04:33.407">GILLETTE: Super.</tt:p>
+            <tt:p begin="00:04:33.441" end="00:04:34.442">ARCHER: Ray, look out!</tt:p>
+            <tt:p begin="00:04:34.475" end="00:04:36.777">GILLETTE: Wh-? !</tt:p>
+            <tt:p begin="00:04:36.810" end="00:04:38.679">ARCHER: Two questions:<tt:br/>is that the sheriff,</tt:p>
+            <tt:p begin="00:04:38.712" end="00:04:41.349">and have you recently gone<tt:br/>insane.</tt:p>
+            <tt:p begin="00:04:41.382" end="00:04:42.616">GILLETTE: Yes and no.</tt:p>
+            <tt:p begin="00:04:42.650" end="00:04:43.617">ARCHER: Respectively?</tt:p>
+            <tt:p begin="00:04:43.651" end="00:04:45.986">PONDER: Now I know that ain't<tt:br/>who I think it is!</tt:p>
+            <tt:p begin="00:04:46.019" end="00:04:48.422">No shit! Ray Gillet!</tt:p>
+            <tt:p begin="00:04:48.456" end="00:04:49.357">ARCHER: Gillet?</tt:p>
+            <tt:p begin="00:04:49.390" end="00:04:50.391">PONDER: How'n the hell are ya?</tt:p>
+            <tt:p begin="00:04:50.424" end="00:04:51.425">GILLETTE: Pretty good, E.Z.</tt:p>
+            <tt:p begin="00:04:51.459" end="00:04:52.393">How you doin?</tt:p>
+            <tt:p begin="00:04:52.426" end="00:04:53.861">PONDER: Aw, can't complain.</tt:p>
+            <tt:p begin="00:04:53.894" end="00:04:57.465">And nobody'd listen if I did!</tt:p>
+            <tt:p begin="00:04:57.498" end="00:04:58.899">ARCHER: I hear that.</tt:p>
+            <tt:p begin="00:04:58.932" end="00:05:00.701">PONDER: You hear what.</tt:p>
+            <tt:p begin="00:05:00.734" end="00:05:01.969">ARCHER: Not?</tt:p>
+            <tt:p begin="00:05:02.002" end="00:05:04.672">That?</tt:p>
+            <tt:p begin="00:05:04.705" end="00:05:06.440">PONDER: What brings you back up<tt:br/>the holler?</tt:p>
+            <tt:p begin="00:05:06.474" end="00:05:08.409">GILLETTE: Oh you know,<tt:br/>just wanted to show off my</tt:p>
+            <tt:p begin="00:05:08.442" end="00:05:13.381">pretty new bride to the home<tt:br/>folks.</tt:p>
+            <tt:p begin="00:05:13.414" end="00:05:15.716">PONDER: She is that.</tt:p>
+            <tt:p begin="00:05:15.749" end="00:05:19.987">For a minute there I's thinkin<tt:br/>maybe you come back to help yer<tt:br/>brother out with his...</tt:p>
+            <tt:p begin="00:05:20.020" end="00:05:21.822">business concern.</tt:p>
+            <tt:p begin="00:05:21.855" end="00:05:23.457">GILLETTE: Naw,<tt:br/>just back for a visit.</tt:p>
+            <tt:p begin="00:05:23.491" end="00:05:25.626">PONDER: Well,<tt:br/>make sure it's a short one.</tt:p>
+            <tt:p begin="00:05:25.659" end="00:05:27.561">'Cause believe me when I tell<tt:br/>you,</tt:p>
+            <tt:p begin="00:05:27.595" end="00:05:30.364">ain't nothin you can do to help<tt:br/>him.</tt:p>
+            <tt:p begin="00:05:30.398" end="00:05:33.601">Y'all drive safe now, hear?</tt:p>
+            <tt:p begin="00:05:33.634" end="00:05:36.036">ARCHER: Man, is it me or is he<tt:br/>super-menacing?</tt:p>
+            <tt:p begin="00:05:36.069" end="00:05:37.471">CHERYL/CAROL: Or super-hot?</tt:p>
+            <tt:p begin="00:05:37.505" end="00:05:38.606">GILLETTE: Hey! Remember? !</tt:p>
+            <tt:p begin="00:05:38.639" end="00:05:39.840">We're married? !</tt:p>
+            <tt:p begin="00:05:39.873" end="00:05:42.075">CHERYL/CAROL: Not until it's<tt:br/>consummated.</tt:p>
+            <tt:p begin="00:05:42.109" end="00:05:48.716">ARCHER: I'll drive if you wanna<tt:br/>hop back there and um<tt:br/>enter her.</tt:p>
+            <tt:p begin="00:05:48.749" end="00:05:51.919">CYRIL: So not only is Ray not<tt:br/>paralyzed, but his brother<tt:br/>is a drug dealer --</tt:p>
+            <tt:p begin="00:05:51.952" end="00:05:53.020">LANA: Farmer.</tt:p>
+            <tt:p begin="00:05:53.053" end="00:05:54.988">CYRIL: And he and Archer are in<tt:br/>West Virginia doing...</tt:p>
+            <tt:p begin="00:05:55.022" end="00:05:56.123">what the heck are they doing?</tt:p>
+            <tt:p begin="00:05:56.156" end="00:05:58.125">PAM: Fighting a war on<tt:br/>the war on drugs?</tt:p>
+            <tt:p begin="00:05:58.158" end="00:05:59.126">LANA: God damn it.</tt:p>
+            <tt:p begin="00:05:59.159" end="00:06:01.128">PAM: What,<tt:br/>you shoulda looked under the<tt:br/>stalls!</tt:p>
+            <tt:p begin="00:06:01.161" end="00:06:02.129">LANA: I did!</tt:p>
+            <tt:p begin="00:06:02.162" end="00:06:03.230">Wait, I did...</tt:p>
+            <tt:p begin="00:06:03.263" end="00:06:05.633">PAM: Yeah,<tt:br/>I usually put my feet up on the<tt:br/>grab bars.</tt:p>
+            <tt:p begin="00:06:05.666" end="00:06:07.935">LANA: Ugh, anyway,<tt:br/>this is all obviously</tt:p>
+            <tt:p begin="00:06:07.968" end="00:06:10.671">unauthorized,<tt:br/>but I promised Ray we'd cover<tt:br/>for him, so...</tt:p>
+            <tt:p begin="00:06:10.704" end="00:06:11.939">CYRIL: Oh, no!</tt:p>
+            <tt:p begin="00:06:11.972" end="00:06:14.675">I'm not getting mixed up in<tt:br/>this,<tt:br/>and if Ms. Archer asks me --</tt:p>
+            <tt:p begin="00:06:14.708" end="00:06:15.909">MALORY: Why is it...</tt:p>
+            <tt:p begin="00:06:15.943" end="00:06:18.111">That every time I need<tt:br/>to use the restroom,</tt:p>
+            <tt:p begin="00:06:18.145" end="00:06:21.181">you people are in here skulking<tt:br/>around looking guilty?</tt:p>
+            <tt:p begin="00:06:21.214" end="00:06:23.183">PAM: Uh...</tt:p>
+            <tt:p begin="00:06:23.216" end="00:06:24.952">CYRIL: I'll tell you why they<tt:br/>look guilty...</tt:p>
+            <tt:p begin="00:06:24.985" end="00:06:26.119">LANA: [small ahem]</tt:p>
+            <tt:p begin="00:06:26.153" end="00:06:29.657">CYRIL: Because they, or we<tt:br/>I guess, don't know how to tell</tt:p>
+            <tt:p begin="00:06:29.690" end="00:06:33.861">you that the break-in was a lot<tt:br/>worse than we thought.</tt:p>
+            <tt:p begin="00:06:33.894" end="00:06:34.995">MALORY: How much worse? !</tt:p>
+            <tt:p begin="00:06:35.028" end="00:06:37.831">CYRIL: Uh, well,<tt:br/>it's really hard to say...</tt:p>
+            <tt:p begin="00:06:37.865" end="00:06:41.134">LANA: But rest assured we are on<tt:br/>it, and Archer is on it, and...</tt:p>
+            <tt:p begin="00:06:41.168" end="00:06:42.035">we're on it.</tt:p>
+            <tt:p begin="00:06:42.069" end="00:06:44.972">MALORY: Well I want an update in<tt:br/>one hour!</tt:p>
+            <tt:p begin="00:06:45.005" end="00:06:47.975">And why does it always<tt:br/>reek of paint?</tt:p>
+            <tt:p begin="00:06:48.008" end="00:06:49.543">GILLETTE: Well, there she is...</tt:p>
+            <tt:p begin="00:06:49.577" end="00:06:50.811">The old homestead.</tt:p>
+            <tt:p begin="00:06:50.844" end="00:06:52.045">CHERYL/CAROL: Jesus,<tt:br/>what's my dowry?</tt:p>
+            <tt:p begin="00:06:52.079" end="00:06:53.080">Tetanus?</tt:p>
+            <tt:p begin="00:06:53.113" end="00:06:54.715">GILLETTE: Ya know what?</tt:p>
+            <tt:p begin="00:06:54.748" end="00:06:57.885">ARCHER: Jesus<tt:br/>RANDY: That's far enough,<tt:br/>you sonsabitches!</tt:p>
+            <tt:p begin="00:06:57.918" end="00:06:58.919">GILLETTE: Randy, it's me! Ray!</tt:p>
+            <tt:p begin="00:06:58.952" end="00:07:00.120">Your brother!</tt:p>
+            <tt:p begin="00:07:00.153" end="00:07:01.088">RANDY: Don't you move.</tt:p>
+            <tt:p begin="00:07:01.121" end="00:07:02.523">Don't move a inch.</tt:p>
+            <tt:p begin="00:07:02.556" end="00:07:03.857">GILLETTE: Wh-? What do you mean<tt:br/>&quot;don't move&quot;? !</tt:p>
+            <tt:p begin="00:07:03.891" end="00:07:05.759">I came home to help,<tt:br/>you asshole!</tt:p>
+            <tt:p begin="00:07:05.793" end="00:07:08.529">RANDY: Well you ain't gonna be<tt:br/>much help with your legs blown<tt:br/>off.</tt:p>
+            <tt:p begin="00:07:08.562" end="00:07:10.664">There's mines all in the yard.</tt:p>
+            <tt:p begin="00:07:10.698" end="00:07:14.735">ARCHER: Ray, to be honest,<tt:br/>I'm having second thoughts about<tt:br/>this whole thing --</tt:p>
+            <tt:p begin="00:07:14.768" end="00:07:15.736">CHERYL/CAROL: Get in line.</tt:p>
+            <tt:p begin="00:07:15.769" end="00:07:17.137">JANELLE: Randy Gillet,<tt:br/>where are your manners? !</tt:p>
+            <tt:p begin="00:07:17.170" end="00:07:21.174">Get these folks the map<tt:br/>of that damn minefield so they<tt:br/>can come inside.</tt:p>
+            <tt:p begin="00:07:21.208" end="00:07:24.077">I got some nice<tt:br/>hot pie for 'em...</tt:p>
+            <tt:p begin="00:07:24.111" end="00:07:26.580">ARCHER: Okay,<tt:br/>now I'm having third thoughts.</tt:p>
+            <tt:p begin="00:07:26.614" end="00:07:27.848">GILLETTE: Please don't.</tt:p>
+            <tt:p begin="00:07:27.881" end="00:07:29.850">ARCHER: It would be rude<tt:br/>not to eat her pie.</tt:p>
+            <tt:p begin="00:07:29.883" end="00:07:33.721">Which I assume is not only hot<tt:br/>but also moist.</tt:p>
+            <tt:p begin="00:07:33.754" end="00:07:35.455">Although hopefully not flaky.</tt:p>
+            <tt:p begin="00:07:38.225" end="00:07:40.193">RANDY: And so E.Z. gimme<tt:br/>a choice.</tt:p>
+            <tt:p begin="00:07:40.227" end="00:07:42.730">Give him my whole dang operation<tt:br/>and get outta the holler</tt:p>
+            <tt:p begin="00:07:42.763" end="00:07:44.665">by sundown,<tt:br/>or else him and his boys'll just</tt:p>
+            <tt:p begin="00:07:44.698" end="00:07:46.967">take it,<tt:br/>and grind me up into fertilizer.</tt:p>
+            <tt:p begin="00:07:47.000" end="00:07:47.768">GILLETTE: Well --</tt:p>
+            <tt:p begin="00:07:47.801" end="00:07:49.603">RANDY: But listen to me,<tt:br/>just yappin.</tt:p>
+            <tt:p begin="00:07:49.637" end="00:07:52.272">Tell me bout this pretty new<tt:br/>wife of yours!</tt:p>
+            <tt:p begin="00:07:52.305" end="00:07:56.243">'Cause I'm kinda<tt:br/>surprised to see you married.</tt:p>
+            <tt:p begin="00:07:56.276" end="00:07:58.011">Homeboy knows what I'm talking<tt:br/>about!</tt:p>
+            <tt:p begin="00:07:58.045" end="00:07:58.912">GILLETTE: He does?</tt:p>
+            <tt:p begin="00:07:58.946" end="00:08:02.215">RANDY: A New York City interior<tt:br/>decorator?</tt:p>
+            <tt:p begin="00:08:02.249" end="00:08:03.751">ARCHER: That's what you went<tt:br/>with?</tt:p>
+            <tt:p begin="00:08:03.784" end="00:08:06.153">GILLETTE: Betcher up to yer<tt:br/>eyeballs in poontang!</tt:p>
+            <tt:p begin="00:08:06.186" end="00:08:09.690">GILLETTE: Oh. Yeah, just so many<tt:br/>vaginas.</tt:p>
+            <tt:p begin="00:08:09.723" end="00:08:12.225">RANDY: No offense, darlin...</tt:p>
+            <tt:p begin="00:08:12.259" end="00:08:13.827">CHERYL/CAROL: None taken.</tt:p>
+            <tt:p begin="00:08:13.861" end="00:08:15.563">JANELLE: Want s'more of my pie,<tt:br/>Mr. ARCHER:?</tt:p>
+            <tt:p begin="00:08:15.596" end="00:08:17.064">GILLETTE: No!</tt:p>
+            <tt:p begin="00:08:17.097" end="00:08:21.234">ARCHER: Yes! Thank you, Janelle,<tt:br/>I would love more of your moist<tt:br/>and hot pie.</tt:p>
+            <tt:p begin="00:08:21.268" end="00:08:24.204">JANELLE: Well then open<tt:br/>wiiide...</tt:p>
+            <tt:p begin="00:08:24.237" end="00:08:26.974">RANDY: Folks, we can't set<tt:br/>around eatin her pie all day.</tt:p>
+            <tt:p begin="00:08:27.007" end="00:08:28.542">We got a situation here.</tt:p>
+            <tt:p begin="00:08:28.576" end="00:08:32.212">LANA: So Krieger's running the<tt:br/>logs to see if any files were<tt:br/>accessed last night.</tt:p>
+            <tt:p begin="00:08:32.245" end="00:08:34.014">MALORY: Who the hell could have<tt:br/>done this?</tt:p>
+            <tt:p begin="00:08:34.047" end="00:08:34.915">LANA: Who knows?</tt:p>
+            <tt:p begin="00:08:34.948" end="00:08:37.084">ODIN, the KGB, um...</tt:p>
+            <tt:p begin="00:08:37.117" end="00:08:38.619">KRIEGER: Actually --</tt:p>
+            <tt:p begin="00:08:38.652" end="00:08:41.221">LANA: But this'll take hours so<tt:br/>we'll just bring you a report<tt:br/>when he's done!</tt:p>
+            <tt:p begin="00:08:41.254" end="00:08:41.955">KRIEGER: Actually --</tt:p>
+            <tt:p begin="00:08:41.989" end="00:08:42.723">LANA: Krieger!</tt:p>
+            <tt:p begin="00:08:42.756" end="00:08:43.624">More type, less gripe.</tt:p>
+            <tt:p begin="00:08:43.657" end="00:08:45.225">MALORY: And has anyone heard<tt:br/>from Sterling?</tt:p>
+            <tt:p begin="00:08:45.258" end="00:08:46.326">LANA: No, yes!</tt:p>
+            <tt:p begin="00:08:46.359" end="00:08:48.228">He's out...</tt:p>
+            <tt:p begin="00:08:48.261" end="00:08:49.162">on the case.</tt:p>
+            <tt:p begin="00:08:49.196" end="00:08:52.265">MALORY: Well,<tt:br/>I want some answers, and soon.</tt:p>
+            <tt:p begin="00:08:52.299" end="00:08:56.604">KRIEGER: And since there's<tt:br/>nothing in these logs,<tt:br/>I too would like some answers.</tt:p>
+            <tt:p begin="00:08:56.637" end="00:08:59.072">LANA: So, here's the thing...</tt:p>
+            <tt:p begin="00:08:59.106" end="00:09:02.676">RANDY: If I can just get what I<tt:br/>got to my distributor,<tt:br/>I can retire.</tt:p>
+            <tt:p begin="00:09:02.710" end="00:09:04.645">Maybe move up to New York City<tt:br/>with you.</tt:p>
+            <tt:p begin="00:09:04.678" end="00:09:06.246">GILLETTE: I -- what, where,<tt:br/>do what? !</tt:p>
+            <tt:p begin="00:09:06.279" end="00:09:07.881">RANDY: I'm kiddin.</tt:p>
+            <tt:p begin="00:09:07.915" end="00:09:10.317">Last thing you want's your<tt:br/>redneck brother hangin around...</tt:p>
+            <tt:p begin="00:09:10.350" end="00:09:12.786">GILLETTE: No, it's not that,<tt:br/>it's --</tt:p>
+            <tt:p begin="00:09:12.820" end="00:09:14.354">RANDY: Plus I'd rather<tt:br/>kill myself.</tt:p>
+            <tt:p begin="00:09:14.387" end="00:09:17.591">Nothin up there but a buncha<tt:br/>you-know-whats.</tt:p>
+            <tt:p begin="00:09:17.625" end="00:09:18.892">GILLETTE: There are<tt:br/>a lot of 'em.</tt:p>
+            <tt:p begin="00:09:18.926" end="00:09:21.294">RANDY: Don't see how you<tt:br/>stand it.</tt:p>
+            <tt:p begin="00:09:21.328" end="00:09:23.230">Anyhow...</tt:p>
+            <tt:p begin="00:09:23.263" end="00:09:24.231">ARCHER: Dude.</tt:p>
+            <tt:p begin="00:09:24.264" end="00:09:25.132">CHERYL/CAROL: Awesome.</tt:p>
+            <tt:p begin="00:09:25.165" end="00:09:26.099">GILLETTE: Sweet gracious God.</tt:p>
+            <tt:p begin="00:09:26.133" end="00:09:27.300">RANDY: This here's what E.Z.</tt:p>
+            <tt:p begin="00:09:27.334" end="00:09:28.736">wants.</tt:p>
+            <tt:p begin="00:09:28.769" end="00:09:30.704">GILLETTE: How did you<tt:br/>afford all this? !</tt:p>
+            <tt:p begin="00:09:30.738" end="00:09:32.272">RANDY: Farm subsidy.</tt:p>
+            <tt:p begin="00:09:32.305" end="00:09:34.908">JANELLE: He told the government<tt:br/>he's growin corn,<tt:br/>for that high-flooktose syrup.</tt:p>
+            <tt:p begin="00:09:34.942" end="00:09:37.678">RANDY: But damned if I'm gonna<tt:br/>contribute to the obesity<tt:br/>epidemic.</tt:p>
+            <tt:p begin="00:09:37.711" end="00:09:39.079">ARCHER: A man's gotta have a<tt:br/>code.</tt:p>
+            <tt:p begin="00:09:39.112" end="00:09:40.180">RANDY: Right?</tt:p>
+            <tt:p begin="00:09:40.213" end="00:09:42.349">I put my heart and soul into<tt:br/>this,</tt:p>
+            <tt:p begin="00:09:42.382" end="00:09:46.920">but now it's either roll over<tt:br/>for that sheriff like a dog,<tt:br/>or fight.</tt:p>
+            <tt:p begin="00:09:46.954" end="00:09:49.022">Like a different,<tt:br/>better dog.</tt:p>
+            <tt:p begin="00:09:49.056" end="00:09:49.890">GILLETTE: So is it just E.Z.</tt:p>
+            <tt:p begin="00:09:49.923" end="00:09:50.791">coming, or --</tt:p>
+            <tt:p begin="00:09:50.824" end="00:09:53.293">RANDY: No, the whole sheriff's<tt:br/>department.</tt:p>
+            <tt:p begin="00:09:53.326" end="00:09:57.064">I'd say twenty men, AR-15's,<tt:br/>maybe grenades, uh...</tt:p>
+            <tt:p begin="00:09:57.097" end="00:09:58.065">oh, dogs.</tt:p>
+            <tt:p begin="00:09:58.098" end="00:09:58.932">Duh.</tt:p>
+            <tt:p begin="00:09:58.966" end="00:10:00.968">ARCHER: Ray,<tt:br/>I'm having fourth thoughts.</tt:p>
+            <tt:p begin="00:10:01.001" end="00:10:03.771">RANDY: Well I got a few tricks<tt:br/>up my sleeve.</tt:p>
+            <tt:p begin="00:10:03.804" end="00:10:07.808">Janelle, why dontcha take<tt:br/>Mr. Archer and show him<tt:br/>the defensive perimeter.</tt:p>
+            <tt:p begin="00:10:07.841" end="00:10:09.076">JANELLE: I'd be delighted...</tt:p>
+            <tt:p begin="00:10:09.109" end="00:10:10.678">GILLETTE: No, no,<tt:br/>wait a second --</tt:p>
+            <tt:p begin="00:10:10.711" end="00:10:11.178">ARCHER: Fifth thoughts!</tt:p>
+            <tt:p begin="00:10:11.211" end="00:10:11.979">GILLETTE: Archer!</tt:p>
+            <tt:p begin="00:10:12.012" end="00:10:14.014">RANDY: Don't worry,<tt:br/>she won't bite.</tt:p>
+            <tt:p begin="00:10:14.047" end="00:10:16.116">But speakin of,<tt:br/>it's about suppertime.</tt:p>
+            <tt:p begin="00:10:16.149" end="00:10:17.785">You still partial to<tt:br/>fried chicken?</tt:p>
+            <tt:p begin="00:10:17.818" end="00:10:18.819">GILLETTE: I --</tt:p>
+            <tt:p begin="00:10:18.852" end="00:10:19.987">CHERYL/CAROL: I'll cook it!</tt:p>
+            <tt:p begin="00:10:20.020" end="00:10:22.389">If somebody shaves it or<tt:br/>whatever.</tt:p>
+            <tt:p begin="00:10:22.422" end="00:10:23.390">RANDY: What in the...?</tt:p>
+            <tt:p begin="00:10:23.423" end="00:10:24.692">Janelle? ! Janelle !</tt:p>
+            <tt:p begin="00:10:24.725" end="00:10:26.026">GILLETTE: Randy! Wait!</tt:p>
+            <tt:p begin="00:10:26.059" end="00:10:27.394">Dukes!</tt:p>
+            <tt:p begin="00:10:27.427" end="00:10:31.164">CHERYL/CAROL: So is there like,<tt:br/>special chickenshaving cream,<tt:br/>or...?</tt:p>
+            <tt:p begin="00:10:31.198" end="00:10:33.300">GILLETTE: I -- first of all,<tt:br/>that's a rooster!</tt:p>
+            <tt:p begin="00:10:33.333" end="00:10:35.435">CHERYL/CAROL: Yeah,<tt:br/>like Kenny Rogers' Roosters --</tt:p>
+            <tt:p begin="00:10:35.468" end="00:10:36.036">GILLETTE: Roasters!</tt:p>
+            <tt:p begin="00:10:36.069" end="00:10:38.171">Randy, wait!</tt:p>
+            <tt:p begin="00:10:38.205" end="00:10:39.773">CHERYL/CAROL: Bawk bawk.</tt:p>
+            <tt:p begin="00:10:39.807" end="00:10:41.775">RANDY: And just what the hell<tt:br/>is this? !</tt:p>
+            <tt:p begin="00:10:41.809" end="00:10:43.844">ARCHER: Well,<tt:br/>I'll tell you what it's not,</tt:p>
+            <tt:p begin="00:10:43.877" end="00:10:46.747">which is, um,<tt:br/>what it looks like.</tt:p>
+            <tt:p begin="00:10:46.780" end="00:10:49.282">JANELLE: I got caught on the<tt:br/>fence, then Mr. Archer tried<tt:br/>to get me loose, and --</tt:p>
+            <tt:p begin="00:10:49.316" end="00:10:52.285">RANDY: You better git yer<tt:br/>ass in that house.</tt:p>
+            <tt:p begin="00:10:52.319" end="00:10:54.722">Do you wanna have sex<tt:br/>with my wife?</tt:p>
+            <tt:p begin="00:10:54.755" end="00:10:57.057">ARCHER: No I swear,<tt:br/>this was just an</tt:p>
+            <tt:p begin="00:10:57.090" end="00:10:59.359">extremely unlikely mishap with<tt:br/>the barbed wire.</tt:p>
+            <tt:p begin="00:10:59.392" end="00:11:02.696">RANDY: 'Cause we would be<tt:br/>amenable to that.</tt:p>
+            <tt:p begin="00:11:02.730" end="00:11:03.330">Well?</tt:p>
+            <tt:p begin="00:11:03.363" end="00:11:04.732">Why you look so nonplussed?</tt:p>
+            <tt:p begin="00:11:04.765" end="00:11:08.168">ARCHER: Because I wasn't sure if<tt:br/>you knew what amenable actually<tt:br/>meant.</tt:p>
+            <tt:p begin="00:11:08.201" end="00:11:10.704">Until you followed it up with<tt:br/>nonplussed.</tt:p>
+            <tt:p begin="00:11:10.738" end="00:11:13.173">RANDY: See, me and Janelle<tt:br/>got us one of them<tt:br/>open marriages?</tt:p>
+            <tt:p begin="00:11:13.206" end="00:11:14.708">Like in France?</tt:p>
+            <tt:p begin="00:11:14.742" end="00:11:16.209">ARCHER: Oh right, in Europe.</tt:p>
+            <tt:p begin="00:11:16.243" end="00:11:20.380">RANDY: And I would really like<tt:br/>that open marriage to include<tt:br/>Ray's new wife.</tt:p>
+            <tt:p begin="00:11:20.413" end="00:11:21.181">ARCHER: What? !</tt:p>
+            <tt:p begin="00:11:21.214" end="00:11:22.482">RANDY: Now look,<tt:br/>that's in the bible.</tt:p>
+            <tt:p begin="00:11:22.515" end="00:11:23.350">ARCHER: Really?</tt:p>
+            <tt:p begin="00:11:23.383" end="00:11:24.918">RANDY: Genesis thirty-eight,<tt:br/>verse eight.</tt:p>
+            <tt:p begin="00:11:24.952" end="00:11:26.653">ARCHER: Really?</tt:p>
+            <tt:p begin="00:11:26.686" end="00:11:29.289">RANDY: But even though Ray used<tt:br/>to be a preacher he was never<tt:br/>big on the Old Testament --</tt:p>
+            <tt:p begin="00:11:29.322" end="00:11:30.157">ARCHER: I could see that.</tt:p>
+            <tt:p begin="00:11:30.190" end="00:11:32.492">RANDY: So I doubt he'd wanna<tt:br/>reciprocate.</tt:p>
+            <tt:p begin="00:11:32.525" end="00:11:36.964">So I just need you to keep him<tt:br/>busy while I have sex with his<tt:br/>wife...</tt:p>
+            <tt:p begin="00:11:36.997" end="00:11:38.832">ARCHER: And then I get to have<tt:br/>sex with --</tt:p>
+            <tt:p begin="00:11:38.866" end="00:11:40.433">RANDY: My wife,<tt:br/>you son of a bitch!</tt:p>
+            <tt:p begin="00:11:40.467" end="00:11:42.102">ARCHER: Yeah, I think I got --</tt:p>
+            <tt:p begin="00:11:42.135" end="00:11:43.737">RANDY: So where the hell's<tt:br/>your damn pants? !</tt:p>
+            <tt:p begin="00:11:43.771" end="00:11:44.772">ARCHER: They're on the fence.</tt:p>
+            <tt:p begin="00:11:44.805" end="00:11:45.939">GILLETTE: Goddammit, Archer!</tt:p>
+            <tt:p begin="00:11:45.973" end="00:11:46.874">ARCHER: Wait, hang on --</tt:p>
+            <tt:p begin="00:11:46.907" end="00:11:47.908">GILLETTE: Archer shut up!</tt:p>
+            <tt:p begin="00:11:47.941" end="00:11:49.943">RANDY: Ray, he was --</tt:p>
+            <tt:p begin="00:11:49.977" end="00:11:52.112">and poor Janelle was --</tt:p>
+            <tt:p begin="00:11:52.145" end="00:11:55.048">I gotta go make sure<tt:br/>she's okay!</tt:p>
+            <tt:p begin="00:11:55.082" end="00:11:57.484">And you better have a talk<tt:br/>with him!</tt:p>
+            <tt:p begin="00:11:57.517" end="00:11:59.219">GILLETTE: I will, Randy,<tt:br/>I'm sorry.</tt:p>
+            <tt:p begin="00:11:59.252" end="00:12:00.754">RANDY: A good long talk.</tt:p>
+            <tt:p begin="00:12:00.788" end="00:12:04.758">Like, talk for about forty,<tt:br/>forty-five minutes.</tt:p>
+            <tt:p begin="00:12:04.792" end="00:12:05.525">ARCHER: Okay, so --</tt:p>
+            <tt:p begin="00:12:05.558" end="00:12:06.994">GILLETTE: Stop!</tt:p>
+            <tt:p begin="00:12:07.027" end="00:12:12.132">I have never, in my entire life,<tt:br/>been as disgusted as I am<tt:br/>at this moment.</tt:p>
+            <tt:p begin="00:12:12.165" end="00:12:14.101">ARCHER: Well,<tt:br/>give it a minute...</tt:p>
+            <tt:p begin="00:12:14.134" end="00:12:16.469">MALORY: What do you mean,<tt:br/>a cyber-attack? !</tt:p>
+            <tt:p begin="00:12:16.503" end="00:12:20.540">KRIEGER: Apparently the<tt:br/>intruders downloaded a virus<tt:br/>into the mainframe...</tt:p>
+            <tt:p begin="00:12:20.573" end="00:12:22.910">So this all needs to come out.</tt:p>
+            <tt:p begin="00:12:22.943" end="00:12:24.845">CYRIL: The mainframe is like<tt:br/>Krieger's baby.</tt:p>
+            <tt:p begin="00:12:24.878" end="00:12:26.213">How'd you get him to go in on<tt:br/>this?</tt:p>
+            <tt:p begin="00:12:26.246" end="00:12:30.017">LANA: I told him I'd get Pam<tt:br/>to fight in his Ultimate Bum<tt:br/>Shockfights.</tt:p>
+            <tt:p begin="00:12:30.050" end="00:12:33.486">CYRIL: Is it called that because<tt:br/>paying homeless men to fight is<tt:br/>shocking?</tt:p>
+            <tt:p begin="00:12:33.520" end="00:12:35.355">LANA: Noop.</tt:p>
+            <tt:p begin="00:12:35.388" end="00:12:38.058">PAM: Well, hello there,<tt:br/>game-changer.</tt:p>
+            <tt:p begin="00:12:38.091" end="00:12:39.459">GILLETTE: He what? !</tt:p>
+            <tt:p begin="00:12:39.492" end="00:12:41.094">ARCHER: Yeah,<tt:br/>apparently it's in the bible?</tt:p>
+            <tt:p begin="00:12:41.128" end="00:12:42.262">GILLETTE: No, it isn't!</tt:p>
+            <tt:p begin="00:12:42.295" end="00:12:44.464">ARCHER: It did sound too cool<tt:br/>for the bible.</tt:p>
+            <tt:p begin="00:12:44.497" end="00:12:45.632">But why do you care?</tt:p>
+            <tt:p begin="00:12:45.665" end="00:12:48.836">A, you're gay, and B, you<tt:br/>and Carol aren't really married.</tt:p>
+            <tt:p begin="00:12:48.869" end="00:12:50.337">GILLETTE: But Randy thinks<tt:br/>we are!</tt:p>
+            <tt:p begin="00:12:50.370" end="00:12:51.504">ARCHER: Yeah, but --</tt:p>
+            <tt:p begin="00:12:51.538" end="00:12:53.073">that's actually a really<tt:br/>good point.</tt:p>
+            <tt:p begin="00:12:53.106" end="00:12:55.809">GILLETTE: I'm gonna beat him<tt:br/>like a rented mule!</tt:p>
+            <tt:p begin="00:12:55.843" end="00:12:58.345">ARCHER: Now that sounds like<tt:br/>something from the bible.</tt:p>
+            <tt:p begin="00:12:58.378" end="00:12:59.046">RANDY: She in there?</tt:p>
+            <tt:p begin="00:12:59.079" end="00:13:00.380">JANELLE: Yeah, where's mine at?</tt:p>
+            <tt:p begin="00:13:00.413" end="00:13:01.915">RANDY: Up'n the woods with Ray.</tt:p>
+            <tt:p begin="00:13:01.949" end="00:13:03.851">You gotta wait til later,<tt:br/>maybe after supper.</tt:p>
+            <tt:p begin="00:13:03.884" end="00:13:05.218">JANELLE: Remember, no kissing.</tt:p>
+            <tt:p begin="00:13:05.252" end="00:13:07.154">RANDY: I was --</tt:p>
+            <tt:p begin="00:13:07.187" end="00:13:08.989">that is the wierdest rule.</tt:p>
+            <tt:p begin="00:13:09.022" end="00:13:09.823">CHERYL/CAROL: I know, right?</tt:p>
+            <tt:p begin="00:13:09.857" end="00:13:11.224">Some honeymoon.</tt:p>
+            <tt:p begin="00:13:11.258" end="00:13:13.493">Oh hey, do I do the face?</tt:p>
+            <tt:p begin="00:13:13.526" end="00:13:16.096">MALORY: And where the hell is<tt:br/>Sterling when I need him?</tt:p>
+            <tt:p begin="00:13:16.129" end="00:13:18.031">ARCHER: You've reached<tt:br/>Sterling Archer's voicemail.</tt:p>
+            <tt:p begin="00:13:18.065" end="00:13:19.166">Please leave a message.</tt:p>
+            <tt:p begin="00:13:19.199" end="00:13:20.300">MALORY: Wh-?</tt:p>
+            <tt:p begin="00:13:20.333" end="00:13:23.136">Finally, a non-idiotic greeting!</tt:p>
+            <tt:p begin="00:13:23.170" end="00:13:27.374">Sterling, I want an update,<tt:br/>so call me the instant you get<tt:br/>this mess --</tt:p>
+            <tt:p begin="00:13:27.407" end="00:13:29.009">OPERATOR: The voice mailbox<tt:br/>of...</tt:p>
+            <tt:p begin="00:13:29.042" end="00:13:30.377">ARCHER: Sterling Archer.</tt:p>
+            <tt:p begin="00:13:30.410" end="00:13:32.312">OPERATOR: ...Is full. Good-bye.</tt:p>
+            <tt:p begin="00:13:32.345" end="00:13:37.617">ARCHER: Idiot.</tt:p>
+            <tt:p begin="00:13:37.650" end="00:13:40.220">JANELLE: C'mere,<tt:br/>you skinny-legged sumbitch!</tt:p>
+            <tt:p begin="00:13:40.253" end="00:13:41.588">Oh! Sorry.</tt:p>
+            <tt:p begin="00:13:41.621" end="00:13:43.590">ARCHER: That's okay,<tt:br/>they're not my best feature.</tt:p>
+            <tt:p begin="00:13:43.623" end="00:13:44.858">JANELLE: No, I was --</tt:p>
+            <tt:p begin="00:13:44.892" end="00:13:45.993">ARCHER: Not important.</tt:p>
+            <tt:p begin="00:13:46.026" end="00:13:48.228">What is important is that Randy<tt:br/>gave me a bible lesson?</tt:p>
+            <tt:p begin="00:13:48.261" end="00:13:49.296">JANELLE: Yeah?</tt:p>
+            <tt:p begin="00:13:49.329" end="00:13:50.998">And what'd the bible say?</tt:p>
+            <tt:p begin="00:13:51.031" end="00:13:54.134">ARCHER: Well, Janelle,<tt:br/>obviously the actual scripture</tt:p>
+            <tt:p begin="00:13:54.167" end="00:13:57.304">is open to interpretation,<tt:br/>but what I took away from it,</tt:p>
+            <tt:p begin="00:13:57.337" end="00:14:02.142">is that we should go in the barn<tt:br/>and screw our brains out on a<tt:br/>huge pile of marijuana.</tt:p>
+            <tt:p begin="00:14:02.175" end="00:14:05.345">JANELLE: It didn't say nothin<tt:br/>about a rubber, did it?</tt:p>
+            <tt:p begin="00:14:05.378" end="00:14:07.981">ARCHER: It did not!</tt:p>
+            <tt:p begin="00:14:08.015" end="00:14:09.282">JANELLE: Ray's still up in<tt:br/>the woods, right?</tt:p>
+            <tt:p begin="00:14:09.316" end="00:14:10.951">ARCHER: Uh... oh.</tt:p>
+            <tt:p begin="00:14:10.984" end="00:14:13.520">No, he actually said he wanted<tt:br/>to talk to --</tt:p>
+            <tt:p begin="00:14:13.553" end="00:14:14.454">GILLETTE: Randy!</tt:p>
+            <tt:p begin="00:14:14.487" end="00:14:16.489">RANDY: Whoa whoa whoa<tt:br/>now hang on a second!</tt:p>
+            <tt:p begin="00:14:16.523" end="00:14:18.625">GILLETTE: You wife-swappin<tt:br/>white trash piece of --</tt:p>
+            <tt:p begin="00:14:18.658" end="00:14:19.526">RANDY: Ray, no!</tt:p>
+            <tt:p begin="00:14:19.559" end="00:14:20.427">[Gunshots]</tt:p>
+            <tt:p begin="00:14:20.460" end="00:14:21.561">JANELLE: Randy!</tt:p>
+            <tt:p begin="00:14:21.594" end="00:14:23.563">ARCHER: Yes. Randy.</tt:p>
+            <tt:p begin="00:14:23.596" end="00:14:27.300">Which I probably should've<tt:br/>mentioned earlier.</tt:p>
+            <tt:p begin="00:14:27.334" end="00:14:28.936">ARCHER: Don't judge me.</tt:p>
+            <tt:p begin="00:14:28.969" end="00:14:30.070">Food.</tt:p>
+            <tt:p begin="00:14:33.640" end="00:14:35.208">RANDY: You lucky I didn't kill<tt:br/>you.</tt:p>
+            <tt:p begin="00:14:35.242" end="00:14:36.643">GILLETTE: You're lucky I didn't<tt:br/>kill you!</tt:p>
+            <tt:p begin="00:14:36.676" end="00:14:38.411">While you were in bed<tt:br/>with my wife!</tt:p>
+            <tt:p begin="00:14:38.445" end="00:14:40.513">CHERYL/CAROL: Our marriage was<tt:br/>never consummated!</tt:p>
+            <tt:p begin="00:14:40.547" end="00:14:42.149">And I think we all know why...</tt:p>
+            <tt:p begin="00:14:42.182" end="00:14:43.416">GILLETTE: Stop!</tt:p>
+            <tt:p begin="00:14:43.450" end="00:14:45.385">ARCHER: Carol! Look, there's<tt:br/>plenty of blame to go<tt:br/>around here.</tt:p>
+            <tt:p begin="00:14:45.418" end="00:14:47.120">I mean, I don't think<tt:br/>I deserve any, but --</tt:p>
+            <tt:p begin="00:14:47.154" end="00:14:48.488">GILLETTE: You were gonna<tt:br/>screw her!</tt:p>
+            <tt:p begin="00:14:48.521" end="00:14:50.223">ARCHER: Yeah so,<tt:br/>is that still on, or...?</tt:p>
+            <tt:p begin="00:14:50.257" end="00:14:51.291">JANELLE: Wh-? !</tt:p>
+            <tt:p begin="00:14:51.324" end="00:14:51.959">ARCHER: Carol?</tt:p>
+            <tt:p begin="00:14:51.992" end="00:14:52.559">GILLETTE: Wh-? !</tt:p>
+            <tt:p begin="00:14:52.592" end="00:14:53.160">Well, sombody.</tt:p>
+            <tt:p begin="00:14:53.193" end="00:14:54.594">C'mon, promises were made.</tt:p>
+            <tt:p begin="00:14:54.627" end="00:14:57.998">RANDY: Just like you promised<tt:br/>Mama'n Deddy you'd always take<tt:br/>care of me!</tt:p>
+            <tt:p begin="00:14:58.031" end="00:14:59.699">GILLETTE: And here we go!</tt:p>
+            <tt:p begin="00:14:59.732" end="00:15:02.635">RANDY: But they weren't even<tt:br/>cold in the ground before you<tt:br/>were galivantin around Europe!</tt:p>
+            <tt:p begin="00:15:02.669" end="00:15:04.204">GILLETTE: It was the Olympics!</tt:p>
+            <tt:p begin="00:15:04.237" end="00:15:05.272">RANDY: Which you lost!</tt:p>
+            <tt:p begin="00:15:05.305" end="00:15:06.439">GILLETTE: Bronze medal!</tt:p>
+            <tt:p begin="00:15:06.473" end="00:15:07.374">Is not losing!</tt:p>
+            <tt:p begin="00:15:07.407" end="00:15:09.542">RANDY: And then it was off to<tt:br/>New York City!</tt:p>
+            <tt:p begin="00:15:09.576" end="00:15:10.978">ARCHER: You can just say<tt:br/>New York.</tt:p>
+            <tt:p begin="00:15:11.011" end="00:15:13.646">RANDY: To be a hoity-toity<tt:br/>interior decorator!</tt:p>
+            <tt:p begin="00:15:13.680" end="00:15:15.048">ARCHER: You can just say<tt:br/>decorator.</tt:p>
+            <tt:p begin="00:15:15.082" end="00:15:18.151">RANDY: Whatever,<tt:br/>I don't know why I thought he<tt:br/>could help save my farm!</tt:p>
+            <tt:p begin="00:15:18.185" end="00:15:19.652">Because your job? !</tt:p>
+            <tt:p begin="00:15:19.686" end="00:15:21.588">That's a job for sissies!</tt:p>
+            <tt:p begin="00:15:21.621" end="00:15:22.455">GILLETTE: Oh yeah? !</tt:p>
+            <tt:p begin="00:15:22.489" end="00:15:23.423">Well guess what!</tt:p>
+            <tt:p begin="00:15:23.456" end="00:15:24.524">ARCHER: Ray!</tt:p>
+            <tt:p begin="00:15:24.557" end="00:15:26.994">Is not an interior decorator.</tt:p>
+            <tt:p begin="00:15:27.027" end="00:15:28.228">GILLETTE: I -- no, ya know what?</tt:p>
+            <tt:p begin="00:15:28.261" end="00:15:29.829">ARCHER: Yes, shut up.</tt:p>
+            <tt:p begin="00:15:29.862" end="00:15:33.633">Randy, your seemingly effeminate<tt:br/>brother is actually a<tt:br/>highly-trained secret agent.</tt:p>
+            <tt:p begin="00:15:33.666" end="00:15:34.501">RANDY: Pshh!</tt:p>
+            <tt:p begin="00:15:34.534" end="00:15:37.137">Yeah, and I'm...</tt:p>
+            <tt:p begin="00:15:37.170" end="00:15:40.473">something equally hard to<tt:br/>believe is true.</tt:p>
+            <tt:p begin="00:15:40.507" end="00:15:41.074">CHERYL/CAROL: It is true.</tt:p>
+            <tt:p begin="00:15:41.108" end="00:15:42.475">That's why I married him.</tt:p>
+            <tt:p begin="00:15:42.509" end="00:15:43.476">Well, and the bronze medal.</tt:p>
+            <tt:p begin="00:15:43.510" end="00:15:44.377">JANELLE: Prove it.</tt:p>
+            <tt:p begin="00:15:44.411" end="00:15:46.279">ARCHER: What do you want,<tt:br/>a business card?</tt:p>
+            <tt:p begin="00:15:46.313" end="00:15:49.082">Where do you think he got a<tt:br/>duffel bag full of assault<tt:br/>weapons?</tt:p>
+            <tt:p begin="00:15:49.116" end="00:15:50.750">RANDY: Well, y'all do live<tt:br/>in New York City...</tt:p>
+            <tt:p begin="00:15:50.783" end="00:15:51.618">ARCHER: Just New York.</tt:p>
+            <tt:p begin="00:15:51.651" end="00:15:52.552">RANDY: Ray?</tt:p>
+            <tt:p begin="00:15:52.585" end="00:15:53.753">Is he tellin the truth?</tt:p>
+            <tt:p begin="00:15:53.786" end="00:15:55.722">GILLETTE: Mostly.</tt:p>
+            <tt:p begin="00:15:55.755" end="00:16:00.227">RANDY: So... cause you're a spy,<tt:br/>is that why you never come back<tt:br/>to visit?</tt:p>
+            <tt:p begin="00:16:00.260" end="00:16:02.195">GILLETTE: Mostly.</tt:p>
+            <tt:p begin="00:16:02.229" end="00:16:05.632">RANDY: And here all this time I<tt:br/>thought it was cause you were<tt:br/>ashamed of us.</tt:p>
+            <tt:p begin="00:16:05.665" end="00:16:08.201">GILLETTE: Oh c'mon now,<tt:br/>why would you think that?</tt:p>
+            <tt:p begin="00:16:08.235" end="00:16:10.170">RANDY: I found a buncha<tt:br/>your old diaries.</tt:p>
+            <tt:p begin="00:16:10.203" end="00:16:12.605">GILLETTE: Well, obviously not<tt:br/>the one with the Miss Piggy<tt:br/>on it.</tt:p>
+            <tt:p begin="00:16:12.639" end="00:16:14.207">RANDY: No,<tt:br/>Deddy said he burned that one.</tt:p>
+            <tt:p begin="00:16:14.241" end="00:16:15.508">GILLETTE: Ugh, great...</tt:p>
+            <tt:p begin="00:16:15.542" end="00:16:18.445">RANDY: And I'm sorry I screwed<tt:br/>your wife.</tt:p>
+            <tt:p begin="00:16:18.478" end="00:16:22.015">GILLETTE: And I'm sorry if I<tt:br/>ever made you feel like I was<tt:br/>ashamed of you.</tt:p>
+            <tt:p begin="00:16:22.049" end="00:16:24.784">RANDY: The important thing is<tt:br/>you came back to help me.</tt:p>
+            <tt:p begin="00:16:24.817" end="00:16:26.453">GILLETTE: C'mon,<tt:br/>that's what family's all ab --</tt:p>
+            <tt:p begin="00:16:26.486" end="00:16:27.354">[Explosion]</tt:p>
+            <tt:p begin="00:16:27.387" end="00:16:28.088">GILLETTE: Dukes!</tt:p>
+            <tt:p begin="00:16:28.121" end="00:16:28.655">ARCHER: Shit!</tt:p>
+            <tt:p begin="00:16:28.688" end="00:16:29.756">RANDY: Dammit!</tt:p>
+            <tt:p begin="00:16:29.789" end="00:16:31.058">PONDER: Randy Gillet!</tt:p>
+            <tt:p begin="00:16:31.091" end="00:16:33.593">This is Sheriff E.Z. Ponder!</tt:p>
+            <tt:p begin="00:16:33.626" end="00:16:35.728">You come out there with your<tt:br/>hands up!</tt:p>
+            <tt:p begin="00:16:35.762" end="00:16:37.730">RANDY: That sonuvabitch is<tt:br/>early!</tt:p>
+            <tt:p begin="00:16:37.764" end="00:16:40.767">ARCHER: I dunno, &quot;sundown&quot;<tt:br/>sounds more colloquial<tt:br/>than like, an actual --</tt:p>
+            <tt:p begin="00:16:40.800" end="00:16:43.803">RANDY: Well, if you wanna back<tt:br/>out on me, now's probly the time<tt:br/>to do that.</tt:p>
+            <tt:p begin="00:16:43.836" end="00:16:47.607">GILLETTE: Randy, you may be<tt:br/>a racist, homophobic,<tt:br/>wife-swapping drug dealer --</tt:p>
+            <tt:p begin="00:16:47.640" end="00:16:48.541">RANDY: Farmer.</tt:p>
+            <tt:p begin="00:16:48.575" end="00:16:51.211">GILLETTE: -- but nobody murders<tt:br/>my brother.</tt:p>
+            <tt:p begin="00:16:51.244" end="00:16:53.580">RANDY: The Gillet boys,<tt:br/>side by side!</tt:p>
+            <tt:p begin="00:16:53.613" end="00:16:55.382">Janelle, cover that<tt:br/>winder yonder!</tt:p>
+            <tt:p begin="00:16:55.415" end="00:17:00.153">Archer, you got a little<tt:br/>fight in ya?</tt:p>
+            <tt:p begin="00:17:00.187" end="00:17:02.822">ARCHER: [Burps]</tt:p>
+            <tt:p begin="00:17:02.855" end="00:17:06.126">Yeah, I'm pretty furious about<tt:br/>not getting to bang Janelle.</tt:p>
+            <tt:p begin="00:17:06.159" end="00:17:08.628">Plus I wanna unleash the power<tt:br/>of moonshine.</tt:p>
+            <tt:p begin="00:17:08.661" end="00:17:11.498">RANDY: Then grab a gun<tt:br/>and cover that winder!</tt:p>
+            <tt:p begin="00:17:11.531" end="00:17:12.565">CHERYL/CAROL: What should<tt:br/>I do? !</tt:p>
+            <tt:p begin="00:17:12.599" end="00:17:14.601">RANDY: I got some red hot pokers<tt:br/>layin in that fire!</tt:p>
+            <tt:p begin="00:17:14.634" end="00:17:17.770">If anybody gets hit,<tt:br/>you grab one and slap iron<tt:br/>to it!</tt:p>
+            <tt:p begin="00:17:17.804" end="00:17:19.139">CHERYL/CAROL: Awesome...</tt:p>
+            <tt:p begin="00:17:19.172" end="00:17:21.808">RANDY: And remember,<tt:br/>it's us or them.</tt:p>
+            <tt:p begin="00:17:21.841" end="00:17:23.676">So this is how it's gonna be,<tt:br/>huh? !</tt:p>
+            <tt:p begin="00:17:23.710" end="00:17:25.745">PONDER: Randy, I didn't want<tt:br/>it like this!</tt:p>
+            <tt:p begin="00:17:25.778" end="00:17:27.847">C'mon, I tried to reason<tt:br/>with ya!</tt:p>
+            <tt:p begin="00:17:27.880" end="00:17:31.484">RANDY: Reason with this!</tt:p>
+            <tt:p begin="00:17:31.518" end="00:17:32.319">PONDER: A'ight then!</tt:p>
+            <tt:p begin="00:17:32.352" end="00:17:33.120">Light 'em up!</tt:p>
+            <tt:p begin="00:17:37.490" end="00:17:38.125">JANELLE: Ow!</tt:p>
+            <tt:p begin="00:17:38.158" end="00:17:39.326">RANDY: Janelle! Are ya hit? !</tt:p>
+            <tt:p begin="00:17:39.359" end="00:17:40.327">JANELLE: Naw, a piece of --</tt:p>
+            <tt:p begin="00:17:40.360" end="00:17:44.531">waaaaaghhhhhh!</tt:p>
+            <tt:p begin="00:17:44.564" end="00:17:46.499">RANDY: Well don't just set<tt:br/>there! Shoot!</tt:p>
+            <tt:p begin="00:17:46.533" end="00:17:48.468">ARCHER: Ugh, I can't.</tt:p>
+            <tt:p begin="00:17:48.501" end="00:17:51.404">I feel sick, what's happening,<tt:br/>do I have cancer again?</tt:p>
+            <tt:p begin="00:17:51.438" end="00:17:52.672">GILLETTE: You drank too much!</tt:p>
+            <tt:p begin="00:17:52.705" end="00:17:54.641">ARCHER: That's a thing?</tt:p>
+            <tt:p begin="00:17:54.674" end="00:17:58.278">RANDY: Looks like it's just you<tt:br/>and me, brother.</tt:p>
+            <tt:p begin="00:17:58.311" end="00:18:00.647">PONDER: Randy, you don't have<tt:br/>to do this!</tt:p>
+            <tt:p begin="00:18:00.680" end="00:18:02.115">They'll go easy on you!</tt:p>
+            <tt:p begin="00:18:02.149" end="00:18:04.284">Hell, the judge is<tt:br/>my wife's cousin!</tt:p>
+            <tt:p begin="00:18:04.317" end="00:18:05.785">I bet he'll give you probation!</tt:p>
+            <tt:p begin="00:18:05.818" end="00:18:06.953">GILLETTE: Oh please!</tt:p>
+            <tt:p begin="00:18:06.986" end="00:18:09.689">You're gonna murder him so you<tt:br/>can take over his dope farm!</tt:p>
+            <tt:p begin="00:18:09.722" end="00:18:10.723">PONDER: What? !</tt:p>
+            <tt:p begin="00:18:10.757" end="00:18:12.125">Cease fire!</tt:p>
+            <tt:p begin="00:18:12.159" end="00:18:13.793">Hold your fire!</tt:p>
+            <tt:p begin="00:18:13.826" end="00:18:17.630">Why in the world would you think<tt:br/>that I, a peace officer</tt:p>
+            <tt:p begin="00:18:17.664" end="00:18:22.369">sworn to uphold the law,<tt:br/>would wanna murder your brother<tt:br/>to get his marijuana farm?</tt:p>
+            <tt:p begin="00:18:22.402" end="00:18:24.571">GILLETTE: I -- because that's<tt:br/>what Randy said!</tt:p>
+            <tt:p begin="00:18:24.604" end="00:18:26.373">PONDER: Randy's a drug dealer!</tt:p>
+            <tt:p begin="00:18:26.406" end="00:18:27.207">RANDY: Farmer!</tt:p>
+            <tt:p begin="00:18:27.240" end="00:18:28.808">PONDER: And I tried to get him<tt:br/>to quit.</tt:p>
+            <tt:p begin="00:18:28.841" end="00:18:31.444">I come to him as a friend,<tt:br/>I come to him as an elder of the</tt:p>
+            <tt:p begin="00:18:31.478" end="00:18:33.880">church,<tt:br/>but he wouldn't give it up.</tt:p>
+            <tt:p begin="00:18:33.913" end="00:18:36.483">And so now I gotta come to him<tt:br/>as the law.</tt:p>
+            <tt:p begin="00:18:36.516" end="00:18:39.519">And you accuse me of plannin a<tt:br/>murder? !</tt:p>
+            <tt:p begin="00:18:39.552" end="00:18:42.222">GILLETTE: Well, you did used to<tt:br/>pick on me a bunch.</tt:p>
+            <tt:p begin="00:18:42.255" end="00:18:45.792">PONDER: Well I'm sorry,<tt:br/>I was a dick in high school.</tt:p>
+            <tt:p begin="00:18:45.825" end="00:18:49.396">But you gotta admit,<tt:br/>you were extremely pick-on-able.</tt:p>
+            <tt:p begin="00:18:49.429" end="00:18:52.765">GILLETTE: There's nothing wrong<tt:br/>with Capezios!</tt:p>
+            <tt:p begin="00:18:52.799" end="00:18:55.735">Randy, is he telling the truth?</tt:p>
+            <tt:p begin="00:18:55.768" end="00:18:56.703">RANDY: Mostly.</tt:p>
+            <tt:p begin="00:18:56.736" end="00:18:57.570">GILLETTE: Randy!</tt:p>
+            <tt:p begin="00:18:57.604" end="00:18:59.672">You almost got me and my friends<tt:br/>killed!</tt:p>
+            <tt:p begin="00:18:59.706" end="00:19:02.409">Because you could never be<tt:br/>bothered to get a real job!</tt:p>
+            <tt:p begin="00:19:02.442" end="00:19:03.310">RANDY: Well? !</tt:p>
+            <tt:p begin="00:19:03.343" end="00:19:05.178">I only got to ninth grade!</tt:p>
+            <tt:p begin="00:19:05.212" end="00:19:07.314">How the hell else was I supposed<tt:br/>to earn a livin? !</tt:p>
+            <tt:p begin="00:19:07.347" end="00:19:08.715">Diggin sign? !</tt:p>
+            <tt:p begin="00:19:08.748" end="00:19:12.185">GILLETTE: There is a perfectly<tt:br/>good coal mine not a half-mile<tt:br/>from here.</tt:p>
+            <tt:p begin="00:19:12.219" end="00:19:16.223">And maybe you wouldn't get rich,<tt:br/>but at least it's an honest<tt:br/>living.</tt:p>
+            <tt:p begin="00:19:16.256" end="00:19:18.425">RANDY: Yeah but it's hard.</tt:p>
+            <tt:p begin="00:19:18.458" end="00:19:20.393">GILLETTE: So's this.</tt:p>
+            <tt:p begin="00:19:20.427" end="00:19:20.960">JANELLE: Randy!</tt:p>
+            <tt:p begin="00:19:20.993" end="00:19:21.961">GILLETTE: Shut up.</tt:p>
+            <tt:p begin="00:19:21.994" end="00:19:23.196">And Mama never liked you.</tt:p>
+            <tt:p begin="00:19:23.230" end="00:19:24.297">Easy, don't shoot!</tt:p>
+            <tt:p begin="00:19:24.331" end="00:19:26.499">I'm comin out!</tt:p>
+            <tt:p begin="00:19:26.533" end="00:19:29.236">ARCHER: Phrasing.</tt:p>
+            <tt:p begin="00:19:29.269" end="00:19:31.538">PAM: Here's the files<tt:br/>you had me pull.</tt:p>
+            <tt:p begin="00:19:31.571" end="00:19:32.305">MALORY: Oww!</tt:p>
+            <tt:p begin="00:19:32.339" end="00:19:34.307">What the hell<tt:br/>is on your hands? !</tt:p>
+            <tt:p begin="00:19:34.341" end="00:19:35.875">PAM: My bum-zappers.</tt:p>
+            <tt:p begin="00:19:35.908" end="00:19:38.311">For the shockfights?</tt:p>
+            <tt:p begin="00:19:38.345" end="00:19:40.813">That I'm doing for Krieger,<tt:br/>which is why he broke the</tt:p>
+            <tt:p begin="00:19:40.847" end="00:19:43.316">server, to help Lana cover<tt:br/>up that Ray and Mr. Archer</tt:p>
+            <tt:p begin="00:19:43.350" end="00:19:47.720">are killing cops for a<tt:br/>drug dealer and also Ray's<tt:br/>been faking that he's paralyzed?</tt:p>
+            <tt:p begin="00:19:47.754" end="00:19:50.290">MALORY: Lanaaaa!</tt:p>
+            <tt:p begin="00:19:50.323" end="00:19:53.593">PAM: Or are we<tt:br/>not telling you that?</tt:p>
+            <tt:p begin="00:19:53.626" end="00:19:55.962">CHERYL/CAROL: No,<tt:br/>thank God you guys got here</tt:p>
+            <tt:p begin="00:19:55.995" end="00:19:58.631">before they started killing<tt:br/>hostages!</tt:p>
+            <tt:p begin="00:19:58.665" end="00:20:00.300">Which would have been us!</tt:p>
+            <tt:p begin="00:20:00.333" end="00:20:01.534">As the hostages!</tt:p>
+            <tt:p begin="00:20:01.568" end="00:20:03.570">JANELLE: You lyin-ass bitch!</tt:p>
+            <tt:p begin="00:20:03.603" end="00:20:06.539">CHERYL/CAROL: She's mad because<tt:br/>I slept with Randy.</tt:p>
+            <tt:p begin="00:20:06.573" end="00:20:09.809">To get food for my fellow<tt:br/>hostages.</tt:p>
+            <tt:p begin="00:20:09.842" end="00:20:12.979">RANDY: So, you really think<tt:br/>you can fix it so I just<tt:br/>get probation?</tt:p>
+            <tt:p begin="00:20:13.012" end="00:20:14.847">PONDER: Oh God no,<tt:br/>I just said that.</tt:p>
+            <tt:p begin="00:20:14.881" end="00:20:17.650">All these drugs and weapons,<tt:br/>attempted murder</tt:p>
+            <tt:p begin="00:20:17.684" end="00:20:20.753">of police officers,<tt:br/>you'll probably die in prison.</tt:p>
+            <tt:p begin="00:20:20.787" end="00:20:21.788">RANDY: Oh.</tt:p>
+            <tt:p begin="00:20:21.821" end="00:20:23.956">Will you come visit me?</tt:p>
+            <tt:p begin="00:20:23.990" end="00:20:25.258">GILLETTE: Probably not.</tt:p>
+            <tt:p begin="00:20:25.292" end="00:20:26.493">RANDY: Cause you're a spy<tt:br/>and all?</tt:p>
+            <tt:p begin="00:20:26.526" end="00:20:27.394">GILLETTE: Uh --</tt:p>
+            <tt:p begin="00:20:27.427" end="00:20:29.262">RANDY: He's a highly-trained<tt:br/>secret agent.</tt:p>
+            <tt:p begin="00:20:29.296" end="00:20:30.397">PONDER: Is that right.</tt:p>
+            <tt:p begin="00:20:30.430" end="00:20:32.365">Well listen here...</tt:p>
+            <tt:p begin="00:20:32.399" end="00:20:35.568">If you ever find your way<tt:br/>back up in the holler...</tt:p>
+            <tt:p begin="00:20:35.602" end="00:20:37.003">gimme a call.</tt:p>
+            <tt:p begin="00:20:37.036" end="00:20:38.538">GILLETTE: Uh --</tt:p>
+            <tt:p begin="00:20:38.571" end="00:20:42.475">PONDER: I think I got myself an<tt:br/>extra pair of Capezios layin<tt:br/>around somewheres.</tt:p>
+            <tt:p begin="00:20:42.509" end="00:20:44.277">GILLETTE: Uh-? !</tt:p>
+            <tt:p begin="00:20:44.311" end="00:20:46.313">O.K. - should I just 911?</tt:p>
+            <tt:p begin="00:20:46.346" end="00:20:48.815">PONDER: A'ight,<tt:br/>let's move em out!</tt:p>
+            <tt:p begin="00:20:48.848" end="00:20:49.682">ARCHER: Well that's just great.</tt:p>
+            <tt:p begin="00:20:49.716" end="00:20:54.487">Everybody gets laid in the<tt:br/>holler but me.</tt:p>
+            <tt:p begin="00:20:54.521" end="00:20:56.423">Well, and you, I guess.</tt:p>
+            <tt:p begin="00:20:56.456" end="00:20:59.058">Since I ate your husband.</tt:p>
+            <tt:p begin="00:20:59.091" end="00:21:01.761">Dan Lather</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

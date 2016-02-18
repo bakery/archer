@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:02.636" end="00:00:05.139">ARCHER: And so,<tt:br/>here is what I propose...</tt:p>
+            <tt:p begin="00:00:05.173" end="00:00:06.640">We finish these,<tt:br/>get some roadies,</tt:p>
+            <tt:p begin="00:00:06.674" end="00:00:11.579">head back to my huge penthouse,<tt:br/>drink chilled champagne served<tt:br/>by my valet...</tt:p>
+            <tt:p begin="00:00:11.612" end="00:00:13.781">WOMAN: Isn't it pronounced<tt:br/>valet?</tt:p>
+            <tt:p begin="00:00:13.814" end="00:00:16.284">ARCHER: Only if he's parking<tt:br/>your car,</tt:p>
+            <tt:p begin="00:00:16.317" end="00:00:20.221">then we slip into my new hot tub<tt:br/>and, ya know,<tt:br/>see where the evening takes us.</tt:p>
+            <tt:p begin="00:00:20.254" end="00:00:23.524">WOMAN: Well, I have to wait<tt:br/>until my friend comes back<tt:br/>from the powder room...</tt:p>
+            <tt:p begin="00:00:23.557" end="00:00:26.160">ARCHER: Well yeah,<tt:br/>obviously we're gonna wait for<tt:br/>her, she's the hot one.</tt:p>
+            <tt:p begin="00:00:26.194" end="00:00:30.164">WOMAN: Pig!</tt:p>
+            <tt:p begin="00:00:30.198" end="00:00:31.732">ARCHER: I'm sorry,<tt:br/>is something funny?</tt:p>
+            <tt:p begin="00:00:31.765" end="00:00:34.468">MAN: Just that last part,<tt:br/>where she slapped you.</tt:p>
+            <tt:p begin="00:00:34.502" end="00:00:35.303">ARCHER: Yeah? !</tt:p>
+            <tt:p begin="00:00:35.336" end="00:00:37.638">You like physical humor? !</tt:p>
+            <tt:p begin="00:00:37.671" end="00:00:39.473">MAN: Depends on the situation.</tt:p>
+            <tt:p begin="00:00:39.507" end="00:00:40.341">ARCHER: Ow.</tt:p>
+            <tt:p begin="00:00:40.374" end="00:00:41.375">MAN: You okay?</tt:p>
+            <tt:p begin="00:00:41.409" end="00:00:43.777">ARCHER: No,<tt:br/>I'm not oh -- oh my God!</tt:p>
+            <tt:p begin="00:00:43.811" end="00:00:45.113">You're Burt Reynolds!</tt:p>
+            <tt:p begin="00:00:45.146" end="00:00:46.247">BURT REYNOLDS: Yes, yes I am.</tt:p>
+            <tt:p begin="00:00:46.280" end="00:00:48.616">And if I let you up,<tt:br/>are you gonna do anything<tt:br/>stupid?</tt:p>
+            <tt:p begin="00:00:48.649" end="00:00:50.484">ARCHER: No, no I'm not.</tt:p>
+            <tt:p begin="00:00:50.518" end="00:00:52.120">Hi, Sterling Archer.</tt:p>
+            <tt:p begin="00:00:52.153" end="00:00:53.421">BURT REYNOLDS: Sterling Archer?</tt:p>
+            <tt:p begin="00:00:53.454" end="00:00:55.456">ARCHER: Yeah,<tt:br/>you've heard of me, huh?</tt:p>
+            <tt:p begin="00:00:55.489" end="00:00:57.325">BURT REYNOLDS: Well,<tt:br/>just from your --</tt:p>
+            <tt:p begin="00:00:57.358" end="00:00:58.759">ARCHER: Press clippings, yeah,<tt:br/>it's pretty hard to stay</tt:p>
+            <tt:p begin="00:00:58.792" end="00:01:00.428">anonymous when you're the<tt:br/>world's greatest secret agent.</tt:p>
+            <tt:p begin="00:01:00.461" end="00:01:02.230">BURT REYNOLDS: Calling yourself<tt:br/>that can't help.</tt:p>
+            <tt:p begin="00:01:02.263" end="00:01:04.232">ARCHER: Hang on, true story,<tt:br/>Operation CIA?</tt:p>
+            <tt:p begin="00:01:04.265" end="00:01:08.336">That movie's basically why I<tt:br/>became a secret agent in the<tt:br/>first place!</tt:p>
+            <tt:p begin="00:01:08.369" end="00:01:09.403">BURT REYNOLDS: Really?</tt:p>
+            <tt:p begin="00:01:09.437" end="00:01:10.771">That movie was just god-awful.</tt:p>
+            <tt:p begin="00:01:10.804" end="00:01:13.274">ARCHER: What's awful is I almost<tt:br/>punched you!</tt:p>
+            <tt:p begin="00:01:13.307" end="00:01:14.475">BURT REYNOLDS: No you didn't.</tt:p>
+            <tt:p begin="00:01:14.508" end="00:01:16.544">ARCHER: And I've seen all your<tt:br/>other movies like five times!</tt:p>
+            <tt:p begin="00:01:16.577" end="00:01:20.814">Sam Whiskey, Navajo Joe, Fuzz,<tt:br/>Hooper, Shamus, Shark,</tt:p>
+            <tt:p begin="00:01:20.848" end="00:01:26.120">The Longest Yard, Deliverance,<tt:br/>The Smokies, White Lightning,<tt:br/>obviously Gator, uh, oh!</tt:p>
+            <tt:p begin="00:01:26.154" end="00:01:29.657">I even saw At Long Last Love!</tt:p>
+            <tt:p begin="00:01:29.690" end="00:01:30.791">I thought you were great!</tt:p>
+            <tt:p begin="00:01:30.824" end="00:01:32.160">BURT REYNOLDS: Really.</tt:p>
+            <tt:p begin="00:01:32.193" end="00:01:33.894">ARCHER: Well, I wanted to.</tt:p>
+            <tt:p begin="00:01:33.927" end="00:01:35.129">BURT REYNOLDS: Me too.</tt:p>
+            <tt:p begin="00:01:35.163" end="00:01:37.631">Listen, I kinda have a date.</tt:p>
+            <tt:p begin="00:01:37.665" end="00:01:39.633">ARCHER: No no no wait wait wait!</tt:p>
+            <tt:p begin="00:01:39.667" end="00:01:44.738">Sorry. Lemme buy you a drink,<tt:br/>I wanna tell you my idea for a<tt:br/>Gator sequel!</tt:p>
+            <tt:p begin="00:01:44.772" end="00:01:46.207">BURT REYNOLDS: Gator was<tt:br/>a sequel.</tt:p>
+            <tt:p begin="00:01:46.240" end="00:01:49.410">ARCHER: I Know,<tt:br/>and this will be the final<tt:br/>chapter in The McClusky Trilogy!</tt:p>
+            <tt:p begin="00:01:49.443" end="00:01:50.644">BURT REYNOLDS: Trilogy. Huh.</tt:p>
+            <tt:p begin="00:01:50.678" end="00:01:53.381">ARCHER: With twice as many<tt:br/>airboats as Gator!</tt:p>
+            <tt:p begin="00:01:53.414" end="00:01:54.815">BURT REYNOLDS: Twice as many<tt:br/>would be none?</tt:p>
+            <tt:p begin="00:01:54.848" end="00:01:56.417">ARCHER: What're you talking<tt:br/>about, Gator had --</tt:p>
+            <tt:p begin="00:01:56.450" end="00:01:57.285">BURT REYNOLDS: Speedboats.</tt:p>
+            <tt:p begin="00:01:57.318" end="00:01:57.951">Not airboats.</tt:p>
+            <tt:p begin="00:01:57.985" end="00:01:58.852">ARCHER: Really, are you sure?</tt:p>
+            <tt:p begin="00:01:58.886" end="00:01:59.753">BURT REYNOLDS: Pretty sure.</tt:p>
+            <tt:p begin="00:01:59.787" end="00:02:00.688">I directed it.</tt:p>
+            <tt:p begin="00:02:00.721" end="00:02:02.690">ARCHER: I -- okay,<tt:br/>but this one has airboats,</tt:p>
+            <tt:p begin="00:02:02.723" end="00:02:05.293">and they're central to the plot,<tt:br/>BURT REYNOLDS: And it sounds</tt:p>
+            <tt:p begin="00:02:05.326" end="00:02:06.894">great, kid, but like I said,<tt:br/>I kinda have a date, so...</tt:p>
+            <tt:p begin="00:02:06.927" end="00:02:08.095">ARCHER: I get it.</tt:p>
+            <tt:p begin="00:02:08.128" end="00:02:11.532">You gonna take her upstairs and<tt:br/>give her &quot;the longest yard&quot;?</tt:p>
+            <tt:p begin="00:02:11.565" end="00:02:12.733">MALORY: Yoo-hooooo!</tt:p>
+            <tt:p begin="00:02:12.766" end="00:02:13.934">ARCHER: Mother? !</tt:p>
+            <tt:p begin="00:02:13.967" end="00:02:15.269">What are you doing here? !</tt:p>
+            <tt:p begin="00:02:15.303" end="00:02:17.405">MALORY: What are you<tt:br/>doing here? !</tt:p>
+            <tt:p begin="00:02:17.438" end="00:02:18.606">ARCHER: I'm kickin it with --</tt:p>
+            <tt:p begin="00:02:18.639" end="00:02:20.208">Burt? Oh no...</tt:p>
+            <tt:p begin="00:02:20.241" end="00:02:21.642">BURT REYNOLDS: Yeah so...</tt:p>
+            <tt:p begin="00:02:21.675" end="00:02:23.844">remember how I said I kinda had<tt:br/>a date?</tt:p>
+            <tt:p begin="00:02:23.877" end="00:02:27.348">It's kinda with your mom.</tt:p>
+            <tt:p begin="00:02:27.381" end="00:02:31.151">Hope that's not<tt:br/>gonna be a problem.</tt:p>
+            <tt:p begin="00:03:07.988" end="00:03:09.122">MALORY: Oh please!</tt:p>
+            <tt:p begin="00:03:09.156" end="00:03:12.326">Burt Reynolds didn't give you a<tt:br/>black eye, the floor did!</tt:p>
+            <tt:p begin="00:03:12.360" end="00:03:14.228">When you fainted like a<tt:br/>schoolgirl!</tt:p>
+            <tt:p begin="00:03:14.262" end="00:03:16.797">ARCHER: It was an involuntary<tt:br/>reaction, mother!</tt:p>
+            <tt:p begin="00:03:16.830" end="00:03:21.369">To seeing you all tarted<tt:br/>up to meet my hero in a hotel<tt:br/>bar for sex!</tt:p>
+            <tt:p begin="00:03:21.402" end="00:03:23.671">MALORY: Oh for -- we were<tt:br/>meeting for drinks!</tt:p>
+            <tt:p begin="00:03:23.704" end="00:03:26.006">I mean obviously sex was<tt:br/>implied, but --</tt:p>
+            <tt:p begin="00:03:26.039" end="00:03:26.840">ARCHER: Ugh!</tt:p>
+            <tt:p begin="00:03:26.874" end="00:03:28.642">MALORY: And since when<tt:br/>is he your hero?</tt:p>
+            <tt:p begin="00:03:28.676" end="00:03:30.344">ARCHER: Wh-? Since always!</tt:p>
+            <tt:p begin="00:03:30.378" end="00:03:32.780">YOUNG ARCHER: Eeeast bound and<tt:br/>doowwn!</tt:p>
+            <tt:p begin="00:03:32.813" end="00:03:34.715">MALORY: I thought that was<tt:br/>Richard Petty.</tt:p>
+            <tt:p begin="00:03:34.748" end="00:03:36.450">ARCHER: Which doesn't even merit<tt:br/>a response.</tt:p>
+            <tt:p begin="00:03:36.484" end="00:03:38.018">And you cannot date<tt:br/>Burt Reynolds!</tt:p>
+            <tt:p begin="00:03:38.051" end="00:03:40.754">MALORY: Can, am,<tt:br/>and will continue to do so.</tt:p>
+            <tt:p begin="00:03:40.788" end="00:03:42.556">ARCHER: I'm serious,<tt:br/>I'll do something drastic!</tt:p>
+            <tt:p begin="00:03:42.590" end="00:03:43.691">MALORY: You will not.</tt:p>
+            <tt:p begin="00:03:43.724" end="00:03:46.327">Mainly because you've got<tt:br/>bigger things to worry about.</tt:p>
+            <tt:p begin="00:03:46.360" end="00:03:47.295">ARCHER: I'll be the judge of --</tt:p>
+            <tt:p begin="00:03:47.328" end="00:03:49.930">a Cuban hit squad is<tt:br/>in New York to kill me? !</tt:p>
+            <tt:p begin="00:03:49.963" end="00:03:50.864">MALORY: Apparently.</tt:p>
+            <tt:p begin="00:03:50.898" end="00:03:52.400">ARCHER: This intel's a week old!</tt:p>
+            <tt:p begin="00:03:52.433" end="00:03:53.767">Why are you just telling me<tt:br/>about it now? !</tt:p>
+            <tt:p begin="00:03:53.801" end="00:03:55.836">MALORY: Because...</tt:p>
+            <tt:p begin="00:03:55.869" end="00:03:58.406">Pick up Sterling,<tt:br/>pick up, pick --</tt:p>
+            <tt:p begin="00:03:58.439" end="00:03:59.340">ARCHER: Mmyello?</tt:p>
+            <tt:p begin="00:03:59.373" end="00:04:00.040">MALORY: Sterling dear, it's me.</tt:p>
+            <tt:p begin="00:04:00.073" end="00:04:01.041">There's a --</tt:p>
+            <tt:p begin="00:04:01.074" end="00:04:02.009">ARCHER: Ha! Voicemail.</tt:p>
+            <tt:p begin="00:04:02.042" end="00:04:02.843">You know what to do.</tt:p>
+            <tt:p begin="00:04:02.876" end="00:04:03.844">MALORY: Oh for God's sake.</tt:p>
+            <tt:p begin="00:04:03.877" end="00:04:04.778">ARCHER: Hello?</tt:p>
+            <tt:p begin="00:04:04.812" end="00:04:07.348">MALORY: Sterling, dear it's me.</tt:p>
+            <tt:p begin="00:04:07.381" end="00:04:10.351">ARCHER: Hold on, hold on!</tt:p>
+            <tt:p begin="00:04:10.384" end="00:04:11.685">Hang on.</tt:p>
+            <tt:p begin="00:04:11.719" end="00:04:12.753">MALORY: Sterling.</tt:p>
+            <tt:p begin="00:04:12.786" end="00:04:14.822">ARCHER: Don't hang up.</tt:p>
+            <tt:p begin="00:04:14.855" end="00:04:16.390">Hello.</tt:p>
+            <tt:p begin="00:04:16.424" end="00:04:17.157">MALORY: Sterling it's --</tt:p>
+            <tt:p begin="00:04:17.190" end="00:04:19.026">ARCHER: Elaborate voicemail<tt:br/>hoax.</tt:p>
+            <tt:p begin="00:04:19.059" end="00:04:23.063">Leave it.</tt:p>
+            <tt:p begin="00:04:23.096" end="00:04:26.867">MALORY: And then I just sort of<tt:br/>forgot about it, because<tt:br/>that same night, I met --</tt:p>
+            <tt:p begin="00:04:26.900" end="00:04:28.936">CHERYL/CAROL: Burt Reynoooolds!</tt:p>
+            <tt:p begin="00:04:28.969" end="00:04:31.071">Is on line oooone!</tt:p>
+            <tt:p begin="00:04:31.104" end="00:04:33.674">For you, for some reason.</tt:p>
+            <tt:p begin="00:04:33.707" end="00:04:36.910">MALORY: Burt dear,<tt:br/>what a lovely surprise!</tt:p>
+            <tt:p begin="00:04:36.944" end="00:04:39.813">BURT REYNOLDS: I'm sitting<tt:br/>here with just a mustache<tt:br/>and memories of last night.</tt:p>
+            <tt:p begin="00:04:39.847" end="00:04:41.482">MALORY: Oh, Burt...</tt:p>
+            <tt:p begin="00:04:41.515" end="00:04:42.583">ARCHER: Rrrgh!</tt:p>
+            <tt:p begin="00:04:42.616" end="00:04:43.917">BURT REYNOLDS: and also<tt:br/>a blanket.</tt:p>
+            <tt:p begin="00:04:43.951" end="00:04:45.686">The AC in my room's stuck on...</tt:p>
+            <tt:p begin="00:04:45.719" end="00:04:46.920">freeze.</tt:p>
+            <tt:p begin="00:04:46.954" end="00:04:51.692">CHERYL/CAROL: Deliverance,<tt:br/>Gator,<tt:br/>and this is him in Cosmoooh!</tt:p>
+            <tt:p begin="00:04:51.725" end="00:04:53.894">How totally hot is he? !</tt:p>
+            <tt:p begin="00:04:53.927" end="00:04:57.598">PAM: I swear to God,<tt:br/>you could drown a toddler in my<tt:br/>panties right now.</tt:p>
+            <tt:p begin="00:04:57.631" end="00:04:59.567">I mean not that you would,<tt:br/>but --</tt:p>
+            <tt:p begin="00:04:59.600" end="00:05:00.434">CHERYL/CAROL: Hey!</tt:p>
+            <tt:p begin="00:05:00.468" end="00:05:01.268">ARCHER: Shut up!</tt:p>
+            <tt:p begin="00:05:01.301" end="00:05:03.337">CHERYL/CAROL: You're not<tt:br/>my supervisor!</tt:p>
+            <tt:p begin="00:05:03.371" end="00:05:04.438">Wait, who is my supervis --</tt:p>
+            <tt:p begin="00:05:04.472" end="00:05:05.072">MALORY: Carol!</tt:p>
+            <tt:p begin="00:05:05.105" end="00:05:06.039">CHERYL/CAROL: Oh right.</tt:p>
+            <tt:p begin="00:05:06.073" end="00:05:08.742">MALORY: Go get my gray fox out<tt:br/>of cold storage.</tt:p>
+            <tt:p begin="00:05:08.776" end="00:05:12.646">Burt Reynolds is taking me to a<tt:br/>movie premiere tonight, so --</tt:p>
+            <tt:p begin="00:05:12.680" end="00:05:15.516">help me God,<tt:br/>if you throw that computer on</tt:p>
+            <tt:p begin="00:05:15.549" end="00:05:17.718">the floor again you'll wake up<tt:br/>in a mental ward with total</tt:p>
+            <tt:p begin="00:05:17.751" end="00:05:21.455">amnesia under someone else's<tt:br/>name.</tt:p>
+            <tt:p begin="00:05:21.489" end="00:05:22.923">PAM: That's actually kinda<tt:br/>scary.</tt:p>
+            <tt:p begin="00:05:22.956" end="00:05:23.857">CHERYL/CAROL: Eh.</tt:p>
+            <tt:p begin="00:05:23.891" end="00:05:24.858">Wouldn't be the first time.</tt:p>
+            <tt:p begin="00:05:24.892" end="00:05:27.127">CYRIL: Archer, hey,<tt:br/>about this expense report --</tt:p>
+            <tt:p begin="00:05:27.160" end="00:05:28.829">ARCHER: Not now, Cyril!</tt:p>
+            <tt:p begin="00:05:28.862" end="00:05:32.933">Mother is ruining what remains<tt:br/>of my life before a Cuban hit<tt:br/>squad assassinates me, so --</tt:p>
+            <tt:p begin="00:05:32.966" end="00:05:33.734">LANA: Mátalo!</tt:p>
+            <tt:p begin="00:05:33.767" end="00:05:35.836">ARCHER: Wh-? !</tt:p>
+            <tt:p begin="00:05:35.869" end="00:05:37.371">Yeah laugh it up, Lana.</tt:p>
+            <tt:p begin="00:05:37.405" end="00:05:38.238">LANA: I am.</tt:p>
+            <tt:p begin="00:05:38.271" end="00:05:39.840">ARCHER: You almost got shot in<tt:br/>the face.</tt:p>
+            <tt:p begin="00:05:39.873" end="00:05:40.641">Get off.</tt:p>
+            <tt:p begin="00:05:40.674" end="00:05:41.409">CYRIL: You get off.</tt:p>
+            <tt:p begin="00:05:41.442" end="00:05:42.410">ARCHER: Cyril.</tt:p>
+            <tt:p begin="00:05:42.443" end="00:05:43.143">I'm pretty tense right now.</tt:p>
+            <tt:p begin="00:05:43.176" end="00:05:44.512">LANA: Because of the Cubans?</tt:p>
+            <tt:p begin="00:05:44.545" end="00:05:47.381">Or because Burt Reynolds is<tt:br/>doing your mom?</tt:p>
+            <tt:p begin="00:05:47.415" end="00:05:48.649">ARCHER: Yeah, laugh it up!</tt:p>
+            <tt:p begin="00:05:48.682" end="00:05:50.083">CYRIL: I am!</tt:p>
+            <tt:p begin="00:05:50.117" end="00:05:52.653">Burt Reynolds is actually<tt:br/>banging --</tt:p>
+            <tt:p begin="00:05:52.686" end="00:05:53.754">LANA: Archer!</tt:p>
+            <tt:p begin="00:05:53.787" end="00:05:55.355">CYRIL: You broke my frickin<tt:br/>nose!</tt:p>
+            <tt:p begin="00:05:55.389" end="00:05:59.427">ARCHER: What's that? Sorry,<tt:br/>I can't hear you over the sound<tt:br/>of I broke your nose!</tt:p>
+            <tt:p begin="00:05:59.460" end="00:06:02.463">LANA: Bullying Cyril isn't gonna<tt:br/>make Burt Reynolds stop<tt:br/>shtupping your mom.</tt:p>
+            <tt:p begin="00:06:02.496" end="00:06:03.864">ARCHER: He's not... doing that!</tt:p>
+            <tt:p begin="00:06:03.897" end="00:06:05.666">LANA: But even if he is,<tt:br/>which he is --</tt:p>
+            <tt:p begin="00:06:05.699" end="00:06:06.500">ARCHER: No he isn't!</tt:p>
+            <tt:p begin="00:06:06.534" end="00:06:08.436">LANA: This Cuban hit squad<tt:br/>is no joke.</tt:p>
+            <tt:p begin="00:06:08.469" end="00:06:10.504">So if I were you,<tt:br/>I'd lay low in the safehouse</tt:p>
+            <tt:p begin="00:06:10.538" end="00:06:12.840">for a few days,<tt:br/>until we work out a plan to<tt:br/>neutralize them.</tt:p>
+            <tt:p begin="00:06:12.873" end="00:06:14.141">ARCHER: Ohh! Yeah, okay!</tt:p>
+            <tt:p begin="00:06:14.174" end="00:06:15.543">The safehouse!</tt:p>
+            <tt:p begin="00:06:15.576" end="00:06:18.946">LANA: I'm sorry,<tt:br/>your words made sense,<tt:br/>but your sarcastic tone did not.</tt:p>
+            <tt:p begin="00:06:18.979" end="00:06:21.549">ARCHER: Because there are<tt:br/>no Cubans!</tt:p>
+            <tt:p begin="00:06:21.582" end="00:06:23.751">Mother just wants me out of the<tt:br/>way so she can...</tt:p>
+            <tt:p begin="00:06:23.784" end="00:06:26.153">do unspeakable things with<tt:br/>Burt Reynolds!</tt:p>
+            <tt:p begin="00:06:26.186" end="00:06:28.622">So nice try, idiot!</tt:p>
+            <tt:p begin="00:06:28.656" end="00:06:32.192">LANA: I love it<tt:br/>that I'm the idiot...</tt:p>
+            <tt:p begin="00:06:32.225" end="00:06:35.863">MALORY: So unless the building<tt:br/>is literally on fire,<tt:br/>none of you are to call me.</tt:p>
+            <tt:p begin="00:06:35.896" end="00:06:37.965">Because, as I may<tt:br/>have mentioned --</tt:p>
+            <tt:p begin="00:06:37.998" end="00:06:39.433">CYRIL: Fifty times.</tt:p>
+            <tt:p begin="00:06:39.467" end="00:06:41.835">MALORY: -- tonight I will be<tt:br/>attending a movie premiere with<tt:br/>Burt Reynolds.</tt:p>
+            <tt:p begin="00:06:41.869" end="00:06:43.637">CHERYL/CAROL: Oh my God,<tt:br/>that totally reminds me!</tt:p>
+            <tt:p begin="00:06:43.671" end="00:06:44.605">This came for you.</tt:p>
+            <tt:p begin="00:06:44.638" end="00:06:45.473">From him.</tt:p>
+            <tt:p begin="00:06:45.506" end="00:06:46.474">MALORY: And you opened it? !</tt:p>
+            <tt:p begin="00:06:46.507" end="00:06:47.941">CHERYL/CAROL: That's how I knew<tt:br/>it was from him.</tt:p>
+            <tt:p begin="00:06:47.975" end="00:06:49.677">MALORY: Give me that!</tt:p>
+            <tt:p begin="00:06:49.710" end="00:06:55.115">&quot;Dear Malory, it's been --&quot;<tt:br/>LANA: Dear Malory,</tt:p>
+            <tt:p begin="00:06:55.148" end="00:06:57.485">it's been real,<tt:br/>but I'm dumping you for a young</tt:p>
+            <tt:p begin="00:06:57.518" end="00:07:00.754">starlet and heading back to<tt:br/>Tinseltown.</tt:p>
+            <tt:p begin="00:07:00.788" end="00:07:02.155">Do not contact me.</tt:p>
+            <tt:p begin="00:07:02.189" end="00:07:04.091">Regards, Burt Reynolds.</tt:p>
+            <tt:p begin="00:07:04.124" end="00:07:05.526">MALORY: &quot;Regards!&quot;</tt:p>
+            <tt:p begin="00:07:05.559" end="00:07:07.728">They weren't even warmest!</tt:p>
+            <tt:p begin="00:07:07.761" end="00:07:10.498">LANA: Wait a -- who calls it<tt:br/>Tinseltown?</tt:p>
+            <tt:p begin="00:07:10.531" end="00:07:11.932">GILLETTE: Carol Channing?</tt:p>
+            <tt:p begin="00:07:11.965" end="00:07:15.068">LANA: Or somebody who just<tt:br/>thinks that's what movie stars<tt:br/>call Hollywood.</tt:p>
+            <tt:p begin="00:07:15.102" end="00:07:16.570">KRIEGER: Stockard Channing?</tt:p>
+            <tt:p begin="00:07:16.604" end="00:07:17.538">LANA: Archer.</tt:p>
+            <tt:p begin="00:07:17.571" end="00:07:19.607">His mother, dating his mancrush?</tt:p>
+            <tt:p begin="00:07:19.640" end="00:07:20.841">I bet Archer kidnapped him.</tt:p>
+            <tt:p begin="00:07:20.874" end="00:07:21.742">CHERYL/CAROL: But how?</tt:p>
+            <tt:p begin="00:07:21.775" end="00:07:24.945">LANA: Archer goes to Burt's<tt:br/>hotel room...</tt:p>
+            <tt:p begin="00:07:24.978" end="00:07:26.213">Knocks him out...</tt:p>
+            <tt:p begin="00:07:26.246" end="00:07:26.847">CHERYL/CAROL: Archer?</tt:p>
+            <tt:p begin="00:07:26.880" end="00:07:28.682">Knocks out Burt Reynolds? !</tt:p>
+            <tt:p begin="00:07:28.716" end="00:07:30.050">LANA: With gas...</tt:p>
+            <tt:p begin="00:07:30.083" end="00:07:31.819">BURT REYNOLDS: Oh shit.</tt:p>
+            <tt:p begin="00:07:31.852" end="00:07:33.521">LANA: And then hides him<tt:br/>somewhere.</tt:p>
+            <tt:p begin="00:07:33.554" end="00:07:35.222">Like an idiot kid hiding<tt:br/>a lamp he broke.</tt:p>
+            <tt:p begin="00:07:35.255" end="00:07:36.890">PAM: You really think<tt:br/>he'd do that?</tt:p>
+            <tt:p begin="00:07:36.924" end="00:07:38.125">ARCHER: Yes, really.</tt:p>
+            <tt:p begin="00:07:38.158" end="00:07:41.695">I'm serious,<tt:br/>if you ever go near to my mother<tt:br/>again I will...</tt:p>
+            <tt:p begin="00:07:41.729" end="00:07:43.931">do something really bad.</tt:p>
+            <tt:p begin="00:07:43.964" end="00:07:46.199">BURT REYNOLDS: Well,<tt:br/>then you should probably just<tt:br/>go ahead and get it over with.</tt:p>
+            <tt:p begin="00:07:46.233" end="00:07:47.234">ARCHER: Don't worry, I --</tt:p>
+            <tt:p begin="00:07:47.267" end="00:07:48.468">wait, what?</tt:p>
+            <tt:p begin="00:07:48.502" end="00:07:51.038">BURT REYNOLDS: Because if you<tt:br/>don't kill me, and I get loose?</tt:p>
+            <tt:p begin="00:07:51.071" end="00:07:54.775">You're gonna wish you were in<tt:br/>hell with your back broke.</tt:p>
+            <tt:p begin="00:07:54.808" end="00:07:55.743">ARCHER: I don't...</tt:p>
+            <tt:p begin="00:07:55.776" end="00:07:57.110">have a response to that.</tt:p>
+            <tt:p begin="00:07:57.144" end="00:08:01.481">BURT REYNOLDS: They never do...</tt:p>
+            <tt:p begin="00:08:03.951" end="00:08:06.787">MALORY: It's my own fault,<tt:br/>I should've known!</tt:p>
+            <tt:p begin="00:08:06.820" end="00:08:09.557">They tell you they love you,<tt:br/>and then they just cast you</tt:p>
+            <tt:p begin="00:08:09.590" end="00:08:13.761">aside when some young starlet<tt:br/>catches their eye,<tt:br/>with her perky little boobs!</tt:p>
+            <tt:p begin="00:08:13.794" end="00:08:16.864">CHERYL/CAROL: I bet they were<tt:br/>perky and big.</tt:p>
+            <tt:p begin="00:08:16.897" end="00:08:18.198">Jeezow!</tt:p>
+            <tt:p begin="00:08:18.231" end="00:08:20.133">PAM: Why are you torturing her<tt:br/>like that? !</tt:p>
+            <tt:p begin="00:08:20.167" end="00:08:23.771">CHERYL/CAROL: Why are you asking<tt:br/>rhetorical questions?</tt:p>
+            <tt:p begin="00:08:23.804" end="00:08:25.839">KRIEGER: Aww, that's actually<tt:br/>kinda sad...</tt:p>
+            <tt:p begin="00:08:25.873" end="00:08:27.307">LANA: Allright, here's the plan,<tt:br/>I say we go rescue</tt:p>
+            <tt:p begin="00:08:27.340" end="00:08:30.811">Burt Reynolds, and as a bonus,<tt:br/>beat some sense into Archer's<tt:br/>head and ass.</tt:p>
+            <tt:p begin="00:08:30.844" end="00:08:31.712">CYRIL: Yeah!</tt:p>
+            <tt:p begin="00:08:31.745" end="00:08:33.013">Right in the head and ass!</tt:p>
+            <tt:p begin="00:08:33.046" end="00:08:35.048">LANA: So Pam, Carol,<tt:br/>stay here with Malory.</tt:p>
+            <tt:p begin="00:08:35.082" end="00:08:37.050">Everybody else,<tt:br/>let's go to Archer's.</tt:p>
+            <tt:p begin="00:08:37.084" end="00:08:39.086">GILLETTE: He's got a Cuban<tt:br/>hit squad after him.</tt:p>
+            <tt:p begin="00:08:39.119" end="00:08:40.721">Why wouldn't he go to the<tt:br/>safehouse?</tt:p>
+            <tt:p begin="00:08:40.754" end="00:08:44.825">LANA: A, because he thinks<tt:br/>they're imaginary, and B,<tt:br/>the safehouse doesn't have a --</tt:p>
+            <tt:p begin="00:08:44.858" end="00:08:46.594">ARCHER: New hot tub!</tt:p>
+            <tt:p begin="00:08:46.627" end="00:08:49.930">Fifty jets,<tt:br/>hand-hewn California Redwood,<tt:br/>no big deal...</tt:p>
+            <tt:p begin="00:08:49.963" end="00:08:51.565">BURT REYNOLDS: The California<tt:br/>Redwood is endangered.</tt:p>
+            <tt:p begin="00:08:51.599" end="00:08:52.232">ARCHER: So?</tt:p>
+            <tt:p begin="00:08:52.265" end="00:08:53.333">I already got my tub.</tt:p>
+            <tt:p begin="00:08:53.366" end="00:08:54.234">Woodhouse, Burt Reynolds.</tt:p>
+            <tt:p begin="00:08:54.267" end="00:08:55.669">Burt, Woodhouse.</tt:p>
+            <tt:p begin="00:08:55.703" end="00:08:56.570">BURT REYNOLDS: Hi.</tt:p>
+            <tt:p begin="00:08:56.604" end="00:08:58.071">WOODHOUSE: Loved you<tt:br/>in Gone With The Wind.</tt:p>
+            <tt:p begin="00:08:58.105" end="00:08:59.873">ARCHER: Not him, shut up,<tt:br/>get him a drink.</tt:p>
+            <tt:p begin="00:08:59.907" end="00:09:01.241">What's your poison?</tt:p>
+            <tt:p begin="00:09:01.274" end="00:09:02.275">BURT REYNOLDS: Pimm's Cup?</tt:p>
+            <tt:p begin="00:09:02.309" end="00:09:03.310">ARCHER: Odd choice...</tt:p>
+            <tt:p begin="00:09:03.343" end="00:09:04.978">BURT REYNOLDS: Well,<tt:br/>this whole thing's pretty odd.</tt:p>
+            <tt:p begin="00:09:05.012" end="00:09:05.979">ARCHER: What's odd!</tt:p>
+            <tt:p begin="00:09:06.013" end="00:09:07.280">Is you wanting to date<tt:br/>my mother!</tt:p>
+            <tt:p begin="00:09:07.314" end="00:09:07.915">BURT REYNOLDS: Why's that odd?</tt:p>
+            <tt:p begin="00:09:07.948" end="00:09:09.049">ARCHER: Because you're you!</tt:p>
+            <tt:p begin="00:09:09.082" end="00:09:10.117">And she's, um...</tt:p>
+            <tt:p begin="00:09:10.150" end="00:09:12.620">BURT REYNOLDS: Beautiful, smart,<tt:br/>funny, successful...</tt:p>
+            <tt:p begin="00:09:12.653" end="00:09:14.087">ARCHER: Like, one of those,<tt:br/>tops.</tt:p>
+            <tt:p begin="00:09:14.121" end="00:09:15.656">BURT REYNOLDS: Not to mention<tt:br/>drop-dead sexy.</tt:p>
+            <tt:p begin="00:09:15.689" end="00:09:16.356">WOODHOUSE: Oh dear God yes.</tt:p>
+            <tt:p begin="00:09:16.389" end="00:09:17.157">ARCHER: Woodhouse!</tt:p>
+            <tt:p begin="00:09:17.190" end="00:09:19.059">WOODHOUSE: I shall fetch<tt:br/>a cucumber!</tt:p>
+            <tt:p begin="00:09:19.092" end="00:09:20.594">ARCHER: You have to not date my<tt:br/>mother.</tt:p>
+            <tt:p begin="00:09:20.628" end="00:09:21.128">BURT REYNOLDS: Can't do it.</tt:p>
+            <tt:p begin="00:09:21.161" end="00:09:22.029">ARCHER: Can't, or --</tt:p>
+            <tt:p begin="00:09:22.062" end="00:09:23.697">BURT REYNOLDS: Won't,<tt:br/>whatever, pick one.</tt:p>
+            <tt:p begin="00:09:23.731" end="00:09:25.198">ARCHER: Well then,<tt:br/>here's what's gonna happen.</tt:p>
+            <tt:p begin="00:09:25.232" end="00:09:26.700">You're gonna drink<tt:br/>your Pimm's Cup...</tt:p>
+            <tt:p begin="00:09:26.734" end="00:09:27.835">BURT REYNOLDS: Which is<tt:br/>exciting!</tt:p>
+            <tt:p begin="00:09:27.868" end="00:09:28.636">Never had one!</tt:p>
+            <tt:p begin="00:09:28.669" end="00:09:30.604">ARCHER: Then I'm gonna knock<tt:br/>you out,</tt:p>
+            <tt:p begin="00:09:30.638" end="00:09:31.872">and you're gonna wake up in a<tt:br/>mental hospital with total</tt:p>
+            <tt:p begin="00:09:31.905" end="00:09:33.974">amnesia,<tt:br/>under someone else's name.</tt:p>
+            <tt:p begin="00:09:34.007" end="00:09:35.976">BURT REYNOLDS: Hey, now there's<tt:br/>an idea for a movie!</tt:p>
+            <tt:p begin="00:09:36.009" end="00:09:37.310">ARCHER: Yeah,<tt:br/>I think it already was.</tt:p>
+            <tt:p begin="00:09:37.344" end="00:09:38.011">BURT REYNOLDS: I wasn't in it.</tt:p>
+            <tt:p begin="00:09:38.045" end="00:09:39.079">ARCHER: Well, maybe not, but --</tt:p>
+            <tt:p begin="00:09:39.112" end="00:09:39.913">BURT REYNOLDS: Fade in!</tt:p>
+            <tt:p begin="00:09:39.947" end="00:09:41.081">A mental ward!</tt:p>
+            <tt:p begin="00:09:41.114" end="00:09:44.384">White walls, white sheets,<tt:br/>nurses in crisp white uniforms,</tt:p>
+            <tt:p begin="00:09:44.417" end="00:09:50.390">broken men shuffle like zombies<tt:br/>we see a hospital wristband on<tt:br/>a man's arm, John Doe.</tt:p>
+            <tt:p begin="00:09:50.423" end="00:09:54.161">And we slowly tilt up,<tt:br/>to see the man's face...</tt:p>
+            <tt:p begin="00:09:54.194" end="00:09:56.296">Gator McClusky.</tt:p>
+            <tt:p begin="00:09:56.329" end="00:09:59.366">And he's looking out the window,<tt:br/>the afternoon sun on his face,</tt:p>
+            <tt:p begin="00:09:59.399" end="00:10:01.334">and there's a spark of<tt:br/>recognition in his eyes,</tt:p>
+            <tt:p begin="00:10:01.368" end="00:10:02.670">cause you know what<tt:br/>he's looking at?</tt:p>
+            <tt:p begin="00:10:02.703" end="00:10:03.470">ARCHER: No...</tt:p>
+            <tt:p begin="00:10:03.503" end="00:10:04.972">BURT REYNOLDS: The Okefenokee<tt:br/>Swamp.</tt:p>
+            <tt:p begin="00:10:05.005" end="00:10:06.273">ARCHER: There's a mental<tt:br/>hospital there?</tt:p>
+            <tt:p begin="00:10:06.306" end="00:10:07.775">BURT REYNOLDS: Right on the<tt:br/>water.</tt:p>
+            <tt:p begin="00:10:07.808" end="00:10:09.943">And guess what's tied up right<tt:br/>out there at the dock?</tt:p>
+            <tt:p begin="00:10:09.977" end="00:10:11.144">ARCHER: An airboat!</tt:p>
+            <tt:p begin="00:10:11.178" end="00:10:13.313">And the head nurse falls in<tt:br/>love with him and finds out who</tt:p>
+            <tt:p begin="00:10:13.346" end="00:10:15.783">he really is so she helps him<tt:br/>escape and they get chased by a</tt:p>
+            <tt:p begin="00:10:15.816" end="00:10:18.385">bunch of dirty cops but in the<tt:br/>end they win!</tt:p>
+            <tt:p begin="00:10:18.418" end="00:10:20.854">BURT REYNOLDS: And you just got<tt:br/>a screenplay credit.</tt:p>
+            <tt:p begin="00:10:20.888" end="00:10:21.689">ARCHER: For real? !</tt:p>
+            <tt:p begin="00:10:21.722" end="00:10:23.123">BURT REYNOLDS: Oh yeah,<tt:br/>maybe even --</tt:p>
+            <tt:p begin="00:10:23.156" end="00:10:24.725">WOODHOUSE: Your Pimm's Cup, sir.</tt:p>
+            <tt:p begin="00:10:24.758" end="00:10:25.325">BURT REYNOLDS: Doesn't it...</tt:p>
+            <tt:p begin="00:10:25.358" end="00:10:26.193">come in a silver chalice?</tt:p>
+            <tt:p begin="00:10:26.226" end="00:10:27.094">WOODHOUSE: Ah.</tt:p>
+            <tt:p begin="00:10:27.127" end="00:10:28.829">That would be a pimp cup, sir.</tt:p>
+            <tt:p begin="00:10:28.862" end="00:10:30.163">BURT REYNOLDS: Ohh...</tt:p>
+            <tt:p begin="00:10:30.197" end="00:10:33.433">I hate to sound Hollywood,<tt:br/>but could you put my Pimm's Cup<tt:br/>in a --</tt:p>
+            <tt:p begin="00:10:33.466" end="00:10:34.167">WOODHOUSE: Pimp Cup! Certainly!</tt:p>
+            <tt:p begin="00:10:34.201" end="00:10:37.104">It would be an honor,<tt:br/>Mr. Gable!</tt:p>
+            <tt:p begin="00:10:37.137" end="00:10:38.138">ARCHER: Maybe even what? !</tt:p>
+            <tt:p begin="00:10:38.171" end="00:10:39.673">BURT REYNOLDS: Executive<tt:br/>Producer.</tt:p>
+            <tt:p begin="00:10:39.707" end="00:10:40.808">ARCHER: Executive producer? !</tt:p>
+            <tt:p begin="00:10:40.841" end="00:10:41.775">But I'm not...</tt:p>
+            <tt:p begin="00:10:41.809" end="00:10:43.677">Falling for that!</tt:p>
+            <tt:p begin="00:10:43.711" end="00:10:44.712">You big liar!</tt:p>
+            <tt:p begin="00:10:44.745" end="00:10:46.046">You're not gonna make that<tt:br/>movie!</tt:p>
+            <tt:p begin="00:10:46.079" end="00:10:47.180">BURT REYNOLDS: Oh,<tt:br/>I absolutely am.</tt:p>
+            <tt:p begin="00:10:47.214" end="00:10:50.784">And once your ISIS buddies<tt:br/>find out that you kidnapped me</tt:p>
+            <tt:p begin="00:10:50.818" end="00:10:54.087">and come find me,<tt:br/>I'm gonna give them all<tt:br/>an EP credit.</tt:p>
+            <tt:p begin="00:10:54.121" end="00:10:55.222">ARCHER: No, you're not!</tt:p>
+            <tt:p begin="00:10:55.255" end="00:10:57.057">So drink your stupid<tt:br/>Pimm's Cup --</tt:p>
+            <tt:p begin="00:10:57.090" end="00:10:58.826">BURT REYNOLDS: Yeah,<tt:br/>where are we on that chalice?</tt:p>
+            <tt:p begin="00:10:58.859" end="00:11:01.394">ARCHER: Because nobody is coming<tt:br/>for you, Burt!</tt:p>
+            <tt:p begin="00:11:01.428" end="00:11:03.396">And especially nobody from ISIS!</tt:p>
+            <tt:p begin="00:11:03.430" end="00:11:07.134">LANA: Okay,<tt:br/>don't take this the wrong way?</tt:p>
+            <tt:p begin="00:11:07.167" end="00:11:10.003">But I'm kinda wondering<tt:br/>how you're gonna be an<tt:br/>effective field agent.</tt:p>
+            <tt:p begin="00:11:10.037" end="00:11:10.838">GILLETTE: Interesting.</tt:p>
+            <tt:p begin="00:11:10.871" end="00:11:12.272">Coming from a woman.</tt:p>
+            <tt:p begin="00:11:12.305" end="00:11:13.373">LANA: Excuse me?</tt:p>
+            <tt:p begin="00:11:13.406" end="00:11:14.842">KRIEGER: Burn!</tt:p>
+            <tt:p begin="00:11:14.875" end="00:11:15.709">CUBAN ONE: Eh?</tt:p>
+            <tt:p begin="00:11:15.743" end="00:11:17.377">Esto es Archer, no?</tt:p>
+            <tt:p begin="00:11:17.410" end="00:11:18.979">CUBAN TWO: Creo que sí, pero...</tt:p>
+            <tt:p begin="00:11:19.012" end="00:11:20.748">esta paralizado?</tt:p>
+            <tt:p begin="00:11:20.781" end="00:11:21.381">CUBAN ONE: Al parecer.</tt:p>
+            <tt:p begin="00:11:21.414" end="00:11:22.883">Sera mas fácil, eh?</tt:p>
+            <tt:p begin="00:11:22.916" end="00:11:24.084">El inválido.</tt:p>
+            <tt:p begin="00:11:24.117" end="00:11:28.221">Mátalo!</tt:p>
+            <tt:p begin="00:11:28.255" end="00:11:31.825">GILLETTE: I mean don't get me<tt:br/>wrong, I'm all for<tt:br/>affirmative action, but --</tt:p>
+            <tt:p begin="00:11:31.859" end="00:11:33.727">LANA: Oh my God! Okay,<tt:br/>first of all --</tt:p>
+            <tt:p begin="00:11:33.761" end="00:11:34.194">CYRIL: Hey guys?</tt:p>
+            <tt:p begin="00:11:34.227" end="00:11:35.128">KRIEGER: Hey guys?</tt:p>
+            <tt:p begin="00:11:35.162" end="00:11:36.063">LANA: Zip it nerds!</tt:p>
+            <tt:p begin="00:11:36.096" end="00:11:37.030">First of all,<tt:br/>I was twice the agent you were</tt:p>
+            <tt:p begin="00:11:37.064" end="00:11:39.232">when your legs worked,<tt:br/>so don't hand me that --</tt:p>
+            <tt:p begin="00:11:39.266" end="00:11:40.200">GILLETTE: Shit!</tt:p>
+            <tt:p begin="00:11:40.233" end="00:11:41.001">LANA: What the --</tt:p>
+            <tt:p begin="00:11:41.034" end="00:11:43.971">GILLETTE: Duck!</tt:p>
+            <tt:p begin="00:11:44.004" end="00:11:46.139">LANA: And this conversation<tt:br/>isn't over!</tt:p>
+            <tt:p begin="00:11:46.173" end="00:11:47.174">GILLETTE: Isn't it? !</tt:p>
+            <tt:p begin="00:11:47.207" end="00:11:48.141">KRIEGER: No no no no!</tt:p>
+            <tt:p begin="00:11:48.175" end="00:11:50.143">My brand-new van!</tt:p>
+            <tt:p begin="00:11:50.177" end="00:11:51.144">ARCHER: Holy shit!</tt:p>
+            <tt:p begin="00:11:51.178" end="00:11:53.213">Lana! Hang on!</tt:p>
+            <tt:p begin="00:11:53.246" end="00:11:54.147">Cuban hit squad!</tt:p>
+            <tt:p begin="00:11:54.181" end="00:11:55.415">I gotta go!</tt:p>
+            <tt:p begin="00:11:55.448" end="00:11:56.884">LANA: Would you go? !</tt:p>
+            <tt:p begin="00:11:56.917" end="00:11:58.118">KRIEGER: I can't yet!</tt:p>
+            <tt:p begin="00:11:58.151" end="00:12:01.121">GILLETTE: And now I do actually<tt:br/>see your point.</tt:p>
+            <tt:p begin="00:12:01.154" end="00:12:05.258">CYRIL: Krieger, go!</tt:p>
+            <tt:p begin="00:12:05.292" end="00:12:07.327">CUBAN ONE: iVamonos!</tt:p>
+            <tt:p begin="00:12:07.360" end="00:12:08.561">ARCHER: Damn!</tt:p>
+            <tt:p begin="00:12:08.595" end="00:12:11.765">Krieger can't outrun anything<tt:br/>with all that handicapped shit.</tt:p>
+            <tt:p begin="00:12:11.799" end="00:12:12.833">I gotta go after them!</tt:p>
+            <tt:p begin="00:12:12.866" end="00:12:14.868">But this conversation<tt:br/>is not over!</tt:p>
+            <tt:p begin="00:12:14.902" end="00:12:16.036">BURT REYNOLDS: You'll never<tt:br/>catch 'em.</tt:p>
+            <tt:p begin="00:12:16.069" end="00:12:16.669">ARCHER: Yes I will!</tt:p>
+            <tt:p begin="00:12:16.703" end="00:12:17.170">BURT REYNOLDS: No you won't.</tt:p>
+            <tt:p begin="00:12:17.204" end="00:12:19.072">I've seen you drive.</tt:p>
+            <tt:p begin="00:12:19.106" end="00:12:21.174">You drive like an egg.</tt:p>
+            <tt:p begin="00:12:21.208" end="00:12:23.043">ARCHER: You think you can<tt:br/>outdrive me? !</tt:p>
+            <tt:p begin="00:12:23.076" end="00:12:24.344">BURT REYNOLDS: And I'll bet<tt:br/>on it.</tt:p>
+            <tt:p begin="00:12:24.377" end="00:12:25.846">ARCHER: Go on...</tt:p>
+            <tt:p begin="00:12:25.879" end="00:12:28.281">BURT REYNOLDS: If I don't catch<tt:br/>'em, I will just ride off<tt:br/>into the sunset...</tt:p>
+            <tt:p begin="00:12:28.315" end="00:12:31.118">ARCHER: Where they don't have<tt:br/>telephones to ever call my<tt:br/>mother again, ever.</tt:p>
+            <tt:p begin="00:12:31.151" end="00:12:32.786">BURT REYNOLDS: On my word.</tt:p>
+            <tt:p begin="00:12:32.820" end="00:12:33.787">And if I do catch 'em...</tt:p>
+            <tt:p begin="00:12:33.821" end="00:12:35.989">ARCHER: You keep dating my<tt:br/>mother, yeah, got it.</tt:p>
+            <tt:p begin="00:12:36.023" end="00:12:37.991">And since we've wasted a<tt:br/>shitload of time already,</tt:p>
+            <tt:p begin="00:12:38.025" end="00:12:39.793">I feel pretty good about<tt:br/>this bet.</tt:p>
+            <tt:p begin="00:12:39.827" end="00:12:43.296">So let's do thiiis!</tt:p>
+            <tt:p begin="00:12:43.330" end="00:12:51.238">[ Elevator Music ]</tt:p>
+            <tt:p begin="00:12:51.271" end="00:12:52.840">BURT REYNOLDS: You're kidding<tt:br/>me.</tt:p>
+            <tt:p begin="00:12:52.873" end="00:12:54.107">ARCHER: I know,<tt:br/>it drives me nuts.</tt:p>
+            <tt:p begin="00:12:54.141" end="00:12:55.976">It's like the world's slowest<tt:br/>elevator.</tt:p>
+            <tt:p begin="00:12:56.009" end="00:12:57.544">LANA: This is like the world's<tt:br/>slowest van!</tt:p>
+            <tt:p begin="00:12:57.577" end="00:12:59.512">KRIEGER: It's all this<tt:br/>handicapped shit!</tt:p>
+            <tt:p begin="00:12:59.546" end="00:13:01.448">GILLETTE: Jesus God, I get!</tt:p>
+            <tt:p begin="00:13:01.481" end="00:13:06.453">Your point!</tt:p>
+            <tt:p begin="00:13:06.486" end="00:13:07.888">BURT REYNOLDS: You should get<tt:br/>a bat-pole.</tt:p>
+            <tt:p begin="00:13:07.921" end="00:13:08.822">ARCHER: Nine thousand bucks.</tt:p>
+            <tt:p begin="00:13:08.856" end="00:13:09.456">BURT REYNOLDS: What?</tt:p>
+            <tt:p begin="00:13:09.489" end="00:13:10.223">ARCHER: Lowest quote I got.</tt:p>
+            <tt:p begin="00:13:10.257" end="00:13:11.258">BURT REYNOLDS: That's<tt:br/>ridiculous.</tt:p>
+            <tt:p begin="00:13:11.291" end="00:13:13.326">ARCHER: For basically just<tt:br/>putting a pole where the</tt:p>
+            <tt:p begin="00:13:13.360" end="00:13:15.462">garbage chute already is,<tt:br/>but the co-op board was like</tt:p>
+            <tt:p begin="00:13:15.495" end="00:13:17.564">&quot;But what'll we do with the<tt:br/>garbage?&quot;</tt:p>
+            <tt:p begin="00:13:17.597" end="00:13:21.301">BURT REYNOLDS: Yeah,<tt:br/>but you can still throw it down<tt:br/>the, whatever, the same shaft.</tt:p>
+            <tt:p begin="00:13:21.334" end="00:13:22.502">ARCHER: I know.</tt:p>
+            <tt:p begin="00:13:22.535" end="00:13:24.504">BURT REYNOLDS: And then you'd<tt:br/>have some garbage to land on.</tt:p>
+            <tt:p begin="00:13:24.537" end="00:13:26.907">ARCHER: If you're coming in hot,<tt:br/>I know, it's a win-win.</tt:p>
+            <tt:p begin="00:13:26.940" end="00:13:29.977">BURT REYNOLDS: And you were<tt:br/>gonna pay for it yourself,<tt:br/>no assessment or anything.</tt:p>
+            <tt:p begin="00:13:30.010" end="00:13:32.345">ARCHER: Yep.</tt:p>
+            <tt:p begin="00:13:32.379" end="00:13:33.446">BURT REYNOLDS: Ridiculous.</tt:p>
+            <tt:p begin="00:13:33.480" end="00:13:36.917">ARCHER: Preaching to the choir,<tt:br/>buddy.</tt:p>
+            <tt:p begin="00:13:36.950" end="00:13:38.118">BURT REYNOLDS: That's not<tt:br/>your car, is it?</tt:p>
+            <tt:p begin="00:13:38.151" end="00:13:39.552">ARCHER: Yeah, why?</tt:p>
+            <tt:p begin="00:13:39.586" end="00:13:40.954">BURT REYNOLDS: Nothing, just...</tt:p>
+            <tt:p begin="00:13:40.988" end="00:13:42.856">Didn't know they sold those<tt:br/>to men.</tt:p>
+            <tt:p begin="00:13:42.890" end="00:13:44.157">ARCHER: Yeah, laugh it up, Burt.</tt:p>
+            <tt:p begin="00:13:44.191" end="00:13:47.060">BURT REYNOLDS: I am.</tt:p>
+            <tt:p begin="00:13:51.198" end="00:13:55.235">ARCHER: Aaaaaaaawwww<tt:br/>shiiiiiiiiiiit!</tt:p>
+            <tt:p begin="00:13:55.268" end="00:13:56.469">Burt it's too fast!</tt:p>
+            <tt:p begin="00:13:56.503" end="00:13:57.905">Too fast!</tt:p>
+            <tt:p begin="00:13:57.938" end="00:13:58.972">BURT REYNOLDS: No such thing.</tt:p>
+            <tt:p begin="00:13:59.006" end="00:13:59.506">ARCHER: Yes such thing!</tt:p>
+            <tt:p begin="00:13:59.539" end="00:14:00.507">Slow down!</tt:p>
+            <tt:p begin="00:14:00.540" end="00:14:02.042">BURT REYNOLDS: Don't you wanna<tt:br/>help your friends?</tt:p>
+            <tt:p begin="00:14:02.075" end="00:14:03.043">ARCHER: I don't care about them!</tt:p>
+            <tt:p begin="00:14:03.076" end="00:14:04.177">BURT REYNOLDS: Yes you do.</tt:p>
+            <tt:p begin="00:14:04.211" end="00:14:07.147">You just pretend you don't,<tt:br/>because you're afraid of --</tt:p>
+            <tt:p begin="00:14:07.180" end="00:14:09.182">ARCHER: Dying in this frickin<tt:br/>car!</tt:p>
+            <tt:p begin="00:14:09.216" end="00:14:10.884">BURT REYNOLDS: Emotional<tt:br/>intimacy.</tt:p>
+            <tt:p begin="00:14:10.918" end="00:14:12.152">ARCHER: Oh my God, you --</tt:p>
+            <tt:p begin="00:14:12.185" end="00:14:13.386">LANA: You are such an asshole!</tt:p>
+            <tt:p begin="00:14:13.420" end="00:14:16.623">ARCHER: Lana? ! Lana,<tt:br/>we're coming to help,<tt:br/>where are you? !</tt:p>
+            <tt:p begin="00:14:16.656" end="00:14:19.092">LANA: Heading north on the FDR<tt:br/>at... 60th!</tt:p>
+            <tt:p begin="00:14:19.126" end="00:14:21.261">Getting shot at<tt:br/>by your damn Cubans!</tt:p>
+            <tt:p begin="00:14:21.294" end="00:14:23.196">KRIEGER: Which is totally<tt:br/>not cool!</tt:p>
+            <tt:p begin="00:14:23.230" end="00:14:23.863">BURT REYNOLDS: Great!</tt:p>
+            <tt:p begin="00:14:23.897" end="00:14:25.365">Tell her to keep going north!</tt:p>
+            <tt:p begin="00:14:25.398" end="00:14:27.200">ARCHER: Doesn't matter,<tt:br/>we can't catch them,</tt:p>
+            <tt:p begin="00:14:27.234" end="00:14:30.070">we're all the way acrawww<tt:br/>shiiiit!</tt:p>
+            <tt:p begin="00:14:30.103" end="00:14:30.670">BURT REYNOLDS: We'll catch 'em.</tt:p>
+            <tt:p begin="00:14:30.703" end="00:14:31.905">I know a shortcut.</tt:p>
+            <tt:p begin="00:14:31.939" end="00:14:32.940">ARCHER: Wh-? How? !</tt:p>
+            <tt:p begin="00:14:32.973" end="00:14:34.908">BURT REYNOLDS: I did a TV series<tt:br/>here called Hawk.</tt:p>
+            <tt:p begin="00:14:34.942" end="00:14:36.343">ARCHER: I forgot about Hawk.</tt:p>
+            <tt:p begin="00:14:36.376" end="00:14:38.411">BURT REYNOLDS: He was part<tt:br/>Indian.</tt:p>
+            <tt:p begin="00:14:38.445" end="00:14:42.315">ARCHER: Right!</tt:p>
+            <tt:p begin="00:14:42.349" end="00:14:43.183">BURT REYNOLDS: Whoo!</tt:p>
+            <tt:p begin="00:14:43.216" end="00:14:45.018">Now it's officially a chase!</tt:p>
+            <tt:p begin="00:14:45.052" end="00:14:46.486">ARCHER: Hooray...</tt:p>
+            <tt:p begin="00:14:46.519" end="00:14:47.955">BURT REYNOLDS: You know what<tt:br/>your problem is?</tt:p>
+            <tt:p begin="00:14:47.988" end="00:14:49.056">ARCHER: My pants are wet?</tt:p>
+            <tt:p begin="00:14:49.089" end="00:14:50.690">BURT REYNOLDS: You only see your<tt:br/>mother as your mother.</tt:p>
+            <tt:p begin="00:14:50.723" end="00:14:52.492">But she's also a person.</tt:p>
+            <tt:p begin="00:14:52.525" end="00:14:54.561">She has hopes, dreams, fears...</tt:p>
+            <tt:p begin="00:14:54.594" end="00:14:55.628">needs.</tt:p>
+            <tt:p begin="00:14:55.662" end="00:14:56.763">ARCHER: Don't make it weirder!</tt:p>
+            <tt:p begin="00:14:56.796" end="00:15:00.133">BURT REYNOLDS: Not sexual needs<tt:br/>- well, maybe those too</tt:p>
+            <tt:p begin="00:15:00.167" end="00:15:04.637">- but personal, professional,<tt:br/>all the stuff that makes a<tt:br/>person who they are.</tt:p>
+            <tt:p begin="00:15:04.671" end="00:15:11.945">And until you -- oops, hang on.</tt:p>
+            <tt:p begin="00:15:11.979" end="00:15:15.148">ARCHER: Holy shit,<tt:br/>Burt Reynolds!</tt:p>
+            <tt:p begin="00:15:15.182" end="00:15:18.218">BURT REYNOLDS: Hey,<tt:br/>if you'd pay attention you might<tt:br/>just learn something here.</tt:p>
+            <tt:p begin="00:15:18.251" end="00:15:22.589">ARCHER: I'm sorry,<tt:br/>I can't hear you over the sound<tt:br/>of my giant throbbing erection.</tt:p>
+            <tt:p begin="00:15:22.622" end="00:15:24.191">Owww!</tt:p>
+            <tt:p begin="00:15:24.224" end="00:15:25.158">BURT REYNOLDS: How bout now?</tt:p>
+            <tt:p begin="00:15:25.192" end="00:15:26.626">ARCHER: It's gone, I'm all ears.</tt:p>
+            <tt:p begin="00:15:26.659" end="00:15:27.427">BURT REYNOLDS: Good.</tt:p>
+            <tt:p begin="00:15:27.460" end="00:15:28.628">Because my point is...</tt:p>
+            <tt:p begin="00:15:28.661" end="00:15:31.098">oh wait, wait,<tt:br/>you're gonna wanna see this.</tt:p>
+            <tt:p begin="00:15:31.131" end="00:15:32.332">ARCHER: See wh -- no!</tt:p>
+            <tt:p begin="00:15:32.365" end="00:15:35.602">Burt noooo!</tt:p>
+            <tt:p begin="00:15:35.635" end="00:15:37.971">Please don't do this.</tt:p>
+            <tt:p begin="00:15:38.005" end="00:15:45.178">Oh shit!</tt:p>
+            <tt:p begin="00:15:45.212" end="00:15:46.679">My pants are now literally wet.</tt:p>
+            <tt:p begin="00:15:46.713" end="00:15:49.049">BURT REYNOLDS: And my point is,<tt:br/>until you can look at your</tt:p>
+            <tt:p begin="00:15:49.082" end="00:15:54.021">mother and see her not just as<tt:br/>your mother but as a person,<tt:br/>a real person...</tt:p>
+            <tt:p begin="00:15:54.054" end="00:15:56.756">you can't grow up.</tt:p>
+            <tt:p begin="00:15:56.789" end="00:15:57.457">ARCHER: Huh.</tt:p>
+            <tt:p begin="00:15:57.490" end="00:15:58.425">BURT REYNOLDS: Food for thought.</tt:p>
+            <tt:p begin="00:15:58.458" end="00:16:00.593">And if I were you I'd come to<tt:br/>terms with that,</tt:p>
+            <tt:p begin="00:16:00.627" end="00:16:03.463">because I plan on seeing<tt:br/>a lot of her.</tt:p>
+            <tt:p begin="00:16:03.496" end="00:16:06.099">And uh, by &quot;a lot of her&quot;<tt:br/>I mean --</tt:p>
+            <tt:p begin="00:16:06.133" end="00:16:07.134">ARCHER: I get it!</tt:p>
+            <tt:p begin="00:16:07.167" end="00:16:10.637">But I guess you're outta luck,<tt:br/>because we had a --</tt:p>
+            <tt:p begin="00:16:10.670" end="00:16:12.339">Bet. God damn it.</tt:p>
+            <tt:p begin="00:16:12.372" end="00:16:14.141">BURT REYNOLDS: Now whaddya say<tt:br/>we have some fun?</tt:p>
+            <tt:p begin="00:16:14.174" end="00:16:15.575">ARCHER: Whatever...</tt:p>
+            <tt:p begin="00:16:15.608" end="00:16:18.511">KRIEGER: Oh my God, not the van.</tt:p>
+            <tt:p begin="00:16:18.545" end="00:16:19.746">LANA: Will you please!</tt:p>
+            <tt:p begin="00:16:19.779" end="00:16:22.349">Drive straight!</tt:p>
+            <tt:p begin="00:16:22.382" end="00:16:27.420">GILLETTE: No, serpentine,<tt:br/>serpentine!</tt:p>
+            <tt:p begin="00:16:27.454" end="00:16:28.355">HOLOGRAM HENTAI BRIDE: Oh!</tt:p>
+            <tt:p begin="00:16:28.388" end="00:16:29.489">Herroooh!</tt:p>
+            <tt:p begin="00:16:29.522" end="00:16:32.059">CYRIL: Herroh...</tt:p>
+            <tt:p begin="00:16:32.092" end="00:16:33.293">LANA: Holy shit!</tt:p>
+            <tt:p begin="00:16:33.326" end="00:16:34.694">It's Burt Reynolds!</tt:p>
+            <tt:p begin="00:16:34.727" end="00:16:35.695">BURT REYNOLDS: iBuenas!</tt:p>
+            <tt:p begin="00:16:35.728" end="00:16:37.397">Now watch what I do right here.</tt:p>
+            <tt:p begin="00:16:37.430" end="00:16:39.066">ARCHER: Yeah duh,<tt:br/>I only invented it.</tt:p>
+            <tt:p begin="00:16:39.099" end="00:16:39.732">BURT REYNOLDS: Oh.</tt:p>
+            <tt:p begin="00:16:39.766" end="00:16:41.301">Nice to meet you, Hal Needham.</tt:p>
+            <tt:p begin="00:16:41.334" end="00:16:44.271">ARCHER: Whatever.</tt:p>
+            <tt:p begin="00:16:50.243" end="00:16:51.544">BURT REYNOLDS: Ha haaaaa!</tt:p>
+            <tt:p begin="00:16:51.578" end="00:16:53.146">ARCHER: That was actually<tt:br/>pretty sweet.</tt:p>
+            <tt:p begin="00:16:53.180" end="00:16:57.617">BURT REYNOLDS: Uh-oh,<tt:br/>looks like we're in danger of a<tt:br/>frown turning upside-down...</tt:p>
+            <tt:p begin="00:16:57.650" end="00:16:59.252">ARCHER: Cut it out,<tt:br/>that tickles.</tt:p>
+            <tt:p begin="00:16:59.286" end="00:17:03.590">Burt c'mon, seriously,<tt:br/>cut it out --</tt:p>
+            <tt:p begin="00:17:03.623" end="00:17:05.325">Burt watch the goddamn road!</tt:p>
+            <tt:p begin="00:17:05.358" end="00:17:07.160">BURT REYNOLDS: Oh shit.</tt:p>
+            <tt:p begin="00:17:07.194" end="00:17:08.161">Sorry about that.</tt:p>
+            <tt:p begin="00:17:08.195" end="00:17:12.365">ARCHER: You should be,<tt:br/>that was totally irresp --</tt:p>
+            <tt:p begin="00:17:21.274" end="00:17:24.211">Wait, was that the same footage?</tt:p>
+            <tt:p begin="00:17:24.244" end="00:17:25.212">LANA: Thanks, Burt!</tt:p>
+            <tt:p begin="00:17:25.245" end="00:17:26.613">BURT REYNOLDS: Anytime, darlin!</tt:p>
+            <tt:p begin="00:17:26.646" end="00:17:29.449">But uh, you probably wanna<tt:br/>go ahead and slow down...</tt:p>
+            <tt:p begin="00:17:29.482" end="00:17:30.550">LANA: Oh, shit!</tt:p>
+            <tt:p begin="00:17:30.583" end="00:17:31.784">Krieger, braaaakes!</tt:p>
+            <tt:p begin="00:17:31.818" end="00:17:32.685">KRIEGER: I am!</tt:p>
+            <tt:p begin="00:17:32.719" end="00:17:36.156">They're not doing anything!</tt:p>
+            <tt:p begin="00:17:36.189" end="00:17:37.657">LANA: A round must've cut<tt:br/>the brake line!</tt:p>
+            <tt:p begin="00:17:37.690" end="00:17:39.692">BURT REYNOLDS: That's okay,<tt:br/>I got it!</tt:p>
+            <tt:p begin="00:17:39.726" end="00:17:43.563">ARCHER: What do you mean you<tt:br/>gawww shiiit!</tt:p>
+            <tt:p begin="00:17:43.596" end="00:17:47.234">Um...</tt:p>
+            <tt:p begin="00:17:50.337" end="00:17:54.307">BURT REYNOLDS: Hang on,<tt:br/>everybody!</tt:p>
+            <tt:p begin="00:18:05.618" end="00:18:08.588">Everybody okay?</tt:p>
+            <tt:p begin="00:18:08.621" end="00:18:09.622">KRIEGER: Okay? !</tt:p>
+            <tt:p begin="00:18:09.656" end="00:18:11.691">No, we're not okay!</tt:p>
+            <tt:p begin="00:18:11.724" end="00:18:14.227">Look at vanispheres!</tt:p>
+            <tt:p begin="00:18:14.261" end="00:18:15.828">HOLOGRAM: No, we okay...</tt:p>
+            <tt:p begin="00:18:15.862" end="00:18:17.430">KREIGER: Dont you touch me!</tt:p>
+            <tt:p begin="00:18:17.464" end="00:18:18.265">BURT REYNOLDS: What --</tt:p>
+            <tt:p begin="00:18:18.298" end="00:18:19.166">is that a ghost?</tt:p>
+            <tt:p begin="00:18:19.199" end="00:18:21.134">LANA: No, it's -- never mind.</tt:p>
+            <tt:p begin="00:18:21.168" end="00:18:21.634">We're good.</tt:p>
+            <tt:p begin="00:18:21.668" end="00:18:22.735">Thank you, Burt.</tt:p>
+            <tt:p begin="00:18:22.769" end="00:18:28.308">BURT REYNOLDS: Oh don't thank<tt:br/>me, thank -- oh, right.</tt:p>
+            <tt:p begin="00:18:28.341" end="00:18:32.279">Now if you'll excuse me,<tt:br/>I think we can still make that<tt:br/>movie premiere.</tt:p>
+            <tt:p begin="00:18:32.312" end="00:18:36.783">ARCHER: You're taking me<tt:br/>to the premiere? !</tt:p>
+            <tt:p begin="00:18:36.816" end="00:18:39.786">MALORY: Leave me for some hot<tt:br/>little twenty year-old.</tt:p>
+            <tt:p begin="00:18:39.819" end="00:18:41.154">Well, I'll show him.</tt:p>
+            <tt:p begin="00:18:41.188" end="00:18:43.390">I'll go find a ten year-old.</tt:p>
+            <tt:p begin="00:18:43.423" end="00:18:45.425">CHERYL/CAROL: Ew. Yeah,<tt:br/>I don't think you wanna do that.</tt:p>
+            <tt:p begin="00:18:45.458" end="00:18:46.426">MALORY: Shut up.</tt:p>
+            <tt:p begin="00:18:46.459" end="00:18:50.930">PAM: Okay, taxiiii!</tt:p>
+            <tt:p begin="00:18:50.963" end="00:18:51.864">MALORY: Yooou!</tt:p>
+            <tt:p begin="00:18:51.898" end="00:18:53.466">BURT REYNOLDS: Malory wait,<tt:br/>I can explain --</tt:p>
+            <tt:p begin="00:18:53.500" end="00:18:54.066">MALORY: Save it!</tt:p>
+            <tt:p begin="00:18:54.100" end="00:18:55.302">Nobody wants your, your --</tt:p>
+            <tt:p begin="00:18:55.335" end="00:18:56.503">ARCHER: Mother, Burt didn't --</tt:p>
+            <tt:p begin="00:18:56.536" end="00:18:58.438">MALORY: -- mustache rides<tt:br/>around here, buster!</tt:p>
+            <tt:p begin="00:18:58.471" end="00:19:00.307">ARCHER: Mother!</tt:p>
+            <tt:p begin="00:19:00.340" end="00:19:02.242">Ugh, listen,<tt:br/>Burt didn't write that note.</tt:p>
+            <tt:p begin="00:19:02.275" end="00:19:02.809">I did.</tt:p>
+            <tt:p begin="00:19:02.842" end="00:19:04.311">MALORY: You what.</tt:p>
+            <tt:p begin="00:19:04.344" end="00:19:05.545">ARCHER: I know, I'm sorry, I --</tt:p>
+            <tt:p begin="00:19:05.578" end="00:19:07.480">Oww! Oww!</tt:p>
+            <tt:p begin="00:19:07.514" end="00:19:09.182">MALORY: What is wrong<tt:br/>with you? !</tt:p>
+            <tt:p begin="00:19:09.216" end="00:19:09.849">BURT REYNOLDS: A lot, actually.</tt:p>
+            <tt:p begin="00:19:09.882" end="00:19:11.784">He's kind of a mess.</tt:p>
+            <tt:p begin="00:19:11.818" end="00:19:14.921">MALORY: I am too, look at me,<tt:br/>raccoon eyes...</tt:p>
+            <tt:p begin="00:19:14.954" end="00:19:16.723">BURT REYNOLDS: I think<tt:br/>you look beautiful.</tt:p>
+            <tt:p begin="00:19:16.756" end="00:19:19.926">And I, for one,<tt:br/>would love to walk you down<tt:br/>the red carpet.</tt:p>
+            <tt:p begin="00:19:19.959" end="00:19:24.231">MALORY: And I, for one,<tt:br/>would be delighted.</tt:p>
+            <tt:p begin="00:19:24.264" end="00:19:25.832">ARCHER: Have a good time,<tt:br/>Mother.</tt:p>
+            <tt:p begin="00:19:25.865" end="00:19:27.634">And I honestly mean that.</tt:p>
+            <tt:p begin="00:19:27.667" end="00:19:34.507">MALORY: Oh blow it out yer ass.</tt:p>
+            <tt:p begin="00:19:34.541" end="00:19:37.744">CHERYL/CAROL: Burt Reynolds<tt:br/>is so freakin awesome.</tt:p>
+            <tt:p begin="00:19:37.777" end="00:19:38.378">ARCHER: Yeah...</tt:p>
+            <tt:p begin="00:19:38.411" end="00:19:40.280">yeah he actually kind of is.</tt:p>
+            <tt:p begin="00:19:40.313" end="00:19:43.316">PAM: And, I for one,<tt:br/>am gonna go watch Hooper</tt:p>
+            <tt:p begin="00:19:43.350" end="00:19:46.786">and masturbate til my fingers<tt:br/>bleed.</tt:p>
+            <tt:p begin="00:19:46.819" end="00:19:48.521">CHERYL/CAROL: Just tape 'em up.</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

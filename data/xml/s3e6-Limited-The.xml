@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:03.171" end="00:00:07.375">MAN: Lemme go! You have no<tt:br/>jurisdiction over me! I'm a<tt:br/>Canadian citizen!</tt:p>
+            <tt:p begin="00:00:07.408" end="00:00:10.144">LANA: Yeah, and we're taking you<tt:br/>to Canada, so --</tt:p>
+            <tt:p begin="00:00:10.178" end="00:00:11.312">BILCOE: Help! Help!</tt:p>
+            <tt:p begin="00:00:11.345" end="00:00:12.280">Extraordinary rendition!</tt:p>
+            <tt:p begin="00:00:12.313" end="00:00:12.746">Extraordinary rendition!</tt:p>
+            <tt:p begin="00:00:12.780" end="00:00:13.547">LANA: (weary sigh)</tt:p>
+            <tt:p begin="00:00:13.581" end="00:00:16.117">Light him up,newbie.</tt:p>
+            <tt:p begin="00:00:16.150" end="00:00:17.551">CYRIL: Sorry in advance.</tt:p>
+            <tt:p begin="00:00:17.585" end="00:00:18.252">BILCOE: Owww!</tt:p>
+            <tt:p begin="00:00:18.286" end="00:00:20.054">That hurts like,<tt:br/>insanely bad.</tt:p>
+            <tt:p begin="00:00:20.088" end="00:00:22.223">CYRIL: That's why I said sorry<tt:br/>in advance</tt:p>
+            <tt:p begin="00:00:22.256" end="00:00:25.259">LANA: And you have to have to<tt:br/>stop yelling &quot;extraordinary<tt:br/>rendition.&quot;</tt:p>
+            <tt:p begin="00:00:25.293" end="00:00:26.060">A, nobody cares.</tt:p>
+            <tt:p begin="00:00:26.094" end="00:00:26.594">And --</tt:p>
+            <tt:p begin="00:00:26.627" end="00:00:27.795">MALORY: Be careful!</tt:p>
+            <tt:p begin="00:00:27.828" end="00:00:29.597">You big lummox!</tt:p>
+            <tt:p begin="00:00:29.630" end="00:00:32.400">I swear to God,<tt:br/>if you scuff my bags...</tt:p>
+            <tt:p begin="00:00:32.433" end="00:00:34.068">GEORGE: Oh,<tt:br/>I wouldn't dream of it, ma'am.</tt:p>
+            <tt:p begin="00:00:34.102" end="00:00:36.104">MALORY: And I can do without the<tt:br/>sarcasm.</tt:p>
+            <tt:p begin="00:00:36.137" end="00:00:37.538">GEORGE: Oh, no ma'am,<tt:br/>that wasn't --</tt:p>
+            <tt:p begin="00:00:37.571" end="00:00:38.306">MALORY: Enough!</tt:p>
+            <tt:p begin="00:00:38.339" end="00:00:39.340">With the backchat!</tt:p>
+            <tt:p begin="00:00:39.373" end="00:00:41.575">Ugh, Lana,<tt:br/>maybe you can talk to him.</tt:p>
+            <tt:p begin="00:00:41.609" end="00:00:45.113">- LANA: Um?!<tt:br/>- MALORY: So this is<tt:br/>the infamous Kenny Bilcoe?</tt:p>
+            <tt:p begin="00:00:45.146" end="00:00:46.547">You don't look like much of a<tt:br/>terrorist...</tt:p>
+            <tt:p begin="00:00:46.580" end="00:00:48.382">BILCOE: That's because I'm a<tt:br/>freedom fighter!</tt:p>
+            <tt:p begin="00:00:48.416" end="00:00:50.318">For a free and sovereign Nova<tt:br/>Scotia!</tt:p>
+            <tt:p begin="00:00:50.351" end="00:00:52.286">LANA: Is that why you blew up a<tt:br/>donut shop?</tt:p>
+            <tt:p begin="00:00:52.320" end="00:00:53.554">BILCOE: Allegedly!</tt:p>
+            <tt:p begin="00:00:53.587" end="00:00:56.257">If you believe Canada's<tt:br/>illegitimate,<tt:br/>so-called &quot;government!&quot;</tt:p>
+            <tt:p begin="00:00:56.290" end="00:00:57.691">CYRIL: I'm pretty sure we do...</tt:p>
+            <tt:p begin="00:00:57.725" end="00:01:00.294">MALORY: Which is why we're<tt:br/>taking you back to Ottawa.</tt:p>
+            <tt:p begin="00:01:00.328" end="00:01:02.596">And once we do,<tt:br/>hopefully the Mounties will</tt:p>
+            <tt:p begin="00:01:02.630" end="00:01:05.399">start sending us all kinds of<tt:br/>lucrative work.</tt:p>
+            <tt:p begin="00:01:05.433" end="00:01:06.500">LANA: How noble.</tt:p>
+            <tt:p begin="00:01:06.534" end="00:01:08.502">PAM: Speaking of work,<tt:br/>can I put what I just assume is</tt:p>
+            <tt:p begin="00:01:08.536" end="00:01:10.604">your rock collection on the<tt:br/>stupid train?</tt:p>
+            <tt:p begin="00:01:10.638" end="00:01:12.273">MALORY: Yes, the -- nooope!</tt:p>
+            <tt:p begin="00:01:12.306" end="00:01:13.574">Nice try, Pam.</tt:p>
+            <tt:p begin="00:01:13.607" end="00:01:14.742">PAM: What?</tt:p>
+            <tt:p begin="00:01:14.775" end="00:01:16.444">MALORY: You want to get on that<tt:br/>train so you can stowaway!</tt:p>
+            <tt:p begin="00:01:16.477" end="00:01:17.745">Just like on the blimp!</tt:p>
+            <tt:p begin="00:01:17.778" end="00:01:18.512">BILCOE: The what?</tt:p>
+            <tt:p begin="00:01:18.546" end="00:01:20.314">PAM: Okay, no biggie.</tt:p>
+            <tt:p begin="00:01:20.348" end="00:01:21.282">Have a nice trip.</tt:p>
+            <tt:p begin="00:01:21.315" end="00:01:22.783">MALORY: I -- wait a minute.</tt:p>
+            <tt:p begin="00:01:22.816" end="00:01:23.784">LANA: What now?</tt:p>
+            <tt:p begin="00:01:23.817" end="00:01:24.852">MALORY: Too easy.</tt:p>
+            <tt:p begin="00:01:24.885" end="00:01:26.287">Pam's up to something.</tt:p>
+            <tt:p begin="00:01:26.320" end="00:01:28.189">CONDUCTOR: Booooarrrd!</tt:p>
+            <tt:p begin="00:01:28.222" end="00:01:29.723">CYRIL: Well,<tt:br/>I doubt she'll make it on now...</tt:p>
+            <tt:p begin="00:01:29.757" end="00:01:31.159">LANA: Ditto for Archer.</tt:p>
+            <tt:p begin="00:01:31.192" end="00:01:32.593">MALORY: Wh-?<tt:br/>He's not here?</tt:p>
+            <tt:p begin="00:01:32.626" end="00:01:34.862">LANA: Mmmmmm...</tt:p>
+            <tt:p begin="00:01:34.895" end="00:01:35.729">nope.</tt:p>
+            <tt:p begin="00:01:35.763" end="00:01:37.365">GEORGE: Need to get these bags<tt:br/>on, ma'am.</tt:p>
+            <tt:p begin="00:01:37.398" end="00:01:38.132">MALORY: I heard him!</tt:p>
+            <tt:p begin="00:01:38.166" end="00:01:38.932">George!</tt:p>
+            <tt:p begin="00:01:38.966" end="00:01:40.468">LANA: Malory,<tt:br/>don't call him that...</tt:p>
+            <tt:p begin="00:01:40.501" end="00:01:42.303">GEORGE: My name actually is<tt:br/>George.</tt:p>
+            <tt:p begin="00:01:42.336" end="00:01:43.237">LANA: Really?</tt:p>
+            <tt:p begin="00:01:43.271" end="00:01:46.207">MALORY: Dammit,<tt:br/>I told Sterling six o'clock!</tt:p>
+            <tt:p begin="00:01:46.240" end="00:01:48.176">ARCHER: I thought you<tt:br/>meant six a.m.!</tt:p>
+            <tt:p begin="00:01:48.209" end="00:01:50.878">MALORY: No,<tt:br/>six -- Sterling are you drunk?</tt:p>
+            <tt:p begin="00:01:50.911" end="00:01:51.845">ARCHER: Winnerrrr!</tt:p>
+            <tt:p begin="00:01:51.879" end="00:01:52.546">BILCOE: Nice.</tt:p>
+            <tt:p begin="00:01:52.580" end="00:01:53.914">LANA: Archer...</tt:p>
+            <tt:p begin="00:01:53.947" end="00:01:56.217">MALORY: You knew we were<tt:br/>transporting a dangerous<tt:br/>terrorist to Canada!</tt:p>
+            <tt:p begin="00:01:56.250" end="00:01:59.453">So how and why are you drunk at<tt:br/>six o'clock?</tt:p>
+            <tt:p begin="00:01:59.487" end="00:02:02.456">ARCHER: Well the how's pretty<tt:br/>self-explanatory,</tt:p>
+            <tt:p begin="00:02:02.490" end="00:02:06.694">and the why is because, hic,<tt:br/>I thought we were leaving at six<tt:br/>a.m.</tt:p>
+            <tt:p begin="00:02:06.727" end="00:02:07.628">tomorrow.</tt:p>
+            <tt:p begin="00:02:07.661" end="00:02:10.798">Ergo, Latin,<tt:br/>plenty of time to sleep it off.</tt:p>
+            <tt:p begin="00:02:10.831" end="00:02:12.466">MALORY: [annoyed sigh]</tt:p>
+            <tt:p begin="00:02:12.500" end="00:02:14.502">LANA: Well drink some coffee,<tt:br/>because there's a good chance<tt:br/>Bilcoe's terrorist pals --</tt:p>
+            <tt:p begin="00:02:14.535" end="00:02:16.036">BILCOE: Alleged terrorist pals!</tt:p>
+            <tt:p begin="00:02:16.069" end="00:02:18.906">LANA: -- are going to attack the<tt:br/>train at some point,<tt:br/>and try to bust him loose.</tt:p>
+            <tt:p begin="00:02:18.939" end="00:02:19.873">ARCHER: Awesome!</tt:p>
+            <tt:p begin="00:02:19.907" end="00:02:20.741">BILCOE: Right?</tt:p>
+            <tt:p begin="00:02:20.774" end="00:02:23.277">MALORY: I'm sorry,<tt:br/>how is that &quot;awesome?&quot;</tt:p>
+            <tt:p begin="00:02:23.311" end="00:02:25.413">ARCHER: Because, hic,<tt:br/>pretty much my whole life I've</tt:p>
+            <tt:p begin="00:02:25.446" end="00:02:28.316">wanted to fight some guys on the<tt:br/>roof of a speeding train.</tt:p>
+            <tt:p begin="00:02:28.349" end="00:02:31.285">BILCOE: Well if I know my boys,<tt:br/>you may just get your wish,<tt:br/>big guy.</tt:p>
+            <tt:p begin="00:02:31.319" end="00:02:33.921">ARCHER: Thanks,<tt:br/>Freddy Foreshadowing.</tt:p>
+            <tt:p begin="00:02:33.954" end="00:02:35.523">ARCHER: Who is this?</tt:p>
+            <tt:p begin="00:02:35.556" end="00:02:36.824">EVERYBODY: [annoyed sigh]</tt:p>
+            <tt:p begin="00:02:36.857" end="00:02:39.560">ARCHER: Please tell me he's a<tt:br/>renowned chicken-and-waffle<tt:br/>chef.</tt:p>
+            <tt:p begin="00:02:39.593" end="00:02:43.231">Because I am starving.</tt:p>
+            <tt:p begin="00:03:21.769" end="00:03:24.405">BILCOE: So listen, you look like<tt:br/>a pretty smart guy...</tt:p>
+            <tt:p begin="00:03:24.438" end="00:03:26.607">CYRIL: Well thanks,<tt:br/>I like to think so...</tt:p>
+            <tt:p begin="00:03:26.640" end="00:03:29.643">BILCOE: So why dontcha do<tt:br/>yourself a pretty-smart-guy<tt:br/>favor and just let me go?</tt:p>
+            <tt:p begin="00:03:29.677" end="00:03:32.012">CYRIL: Uh,<tt:br/>because Ms. Archer would kill<tt:br/>me?</tt:p>
+            <tt:p begin="00:03:32.045" end="00:03:34.548">BILCOE: Well what do ya think's<tt:br/>gonna happen when my boys storm<tt:br/>this train?</tt:p>
+            <tt:p begin="00:03:34.582" end="00:03:35.816">CYRIL: Oh,<tt:br/>I'm not too worried about that.</tt:p>
+            <tt:p begin="00:03:35.849" end="00:03:36.884">BILCOE: Ya should be.</tt:p>
+            <tt:p begin="00:03:36.917" end="00:03:37.785">My boys are bad ass.</tt:p>
+            <tt:p begin="00:03:37.818" end="00:03:39.620">CYRIL: Well, so am -- Lana.</tt:p>
+            <tt:p begin="00:03:39.653" end="00:03:40.688">And I'm learning.</tt:p>
+            <tt:p begin="00:03:40.721" end="00:03:42.690">Oh,<tt:br/>and don't forget about Archer.</tt:p>
+            <tt:p begin="00:03:42.723" end="00:03:43.624">BILCOE: The drunk guy?</tt:p>
+            <tt:p begin="00:03:43.657" end="00:03:45.726">CYRIL: He may have seemed drunk,<tt:br/>but he's --</tt:p>
+            <tt:p begin="00:03:45.759" end="00:03:46.660">LANA: Still drinking?</tt:p>
+            <tt:p begin="00:03:46.694" end="00:03:48.829">ARCHER: Relax,<tt:br/>Lana it's just a bloody mary.</tt:p>
+            <tt:p begin="00:03:48.862" end="00:03:50.998">And by the way, not a great one.</tt:p>
+            <tt:p begin="00:03:51.031" end="00:03:52.733">Mr. Vodka and Ketchup.</tt:p>
+            <tt:p begin="00:03:52.766" end="00:03:54.702">LANA: Archer,<tt:br/>at any time in the next twelve</tt:p>
+            <tt:p begin="00:03:54.735" end="00:03:58.306">hours this train could be<tt:br/>attacked by radical Nova Scotian<tt:br/>separatists.</tt:p>
+            <tt:p begin="00:03:58.339" end="00:03:59.640">ARCHER: (chuckling) Armed with<tt:br/>what?</tt:p>
+            <tt:p begin="00:03:59.673" end="00:04:02.876">Pamphlets about Canada's<tt:br/>responsible gun control laws?</tt:p>
+            <tt:p begin="00:04:02.910" end="00:04:04.578">LANA: (annoyed sigh) The New<tt:br/>Scotland Front has guns,</tt:p>
+            <tt:p begin="00:04:04.612" end="00:04:06.314">and they're not afraid to use<tt:br/>them, so --</tt:p>
+            <tt:p begin="00:04:06.347" end="00:04:07.281">ARCHER: So okay!</tt:p>
+            <tt:p begin="00:04:07.315" end="00:04:08.949">God, I'll switch to coffee.</tt:p>
+            <tt:p begin="00:04:08.982" end="00:04:11.352">(to bartender) Hey Heinz 56,<tt:br/>can I get an Irish coffee.</tt:p>
+            <tt:p begin="00:04:11.385" end="00:04:12.953">- LANA: No!<tt:br/>- ARCHER: Lana,<tt:br/>I have to taper off.</tt:p>
+            <tt:p begin="00:04:12.986" end="00:04:15.856">Trust me,<tt:br/>if these Noma Scojens are a real</tt:p>
+            <tt:p begin="00:04:15.889" end="00:04:18.392">threat,<tt:br/>you do not want me hungover.</tt:p>
+            <tt:p begin="00:04:18.426" end="00:04:20.894">LANA: Do you even still get<tt:br/>hangovers?</tt:p>
+            <tt:p begin="00:04:20.928" end="00:04:24.732">ARCHER: Normally no,<tt:br/>but I drank about two gallons of<tt:br/> mamajuana this afternoon.</tt:p>
+            <tt:p begin="00:04:24.765" end="00:04:29.069">I was playing dominoes with a,<tt:br/>Dominican bike gang,<tt:br/>or was it Mahjong.</tt:p>
+            <tt:p begin="00:04:29.102" end="00:04:29.903">I don't remember.</tt:p>
+            <tt:p begin="00:04:29.937" end="00:04:31.472">MALORY: (O.S.) Ridiculous!</tt:p>
+            <tt:p begin="00:04:31.505" end="00:04:36.043">MALORY: This thing's a sardine<tt:br/>can. How are people supposed to<tt:br/>travel like this?</tt:p>
+            <tt:p begin="00:04:36.076" end="00:04:37.678">GEORGE: Most people bring less<tt:br/>luggage.</tt:p>
+            <tt:p begin="00:04:37.711" end="00:04:39.447">MALORY: Most people fly.</tt:p>
+            <tt:p begin="00:04:39.480" end="00:04:42.883">So your days of sullen<tt:br/>superiority are numbered.</tt:p>
+            <tt:p begin="00:04:42.916" end="00:04:44.752">GEORGE: I have no response to<tt:br/>that.</tt:p>
+            <tt:p begin="00:04:44.785" end="00:04:45.586">MALORY: They never do.</tt:p>
+            <tt:p begin="00:04:45.619" end="00:04:47.921">Now let's go find a bigger<tt:br/>compartment.</tt:p>
+            <tt:p begin="00:04:47.955" end="00:04:49.056">GEORGE: I'm afraid there aren't<tt:br/>any.</tt:p>
+            <tt:p begin="00:04:49.089" end="00:04:52.426">MALORY: Nonsense,<tt:br/>I'm sure there's one here<tt:br/>somewhere.</tt:p>
+            <tt:p begin="00:04:52.460" end="00:04:53.827">Why are these all locked?</tt:p>
+            <tt:p begin="00:04:53.861" end="00:04:55.363">GEORGE: They're occupied.</tt:p>
+            <tt:p begin="00:04:55.396" end="00:04:56.864">So if you don't mind --</tt:p>
+            <tt:p begin="00:04:56.897" end="00:05:00.000">MALORY: What I mind is your<tt:br/>familiar tone, young man.</tt:p>
+            <tt:p begin="00:05:00.033" end="00:05:01.101">What's through here?</tt:p>
+            <tt:p begin="00:05:01.134" end="00:05:02.803">GEORGE: Those are private cars,<tt:br/>ma'am.</tt:p>
+            <tt:p begin="00:05:02.836" end="00:05:03.904">MALORY: What do you mean,<tt:br/>&quot;private?&quot;</tt:p>
+            <tt:p begin="00:05:03.937" end="00:05:05.506">GEORGE: I mean they're not --</tt:p>
+            <tt:p begin="00:05:05.539" end="00:05:07.608">Not for you to be<tt:br/>knocking on!</tt:p>
+            <tt:p begin="00:05:07.641" end="00:05:09.410">Now I have to insist that you --</tt:p>
+            <tt:p begin="00:05:09.443" end="00:05:11.345">PAM: Get yer panties untwisted!</tt:p>
+            <tt:p begin="00:05:11.379" end="00:05:12.413">Damn...</tt:p>
+            <tt:p begin="00:05:12.446" end="00:05:12.846">MALORY: Wh-?</tt:p>
+            <tt:p begin="00:05:12.880" end="00:05:14.348">I knew it!</tt:p>
+            <tt:p begin="00:05:14.382" end="00:05:18.986">I want this train<tt:br/>stopped immediately and this<tt:br/>stowaway forcibly disembarked!</tt:p>
+            <tt:p begin="00:05:19.019" end="00:05:20.954">GEORGE: Afraid I can't do that,<tt:br/>ma'am.</tt:p>
+            <tt:p begin="00:05:20.988" end="00:05:23.657">MALORY: You can and you will,<tt:br/>or I'll have your job!</tt:p>
+            <tt:p begin="00:05:23.691" end="00:05:24.925">CHERYL/CAROL: No,<tt:br/>she won't, George!</tt:p>
+            <tt:p begin="00:05:24.958" end="00:05:26.059">MALORY: Carol?</tt:p>
+            <tt:p begin="00:05:26.093" end="00:05:27.428">MALORY: What are you doing here?</tt:p>
+            <tt:p begin="00:05:27.461" end="00:05:29.997">- CHERYL/CAROL: Uh,<tt:br/>trying to perform my ablutions?<tt:br/>- MALORY: But --</tt:p>
+            <tt:p begin="00:05:30.030" end="00:05:32.099">GEORGE: This is Miss Tunt's<tt:br/>private car.</tt:p>
+            <tt:p begin="00:05:32.132" end="00:05:34.468">MALORY: How do you have a<tt:br/>private train car?</tt:p>
+            <tt:p begin="00:05:34.502" end="00:05:36.637">PAM: Uh,<tt:br/>cause she owns the railroad?</tt:p>
+            <tt:p begin="00:05:36.670" end="00:05:37.771">CHERYL/CAROL: Well, half.</tt:p>
+            <tt:p begin="00:05:37.805" end="00:05:39.573">And I knew you wouldn't let us<tt:br/>go on this stupid trip to</tt:p>
+            <tt:p begin="00:05:39.607" end="00:05:41.008">Canada, so I had my<tt:br/>cars hooked up.</tt:p>
+            <tt:p begin="00:05:41.041" end="00:05:41.975">MALORY: Cars?</tt:p>
+            <tt:p begin="00:05:42.009" end="00:05:44.144">Plural?</tt:p>
+            <tt:p begin="00:05:44.177" end="00:05:46.046">CHERYL/CAROL: This car,<tt:br/>two sleeping cars,</tt:p>
+            <tt:p begin="00:05:46.079" end="00:05:50.684">a private dining car,<tt:br/>and one that's just a teeny tiny<tt:br/>skating rink.</tt:p>
+            <tt:p begin="00:05:50.718" end="00:05:53.687">MALORY: Er,<tt:br/>two sleeping cars?</tt:p>
+            <tt:p begin="00:05:53.721" end="00:05:55.623">Do you think there might be room<tt:br/>for --</tt:p>
+            <tt:p begin="00:05:55.656" end="00:05:56.524">GILLETTE: Nooope.</tt:p>
+            <tt:p begin="00:05:56.557" end="00:05:58.091">GILLETTE: It's already cramped<tt:br/>back there,</tt:p>
+            <tt:p begin="00:05:58.125" end="00:06:03.731">what with that piss-reeking<tt:br/>ocelot.</tt:p>
+            <tt:p begin="00:06:03.764" end="00:06:05.466">CHERYL/CAROL: Plus George says<tt:br/>you stiffed him.</tt:p>
+            <tt:p begin="00:06:05.499" end="00:06:06.133">MALORY: Wh-?</tt:p>
+            <tt:p begin="00:06:06.166" end="00:06:08.001">No I didn't, I gave him a tip!</tt:p>
+            <tt:p begin="00:06:08.035" end="00:06:08.702">GEORGE: A stick of gum?</tt:p>
+            <tt:p begin="00:06:08.736" end="00:06:10.404">- MALORY: Well?<tt:br/>- PAM: Really?</tt:p>
+            <tt:p begin="00:06:10.438" end="00:06:11.705">GILLETTE: Did you not have a<tt:br/>button?</tt:p>
+            <tt:p begin="00:06:11.739" end="00:06:13.607">MALORY: You button it, missy!</tt:p>
+            <tt:p begin="00:06:13.641" end="00:06:16.910">CHERYL/CAROL: Oh we don't know<tt:br/>the meaning of private,<tt:br/>lets all pile in.</tt:p>
+            <tt:p begin="00:06:16.944" end="00:06:17.645">ARCHER: Lana check it out!</tt:p>
+            <tt:p begin="00:06:17.678" end="00:06:19.212">Actual gas lamps!</tt:p>
+            <tt:p begin="00:06:19.246" end="00:06:21.949">LANA: Amazing, Archer, yes,<tt:br/>so you think we can go guard the<tt:br/>prisoner now, or --</tt:p>
+            <tt:p begin="00:06:21.982" end="00:06:23.617">RROWR!</tt:p>
+            <tt:p begin="00:06:23.651" end="00:06:25.686">ARCHER: Is that Babou?</tt:p>
+            <tt:p begin="00:06:25.719" end="00:06:26.654">LANA: Or not.</tt:p>
+            <tt:p begin="00:06:26.687" end="00:06:27.821">Apparently. Okay --</tt:p>
+            <tt:p begin="00:06:27.855" end="00:06:28.889">CYRIL: Wowww!</tt:p>
+            <tt:p begin="00:06:28.922" end="00:06:29.690">ARCHER: (O.S.) Lana!</tt:p>
+            <tt:p begin="00:06:29.723" end="00:06:30.691">- LANA: Cyril!<tt:br/>- CHERYL/CAROL: Jesus!</tt:p>
+            <tt:p begin="00:06:30.724" end="00:06:31.425">ARCHER: (O.S.) Lana!</tt:p>
+            <tt:p begin="00:06:31.459" end="00:06:31.992">- LANA: Cyril -<tt:br/>- PAM: And Pam.</tt:p>
+            <tt:p begin="00:06:32.025" end="00:06:32.960">ARCHER: (O.S.) Lanaaaaa!</tt:p>
+            <tt:p begin="00:06:32.993" end="00:06:33.661">LANA: What?</tt:p>
+            <tt:p begin="00:06:33.694" end="00:06:35.028">ARCHER: (O.S.) He remembers me!</tt:p>
+            <tt:p begin="00:06:35.062" end="00:06:37.631">LANA: Cyril, why are you in<tt:br/>here?</tt:p>
+            <tt:p begin="00:06:37.665" end="00:06:39.700">CYRIL: I didn't know where<tt:br/>you guys were.</tt:p>
+            <tt:p begin="00:06:39.733" end="00:06:41.969">LANA: It doesn't matter where we<tt:br/>are, Newb Gingrich --</tt:p>
+            <tt:p begin="00:06:42.002" end="00:06:43.103">CHERYL/CAROL: Then get out!</tt:p>
+            <tt:p begin="00:06:43.136" end="00:06:44.472">LANA: -- where's the prisoner?</tt:p>
+            <tt:p begin="00:06:44.505" end="00:06:46.740">CYRIL: In my compartment.</tt:p>
+            <tt:p begin="00:06:46.774" end="00:06:49.009">CYRIL: At least, he was...</tt:p>
+            <tt:p begin="00:06:49.042" end="00:06:50.944">CYRIL: Although he doesn't seem<tt:br/>to be in here now.</tt:p>
+            <tt:p begin="00:06:50.978" end="00:06:52.179">LANA: No kidding.</tt:p>
+            <tt:p begin="00:06:52.212" end="00:06:53.914">CYRIL: Mmmmmm...</tt:p>
+            <tt:p begin="00:06:53.947" end="00:06:54.682">nope.</tt:p>
+            <tt:p begin="00:06:54.715" end="00:06:55.449">ARCHER: (O.S.) Lana!</tt:p>
+            <tt:p begin="00:06:55.483" end="00:06:56.817">Cyril! Oh my God...</tt:p>
+            <tt:p begin="00:06:56.850" end="00:06:57.918">LANA: Too late, he's gone.</tt:p>
+            <tt:p begin="00:06:57.951" end="00:06:59.419">Thanks to Cyril.</tt:p>
+            <tt:p begin="00:06:59.453" end="00:07:01.789">ARCHER: Well he's not gonna jump<tt:br/>off a train going eighty miles<tt:br/>an hour, so --</tt:p>
+            <tt:p begin="00:07:01.822" end="00:07:02.823">LANA: So, yeah.</tt:p>
+            <tt:p begin="00:07:02.856" end="00:07:04.291">We'll sweep car by car,<tt:br/>moving from front to back.</tt:p>
+            <tt:p begin="00:07:04.324" end="00:07:08.061">ARCHER: Good, you guys do that,<tt:br/>I'll get a big raw steak from<tt:br/>the kitchen.</tt:p>
+            <tt:p begin="00:07:08.095" end="00:07:10.564">LANA: (weary sigh) Are you<tt:br/>talking about the ocelot?</tt:p>
+            <tt:p begin="00:07:10.598" end="00:07:11.398">ARCHER: Are you not?</tt:p>
+            <tt:p begin="00:07:11.431" end="00:07:12.299">LANA: I'm talking about the<tt:br/>prisoner!</tt:p>
+            <tt:p begin="00:07:12.332" end="00:07:14.067">ARCHER: Oh.<tt:br/>Well, maybe they're together.</tt:p>
+            <tt:p begin="00:07:14.101" end="00:07:16.169">Although I doubt it,<tt:br/>Babou's kind of a loner.</tt:p>
+            <tt:p begin="00:07:16.203" end="00:07:18.038">Like Paul Newman in Hud.</tt:p>
+            <tt:p begin="00:07:18.071" end="00:07:22.710">If Paul Newman had<tt:br/>constantly sprayed piss all<tt:br/>over, um...</tt:p>
+            <tt:p begin="00:07:22.743" end="00:07:27.147">oh what was her...</tt:p>
+            <tt:p begin="00:07:27.180" end="00:07:28.949">(snaps fingers) Patricia Neal!</tt:p>
+            <tt:p begin="00:07:28.982" end="00:07:31.985">Who I hate.</tt:p>
+            <tt:p begin="00:07:37.257" end="00:07:38.258">LANA: Sorry for the<tt:br/>intrusion, folks.</tt:p>
+            <tt:p begin="00:07:38.291" end="00:07:41.028">Nothing to worry about,<tt:br/>just some standard, um...</tt:p>
+            <tt:p begin="00:07:41.061" end="00:07:43.864">train security.</tt:p>
+            <tt:p begin="00:07:43.897" end="00:07:46.066">LANA: Okay,<tt:br/>that's all the regular cars.</tt:p>
+            <tt:p begin="00:07:46.099" end="00:07:49.537">Now we get to search all the<tt:br/>sleeper cars,<tt:br/>thanks to your incompetence.</tt:p>
+            <tt:p begin="00:07:49.570" end="00:07:51.104">CYRIL: Well you left me<tt:br/>unsupervised.</tt:p>
+            <tt:p begin="00:07:51.138" end="00:07:52.573">LANA: So this is my fault?</tt:p>
+            <tt:p begin="00:07:52.606" end="00:07:54.007">CYRIL: Mmm, fifty-fifty?</tt:p>
+            <tt:p begin="00:07:54.041" end="00:07:57.210">LANA: Fifty-fifty you<tt:br/>accidentally shoot somebody,<tt:br/>Newb.</tt:p>
+            <tt:p begin="00:07:57.244" end="00:07:59.713">Now come on,<tt:br/>it'll take us all night to<tt:br/>search this damn train.</tt:p>
+            <tt:p begin="00:07:59.747" end="00:08:00.881">CYRIL: Well,<tt:br/>but with Archer helping...</tt:p>
+            <tt:p begin="00:08:00.914" end="00:08:03.150">LANA: I wouldn't exactly call it<tt:br/>helping.</tt:p>
+            <tt:p begin="00:08:03.183" end="00:08:06.053">ARCHER: (O.S.) Here kitty kitty<tt:br/>kitty.</tt:p>
+            <tt:p begin="00:08:06.086" end="00:08:08.856">Kitty?</tt:p>
+            <tt:p begin="00:08:08.889" end="00:08:12.993">ARCHER: Excuse me,<tt:br/>is there an ocelot in there?</tt:p>
+            <tt:p begin="00:08:13.026" end="00:08:15.162">GEORGE: No no no,<tt:br/>what're you doing?</tt:p>
+            <tt:p begin="00:08:15.195" end="00:08:17.565">Besides making a mess all over<tt:br/>my train?</tt:p>
+            <tt:p begin="00:08:17.598" end="00:08:19.032">ARCHER: Looking for a terrorist<tt:br/>and an ocelot --</tt:p>
+            <tt:p begin="00:08:19.066" end="00:08:19.933">GEORGE: What?</tt:p>
+            <tt:p begin="00:08:19.967" end="00:08:21.669">ARCHER: -- not necessarily in<tt:br/>that order.</tt:p>
+            <tt:p begin="00:08:21.702" end="00:08:23.971">GEORGE: Okay that's it,<tt:br/>we're stopping.</tt:p>
+            <tt:p begin="00:08:24.004" end="00:08:25.806">Frank,<tt:br/>this is George, we gotta --</tt:p>
+            <tt:p begin="00:08:25.839" end="00:08:27.007">ARCHER: Give me that!</tt:p>
+            <tt:p begin="00:08:27.040" end="00:08:29.309">He's gotta keep the train at top<tt:br/>speed so they can't get off.</tt:p>
+            <tt:p begin="00:08:29.342" end="00:08:30.778">So tell him to keep it floored.</tt:p>
+            <tt:p begin="00:08:30.811" end="00:08:32.012">GEORGE: I will do no such thing.</tt:p>
+            <tt:p begin="00:08:32.045" end="00:08:33.847">ARCHER: Okay then here,<tt:br/>hold this?</tt:p>
+            <tt:p begin="00:08:33.881" end="00:08:35.616">GEORGE: Why are you giving me a<tt:br/>-- oh my!</tt:p>
+            <tt:p begin="00:08:35.649" end="00:08:37.951">ARCHER: Sorry,<tt:br/>but I'm not letting a terrorist<tt:br/>escape.</tt:p>
+            <tt:p begin="00:08:37.985" end="00:08:42.623">And obviously an ocelot wouldn't<tt:br/>survive in the frozen wasteland<tt:br/>of upstate New York.</tt:p>
+            <tt:p begin="00:08:42.656" end="00:08:44.892">So.</tt:p>
+            <tt:p begin="00:08:44.925" end="00:08:48.796">GEORGE: Sorry Frank, uh,<tt:br/>Miss Tunt says she wants to beat<tt:br/>the record run to Ottawa.</tt:p>
+            <tt:p begin="00:08:48.829" end="00:08:49.262">ENGINEER: (annoyed sigh)</tt:p>
+            <tt:p begin="00:08:49.296" end="00:08:50.230">Those crazy Tunts.</tt:p>
+            <tt:p begin="00:08:50.263" end="00:08:53.166">Okay, hang on...</tt:p>
+            <tt:p begin="00:08:53.200" end="00:08:54.768">- [GUNSHOT]<tt:br/>- BILCOE: Jesus!</tt:p>
+            <tt:p begin="00:08:54.802" end="00:08:59.907">Boys, hang on a sec...</tt:p>
+            <tt:p begin="00:08:59.940" end="00:09:01.074">BILCOE: Okay boys,<tt:br/>make sure you bring the heavy</tt:p>
+            <tt:p begin="00:09:01.108" end="00:09:03.911">stuff, cause these<tt:br/>crazy ISIS bastards<tt:br/>aren't playing...</tt:p>
+            <tt:p begin="00:09:03.944" end="00:09:05.713">BILCOE: They just killed a black<tt:br/>guy.</tt:p>
+            <tt:p begin="00:09:05.746" end="00:09:06.880">I know, right?</tt:p>
+            <tt:p begin="00:09:06.914" end="00:09:08.782">Welcome to America.</tt:p>
+            <tt:p begin="00:09:08.816" end="00:09:10.918">MALORY: How is that<tt:br/>racist?</tt:p>
+            <tt:p begin="00:09:10.951" end="00:09:12.352">LANA: Never mind, look --</tt:p>
+            <tt:p begin="00:09:12.385" end="00:09:15.956">MALORY: I treat all servants<tt:br/>exactly the same,<tt:br/>regardless of their race.</tt:p>
+            <tt:p begin="00:09:15.989" end="00:09:17.891">LANA: Hang on,<tt:br/>I hear freedom ringing.</tt:p>
+            <tt:p begin="00:09:17.925" end="00:09:19.693">MALORY: At worst I'm elitist.</tt:p>
+            <tt:p begin="00:09:19.727" end="00:09:20.794">But not racist.</tt:p>
+            <tt:p begin="00:09:20.828" end="00:09:21.795">LANA: Whatever.</tt:p>
+            <tt:p begin="00:09:21.829" end="00:09:23.597">Cyril and I searched the front<tt:br/>half of the train,</tt:p>
+            <tt:p begin="00:09:23.631" end="00:09:25.733">but we didn't see any sign of<tt:br/>Bilcoe, okay so --</tt:p>
+            <tt:p begin="00:09:25.766" end="00:09:28.035">MALORY: I bet it's hard to see<tt:br/>anything from that high horse...</tt:p>
+            <tt:p begin="00:09:28.068" end="00:09:29.236">LANA: So.</tt:p>
+            <tt:p begin="00:09:29.269" end="00:09:31.872">Unless Archer found Bilcoe in<tt:br/>the back half of the train...</tt:p>
+            <tt:p begin="00:09:31.905" end="00:09:32.873">ARCHER: Which, no,<tt:br/>he didn't.</tt:p>
+            <tt:p begin="00:09:32.906" end="00:09:33.641">CYRIL: Jeezy Petes!</tt:p>
+            <tt:p begin="00:09:33.674" end="00:09:34.174">LANA: Archer!</tt:p>
+            <tt:p begin="00:09:34.207" end="00:09:34.942">MALORY: Is that blood?</tt:p>
+            <tt:p begin="00:09:34.975" end="00:09:35.676">ARCHER: What?</tt:p>
+            <tt:p begin="00:09:35.709" end="00:09:36.276">(looks down) Oh.</tt:p>
+            <tt:p begin="00:09:36.309" end="00:09:37.310">Yeah, but it's from a cow.</tt:p>
+            <tt:p begin="00:09:37.344" end="00:09:41.114">CYRIL: You shot a cow?</tt:p>
+            <tt:p begin="00:09:41.148" end="00:09:43.651">ARCHER: And Bilcoe's not in the<tt:br/>back half,<tt:br/>so you guys must've missed him.</tt:p>
+            <tt:p begin="00:09:43.684" end="00:09:45.118">LANA: Which, no, we didn't.</tt:p>
+            <tt:p begin="00:09:45.152" end="00:09:46.754">ARCHER: Which, yes,<tt:br/>obviously you did --</tt:p>
+            <tt:p begin="00:09:46.787" end="00:09:47.621">LANA: Or you did.</tt:p>
+            <tt:p begin="00:09:47.655" end="00:09:48.789">ARCHER: Or you did.</tt:p>
+            <tt:p begin="00:09:48.822" end="00:09:50.924">Because there's no way he got<tt:br/>off, we're moving too fast.</tt:p>
+            <tt:p begin="00:09:50.958" end="00:09:52.225">CHERYL/CAROL: Oh my God we<tt:br/>totally are!</tt:p>
+            <tt:p begin="00:09:52.259" end="00:09:55.929">We might beat the<tt:br/>record run!</tt:p>
+            <tt:p begin="00:09:55.963" end="00:09:58.966">You guys probably don't<tt:br/>understand because don't own a<tt:br/>railroad?</tt:p>
+            <tt:p begin="00:09:58.999" end="00:10:00.768">But it's actually a pretty huge<tt:br/>deal.</tt:p>
+            <tt:p begin="00:10:00.801" end="00:10:01.201">LANA: To whom?</tt:p>
+            <tt:p begin="00:10:01.234" end="00:10:03.003">Railroad owners?</tt:p>
+            <tt:p begin="00:10:03.036" end="00:10:05.138">CHERYL/CAROL: We're a pretty<tt:br/>competitive bunch.</tt:p>
+            <tt:p begin="00:10:05.172" end="00:10:06.173">GILLETTE: No, Pam!</tt:p>
+            <tt:p begin="00:10:06.206" end="00:10:08.008">No means no, now stop it!</tt:p>
+            <tt:p begin="00:10:08.041" end="00:10:08.909">PAM: Whatsa matter?</tt:p>
+            <tt:p begin="00:10:08.942" end="00:10:10.043">Ya chicken?</tt:p>
+            <tt:p begin="00:10:10.077" end="00:10:11.244">GILLETTE: I'm in a wheelchair!</tt:p>
+            <tt:p begin="00:10:11.278" end="00:10:12.045">Ow!</tt:p>
+            <tt:p begin="00:10:12.079" end="00:10:13.947">PAM: Bawk bawk bawk bawk bawk<tt:br/>bawk!</tt:p>
+            <tt:p begin="00:10:13.981" end="00:10:14.982">GILLETTE: Ow!</tt:p>
+            <tt:p begin="00:10:15.015" end="00:10:17.918">Goddammit Pam I don't wanna<tt:br/>race!</tt:p>
+            <tt:p begin="00:10:17.951" end="00:10:19.720">PAM: Couple skate?</tt:p>
+            <tt:p begin="00:10:19.753" end="00:10:21.822">ARCHER: I can't believe you have<tt:br/>a skating rink train car.</tt:p>
+            <tt:p begin="00:10:21.855" end="00:10:25.025">CHERYL/CAROL: Yeah,<tt:br/>apparently my great-grampa was<tt:br/>nuts for skating.</tt:p>
+            <tt:p begin="00:10:25.058" end="00:10:25.893">That and the Klan.</tt:p>
+            <tt:p begin="00:10:25.926" end="00:10:28.195">LANA: I -- okay,<tt:br/>so let's try this again.</tt:p>
+            <tt:p begin="00:10:28.228" end="00:10:30.798">Car by car,<tt:br/>this time back to front.</tt:p>
+            <tt:p begin="00:10:30.831" end="00:10:32.265">MALORY: Good,<tt:br/>because Miss Stingy here won't</tt:p>
+            <tt:p begin="00:10:32.299" end="00:10:34.935">let me eat in her private dining<tt:br/>car --</tt:p>
+            <tt:p begin="00:10:34.968" end="00:10:36.770">CHERYL/CAROL: Oh my God we've<tt:br/>been over thaaaat...</tt:p>
+            <tt:p begin="00:10:36.804" end="00:10:38.138">MALORY: -- so when you pass the<tt:br/>dining car,</tt:p>
+            <tt:p begin="00:10:38.171" end="00:10:40.674">have a porter bring me a Cobb<tt:br/>salad.</tt:p>
+            <tt:p begin="00:10:40.708" end="00:10:43.143">LANA: Before or after we locate<tt:br/>the dangerous terrorist?</tt:p>
+            <tt:p begin="00:10:43.176" end="00:10:45.245">MALORY: Before.</tt:p>
+            <tt:p begin="00:10:45.278" end="00:10:49.082">ARCHER: Sorry folks, uh,<tt:br/>go back to sleep.</tt:p>
+            <tt:p begin="00:10:49.116" end="00:10:51.318">LANA: (low, fake cheery) Yeah,<tt:br/>just disregard the gun-toting</tt:p>
+            <tt:p begin="00:10:51.351" end="00:10:53.787">spies and the blood smeared<tt:br/>everywhere.</tt:p>
+            <tt:p begin="00:10:53.821" end="00:10:55.122">ARCHER: Oh yeah,<tt:br/>keep an eye out for pawprints.</tt:p>
+            <tt:p begin="00:10:55.155" end="00:10:56.389">LANA: Where, in the blood?</tt:p>
+            <tt:p begin="00:10:56.423" end="00:10:58.325">ARCHER: Yeah,<tt:br/>I assume at some point he'll<tt:br/>come out to like...</tt:p>
+            <tt:p begin="00:10:58.358" end="00:11:00.060">lick it.</tt:p>
+            <tt:p begin="00:11:00.093" end="00:11:03.296">LANA: (annoyed sigh) Come on,<tt:br/>we've only searched two cars,<tt:br/>so we've got a shitload to go.</tt:p>
+            <tt:p begin="00:11:03.330" end="00:11:07.167">CYRIL: Uh, speaking of,<tt:br/>I need to make use of the<tt:br/>facilities here...</tt:p>
+            <tt:p begin="00:11:07.200" end="00:11:08.702">LANA: Fine, but catch up, okay.</tt:p>
+            <tt:p begin="00:11:08.736" end="00:11:10.303">And pay attention.</tt:p>
+            <tt:p begin="00:11:10.337" end="00:11:11.739">ARCHER: Yeah,<tt:br/>they look just like prints from</tt:p>
+            <tt:p begin="00:11:11.772" end="00:11:14.207">a housecat,<tt:br/>only bigger and awesomer.</tt:p>
+            <tt:p begin="00:11:14.241" end="00:11:17.978">LANA: Go.</tt:p>
+            <tt:p begin="00:11:18.011" end="00:11:19.246">BILCOE: Hey,<tt:br/>welcome to the bathroom.</tt:p>
+            <tt:p begin="00:11:19.279" end="00:11:19.880">CYRIL: Well, thank you.</tt:p>
+            <tt:p begin="00:11:19.913" end="00:11:20.347">No, no, wait, what're you -</tt:p>
+            <tt:p begin="00:11:20.380" end="00:11:20.714">[FIGHTING SOUNDS]</tt:p>
+            <tt:p begin="00:11:20.748" end="00:11:22.716">CYRIL: Ungh!</tt:p>
+            <tt:p begin="00:11:22.750" end="00:11:24.918">BILCOE: I can tell you never<tt:br/>played much hockey, huh?</tt:p>
+            <tt:p begin="00:11:24.952" end="00:11:28.021">Probably too busy runnin around<tt:br/>shootin black guys.</tt:p>
+            <tt:p begin="00:11:28.055" end="00:11:29.723">BILCOE: What's the word, boys?</tt:p>
+            <tt:p begin="00:11:29.757" end="00:11:30.958">Fantastic!</tt:p>
+            <tt:p begin="00:11:30.991" end="00:11:32.125">They'll never see that coming!</tt:p>
+            <tt:p begin="00:11:32.159" end="00:11:33.761">I'll see ya at the border!</tt:p>
+            <tt:p begin="00:11:33.794" end="00:11:35.328">LANA: Archer,<tt:br/>we don't have time for this.</tt:p>
+            <tt:p begin="00:11:35.362" end="00:11:36.730">ARCHER: It'll take like,<tt:br/>two seconds!</tt:p>
+            <tt:p begin="00:11:36.764" end="00:11:37.998">God!</tt:p>
+            <tt:p begin="00:11:38.031" end="00:11:41.001">Okay so,<tt:br/>a Cobb salad...</tt:p>
+            <tt:p begin="00:11:41.034" end="00:11:44.204">GEORGE: I am not taking that<tt:br/>woman a salad,<tt:br/>Cobb or otherwise.</tt:p>
+            <tt:p begin="00:11:44.237" end="00:11:48.175">ARCHER: George, trust me,<tt:br/>you don't want to see my mother<tt:br/>with low blood sug --</tt:p>
+            <tt:p begin="00:11:48.208" end="00:11:49.843">ARCHER: Wait,<tt:br/>why are we slowing down?</tt:p>
+            <tt:p begin="00:11:49.877" end="00:11:51.444">- GEORGE: We're at the border.<tt:br/>- ARCHER: Of?</tt:p>
+            <tt:p begin="00:11:51.478" end="00:11:54.081">GEORGE: Uh, this new place,<tt:br/>called Canada?</tt:p>
+            <tt:p begin="00:11:54.114" end="00:11:55.115">ARCHER: So?</tt:p>
+            <tt:p begin="00:11:55.148" end="00:11:57.450">GEORGE: So, customs,<tt:br/>passport control, immigration?</tt:p>
+            <tt:p begin="00:11:57.484" end="00:11:59.386">You know, the border?</tt:p>
+            <tt:p begin="00:11:59.419" end="00:12:00.353">ARCHER: Yeah, but...</tt:p>
+            <tt:p begin="00:12:00.387" end="00:12:01.121">with America.</tt:p>
+            <tt:p begin="00:12:01.154" end="00:12:02.856">LANA: They still guard the<tt:br/>border!</tt:p>
+            <tt:p begin="00:12:02.890" end="00:12:04.858">ARCHER: Lana,<tt:br/>we're going into Canada!</tt:p>
+            <tt:p begin="00:12:04.892" end="00:12:06.326">LANA: (to George) Okay,<tt:br/>can you please explain to him --</tt:p>
+            <tt:p begin="00:12:06.359" end="00:12:07.194">ARCHER: Don't do that.</tt:p>
+            <tt:p begin="00:12:07.227" end="00:12:09.229">LANA: Okay,<tt:br/>already knowing your answer,</tt:p>
+            <tt:p begin="00:12:09.262" end="00:12:11.865">I'm going to ask,<tt:br/>&quot;Don't do what.&quot;</tt:p>
+            <tt:p begin="00:12:11.899" end="00:12:14.167">ARCHER: Make this a weird racial<tt:br/>thing.</tt:p>
+            <tt:p begin="00:12:14.201" end="00:12:15.836">LANA: I knew, and yet I asked...</tt:p>
+            <tt:p begin="00:12:15.869" end="00:12:17.504">ARCHER: What,<tt:br/>I just don't wanna be ganged up<tt:br/>on!</tt:p>
+            <tt:p begin="00:12:17.537" end="00:12:18.671">George, back me up here.</tt:p>
+            <tt:p begin="00:12:18.705" end="00:12:21.875">GEORGE: I'm gonna back way up,<tt:br/>and not be in here when the</tt:p>
+            <tt:p begin="00:12:21.909" end="00:12:24.144">mounties catch you crazy people<tt:br/>with all those guns.</tt:p>
+            <tt:p begin="00:12:24.177" end="00:12:25.645">LANA: Oh, shit.</tt:p>
+            <tt:p begin="00:12:25.678" end="00:12:28.348">ARCHER: What, they're Canadian,<tt:br/>they don't even know what a gun<tt:br/>-- oh, shit!</tt:p>
+            <tt:p begin="00:12:28.381" end="00:12:30.350">LANA: He said, realizing that --</tt:p>
+            <tt:p begin="00:12:30.383" end="00:12:32.419">ARCHER: That what's the perfect<tt:br/>disguise for some terrorists who</tt:p>
+            <tt:p begin="00:12:32.452" end="00:12:35.022">want to board a train to bust<tt:br/>loose another terrorist?</tt:p>
+            <tt:p begin="00:12:35.055" end="00:12:36.790">LANA: Oh, shit! The --</tt:p>
+            <tt:p begin="00:12:36.824" end="00:12:38.926">MOUNTIE ONE: Royal<tt:br/>Canadian Mounted Police, folks.</tt:p>
+            <tt:p begin="00:12:38.959" end="00:12:41.561">Please have your<tt:br/>passports and declarations forms<tt:br/>out and ready.</tt:p>
+            <tt:p begin="00:12:41.594" end="00:12:42.796">ARCHER: Ready?</tt:p>
+            <tt:p begin="00:12:42.830" end="00:12:45.498">LANA: Yeah,<tt:br/>but what if they're like,<tt:br/>actual real mounties?</tt:p>
+            <tt:p begin="00:12:45.532" end="00:12:48.501">ARCHER: Well,<tt:br/>not to belabor the point,<tt:br/>but they'd still be Canadian.</tt:p>
+            <tt:p begin="00:12:48.535" end="00:12:50.838">i.e., I doubt we're in any real<tt:br/>danger.</tt:p>
+            <tt:p begin="00:12:50.871" end="00:12:51.839">LANA: Okay, here goes...</tt:p>
+            <tt:p begin="00:12:51.872" end="00:12:52.505">[GUNS COCKING]</tt:p>
+            <tt:p begin="00:12:52.539" end="00:12:53.173">LANA: Freeze!</tt:p>
+            <tt:p begin="00:12:53.206" end="00:12:53.807">Hands up!</tt:p>
+            <tt:p begin="00:12:53.841" end="00:12:54.574">Get 'em up!</tt:p>
+            <tt:p begin="00:12:54.607" end="00:12:55.775">MOUNTIES: [Murmuring]</tt:p>
+            <tt:p begin="00:12:55.809" end="00:12:58.478">LANA: I swear to God if any of<tt:br/>you Canadian fruitcakes move I</tt:p>
+            <tt:p begin="00:12:58.511" end="00:13:00.413">will shoot that stupid hat right<tt:br/>off your head.</tt:p>
+            <tt:p begin="00:13:00.447" end="00:13:01.815">MOUNTIE ONE: That,<tt:br/>that's not okay.</tt:p>
+            <tt:p begin="00:13:01.849" end="00:13:04.017">ARCHER: Get 'em up Dudley<tt:br/>Douchebags!</tt:p>
+            <tt:p begin="00:13:04.051" end="00:13:05.385">MOUNTIE ONE: Maintain the right,<tt:br/>boys.</tt:p>
+            <tt:p begin="00:13:05.418" end="00:13:07.587">ARCHER: Whoa, dude,<tt:br/>we're serious, we'll shh --</tt:p>
+            <tt:p begin="00:13:07.620" end="00:13:08.355">[GUNS FIRING, GLASS BREAKING]</tt:p>
+            <tt:p begin="00:13:08.388" end="00:13:11.058">ARCHER: -- iiiiiiit!</tt:p>
+            <tt:p begin="00:13:11.091" end="00:13:12.459">LANA: God damn it, Archer!</tt:p>
+            <tt:p begin="00:13:12.492" end="00:13:13.861">ARCHER: What, Lana?</tt:p>
+            <tt:p begin="00:13:13.894" end="00:13:15.028">LANA: You are so!</tt:p>
+            <tt:p begin="00:13:15.062" end="00:13:16.329">Stupid!</tt:p>
+            <tt:p begin="00:13:16.363" end="00:13:18.131">Thinking terrorists would be<tt:br/>disguised as --</tt:p>
+            <tt:p begin="00:13:18.165" end="00:13:20.267">MOUNTIE TWO: Royal<tt:br/>Canadian Mounted Police!</tt:p>
+            <tt:p begin="00:13:20.300" end="00:13:21.568">MOUNTIE ONE: Stand down, boys!</tt:p>
+            <tt:p begin="00:13:21.601" end="00:13:22.535">We're mounties!</tt:p>
+            <tt:p begin="00:13:22.569" end="00:13:22.970">MOUNTIE TWO: Piss off!</tt:p>
+            <tt:p begin="00:13:23.003" end="00:13:23.937">We're mounties!</tt:p>
+            <tt:p begin="00:13:23.971" end="00:13:25.538">MOUNTIE ONE: Great, good,<tt:br/>we're all mounties,</tt:p>
+            <tt:p begin="00:13:25.572" end="00:13:27.875">so no need for a Mexican<tt:br/>standoff, eh?</tt:p>
+            <tt:p begin="00:13:27.908" end="00:13:30.210">ARCHER: Oh yah,<tt:br/>hooz aboot ya co-opt s'moor</tt:p>
+            <tt:p begin="00:13:30.243" end="00:13:32.880">American stoof there, eh,<tt:br/>Cahnada?</tt:p>
+            <tt:p begin="00:13:32.913" end="00:13:35.115">LANA: Stuff like Mexican<tt:br/>standoff?</tt:p>
+            <tt:p begin="00:13:35.148" end="00:13:36.950">- ARCHER: Oh, look at that,<tt:br/>the race card...<tt:br/>- LANA: Wh-?</tt:p>
+            <tt:p begin="00:13:36.984" end="00:13:38.385">MOUNTIE TWO: Let's all just put<tt:br/>down the guns, boys!</tt:p>
+            <tt:p begin="00:13:38.418" end="00:13:40.220">C'mon, we're not Americans!</tt:p>
+            <tt:p begin="00:13:40.253" end="00:13:40.988">RRROWR!</tt:p>
+            <tt:p begin="00:13:41.021" end="00:13:42.489">MOUNTIE ONE: Unvaccinated<tt:br/>animal!</tt:p>
+            <tt:p begin="00:13:42.522" end="00:13:43.190">Put him down, boys!</tt:p>
+            <tt:p begin="00:13:43.223" end="00:13:44.224">ARCHER: No!<tt:br/>Serpentine, Babou!</tt:p>
+            <tt:p begin="00:13:44.257" end="00:13:45.025">RROWR!</tt:p>
+            <tt:p begin="00:13:45.058" end="00:13:46.259">MOUNTIE TWO: Aw jeez,<tt:br/>he sprayed me!</tt:p>
+            <tt:p begin="00:13:46.293" end="00:13:47.327">That reeks!</tt:p>
+            <tt:p begin="00:13:47.360" end="00:13:48.328">ARCHER: (O.S.) Did he get away?</tt:p>
+            <tt:p begin="00:13:48.361" end="00:13:50.197">MOUNTIE TWO: Ya, ugh,<tt:br/>he ran right oat past us!</tt:p>
+            <tt:p begin="00:13:50.230" end="00:13:50.931">ARCHER: Good.</tt:p>
+            <tt:p begin="00:13:50.964" end="00:13:52.499">Then screw this.</tt:p>
+            <tt:p begin="00:13:52.532" end="00:13:54.201">LANA: Please tell me that's a<tt:br/>smoke grenade.</tt:p>
+            <tt:p begin="00:13:54.234" end="00:13:56.236">ARCHER: Okay.</tt:p>
+            <tt:p begin="00:13:56.269" end="00:13:57.470">It's not, though.</tt:p>
+            <tt:p begin="00:14:02.309" end="00:14:04.611">[EXPLOSION]</tt:p>
+            <tt:p begin="00:14:04.644" end="00:14:05.412">ARCHER: (coughs, then laughing)</tt:p>
+            <tt:p begin="00:14:05.445" end="00:14:09.917">Hoh-lee --</tt:p>
+            <tt:p begin="00:14:09.950" end="00:14:11.084">PAM: -- shitsnacks!</tt:p>
+            <tt:p begin="00:14:11.118" end="00:14:12.152">What was that?</tt:p>
+            <tt:p begin="00:14:12.185" end="00:14:13.921">MALORY: Probably my stomach<tt:br/>growling.</tt:p>
+            <tt:p begin="00:14:13.954" end="00:14:16.056">I am literally starving to<tt:br/>death.</tt:p>
+            <tt:p begin="00:14:16.089" end="00:14:17.257">CHERYL/CAROL: I don't care,<tt:br/>Frank!</tt:p>
+            <tt:p begin="00:14:17.290" end="00:14:19.592">We are gonna beat that record,<tt:br/>so put this stupid train in...</tt:p>
+            <tt:p begin="00:14:19.626" end="00:14:22.062">train-gear, and jam it!</tt:p>
+            <tt:p begin="00:14:22.095" end="00:14:22.762">Rrgh!</tt:p>
+            <tt:p begin="00:14:22.795" end="00:14:24.531">I'm surrounded by mediocrity...</tt:p>
+            <tt:p begin="00:14:24.564" end="00:14:26.099">LANA: In what way?</tt:p>
+            <tt:p begin="00:14:26.133" end="00:14:29.069">In what possible way did that<tt:br/>work?</tt:p>
+            <tt:p begin="00:14:29.102" end="00:14:31.071">ARCHER: Umm A,<tt:br/>they're all incapacitated...</tt:p>
+            <tt:p begin="00:14:31.104" end="00:14:33.974">ARCHER: And B,<tt:br/>I got to blow up a train.</tt:p>
+            <tt:p begin="00:14:34.007" end="00:14:35.242">LANA: Well thanks, Gomez --</tt:p>
+            <tt:p begin="00:14:35.275" end="00:14:36.143">ARCHER: Nice.</tt:p>
+            <tt:p begin="00:14:36.176" end="00:14:37.978">LANA: But that doesn't help us<tt:br/>find Bilcoe!</tt:p>
+            <tt:p begin="00:14:38.011" end="00:14:39.479">- ARCHER: He's right there,<tt:br/>stupid.<tt:br/>- LANA: Wh-?</tt:p>
+            <tt:p begin="00:14:39.512" end="00:14:41.048">BILCOE: Jesus boys,<tt:br/>what happened?</tt:p>
+            <tt:p begin="00:14:41.081" end="00:14:41.915">ARCHER: I happened.</tt:p>
+            <tt:p begin="00:14:41.949" end="00:14:43.183">Drop it, Bilcoe.</tt:p>
+            <tt:p begin="00:14:43.216" end="00:14:45.018">BILCOE: You drop it,<tt:br/>ya racist bastard!</tt:p>
+            <tt:p begin="00:14:45.052" end="00:14:45.986">- [GUN FIRING]<tt:br/>- ARCHER: Gagh!</tt:p>
+            <tt:p begin="00:14:46.019" end="00:14:47.020">Oww!</tt:p>
+            <tt:p begin="00:14:47.054" end="00:14:49.556">Wait, how am I a racist?</tt:p>
+            <tt:p begin="00:14:49.589" end="00:14:50.423">LANA: Really?</tt:p>
+            <tt:p begin="00:14:50.457" end="00:14:53.126">ARCHER: Shut up and come on and<tt:br/>shut up!</tt:p>
+            <tt:p begin="00:14:53.160" end="00:14:55.128">LANA: Wait,<tt:br/>we don't know which Mounties are<tt:br/>the real ones!</tt:p>
+            <tt:p begin="00:14:55.162" end="00:14:59.466">What do we do?</tt:p>
+            <tt:p begin="00:14:59.499" end="00:15:00.600">LANA: Archer!</tt:p>
+            <tt:p begin="00:15:00.633" end="00:15:01.301">ARCHER: I'm kidding!</tt:p>
+            <tt:p begin="00:15:01.334" end="00:15:02.535">Jesus...</tt:p>
+            <tt:p begin="00:15:02.569" end="00:15:04.204">Hey, good guys and bad guys!</tt:p>
+            <tt:p begin="00:15:04.237" end="00:15:06.539">All of you just got a pretty<tt:br/>huge pass,</tt:p>
+            <tt:p begin="00:15:06.573" end="00:15:08.408">so don't make me regret it<tt:br/>later!</tt:p>
+            <tt:p begin="00:15:08.441" end="00:15:09.209">Deal?</tt:p>
+            <tt:p begin="00:15:09.242" end="00:15:10.443">CHERYL/CAROL: [bloodcurdling<tt:br/>scream]</tt:p>
+            <tt:p begin="00:15:10.477" end="00:15:11.344">LANA: Come on!</tt:p>
+            <tt:p begin="00:15:11.378" end="00:15:13.580">ARCHER: I'm taking that as tacit<tt:br/>agreement!</tt:p>
+            <tt:p begin="00:15:13.613" end="00:15:15.048">LANA: Cyril,<tt:br/>what the hell are you doing?</tt:p>
+            <tt:p begin="00:15:15.082" end="00:15:16.516">CYRIL: Being blind!</tt:p>
+            <tt:p begin="00:15:16.549" end="00:15:18.218">Oh my God, I'm blind!</tt:p>
+            <tt:p begin="00:15:18.251" end="00:15:18.718">LANA: Sweater!</tt:p>
+            <tt:p begin="00:15:18.751" end="00:15:20.120">CYRIL: Huh?</tt:p>
+            <tt:p begin="00:15:20.153" end="00:15:20.988">Oh.</tt:p>
+            <tt:p begin="00:15:21.021" end="00:15:22.522">ARCHER: When will you not<tt:br/>suck at this?</tt:p>
+            <tt:p begin="00:15:22.555" end="00:15:23.690">CYRIL: When you don't suck at...</tt:p>
+            <tt:p begin="00:15:23.723" end="00:15:25.258">shut up!</tt:p>
+            <tt:p begin="00:15:25.292" end="00:15:26.559">EVERYBODY: [Murmuring]</tt:p>
+            <tt:p begin="00:15:26.593" end="00:15:28.128">MALORY: Go ahead shoot me.</tt:p>
+            <tt:p begin="00:15:28.161" end="00:15:29.396">It's better than starving to<tt:br/>death.</tt:p>
+            <tt:p begin="00:15:29.429" end="00:15:31.098">BILCOE: Everybody shut up!</tt:p>
+            <tt:p begin="00:15:31.131" end="00:15:34.534">And then somebody get over here<tt:br/>to be my hostage!</tt:p>
+            <tt:p begin="00:15:34.567" end="00:15:37.137">PAM: Oh for -- way to man up,<tt:br/>Ray!</tt:p>
+            <tt:p begin="00:15:37.170" end="00:15:38.705">GILLETTE: Wh-?<tt:br/>I'm in a wheelchair!</tt:p>
+            <tt:p begin="00:15:38.738" end="00:15:40.673">BILCOE: Yeah,<tt:br/>no offense but we're gonna be,</tt:p>
+            <tt:p begin="00:15:40.707" end="00:15:42.042">ya know,<tt:br/>running around and stuff?</tt:p>
+            <tt:p begin="00:15:42.075" end="00:15:42.642">ARCHER: Uh, no!</tt:p>
+            <tt:p begin="00:15:42.675" end="00:15:43.643">You're not!</tt:p>
+            <tt:p begin="00:15:43.676" end="00:15:44.344">BILCOE: Uh, yeah!</tt:p>
+            <tt:p begin="00:15:44.377" end="00:15:45.178">I am!</tt:p>
+            <tt:p begin="00:15:45.212" end="00:15:48.281">- [GUN FIRING]<tt:br/>- EVERYBODY: [Murmuring]</tt:p>
+            <tt:p begin="00:15:48.315" end="00:15:49.216">ARCHER: Everybody okay?</tt:p>
+            <tt:p begin="00:15:49.249" end="00:15:50.150">PAM: Yeah, I think so.</tt:p>
+            <tt:p begin="00:15:50.183" end="00:15:51.084">GILETTE: Yeah.</tt:p>
+            <tt:p begin="00:15:51.118" end="00:15:53.186">Paralyzed, but other than that,<tt:br/>fine. Yeah.</tt:p>
+            <tt:p begin="00:15:53.220" end="00:15:55.155">ARCHER: Okay, then Lana,<tt:br/>you guard them...</tt:p>
+            <tt:p begin="00:15:55.188" end="00:15:56.323">CYRIL: Okay, what's the plan.</tt:p>
+            <tt:p begin="00:15:56.356" end="00:15:58.225">ARCHER: And Cyril,<tt:br/>you keep sliding down the</tt:p>
+            <tt:p begin="00:15:58.258" end="00:16:00.327">learning curve like the Banana<tt:br/>Splits.</tt:p>
+            <tt:p begin="00:16:00.360" end="00:16:01.261">LANA: And what are you gonna do?</tt:p>
+            <tt:p begin="00:16:01.294" end="00:16:02.262">[FOOTSTEPS ON ROOF OF TRAIN]</tt:p>
+            <tt:p begin="00:16:02.295" end="00:16:04.731">ARCHER: I am going to fulfill my<tt:br/>lifelong dream.</tt:p>
+            <tt:p begin="00:16:04.764" end="00:16:08.035">MALORY: Meeting Mr. Greenjeans?</tt:p>
+            <tt:p begin="00:16:08.068" end="00:16:09.002">BILCOE: Snap out of it, boys!</tt:p>
+            <tt:p begin="00:16:09.036" end="00:16:09.902">ARCHER: Bilcohhhhhh!</tt:p>
+            <tt:p begin="00:16:09.936" end="00:16:12.372">BILCOE: I could use some help on<tt:br/>the roof!</tt:p>
+            <tt:p begin="00:16:12.405" end="00:16:16.509">ARCHER: Oh my God,<tt:br/>this is gonna be awwshiiiit!</tt:p>
+            <tt:p begin="00:16:16.543" end="00:16:17.244">ARCHER: Owww!</tt:p>
+            <tt:p begin="00:16:17.277" end="00:16:18.411">The dust!</tt:p>
+            <tt:p begin="00:16:18.445" end="00:16:20.347">It's like being shot in the eyes<tt:br/>by a...</tt:p>
+            <tt:p begin="00:16:20.380" end="00:16:23.616">glittergun!</tt:p>
+            <tt:p begin="00:16:23.650" end="00:16:28.055">ARCHER: There, that oughta do<tt:br/>it. Okay, let's try that<tt:br/>agawwwshiit!</tt:p>
+            <tt:p begin="00:16:28.088" end="00:16:29.422">ARCHER: Retinas!</tt:p>
+            <tt:p begin="00:16:29.456" end="00:16:31.424">Seared, like tuna steaks!</tt:p>
+            <tt:p begin="00:16:31.458" end="00:16:34.061">All I want is to<tt:br/>fight on top of a train!</tt:p>
+            <tt:p begin="00:16:34.094" end="00:16:36.363">Is that too much to ask?</tt:p>
+            <tt:p begin="00:16:36.396" end="00:16:39.332">ARCHER: The good news,<tt:br/>is now I'm furious.</tt:p>
+            <tt:p begin="00:16:39.366" end="00:16:43.170">BILCOE: So, rethinking this,<tt:br/>huh? On top of the train you're</tt:p>
+            <tt:p begin="00:16:43.203" end="00:16:46.606">still like, on the train, plus<tt:br/>you got all -- oh shit!</tt:p>
+            <tt:p begin="00:16:46.639" end="00:16:48.108">BILCOE: Plus you got all that.</tt:p>
+            <tt:p begin="00:16:48.141" end="00:16:49.609">ARCHER: Oh shit!</tt:p>
+            <tt:p begin="00:16:49.642" end="00:16:52.612">ARCHER: Whyyyyyyyyy --</tt:p>
+            <tt:p begin="00:16:52.645" end="00:16:54.447">-- do people do this?</tt:p>
+            <tt:p begin="00:16:54.481" end="00:16:56.349">You're still just on the train.</tt:p>
+            <tt:p begin="00:16:56.383" end="00:16:57.384">BILCOE: I know, right?</tt:p>
+            <tt:p begin="00:16:57.417" end="00:16:59.086">Although, I guess sometimes<tt:br/>there's a helicopter?</tt:p>
+            <tt:p begin="00:16:59.119" end="00:17:01.154">ARCHER: Do you have a<tt:br/>helicopter?</tt:p>
+            <tt:p begin="00:17:01.188" end="00:17:02.389">BILCOE: Mmmmmm... nope.</tt:p>
+            <tt:p begin="00:17:02.422" end="00:17:03.323">Just a gun.</tt:p>
+            <tt:p begin="00:17:03.356" end="00:17:05.058">ARCHER: It's empty, dickhead.</tt:p>
+            <tt:p begin="00:17:05.092" end="00:17:07.060">BILCOE: Yeah nice try,<tt:br/>super-dickhead.</tt:p>
+            <tt:p begin="00:17:07.094" end="00:17:08.428">[PULLING TRIGGER<tt:br/>OF EMPTY GUN]</tt:p>
+            <tt:p begin="00:17:08.461" end="00:17:09.396">BILCOE: What the...?</tt:p>
+            <tt:p begin="00:17:09.429" end="00:17:11.731">ARCHER: You fired eight rounds,<tt:br/>ultradickhead.</tt:p>
+            <tt:p begin="00:17:11.764" end="00:17:15.502">Am I the only person who ever<tt:br/>keeps track of that, -- oww!</tt:p>
+            <tt:p begin="00:17:15.535" end="00:17:17.670">ARCHER: Wow,<tt:br/>and I thought I was mad<tt:br/>before...</tt:p>
+            <tt:p begin="00:17:17.704" end="00:17:21.074">BILCOE: Why,<tt:br/>didja see some old black lady<tt:br/>sittin in the front of a bus?</tt:p>
+            <tt:p begin="00:17:21.108" end="00:17:22.709">ARCHER: What is your deal with<tt:br/>calling me a racist?</tt:p>
+            <tt:p begin="00:17:22.742" end="00:17:24.744">BILCOE: Well A,<tt:br/>you're American --</tt:p>
+            <tt:p begin="00:17:24.777" end="00:17:28.681">ARCHER: That's, oh shit, racist,<tt:br/>jingoist, whatever!</tt:p>
+            <tt:p begin="00:17:28.715" end="00:17:30.683">BILCOE: And B,<tt:br/>you murdered the porter!</tt:p>
+            <tt:p begin="00:17:30.717" end="00:17:31.784">ARCHER: Wh-? No I didn't!</tt:p>
+            <tt:p begin="00:17:31.818" end="00:17:32.419">BILCOE: You shot him!</tt:p>
+            <tt:p begin="00:17:32.452" end="00:17:33.853">There was blood everywhere!</tt:p>
+            <tt:p begin="00:17:33.886" end="00:17:35.655">ARCHER: That was from a steak,<tt:br/>you idiot!</tt:p>
+            <tt:p begin="00:17:35.688" end="00:17:37.357">I was trying to catch an ocelot!</tt:p>
+            <tt:p begin="00:17:37.390" end="00:17:39.326">BILCOE: In Canada?</tt:p>
+            <tt:p begin="00:17:39.359" end="00:17:40.593">And I'm the idiot?</tt:p>
+            <tt:p begin="00:17:40.627" end="00:17:42.329">MOUNTIE ONE: Hold it right<tt:br/>there, boys!</tt:p>
+            <tt:p begin="00:17:42.362" end="00:17:44.564">MOUNTIE TWO: Royal Canadian<tt:br/>Mounted Police!</tt:p>
+            <tt:p begin="00:17:44.597" end="00:17:45.698">ARCHER: Dammit,<tt:br/>which are the real ones?</tt:p>
+            <tt:p begin="00:17:45.732" end="00:17:47.867">BILCOE: Guess that's for me to<tt:br/>know and you to find out.</tt:p>
+            <tt:p begin="00:17:47.900" end="00:17:50.103">ARCHER: Well I'm gonna find out<tt:br/>in like five --</tt:p>
+            <tt:p begin="00:17:50.137" end="00:17:51.104">- RRROWR!<tt:br/>- ARCHER: Babou!</tt:p>
+            <tt:p begin="00:17:51.138" end="00:17:51.871">MOUNTIES: [Murmuring]</tt:p>
+            <tt:p begin="00:17:51.904" end="00:17:52.605">MOUNTIE ONE: He's corpuscular!</tt:p>
+            <tt:p begin="00:17:52.639" end="00:17:53.373">Get him, boys!</tt:p>
+            <tt:p begin="00:17:53.406" end="00:17:54.141">ARCHER: Nooooo!</tt:p>
+            <tt:p begin="00:17:54.174" end="00:17:57.144">[GUNS FIRING]</tt:p>
+            <tt:p begin="00:17:57.177" end="00:17:59.846">ARCHER: Babou, serpentiiiiiiine!</tt:p>
+            <tt:p begin="00:17:59.879" end="00:18:00.780">CYRIL: Yeah, so...</tt:p>
+            <tt:p begin="00:18:00.813" end="00:18:03.450">LANA: So yeah,<tt:br/>put that in your little secret</tt:p>
+            <tt:p begin="00:18:03.483" end="00:18:07.387">agent notebook,<tt:br/>along with &quot;don't leave<tt:br/>prisoners unsupervised.&quot;</tt:p>
+            <tt:p begin="00:18:07.420" end="00:18:10.623">There's absolutely no reason to<tt:br/>ever get on top of a moving<tt:br/>train.</tt:p>
+            <tt:p begin="00:18:10.657" end="00:18:12.292">CYRIL: Wait,<tt:br/>what if there's a helicopter?</tt:p>
+            <tt:p begin="00:18:12.325" end="00:18:13.860">LANA: Ooh, yeah, or a dragon!</tt:p>
+            <tt:p begin="00:18:13.893" end="00:18:15.795">CYRIL: Ooh, yeah,<tt:br/>or some sarcasm!</tt:p>
+            <tt:p begin="00:18:15.828" end="00:18:17.397">LANA: Ooh, yeah, or hang on!</tt:p>
+            <tt:p begin="00:18:17.430" end="00:18:17.897">CYRIL: What?</tt:p>
+            <tt:p begin="00:18:17.930" end="00:18:20.300">Waaaaagh!</tt:p>
+            <tt:p begin="00:18:20.333" end="00:18:21.401">EVERYBODY: [screaming]</tt:p>
+            <tt:p begin="00:18:21.434" end="00:18:22.635">ARCHER: Aaaaaa...</tt:p>
+            <tt:p begin="00:18:22.669" end="00:18:24.837">ungh!</tt:p>
+            <tt:p begin="00:18:24.871" end="00:18:26.105">Babooooo!</tt:p>
+            <tt:p begin="00:18:26.139" end="00:18:30.410">ARCHER: That's right,<tt:br/>buddy, I goww oww oww oww oww,<tt:br/>Babou no!</tt:p>
+            <tt:p begin="00:18:30.443" end="00:18:30.910">Owww!</tt:p>
+            <tt:p begin="00:18:30.943" end="00:18:35.448">RRROWWRR!</tt:p>
+            <tt:p begin="00:18:35.482" end="00:18:38.418">LANA: Oh come on,<tt:br/>I wouldn't say it was a complete<tt:br/>failure...</tt:p>
+            <tt:p begin="00:18:38.451" end="00:18:39.552">MALORY: Oh, really?</tt:p>
+            <tt:p begin="00:18:39.586" end="00:18:42.589">And what parts of this mission<tt:br/>would you call a success?</tt:p>
+            <tt:p begin="00:18:42.622" end="00:18:44.257">CHERYL/CAROL: Well,<tt:br/>let's see...</tt:p>
+            <tt:p begin="00:18:44.291" end="00:18:48.228">CHERYL/CAROL: Maybe the part<tt:br/>where my non-recordbreaking<tt:br/>train is totally shit-housed?</tt:p>
+            <tt:p begin="00:18:48.261" end="00:18:50.230">CYRIL: Not as<tt:br/>shit-housed as my spleen...</tt:p>
+            <tt:p begin="00:18:50.263" end="00:18:51.598">MALORY: Ooh,<tt:br/>or maybe the part where the</tt:p>
+            <tt:p begin="00:18:51.631" end="00:18:54.301">mounties will never hire ISIS<tt:br/>again!</tt:p>
+            <tt:p begin="00:18:54.334" end="00:18:56.769">PAM: What's it matter,<tt:br/>we're all banned from Canada.</tt:p>
+            <tt:p begin="00:18:56.803" end="00:18:59.672">GILLETTE: Au revoir,<tt:br/>sweet man-whores of Montreal...</tt:p>
+            <tt:p begin="00:18:59.706" end="00:19:00.373">MALORY: Ugh.</tt:p>
+            <tt:p begin="00:19:00.407" end="00:19:01.308">Lana?</tt:p>
+            <tt:p begin="00:19:01.341" end="00:19:02.375">You were saying?</tt:p>
+            <tt:p begin="00:19:02.409" end="00:19:04.777">LANA: Ah, well,<tt:br/>we did help with a major<tt:br/>arrest...</tt:p>
+            <tt:p begin="00:19:04.811" end="00:19:06.746">MOUNTIE ONE: Kenny Bilcoe,<tt:br/>you're under arrest for</tt:p>
+            <tt:p begin="00:19:06.779" end="00:19:10.450">violation of sections one<tt:br/>through nine of the Canadian<tt:br/>Terrorism Act, buddy.</tt:p>
+            <tt:p begin="00:19:10.483" end="00:19:12.452">BILCOE: Sorry to cut into yer<tt:br/>donut supply, boys.</tt:p>
+            <tt:p begin="00:19:12.485" end="00:19:14.787">Long live free Nova Scotia!</tt:p>
+            <tt:p begin="00:19:14.821" end="00:19:16.556">LANA: Oh wait, make that five...</tt:p>
+            <tt:p begin="00:19:16.589" end="00:19:18.391">MOUNTIE ONE: Same goes for you<tt:br/>bastards!</tt:p>
+            <tt:p begin="00:19:18.425" end="00:19:20.827">Plus impersonating an RCMP<tt:br/>constable!</tt:p>
+            <tt:p begin="00:19:20.860" end="00:19:22.495">MOUNTIE TWO: That's not fair,<tt:br/>you're doin it!</tt:p>
+            <tt:p begin="00:19:22.529" end="00:19:24.464">MOUNTIES: [snarky laughter]</tt:p>
+            <tt:p begin="00:19:24.497" end="00:19:25.598">LANA: Oh, wait!</tt:p>
+            <tt:p begin="00:19:25.632" end="00:19:26.733">I guess make that six...</tt:p>
+            <tt:p begin="00:19:26.766" end="00:19:29.402">MOUNTIE ONE: And besides<tt:br/>attempted murder on a black guy,</tt:p>
+            <tt:p begin="00:19:29.436" end="00:19:33.673">you're under arrest for<tt:br/>violating the Exotic Fish and<tt:br/>Wildlife Importation Act.</tt:p>
+            <tt:p begin="00:19:33.706" end="00:19:35.575">ARCHER: Yeah whatever,<tt:br/>Dudley Douchebag...</tt:p>
+            <tt:p begin="00:19:35.608" end="00:19:37.444">MOUNTIE ONE: Plus you already<tt:br/>used that once.</tt:p>
+            <tt:p begin="00:19:37.477" end="00:19:39.979">ARCHER: It was good enough to<tt:br/>merit seconds!</tt:p>
+            <tt:p begin="00:19:40.012" end="00:19:40.547">ARCHER: You hear that?</tt:p>
+            <tt:p begin="00:19:40.580" end="00:19:41.914">They called you exotic!</tt:p>
+            <tt:p begin="00:19:41.948" end="00:19:43.115">BABOU: RROWR!</tt:p>
+            <tt:p begin="00:19:43.149" end="00:19:44.984">ARCHER: Which is just people<tt:br/>talk for awesome, which is what</tt:p>
+            <tt:p begin="00:19:45.017" end="00:19:48.621">you are, which is why I was<tt:br/>happy to save your life, buddy.</tt:p>
+            <tt:p begin="00:19:48.655" end="00:19:49.656">BABOU: Rrowr?</tt:p>
+            <tt:p begin="00:19:49.689" end="00:19:51.057">ARCHER: No don't worry,<tt:br/>probably just thousands of</tt:p>
+            <tt:p begin="00:19:51.090" end="00:19:58.465">dollars in fines,<tt:br/>maybe a little jail time,<tt:br/>hopefully just probation.</tt:p>
+            <tt:p begin="00:19:58.498" end="00:19:59.332">ARCHER: Totally worth it.</tt:p>
+            <tt:p begin="00:19:59.366" end="00:20:01.000">BABOU: Rrowr?</tt:p>
+            <tt:p begin="00:20:01.033" end="00:20:01.801">ARCHER: No, Babou.</tt:p>
+            <tt:p begin="00:20:01.834" end="00:20:05.872">That was all sarcasm.</tt:p>
+            <tt:p begin="00:20:05.905" end="00:20:08.241">- BABOU: Rrowr?<tt:br/>- ARCHER: Yes, all of it!</tt:p>
+            <tt:p begin="00:20:08.275" end="00:20:09.909">You fox-eared asshole!</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

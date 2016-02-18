@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:19.853" end="00:00:21.355">ARCHER: WD-40, Mother.</tt:p>
+            <tt:p begin="00:00:21.389" end="00:00:22.756">Costs like, a nickel.</tt:p>
+            <tt:p begin="00:00:22.790" end="00:00:27.195">Or maybe you could swallow your<tt:br/>pride and just apologize to your<tt:br/>super.</tt:p>
+            <tt:p begin="00:00:27.228" end="00:00:30.798">Oh, and to me,<tt:br/>for ruining my Friday night,<tt:br/>which is now being spent here.</tt:p>
+            <tt:p begin="00:00:30.831" end="00:00:33.834">So what,<tt:br/>why the frantic phone call?</tt:p>
+            <tt:p begin="00:00:33.867" end="00:00:35.103">LANA: Hello?</tt:p>
+            <tt:p begin="00:00:35.136" end="00:00:37.105">Malory? Why did you call us?</tt:p>
+            <tt:p begin="00:00:37.138" end="00:00:40.241">ARCHER: Because if it was -- oh.</tt:p>
+            <tt:p begin="00:00:40.274" end="00:00:44.145">I'm gonna go out on a limb<tt:br/>and assume it had something<tt:br/>to do with that.</tt:p>
+            <tt:p begin="00:00:44.178" end="00:00:45.813">MALORY: It's not what it looks<tt:br/>like.</tt:p>
+            <tt:p begin="00:00:45.846" end="00:00:47.748">ARCHER: Oh, well that's a<tt:br/>relief.</tt:p>
+            <tt:p begin="00:00:47.781" end="00:00:50.684">Because it looks like you're<tt:br/>sitting here with a gun.</tt:p>
+            <tt:p begin="00:00:50.718" end="00:00:52.786">And over there,<tt:br/>strapped to a chair</tt:p>
+            <tt:p begin="00:00:52.820" end="00:00:56.390">and shot to death,<tt:br/>is a guy in a full-body latex<tt:br/>catsuit!</tt:p>
+            <tt:p begin="00:00:56.424" end="00:00:58.759">Or am I misreading the<tt:br/>situation? !</tt:p>
+            <tt:p begin="00:00:58.792" end="00:00:59.360">MALORY: Well...</tt:p>
+            <tt:p begin="00:00:59.393" end="00:01:01.562">technically it's a zentai.</tt:p>
+            <tt:p begin="00:01:01.595" end="00:01:02.463">ARCHER: Wh-...?!</tt:p>
+            <tt:p begin="00:01:02.496" end="00:01:05.399">MALORY: A zentai covers the face<tt:br/>and head.</tt:p>
+            <tt:p begin="00:01:05.433" end="00:01:07.135">I think a catsuit just stops<tt:br/>here...</tt:p>
+            <tt:p begin="00:01:07.168" end="00:01:08.602">LANA: Give me that.</tt:p>
+            <tt:p begin="00:01:08.636" end="00:01:10.104">MALORY: I didn't shoot him.</tt:p>
+            <tt:p begin="00:01:10.138" end="00:01:13.374">LANA: So, you're saying<tt:br/>the fact that your gun<tt:br/>has recently been fired, is -</tt:p>
+            <tt:p begin="00:01:13.407" end="00:01:16.477">ARCHER: -- is unrelated to<tt:br/>the dead guy over there,<tt:br/>who's chock full of bullets!</tt:p>
+            <tt:p begin="00:01:16.510" end="00:01:18.746">MALORY: Well,<tt:br/>obviously they're related...</tt:p>
+            <tt:p begin="00:01:18.779" end="00:01:20.581">ARCHER: Yeah, do that,<tt:br/>take that tone.</tt:p>
+            <tt:p begin="00:01:20.614" end="00:01:22.650">MALORY: But I swear,<tt:br/>I didn't shoot him!</tt:p>
+            <tt:p begin="00:01:22.683" end="00:01:23.551">ARCHER: Okay.</tt:p>
+            <tt:p begin="00:01:23.584" end="00:01:25.586">So I guess he walked in here<tt:br/>already shot,</tt:p>
+            <tt:p begin="00:01:25.619" end="00:01:27.855">obviously panicking,<tt:br/>so you had to restrain him with</tt:p>
+            <tt:p begin="00:01:27.888" end="00:01:30.824">these leather cuffs,<tt:br/>and then to keep pressure on</tt:p>
+            <tt:p begin="00:01:30.858" end="00:01:32.860">the wounds you greased him up<tt:br/>and squeezed him into this...</tt:p>
+            <tt:p begin="00:01:32.893" end="00:01:33.794">MALORY: Zentai!</tt:p>
+            <tt:p begin="00:01:33.827" end="00:01:36.297">And of course not, you ass!</tt:p>
+            <tt:p begin="00:01:36.330" end="00:01:38.599">Someone broke in here<tt:br/>and shot him!</tt:p>
+            <tt:p begin="00:01:38.632" end="00:01:39.500">LANA: Okay, Malory?</tt:p>
+            <tt:p begin="00:01:39.533" end="00:01:41.602">ARCHER: Well,<tt:br/>unless it was the creepy-old</tt:p>
+            <tt:p begin="00:01:41.635" end="00:01:47.875">people-bondage-sex police,<tt:br/>why would anyone break in here<tt:br/>and shoot him? !</tt:p>
+            <tt:p begin="00:01:47.908" end="00:01:49.410">No answer?</tt:p>
+            <tt:p begin="00:01:49.443" end="00:01:51.379">Okay, let's ask him!</tt:p>
+            <tt:p begin="00:01:51.412" end="00:01:53.247">LANA: Ho-lee shit.</tt:p>
+            <tt:p begin="00:01:53.281" end="00:01:56.284">MALORY: Because he's<tt:br/>Savio Mascalzone.</tt:p>
+            <tt:p begin="00:01:56.317" end="00:01:57.251">ARCHER: Um...</tt:p>
+            <tt:p begin="00:01:57.285" end="00:01:58.152">LANA: Oh for --</tt:p>
+            <tt:p begin="00:01:58.186" end="00:01:58.819">the prime minister of Italy?</tt:p>
+            <tt:p begin="00:01:58.852" end="00:01:59.887">ARCHER: The what? !</tt:p>
+            <tt:p begin="00:01:59.920" end="00:02:01.489">And wait,<tt:br/>doesn't Italy use a king?</tt:p>
+            <tt:p begin="00:02:01.522" end="00:02:02.423">LANA: Wh-?</tt:p>
+            <tt:p begin="00:02:02.456" end="00:02:03.524">No, they don't &quot;use a king!&quot;</tt:p>
+            <tt:p begin="00:02:03.557" end="00:02:05.593">MALORY: What year do you think<tt:br/>this is?</tt:p>
+            <tt:p begin="00:02:05.626" end="00:02:08.596">ARCHER: I -- yeah, exactly,<tt:br/>good question.</tt:p>
+            <tt:p begin="00:02:08.629" end="00:02:10.564">And uh, speaking of questions...</tt:p>
+            <tt:p begin="00:02:10.598" end="00:02:11.599">MALORY: No no no, don't --</tt:p>
+            <tt:p begin="00:02:11.632" end="00:02:14.168">what're you -- don't go<tt:br/>back there, Sterling, I -</tt:p>
+            <tt:p begin="00:02:14.202" end="00:02:15.169">ARCHER: I have a question!</tt:p>
+            <tt:p begin="00:02:15.203" end="00:02:16.237">Mother!</tt:p>
+            <tt:p begin="00:02:16.270" end="00:02:18.806">Why does this chair have<tt:br/>no seat!</tt:p>
+            <tt:p begin="00:02:18.839" end="00:02:21.209">And what!</tt:p>
+            <tt:p begin="00:02:21.242" end="00:02:26.647">Is in his ass? !</tt:p>
+            <tt:p begin="00:03:04.352" end="00:03:05.253">Mother!</tt:p>
+            <tt:p begin="00:03:05.286" end="00:03:07.255">What is in this man's ass? !</tt:p>
+            <tt:p begin="00:03:07.288" end="00:03:11.625">MALORY: Oh please,<tt:br/>don't act like you've never seen<tt:br/>a... &quot;marital aid&quot; before.</tt:p>
+            <tt:p begin="00:03:11.659" end="00:03:14.262">ARCHER: Not in a dead prime<tt:br/>minister's ass!</tt:p>
+            <tt:p begin="00:03:14.295" end="00:03:15.663">MALORY: And you don't have to<tt:br/>keep repeating it!</tt:p>
+            <tt:p begin="00:03:15.696" end="00:03:17.565">We've established where it is!</tt:p>
+            <tt:p begin="00:03:17.598" end="00:03:19.900">ARCHER: Yeah so,<tt:br/>you wanna move on to why?</tt:p>
+            <tt:p begin="00:03:19.933" end="00:03:20.868">Wait, not why that!</tt:p>
+            <tt:p begin="00:03:20.901" end="00:03:23.671">Why he's here!</tt:p>
+            <tt:p begin="00:03:23.704" end="00:03:27.241">MALORY: Savio and I met after<tt:br/>the war,<tt:br/>when I was in Italy with Gladio.</tt:p>
+            <tt:p begin="00:03:27.275" end="00:03:28.709">ARCHER: Who's that,<tt:br/>his brother? !</tt:p>
+            <tt:p begin="00:03:28.742" end="00:03:29.510">MALORY: No, it -</tt:p>
+            <tt:p begin="00:03:29.543" end="00:03:30.644">ARCHER: Ewwwww!</tt:p>
+            <tt:p begin="00:03:30.678" end="00:03:32.413">MALORY: Are you finished?</tt:p>
+            <tt:p begin="00:03:32.446" end="00:03:35.383">ARCHER: Hang on, ew,<tt:br/>now I'm done.</tt:p>
+            <tt:p begin="00:03:35.416" end="00:03:36.550">MALORY: Operation Gladio.</tt:p>
+            <tt:p begin="00:03:36.584" end="00:03:38.686">It was a NATO stay-behind<tt:br/>mission,</tt:p>
+            <tt:p begin="00:03:38.719" end="00:03:42.290">set up to counter a possible<tt:br/>Soviet invasion<tt:br/>of Western Europe.</tt:p>
+            <tt:p begin="00:03:42.323" end="00:03:44.558">LANA: But then it sort of<tt:br/>turned into this whole</tt:p>
+            <tt:p begin="00:03:44.592" end="00:03:47.261">weird cryptofascist CIA<tt:br/>shitshow,</tt:p>
+            <tt:p begin="00:03:47.295" end="00:03:49.763">starring Allen Dulles and a<tt:br/>bunch of former Nazis.</tt:p>
+            <tt:p begin="00:03:49.797" end="00:03:51.599">MALORY: Thanks, Holly Hindsight.</tt:p>
+            <tt:p begin="00:03:51.632" end="00:03:55.035">Anyway,<tt:br/>Savio was in Italian<tt:br/>intelligence -</tt:p>
+            <tt:p begin="00:03:55.068" end="00:03:56.069">ARCHER: Rim shot.</tt:p>
+            <tt:p begin="00:03:56.103" end="00:03:57.471">MALORY: -- shut up,<tt:br/>and we were working all these</tt:p>
+            <tt:p begin="00:03:57.505" end="00:04:01.409">late nights,<tt:br/>there was a mutual attraction,<tt:br/>one thing led to another...</tt:p>
+            <tt:p begin="00:04:01.442" end="00:04:02.543">ARCHER: Please skip ahead...</tt:p>
+            <tt:p begin="00:04:02.576" end="00:04:05.279">MALORY: And then he got married<tt:br/>and went into politics.</tt:p>
+            <tt:p begin="00:04:05.313" end="00:04:07.715">But ever since then,<tt:br/>once a year he'd slip away and</tt:p>
+            <tt:p begin="00:04:07.748" end="00:04:09.950">we'd spend a romantic weekend<tt:br/>together.</tt:p>
+            <tt:p begin="00:04:09.983" end="00:04:12.386">ARCHER: Well, you nailed it!</tt:p>
+            <tt:p begin="00:04:12.420" end="00:04:14.755">I mean,<tt:br/>if this doesn't just scream<tt:br/>romance...!</tt:p>
+            <tt:p begin="00:04:14.788" end="00:04:15.556">LANA: Archer...</tt:p>
+            <tt:p begin="00:04:15.589" end="00:04:16.690">ARCHER: What, Lana? !</tt:p>
+            <tt:p begin="00:04:16.724" end="00:04:19.360">What's more romantic than a<tt:br/>dildo-party-slash-murder? !</tt:p>
+            <tt:p begin="00:04:19.393" end="00:04:22.596">LANA: A murder I'm trying to get<tt:br/>a handle on,<tt:br/>so could you shut up a second? !</tt:p>
+            <tt:p begin="00:04:22.630" end="00:04:24.298">MALORY: And he wasn't always<tt:br/>into that!</tt:p>
+            <tt:p begin="00:04:24.332" end="00:04:25.499">ARCHER: You mean vice versa?</tt:p>
+            <tt:p begin="00:04:25.533" end="00:04:26.800">MALORY: Shut up!</tt:p>
+            <tt:p begin="00:04:26.834" end="00:04:31.972">As he grew older,<tt:br/>Savio's tastes became more<tt:br/>and more... exotic.</tt:p>
+            <tt:p begin="00:04:32.005" end="00:04:34.542">And so he started introducing<tt:br/>all these...</tt:p>
+            <tt:p begin="00:04:34.575" end="00:04:36.844">accoutrements very gradually.</tt:p>
+            <tt:p begin="00:04:36.877" end="00:04:37.678">ARCHER: Well, he'd have to.</tt:p>
+            <tt:p begin="00:04:37.711" end="00:04:38.679">Thing's huge.</tt:p>
+            <tt:p begin="00:04:38.712" end="00:04:39.880">Ow! Ow!</tt:p>
+            <tt:p begin="00:04:39.913" end="00:04:41.449">Okay, okay, I --</tt:p>
+            <tt:p begin="00:04:41.482" end="00:04:44.017">okay! God,<tt:br/>your hands are like cricket<tt:br/>bats.</tt:p>
+            <tt:p begin="00:04:44.051" end="00:04:45.252">LANA: Shut up.</tt:p>
+            <tt:p begin="00:04:45.285" end="00:04:47.588">So Malory, what happened,<tt:br/>can you walk us through the<tt:br/>crime?</tt:p>
+            <tt:p begin="00:04:47.621" end="00:04:51.559">ARCHER: Just the crime of<tt:br/>murder, not the crime of<tt:br/>sodomy-by-rubber-eggplant.</tt:p>
+            <tt:p begin="00:04:51.592" end="00:04:54.094">MALORY: Savio was in town to<tt:br/>give a speech at the UN.</tt:p>
+            <tt:p begin="00:04:54.127" end="00:04:58.766">We'd made plans to meet here,<tt:br/>so he gave his handlers the slip<tt:br/>and arrived here at about...</tt:p>
+            <tt:p begin="00:04:58.799" end="00:05:00.334">seven.</tt:p>
+            <tt:p begin="00:05:00.368" end="00:05:03.571">MALORY: We caught up over<tt:br/>a glass or two of champagne.</tt:p>
+            <tt:p begin="00:05:03.604" end="00:05:06.974">Then I freshened up while Savio<tt:br/>got changed and...</tt:p>
+            <tt:p begin="00:05:07.007" end="00:05:08.576">situated.</tt:p>
+            <tt:p begin="00:05:08.609" end="00:05:11.879">ARCHER: So he put the, uh,<tt:br/>in his own...</tt:p>
+            <tt:p begin="00:05:11.912" end="00:05:13.113">MALORY: Yes, hush.</tt:p>
+            <tt:p begin="00:05:13.146" end="00:05:14.582">I came out of the bedroom...</tt:p>
+            <tt:p begin="00:05:14.615" end="00:05:16.817">Savio, sei pronto?</tt:p>
+            <tt:p begin="00:05:16.850" end="00:05:19.687">MASCALZONE: Si, cara mia,<tt:br/>molto pronto!</tt:p>
+            <tt:p begin="00:05:19.720" end="00:05:21.389">MALORY: I crossed over to<tt:br/>the chair,</tt:p>
+            <tt:p begin="00:05:21.422" end="00:05:23.090">and tightened his last<tt:br/>restraint...</tt:p>
+            <tt:p begin="00:05:23.123" end="00:05:24.658">MASCALZONE: Oho!</tt:p>
+            <tt:p begin="00:05:24.692" end="00:05:26.827">Mi fai pazzo con libido!</tt:p>
+            <tt:p begin="00:05:26.860" end="00:05:29.397">MALORY: Then I went to<tt:br/>refill my champagne -</tt:p>
+            <tt:p begin="00:05:29.430" end="00:05:31.665">Savio loved to be kept waiting -</tt:p>
+            <tt:p begin="00:05:31.699" end="00:05:33.000">and then bang!</tt:p>
+            <tt:p begin="00:05:33.033" end="00:05:34.868">In burst three men!</tt:p>
+            <tt:p begin="00:05:34.902" end="00:05:36.136">Aaaaaghh! Oof!</tt:p>
+            <tt:p begin="00:05:36.169" end="00:05:37.004">MASCALZONE: Che cosa? !</tt:p>
+            <tt:p begin="00:05:37.037" end="00:05:38.038">Cara mia, che --</tt:p>
+            <tt:p begin="00:05:38.071" end="00:05:39.139">MALORY: Savio!</tt:p>
+            <tt:p begin="00:05:39.172" end="00:05:42.009">ASSASSIN: Andiamo! Subito!</tt:p>
+            <tt:p begin="00:05:42.042" end="00:05:43.944">LANA: Wait, whoa, whoa,<tt:br/>back up -</tt:p>
+            <tt:p begin="00:05:43.977" end="00:05:45.779">ARCHER: Why did you have<tt:br/>a gun? !</tt:p>
+            <tt:p begin="00:05:45.813" end="00:05:48.882">MALORY: Hm? Oh, well,<tt:br/>Savio liked it to seem a<tt:br/>little...</tt:p>
+            <tt:p begin="00:05:48.916" end="00:05:50.484">dangerous.</tt:p>
+            <tt:p begin="00:05:50.518" end="00:05:51.385">You know?</tt:p>
+            <tt:p begin="00:05:51.419" end="00:05:52.252">ARCHER: No, Mother, I don't!</tt:p>
+            <tt:p begin="00:05:52.285" end="00:05:53.954">Jesus, what else<tt:br/>was on tonight's menu? !</tt:p>
+            <tt:p begin="00:05:53.987" end="00:05:56.023">Sex under a hive<tt:br/>of Africanized bees? !</tt:p>
+            <tt:p begin="00:05:56.056" end="00:05:57.791">LANA: Archer!</tt:p>
+            <tt:p begin="00:05:57.825" end="00:05:59.927">So, you fired three times...</tt:p>
+            <tt:p begin="00:05:59.960" end="00:06:01.061">MALORY: And missed!</tt:p>
+            <tt:p begin="00:06:01.094" end="00:06:02.129">Can you believe it?</tt:p>
+            <tt:p begin="00:06:02.162" end="00:06:03.431">ARCHER: No.</tt:p>
+            <tt:p begin="00:06:03.464" end="00:06:05.933">Oh, sorry, was that rhetorical?</tt:p>
+            <tt:p begin="00:06:05.966" end="00:06:07.167">Lawyer up, call the cops.</tt:p>
+            <tt:p begin="00:06:07.200" end="00:06:08.669">MALORY: What? !</tt:p>
+            <tt:p begin="00:06:08.702" end="00:06:12.406">ARCHER: Oh, and hit the<tt:br/>throttle on the bourbon,<tt:br/>because I'm gonna have to...</tt:p>
+            <tt:p begin="00:06:12.440" end="00:06:13.974">I'm gonna have to bust you<tt:br/>in the face a couple times.</tt:p>
+            <tt:p begin="00:06:14.007" end="00:06:15.409">MALORY: What are you talking<tt:br/>about? !</tt:p>
+            <tt:p begin="00:06:15.443" end="00:06:16.076">ARCHER: Self-defense!</tt:p>
+            <tt:p begin="00:06:16.109" end="00:06:17.478">It's your only shot!</tt:p>
+            <tt:p begin="00:06:17.511" end="00:06:18.812">We gotta uncuff him and...</tt:p>
+            <tt:p begin="00:06:18.846" end="00:06:20.781">de-dildo him, obviously.</tt:p>
+            <tt:p begin="00:06:20.814" end="00:06:23.984">Smash the furniture like he was<tt:br/>chasing you around all rapey,</tt:p>
+            <tt:p begin="00:06:24.017" end="00:06:27.488">fortunately he's Italian so that<tt:br/>shouldn't be too hard a sell,<tt:br/>then --</tt:p>
+            <tt:p begin="00:06:27.521" end="00:06:28.822">MALORY: I! Didn't! Shoot him!</tt:p>
+            <tt:p begin="00:06:28.856" end="00:06:31.992">LANA: On purpose, exactly,<tt:br/>the gun just went off.</tt:p>
+            <tt:p begin="00:06:32.025" end="00:06:34.628">ARCHER: But you probably wanna<tt:br/>play that a lot softer with a<tt:br/>jury.</tt:p>
+            <tt:p begin="00:06:34.662" end="00:06:35.829">MALORY: A jury? !</tt:p>
+            <tt:p begin="00:06:35.863" end="00:06:37.565">When you don't believe me? !</tt:p>
+            <tt:p begin="00:06:37.598" end="00:06:40.000">ARCHER: Mother, come on,<tt:br/>I mean I want to believe you...</tt:p>
+            <tt:p begin="00:06:40.033" end="00:06:43.437">LANA: But those bullet holes<tt:br/>don't prove anyone else was ever<tt:br/>here.</tt:p>
+            <tt:p begin="00:06:43.471" end="00:06:46.540">MALORY: Well,<tt:br/>maybe those don't...</tt:p>
+            <tt:p begin="00:06:46.574" end="00:06:47.875">ASSASSIN: Puttana!</tt:p>
+            <tt:p begin="00:06:47.908" end="00:06:48.842">MALORY: Ungh!</tt:p>
+            <tt:p begin="00:06:48.876" end="00:06:49.677">ARCHER: What? !</tt:p>
+            <tt:p begin="00:06:49.710" end="00:06:50.578">LANA: You got --</tt:p>
+            <tt:p begin="00:06:50.611" end="00:06:51.411">Malory, you got shot!</tt:p>
+            <tt:p begin="00:06:51.445" end="00:06:53.113">MALORY: Yes, I know dear,<tt:br/>I was there.</tt:p>
+            <tt:p begin="00:06:53.146" end="00:06:54.782">LANA: Well, lemme see,<tt:br/>take off your coat!</tt:p>
+            <tt:p begin="00:06:54.815" end="00:06:56.584">MALORY: No! I'm fine,<tt:br/>it's just a through-and-through.</tt:p>
+            <tt:p begin="00:06:56.617" end="00:06:57.751">ARCHER: Mother! LANA: Malory!</tt:p>
+            <tt:p begin="00:06:57.785" end="00:06:59.052">MALORY: What,<tt:br/>I put Bactine on it!</tt:p>
+            <tt:p begin="00:06:59.086" end="00:06:59.953">ARCHER: Mother!</tt:p>
+            <tt:p begin="00:06:59.987" end="00:07:01.254">MALORY: Sterling!</tt:p>
+            <tt:p begin="00:07:01.288" end="00:07:04.057">The Italian prime minister was<tt:br/>just assassinated in my<tt:br/>apartment!</tt:p>
+            <tt:p begin="00:07:04.091" end="00:07:06.527">And so I think an apology is in<tt:br/>order!</tt:p>
+            <tt:p begin="00:07:06.560" end="00:07:08.562">ARCHER: Thanks,<tt:br/>I know that's hard for you.</tt:p>
+            <tt:p begin="00:07:08.596" end="00:07:09.162">MALORY: Wh-?</tt:p>
+            <tt:p begin="00:07:09.196" end="00:07:11.098">You two owe me an apology!</tt:p>
+            <tt:p begin="00:07:11.131" end="00:07:11.965">ARCHER: For what? !</tt:p>
+            <tt:p begin="00:07:11.999" end="00:07:13.567">MALORY: Not believing me!</tt:p>
+            <tt:p begin="00:07:13.601" end="00:07:18.472">ARCHER: How about for you<tt:br/>dragging us into your S&amp;M-<tt:br/>dildo-sex-murder freak show? !</tt:p>
+            <tt:p begin="00:07:18.506" end="00:07:19.473">MALORY: I -- look -</tt:p>
+            <tt:p begin="00:07:19.507" end="00:07:20.874">ARCHER: You look!</tt:p>
+            <tt:p begin="00:07:20.908" end="00:07:23.744">I bet I'll never be able to have<tt:br/>sex again without thinking about<tt:br/>this!</tt:p>
+            <tt:p begin="00:07:23.777" end="00:07:26.480">I bet I won't even be able to<tt:br/>eat spaghetti and meatballs!</tt:p>
+            <tt:p begin="00:07:26.514" end="00:07:27.581">Oh my God.</tt:p>
+            <tt:p begin="00:07:27.615" end="00:07:28.482">MALORY: What? LANA: What?</tt:p>
+            <tt:p begin="00:07:28.516" end="00:07:30.017">ARCHER: I could eat.</tt:p>
+            <tt:p begin="00:07:30.050" end="00:07:32.820">I mean, not necessarily<tt:br/>spaghetti and meatballs, but...</tt:p>
+            <tt:p begin="00:07:32.853" end="00:07:36.590">Not necessarily not spaghetti<tt:br/>and meatballs.</tt:p>
+            <tt:p begin="00:07:36.624" end="00:07:39.059">I mean I really like spaghetti<tt:br/>and meatballs.</tt:p>
+            <tt:p begin="00:07:39.092" end="00:07:41.461">Man if I don't get some<tt:br/>spaghetti and meatballs,<tt:br/>I may literally die.</tt:p>
+            <tt:p begin="00:07:45.533" end="00:07:46.867">LANA: Oh, and thanks so much...</tt:p>
+            <tt:p begin="00:07:46.900" end="00:07:48.201">ARCHER: You're welcome.</tt:p>
+            <tt:p begin="00:07:48.235" end="00:07:51.238">But you should wait'll you<tt:br/>try it,<tt:br/>I'm just kinda winging it here.</tt:p>
+            <tt:p begin="00:07:51.271" end="00:07:53.273">LANA: I meant for dragging me<tt:br/>into this.</tt:p>
+            <tt:p begin="00:07:53.306" end="00:07:54.274">ARCHER: Still welcome.</tt:p>
+            <tt:p begin="00:07:54.307" end="00:07:55.609">LANA: So.</tt:p>
+            <tt:p begin="00:07:55.643" end="00:07:57.978">We've got a dead Italian prime<tt:br/>minister in the living room,<tt:br/>which --</tt:p>
+            <tt:p begin="00:07:58.011" end="00:07:59.847">ARCHER: Sucks, I bet he knew<tt:br/>how to make sauce.</tt:p>
+            <tt:p begin="00:07:59.880" end="00:08:01.915">LANA: Which will be hard to<tt:br/>explain.</tt:p>
+            <tt:p begin="00:08:01.949" end="00:08:05.052">Especially given the<tt:br/>circumstances leading up to his<tt:br/>death, which were --</tt:p>
+            <tt:p begin="00:08:05.085" end="00:08:05.919">ARCHER: Dildoey.</tt:p>
+            <tt:p begin="00:08:05.953" end="00:08:07.054">LANA: Unseemly!</tt:p>
+            <tt:p begin="00:08:07.087" end="00:08:09.957">ARCHER: Potato podildo...</tt:p>
+            <tt:p begin="00:08:09.990" end="00:08:13.794">LANA: So &quot;plausible deniability&quot;<tt:br/>isn't a super-realistic<tt:br/>goal here.</tt:p>
+            <tt:p begin="00:08:13.827" end="00:08:15.596">So we need to sneak the body<tt:br/>out somehow.</tt:p>
+            <tt:p begin="00:08:15.629" end="00:08:17.831">ARCHER: Sure,<tt:br/>we'll just walk a dead body<tt:br/>right out the front door!</tt:p>
+            <tt:p begin="00:08:17.865" end="00:08:18.932">Idiot!</tt:p>
+            <tt:p begin="00:08:18.966" end="00:08:19.900">LANA: What, then? !</tt:p>
+            <tt:p begin="00:08:19.933" end="00:08:21.134">Burn the apartment down? !</tt:p>
+            <tt:p begin="00:08:21.168" end="00:08:23.303">MALORY: We're not burning down<tt:br/>my apartment!</tt:p>
+            <tt:p begin="00:08:23.336" end="00:08:24.237">ARCHER: You sure?</tt:p>
+            <tt:p begin="00:08:24.271" end="00:08:26.006">MALORY: Shut up,<tt:br/>I hit broil instead of bake.</tt:p>
+            <tt:p begin="00:08:26.039" end="00:08:28.108">LANA: Well,<tt:br/>blood loss can make you stupid.</tt:p>
+            <tt:p begin="00:08:28.141" end="00:08:29.643">Can I please look at your wound?</tt:p>
+            <tt:p begin="00:08:29.677" end="00:08:30.944">MALORY: No!</tt:p>
+            <tt:p begin="00:08:30.978" end="00:08:33.080">Nor can you burn down<tt:br/>my apartment,<tt:br/>so think of something else.</tt:p>
+            <tt:p begin="00:08:33.113" end="00:08:35.315">ARCHER: I shall fetch a rug!</tt:p>
+            <tt:p begin="00:08:35.348" end="00:08:36.249">MALORY: Something else!</tt:p>
+            <tt:p begin="00:08:36.283" end="00:08:38.919">You're not rolling him up<tt:br/>in one of my rugs!</tt:p>
+            <tt:p begin="00:08:38.952" end="00:08:39.820">ARCHER: Why not?</tt:p>
+            <tt:p begin="00:08:39.853" end="00:08:40.854">LANA: Because then what? !</tt:p>
+            <tt:p begin="00:08:40.888" end="00:08:41.789">ARCHER: We...</tt:p>
+            <tt:p begin="00:08:41.822" end="00:08:43.223">get some coveralls, and a van.</tt:p>
+            <tt:p begin="00:08:43.256" end="00:08:46.193">Like a carpet cleaning van,<tt:br/>and just walk him right out the<tt:br/>front door.</tt:p>
+            <tt:p begin="00:08:46.226" end="00:08:47.995">LANA: You just called me<tt:br/>an idiot for that!</tt:p>
+            <tt:p begin="00:08:48.028" end="00:08:50.664">ARCHER: Your version didn't have<tt:br/>coveralls.</tt:p>
+            <tt:p begin="00:08:50.698" end="00:08:52.833">LANA: Could we go out<tt:br/>through the basement?</tt:p>
+            <tt:p begin="00:08:52.866" end="00:08:54.234">MALORY: No.</tt:p>
+            <tt:p begin="00:08:54.267" end="00:08:57.037">We'd have to go past the super's<tt:br/>apartment,<tt:br/>and his door is always open.</tt:p>
+            <tt:p begin="00:08:57.070" end="00:09:00.941">I assume to let the stink of<tt:br/>cabbage waft through the halls,<tt:br/>but --</tt:p>
+            <tt:p begin="00:09:00.974" end="00:09:02.710">LANA: So? You think he'd be a<tt:br/>problem?</tt:p>
+            <tt:p begin="00:09:02.743" end="00:09:03.476">MALORY: God, yes.</tt:p>
+            <tt:p begin="00:09:03.510" end="00:09:07.114">We're not on the best<tt:br/>of terms...</tt:p>
+            <tt:p begin="00:09:07.147" end="00:09:09.783">SUPER: It's just, at Christmas,<tt:br/>the tenants usually gimme a</tt:p>
+            <tt:p begin="00:09:09.817" end="00:09:12.986">small consideration,<tt:br/>for the work I do all yeer<tt:br/>keepin up the bildin.</tt:p>
+            <tt:p begin="00:09:13.020" end="00:09:14.855">We surely count on it, ma'am.</tt:p>
+            <tt:p begin="00:09:14.888" end="00:09:17.958">Specially this yeer,<tt:br/>as we had more'n the usual<tt:br/>medical bills.</tt:p>
+            <tt:p begin="00:09:17.991" end="00:09:19.226">MALORY: Your point being?</tt:p>
+            <tt:p begin="00:09:19.259" end="00:09:21.962">SUPER: Just that,<tt:br/>fer the tird year runnin...</tt:p>
+            <tt:p begin="00:09:21.995" end="00:09:23.330">Ya gimme a potato.</tt:p>
+            <tt:p begin="00:09:23.363" end="00:09:26.166">MALORY: Oh dear,<tt:br/>so once again you're faced with</tt:p>
+            <tt:p begin="00:09:26.199" end="00:09:28.836">the classic<tt:br/>&quot;Irishman's Dilemma.&quot;</tt:p>
+            <tt:p begin="00:09:28.869" end="00:09:35.208">Do I eat the potato now,<tt:br/>or let it ferment,<tt:br/>so I can drink it later?</tt:p>
+            <tt:p begin="00:09:35.242" end="00:09:37.077">TINY LIAM: Will I get<tt:br/>the operation now, Da?</tt:p>
+            <tt:p begin="00:09:37.110" end="00:09:38.846">SUPER: No son...</tt:p>
+            <tt:p begin="00:09:38.879" end="00:09:40.347">yer gonnaa die.</tt:p>
+            <tt:p begin="00:09:40.380" end="00:09:42.149">ARCHER: What is your problem<tt:br/>with the Irish?</tt:p>
+            <tt:p begin="00:09:42.182" end="00:09:45.285">MALORY: You mean besides not<tt:br/>being on our side<tt:br/>in World War Two?</tt:p>
+            <tt:p begin="00:09:45.318" end="00:09:47.087">ARCHER: Yeah, besides that.</tt:p>
+            <tt:p begin="00:09:47.120" end="00:09:48.121">Wait, seriously?</tt:p>
+            <tt:p begin="00:09:48.155" end="00:09:49.089">They were Nazis? !</tt:p>
+            <tt:p begin="00:09:49.122" end="00:09:50.090">LANA: No.</tt:p>
+            <tt:p begin="00:09:50.123" end="00:09:51.158">ARCHER: Not Japanese...</tt:p>
+            <tt:p begin="00:09:51.191" end="00:09:52.092">LANA: Neutral!</tt:p>
+            <tt:p begin="00:09:52.125" end="00:09:54.227">And now, since I don't<tt:br/>wanna be an accessory</tt:p>
+            <tt:p begin="00:09:54.261" end="00:09:55.863">after the fact,<tt:br/>how's about we figure out a way</tt:p>
+            <tt:p begin="00:09:55.896" end="00:09:58.131">to get that body out of the damn<tt:br/>apartment? !</tt:p>
+            <tt:p begin="00:09:58.165" end="00:09:59.933">ARCHER: Where'd we land on<tt:br/>the coveralls thing?</tt:p>
+            <tt:p begin="00:09:59.967" end="00:10:01.568">LANA: Archer?</tt:p>
+            <tt:p begin="00:10:01.601" end="00:10:03.737">ARCHER: Because I don't even<tt:br/>know where we'd get coveralls<tt:br/>this time of night, so - -</tt:p>
+            <tt:p begin="00:10:03.771" end="00:10:05.072">MALORY: Soooo...</tt:p>
+            <tt:p begin="00:10:05.105" end="00:10:08.709">if we can't get the body out of<tt:br/>here in one piece...</tt:p>
+            <tt:p begin="00:10:08.742" end="00:10:09.677">LANA: Nooope!</tt:p>
+            <tt:p begin="00:10:09.710" end="00:10:10.644">ARCHER: What?</tt:p>
+            <tt:p begin="00:10:10.678" end="00:10:11.378">MALORY: Lana, it's the only way.</tt:p>
+            <tt:p begin="00:10:11.411" end="00:10:12.379">ARCHER: What is?</tt:p>
+            <tt:p begin="00:10:12.412" end="00:10:14.782">LANA: No! Malory,<tt:br/>I've done some messed up shit</tt:p>
+            <tt:p begin="00:10:14.815" end="00:10:18.418">working for you, but I am not,<tt:br/>repeat not,<tt:br/>chopping up a dead body!</tt:p>
+            <tt:p begin="00:10:18.451" end="00:10:19.753">ARCHER: Oh. Ewww! Mother!</tt:p>
+            <tt:p begin="00:10:19.787" end="00:10:22.322">MALORY: What! My God,<tt:br/>do you want me to get the<tt:br/>electric chair? !</tt:p>
+            <tt:p begin="00:10:22.355" end="00:10:24.658">For a murder you both know<tt:br/>I didn't commit? !</tt:p>
+            <tt:p begin="00:10:24.692" end="00:10:25.959">LANA: Malory, I just can't.</tt:p>
+            <tt:p begin="00:10:25.993" end="00:10:26.794">ARCHER: Me neither.</tt:p>
+            <tt:p begin="00:10:26.827" end="00:10:27.661">MALORY: Can't?</tt:p>
+            <tt:p begin="00:10:27.695" end="00:10:28.428">Or won't.</tt:p>
+            <tt:p begin="00:10:28.461" end="00:10:29.396">LANA: I --</tt:p>
+            <tt:p begin="00:10:29.429" end="00:10:32.733">ARCHER: Whatever,<tt:br/>call it her can't, me won't.</tt:p>
+            <tt:p begin="00:10:32.766" end="00:10:34.668">[ crying ]</tt:p>
+            <tt:p begin="00:10:34.702" end="00:10:35.402">No, hey, Mother, c'mon.</tt:p>
+            <tt:p begin="00:10:35.435" end="00:10:37.971">Stop that!</tt:p>
+            <tt:p begin="00:10:38.005" end="00:10:39.039">Here, here, look!</tt:p>
+            <tt:p begin="00:10:39.072" end="00:10:40.373">I'm gonna get help!</tt:p>
+            <tt:p begin="00:10:40.407" end="00:10:44.011">MALORY: From, from<tt:br/>who-hoo-hoooo? !</tt:p>
+            <tt:p begin="00:10:44.044" end="00:10:46.413">KRIEGER: I need access to a<tt:br/>two-inch drain, hot water,</tt:p>
+            <tt:p begin="00:10:46.446" end="00:10:49.282">three GFCI outlets,<tt:br/>this bathroom should do nicely,</tt:p>
+            <tt:p begin="00:10:49.316" end="00:10:51.685">and a pot of coffee,<tt:br/>just like I like my women:</tt:p>
+            <tt:p begin="00:10:51.719" end="00:10:54.688">black, bitter,<tt:br/>preferably fair trade.</tt:p>
+            <tt:p begin="00:10:54.722" end="00:10:56.790">Oh, and your sauce needs<tt:br/>less salt.</tt:p>
+            <tt:p begin="00:10:56.824" end="00:10:58.291">ARCHER: How can you --</tt:p>
+            <tt:p begin="00:10:58.325" end="00:11:00.260">KRIEGER: Put two halves of a<tt:br/>potato in with the sauce,<tt:br/>it'll absorb the salt.</tt:p>
+            <tt:p begin="00:11:00.293" end="00:11:02.329">Oh, and I assume<tt:br/>that's our patient?</tt:p>
+            <tt:p begin="00:11:02.362" end="00:11:03.263">ARCHER: Not ours, Krieger.</tt:p>
+            <tt:p begin="00:11:03.296" end="00:11:05.465">Yours.</tt:p>
+            <tt:p begin="00:11:05.498" end="00:11:07.067">KRIEGER: Thank you.</tt:p>
+            <tt:p begin="00:11:07.100" end="00:11:08.368">MALORY: Ugh, too salty.</tt:p>
+            <tt:p begin="00:11:08.401" end="00:11:09.970">ARCHER: Yeah, you got a potato?</tt:p>
+            <tt:p begin="00:11:10.003" end="00:11:11.705">MALORY: What is this, Christmas?</tt:p>
+            <tt:p begin="00:11:11.739" end="00:11:13.040">And is Krieger...</tt:p>
+            <tt:p begin="00:11:13.073" end="00:11:14.141">hard at work?</tt:p>
+            <tt:p begin="00:11:14.174" end="00:11:16.209">ARCHER: He literally might be,<tt:br/>yeah.</tt:p>
+            <tt:p begin="00:11:16.243" end="00:11:17.144">LANA: Ew.</tt:p>
+            <tt:p begin="00:11:17.177" end="00:11:18.846">MALORY: Well, say what you will<tt:br/>about him --</tt:p>
+            <tt:p begin="00:11:18.879" end="00:11:19.747">ARCHER: I did.</tt:p>
+            <tt:p begin="00:11:19.780" end="00:11:20.748">MALORY: -- he's discreet.</tt:p>
+            <tt:p begin="00:11:20.781" end="00:11:22.249">So no one else will ever know<tt:br/>about this whole -</tt:p>
+            <tt:p begin="00:11:22.282" end="00:11:23.283">CHERYL/CAROL: Aaaaaaaaaghhhh!</tt:p>
+            <tt:p begin="00:11:23.316" end="00:11:24.017">MALORY: What in the -</tt:p>
+            <tt:p begin="00:11:24.051" end="00:11:25.886">PAM: Hell is that? !</tt:p>
+            <tt:p begin="00:11:25.919" end="00:11:27.821">KRIEGER: Hopefully my greatest<tt:br/>work yet.</tt:p>
+            <tt:p begin="00:11:27.855" end="00:11:30.190">CYRIL: No no no no no!</tt:p>
+            <tt:p begin="00:11:30.223" end="00:11:32.960">Whatever this is,<tt:br/>I am not getting mixed up in it!</tt:p>
+            <tt:p begin="00:11:32.993" end="00:11:34.027">MALORY: Too late.</tt:p>
+            <tt:p begin="00:11:34.061" end="00:11:35.195">[ everybody yelling ]</tt:p>
+            <tt:p begin="00:11:35.228" end="00:11:37.230">ARCHER: Hey whoa, whoa,<tt:br/>everybody calm down!</tt:p>
+            <tt:p begin="00:11:37.264" end="00:11:38.098">It's not what it looks like!</tt:p>
+            <tt:p begin="00:11:38.131" end="00:11:39.967">CYRIL: Well, then, what is it,<tt:br/>exactly? !</tt:p>
+            <tt:p begin="00:11:40.000" end="00:11:42.936">PAM: 'Cause it sure as shit<tt:br/>ain't a surprise party, Krieger!</tt:p>
+            <tt:p begin="00:11:42.970" end="00:11:44.504">Ya big fat liar!</tt:p>
+            <tt:p begin="00:11:44.537" end="00:11:47.240">LANA: Someone's trying to frame<tt:br/>Malory for murdering the prime<tt:br/>minister of Italy.</tt:p>
+            <tt:p begin="00:11:47.274" end="00:11:48.942">CHERYL/CAROL: I bet it's<tt:br/>that wicked king!</tt:p>
+            <tt:p begin="00:11:48.976" end="00:11:49.877">CYRIL: So? !</tt:p>
+            <tt:p begin="00:11:49.910" end="00:11:51.178">Why'd Krieger drag us into it? !</tt:p>
+            <tt:p begin="00:11:51.211" end="00:11:52.045">MALORY: Yes, Krieger!</tt:p>
+            <tt:p begin="00:11:52.079" end="00:11:53.046">Why? !</tt:p>
+            <tt:p begin="00:11:53.080" end="00:11:54.147">KRIEGER: I needed help...</tt:p>
+            <tt:p begin="00:11:54.181" end="00:11:55.515">disseminating him.</tt:p>
+            <tt:p begin="00:11:55.548" end="00:11:57.050">CHERYL/CAROL: Ewww!</tt:p>
+            <tt:p begin="00:11:57.084" end="00:11:57.951">PAM: Not what it means.</tt:p>
+            <tt:p begin="00:11:57.985" end="00:11:59.853">LANA: But it's still pretty<tt:br/>gross though.</tt:p>
+            <tt:p begin="00:11:59.887" end="00:12:01.488">KRIEGER: And brilliant!</tt:p>
+            <tt:p begin="00:12:01.521" end="00:12:03.390">When I'm done, each one of us<tt:br/>will walk out the front door<tt:br/>carrying a small parcel...</tt:p>
+            <tt:p begin="00:12:03.423" end="00:12:04.257">GILLETTE: How small? !</tt:p>
+            <tt:p begin="00:12:04.291" end="00:12:05.358">KRIEGER: Eh.</tt:p>
+            <tt:p begin="00:12:05.392" end="00:12:07.394">Then on our way home,<tt:br/>we simply drop the parcels into</tt:p>
+            <tt:p begin="00:12:07.427" end="00:12:10.163">seven different trash cans in<tt:br/>three different boroughs.</tt:p>
+            <tt:p begin="00:12:10.197" end="00:12:11.131">LANA: That's...</tt:p>
+            <tt:p begin="00:12:11.164" end="00:12:12.499">actually pretty smart.</tt:p>
+            <tt:p begin="00:12:12.532" end="00:12:14.334">KRIEGER: And hopefully,<tt:br/>when you look at all the</tt:p>
+            <tt:p begin="00:12:14.367" end="00:12:18.205">different drop points on a map,<tt:br/>it'll look like a big<tt:br/>smiley face.</tt:p>
+            <tt:p begin="00:12:18.238" end="00:12:20.340">LANA: That's actually pretty<tt:br/>gross.</tt:p>
+            <tt:p begin="00:12:20.373" end="00:12:23.777">ARCHER: Kind of clever.</tt:p>
+            <tt:p begin="00:12:23.811" end="00:12:25.245">CYRIL: Every time!</tt:p>
+            <tt:p begin="00:12:25.278" end="00:12:27.981">Every single time we come<tt:br/>over here,</tt:p>
+            <tt:p begin="00:12:28.015" end="00:12:29.983">we have to help you get rid of<tt:br/>a dead body!</tt:p>
+            <tt:p begin="00:12:30.017" end="00:12:32.452">MALORY: Well, you've only<tt:br/>been here twice.</tt:p>
+            <tt:p begin="00:12:32.485" end="00:12:35.155">GILLETTE: Speaking of,<tt:br/>why the hell was the prime<tt:br/>minister of Italy here?</tt:p>
+            <tt:p begin="00:12:35.188" end="00:12:36.223">ARCHER &amp; LANA: Don't ask.</tt:p>
+            <tt:p begin="00:12:36.256" end="00:12:38.558">PAM: And follow up,<tt:br/>did those dastardly dagoes kill</tt:p>
+            <tt:p begin="00:12:38.591" end="00:12:41.394">him and then dress him up like<tt:br/>a big giant penis, or --</tt:p>
+            <tt:p begin="00:12:41.428" end="00:12:42.963">MALORY: Oh God, that reminds me.</tt:p>
+            <tt:p begin="00:12:42.996" end="00:12:43.864">Krieger?</tt:p>
+            <tt:p begin="00:12:43.897" end="00:12:44.898">KRIEGER: Yeah, I found it!</tt:p>
+            <tt:p begin="00:12:44.932" end="00:12:45.565">CYRIL: Found what?</tt:p>
+            <tt:p begin="00:12:45.598" end="00:12:46.800">ARCHER &amp; LANA: Don't ask.</tt:p>
+            <tt:p begin="00:12:46.834" end="00:12:47.400">KRIEGER: Can I keep it?</tt:p>
+            <tt:p begin="00:12:47.434" end="00:12:48.001">CHERYL/CAROL: Keep what?</tt:p>
+            <tt:p begin="00:12:48.035" end="00:12:48.869">ARCHER &amp; LANA: Don't ask!</tt:p>
+            <tt:p begin="00:12:48.902" end="00:12:51.071">MALORY: Just get it out of here,<tt:br/>please!</tt:p>
+            <tt:p begin="00:12:51.104" end="00:12:52.505">KRIEGER: Yeah, take that tone...</tt:p>
+            <tt:p begin="00:12:52.539" end="00:12:55.876">MALORY: I'd like to know this<tt:br/>could possibly get any worse.</tt:p>
+            <tt:p begin="00:12:55.909" end="00:12:58.578">ARCHER: Well, for one thing,<tt:br/>there's not enough sauce for<tt:br/>everybody.</tt:p>
+            <tt:p begin="00:12:58.611" end="00:12:59.913">LT. MURPHY: NYPD!</tt:p>
+            <tt:p begin="00:12:59.947" end="00:13:01.214">Open up, please?</tt:p>
+            <tt:p begin="00:13:01.248" end="00:13:03.483">CYRIL: Jeez it! It's the cops!</tt:p>
+            <tt:p begin="00:13:03.516" end="00:13:05.919">ARCHER: And-or the<tt:br/>police could show up.</tt:p>
+            <tt:p begin="00:13:05.953" end="00:13:06.453">MALORY: Oh for the --</tt:p>
+            <tt:p begin="00:13:06.486" end="00:13:07.620">now what do we do? !</tt:p>
+            <tt:p begin="00:13:07.654" end="00:13:10.190">ARCHER: Cover your arm up,<tt:br/>answer the door, and stall them.</tt:p>
+            <tt:p begin="00:13:10.223" end="00:13:14.327">And then somebody get me a<tt:br/>number-ten can of tomatoes.</tt:p>
+            <tt:p begin="00:13:14.361" end="00:13:16.029">What, there's already not enough<tt:br/>sauce.</tt:p>
+            <tt:p begin="00:13:19.599" end="00:13:20.834">LT. MURPHY: NYPD!</tt:p>
+            <tt:p begin="00:13:20.868" end="00:13:22.202">C'mon lady, open the door!</tt:p>
+            <tt:p begin="00:13:22.235" end="00:13:23.370">MALORY: Comiiing!</tt:p>
+            <tt:p begin="00:13:23.403" end="00:13:28.208">Sorry, I was in the - - kitchen,<tt:br/>I'm making spaghetti and -</tt:p>
+            <tt:p begin="00:13:28.241" end="00:13:30.443">Meatballs.</tt:p>
+            <tt:p begin="00:13:30.477" end="00:13:31.544">Hi, I'm --</tt:p>
+            <tt:p begin="00:13:31.578" end="00:13:33.146">LT. MURPHY: Italian, huh?</tt:p>
+            <tt:p begin="00:13:33.180" end="00:13:34.281">That's a coincidence.</tt:p>
+            <tt:p begin="00:13:34.314" end="00:13:35.615">MALORY: Oh, are you Italian,<tt:br/>Officer...?</tt:p>
+            <tt:p begin="00:13:35.648" end="00:13:37.550">LT. MURPHY: No,<tt:br/>and it's Detective. Murphy.</tt:p>
+            <tt:p begin="00:13:37.584" end="00:13:38.451">MALORY: Irish.</tt:p>
+            <tt:p begin="00:13:38.485" end="00:13:39.686">LT. MURPHY: That's right.</tt:p>
+            <tt:p begin="00:13:39.719" end="00:13:42.522">But we got an anonymous tip that<tt:br/>Savio Mascalzone was up here.</tt:p>
+            <tt:p begin="00:13:42.555" end="00:13:44.925">MALORY: Oooh, who's that,<tt:br/>some mobster?</tt:p>
+            <tt:p begin="00:13:44.958" end="00:13:46.226">LT. MURPHY: Prime minister.</tt:p>
+            <tt:p begin="00:13:46.259" end="00:13:46.994">Of Italy.</tt:p>
+            <tt:p begin="00:13:47.027" end="00:13:48.628">MALORY: Doesn't Italy use<tt:br/>a king?</tt:p>
+            <tt:p begin="00:13:48.661" end="00:13:49.897">LT. MURPHY: I wouldn't know.</tt:p>
+            <tt:p begin="00:13:49.930" end="00:13:50.630">Somebody dead?</tt:p>
+            <tt:p begin="00:13:50.663" end="00:13:52.032">MALORY: What? Oh!</tt:p>
+            <tt:p begin="00:13:52.065" end="00:13:53.066">My bird.</tt:p>
+            <tt:p begin="00:13:53.100" end="00:13:54.134">Little Tweetsie.</tt:p>
+            <tt:p begin="00:13:54.167" end="00:13:55.068">LT. MURPHY: Uh-huh.</tt:p>
+            <tt:p begin="00:13:55.102" end="00:13:57.270">Well, that's another<tt:br/>coincidence, 'cause this</tt:p>
+            <tt:p begin="00:13:57.304" end="00:13:59.239">anonymous tip said<tt:br/>Mascalzone was dead up here.</tt:p>
+            <tt:p begin="00:13:59.272" end="00:14:00.173">MALORY: What?</tt:p>
+            <tt:p begin="00:14:00.207" end="00:14:02.009">Oh, for heaven's sake!</tt:p>
+            <tt:p begin="00:14:02.042" end="00:14:03.476">LT. MURPHY: Yeah,<tt:br/>right here in the living room.</tt:p>
+            <tt:p begin="00:14:03.510" end="00:14:08.281">MALORY: Well, as you can see,<tt:br/>there hasn't been a murder in<tt:br/>here, my gosh!</tt:p>
+            <tt:p begin="00:14:08.315" end="00:14:10.884">Although I guess someone must've<tt:br/>spilled a drink.</tt:p>
+            <tt:p begin="00:14:10.918" end="00:14:13.153">I have a few dear friends over<tt:br/>for a dinner party.</tt:p>
+            <tt:p begin="00:14:13.186" end="00:14:14.221">LT. MURPHY: Uh-huh.</tt:p>
+            <tt:p begin="00:14:14.254" end="00:14:15.322">Mind if I talk to them?</tt:p>
+            <tt:p begin="00:14:15.355" end="00:14:17.324">MALORY: Heavens, no,<tt:br/>of course not, but -</tt:p>
+            <tt:p begin="00:14:17.357" end="00:14:18.391">LT. MURPHY: What's in here?</tt:p>
+            <tt:p begin="00:14:18.425" end="00:14:19.392">MALORY: Bathroom?</tt:p>
+            <tt:p begin="00:14:19.426" end="00:14:20.660">LT. MURPHY: Uh-huh.</tt:p>
+            <tt:p begin="00:14:20.693" end="00:14:23.596">MALORY: My guests are in here,<tt:br/>Detective, but -</tt:p>
+            <tt:p begin="00:14:23.630" end="00:14:27.534">PAM: What are you doing<tt:br/>-- from the left, dear,<tt:br/>one serves from the left!</tt:p>
+            <tt:p begin="00:14:27.567" end="00:14:30.303">CHERYL/CAROL: What's gotten into<tt:br/>you, Calpurnia? !</tt:p>
+            <tt:p begin="00:14:30.337" end="00:14:31.571">LANA: My mistake, ma'am.</tt:p>
+            <tt:p begin="00:14:31.604" end="00:14:34.975">ARCHER: Well, I should say<tt:br/>it is, Calpurnia!</tt:p>
+            <tt:p begin="00:14:35.008" end="00:14:36.376">Muthah, your maid is --</tt:p>
+            <tt:p begin="00:14:36.409" end="00:14:37.911">oh, hello!</tt:p>
+            <tt:p begin="00:14:37.945" end="00:14:38.578">LT. MURPHY: Evening.</tt:p>
+            <tt:p begin="00:14:38.611" end="00:14:40.213">Sorry to disturb your, uh...</tt:p>
+            <tt:p begin="00:14:40.247" end="00:14:41.681">CHERYL/CAROL: Elegant dinnah<tt:br/>pahty,</tt:p>
+            <tt:p begin="00:14:41.714" end="00:14:46.553">for the most elegant people in<tt:br/>all of New Yawk.</tt:p>
+            <tt:p begin="00:14:46.586" end="00:14:47.554">LT. MURPHY: Uh-huh.</tt:p>
+            <tt:p begin="00:14:47.587" end="00:14:49.489">But we got a tip there'd been a<tt:br/>murder up here.</tt:p>
+            <tt:p begin="00:14:49.522" end="00:14:52.159">ARCHER: Good heavens, a murder?</tt:p>
+            <tt:p begin="00:14:52.192" end="00:14:56.930">Well, apart from this sullen<tt:br/>wench murdering good etiquette,<tt:br/>owww!</tt:p>
+            <tt:p begin="00:14:56.964" end="00:15:04.437">I find the very<tt:br/>suggestion laughable.</tt:p>
+            <tt:p begin="00:15:04.471" end="00:15:06.139">LT. MURPHY: So,<tt:br/>you don't mind if I look around?</tt:p>
+            <tt:p begin="00:15:06.173" end="00:15:07.274">MALORY: Uh, no!</tt:p>
+            <tt:p begin="00:15:07.307" end="00:15:08.575">Of course not!</tt:p>
+            <tt:p begin="00:15:08.608" end="00:15:10.043">Calpurnia?</tt:p>
+            <tt:p begin="00:15:10.077" end="00:15:11.979">May I speak with you in the<tt:br/>kitchen?</tt:p>
+            <tt:p begin="00:15:12.012" end="00:15:14.214">LANA: Certainly.</tt:p>
+            <tt:p begin="00:15:14.247" end="00:15:16.283">LT. MURPHY: And I'll let you<tt:br/>get back to your --</tt:p>
+            <tt:p begin="00:15:16.316" end="00:15:21.254">CHERYL/CAROL: Elegant<tt:br/>dinnah pahty!</tt:p>
+            <tt:p begin="00:15:21.288" end="00:15:24.391">CYRIL: I hate you all so much.</tt:p>
+            <tt:p begin="00:15:24.424" end="00:15:29.296">PAM: No one cares, Figgis,<tt:br/>you were only invited to round<tt:br/>out the numbahs.</tt:p>
+            <tt:p begin="00:15:37.637" end="00:15:39.306">MALORY: What,<tt:br/>how is this my fault? !</tt:p>
+            <tt:p begin="00:15:39.339" end="00:15:40.740">LANA: Gee, where to start...</tt:p>
+            <tt:p begin="00:15:40.773" end="00:15:42.009">oh! The murder?</tt:p>
+            <tt:p begin="00:15:42.042" end="00:15:45.012">MALORY: Oh,<tt:br/>I thought you meant that silly<tt:br/>French maid costume.</tt:p>
+            <tt:p begin="00:15:45.045" end="00:15:47.247">Which makes you look ridiculous.</tt:p>
+            <tt:p begin="00:15:47.280" end="00:15:48.415">LANA: And why do you even -</tt:p>
+            <tt:p begin="00:15:48.448" end="00:15:50.383">never mind,<tt:br/>I don't even wanna know.</tt:p>
+            <tt:p begin="00:15:50.417" end="00:15:52.419">MALORY: Good,<tt:br/>it's none of your beeswax.</tt:p>
+            <tt:p begin="00:15:52.452" end="00:15:53.420">Here.</tt:p>
+            <tt:p begin="00:15:53.453" end="00:15:55.155">I hope you won't need it,<tt:br/>but --</tt:p>
+            <tt:p begin="00:15:55.188" end="00:15:56.023">LANA: Why would I need...?</tt:p>
+            <tt:p begin="00:15:56.056" end="00:15:57.724">Oh, huh-uh, noope!</tt:p>
+            <tt:p begin="00:15:57.757" end="00:15:58.591">MALORY: Lana!</tt:p>
+            <tt:p begin="00:15:58.625" end="00:15:59.726">LANA: Malory! I am not!</tt:p>
+            <tt:p begin="00:15:59.759" end="00:16:01.128">Killing a -</tt:p>
+            <tt:p begin="00:16:01.161" end="00:16:04.197">ARCHER: A perfectly nice dinnah,<tt:br/>Calpurnia!</tt:p>
+            <tt:p begin="00:16:04.231" end="00:16:07.667">By God, if you were my servant,<tt:br/>I'd have you over my knee<tt:br/>in a trice!</tt:p>
+            <tt:p begin="00:16:07.700" end="00:16:10.237">And Muthah,<tt:br/>the constable wishes a word.</tt:p>
+            <tt:p begin="00:16:10.270" end="00:16:11.004">MALORY: He does?</tt:p>
+            <tt:p begin="00:16:11.038" end="00:16:12.305">I mean yes?</tt:p>
+            <tt:p begin="00:16:12.339" end="00:16:14.241">LT. MURPHY: Yeah,<tt:br/>sorry for the intrusion.</tt:p>
+            <tt:p begin="00:16:14.274" end="00:16:15.208">That tip musta been a hoax.</tt:p>
+            <tt:p begin="00:16:15.242" end="00:16:17.044">I checked out the whole<tt:br/>apartment, it's clean.</tt:p>
+            <tt:p begin="00:16:17.077" end="00:16:17.677">MALORY: No thanks to this one...</tt:p>
+            <tt:p begin="00:16:17.710" end="00:16:18.478">LANA: Mmmm...?!</tt:p>
+            <tt:p begin="00:16:18.511" end="00:16:19.412">ARCHER: Sullen wench.</tt:p>
+            <tt:p begin="00:16:19.446" end="00:16:22.682">I mean indubitably Lieutenant.</tt:p>
+            <tt:p begin="00:16:22.715" end="00:16:26.219">LT. MURPHY: So then I'll, uh,<tt:br/>just be on my way.</tt:p>
+            <tt:p begin="00:16:26.253" end="00:16:29.689">It's just,<tt:br/>who would call in with a fake<tt:br/>tip like that, though, ya know?</tt:p>
+            <tt:p begin="00:16:29.722" end="00:16:32.292">MALORY: I wouldn't be surprised<tt:br/>if it was our super,<tt:br/>Mr. Herlihy.</tt:p>
+            <tt:p begin="00:16:32.325" end="00:16:33.760">He drinks.</tt:p>
+            <tt:p begin="00:16:33.793" end="00:16:36.763">LT. MURPHY: Thanks,<tt:br/>I'll check on -- oh hey,<tt:br/>I never checked this bathroom.</tt:p>
+            <tt:p begin="00:16:36.796" end="00:16:37.464">Ya mind?</tt:p>
+            <tt:p begin="00:16:37.497" end="00:16:39.466">MALORY: I -- no, of course not.</tt:p>
+            <tt:p begin="00:16:39.499" end="00:16:42.502">Be my guest.</tt:p>
+            <tt:p begin="00:16:49.842" end="00:16:53.046">KRIEGER: Whew! Oh! Sorry,<tt:br/>didn't know anyone was waiting.</tt:p>
+            <tt:p begin="00:16:53.080" end="00:16:55.082">But I'd recommend<tt:br/>the other bathroom,</tt:p>
+            <tt:p begin="00:16:55.115" end="00:16:58.585">I mean I did what I could,<tt:br/>but you can only ask so much of<tt:br/>a vanilla candle.</tt:p>
+            <tt:p begin="00:16:58.618" end="00:17:00.187">Dinner ready?</tt:p>
+            <tt:p begin="00:17:00.220" end="00:17:02.322">MALORY: My God...</tt:p>
+            <tt:p begin="00:17:02.355" end="00:17:04.491">LT. MURPHY: Ugh! Yeah,<tt:br/>he really did a number on it.</tt:p>
+            <tt:p begin="00:17:04.524" end="00:17:06.426">Might wanna make sure he didn't<tt:br/>leave ya an upper decker.</tt:p>
+            <tt:p begin="00:17:06.459" end="00:17:08.161">Sorry again for the intrusion,<tt:br/>ma'am.</tt:p>
+            <tt:p begin="00:17:08.195" end="00:17:11.098">And Herlihy,<tt:br/>you said his name was?</tt:p>
+            <tt:p begin="00:17:11.131" end="00:17:11.798">MALORY: Hm? Oh, yes.</tt:p>
+            <tt:p begin="00:17:11.831" end="00:17:13.666">Yes, that's right.</tt:p>
+            <tt:p begin="00:17:13.700" end="00:17:14.667">ARCHER: Ow! Ow!</tt:p>
+            <tt:p begin="00:17:14.701" end="00:17:16.103">Lana, c'mon, I was -- ow!</tt:p>
+            <tt:p begin="00:17:16.136" end="00:17:18.071">LANA: I'll show you a sullen<tt:br/>wench!</tt:p>
+            <tt:p begin="00:17:18.105" end="00:17:19.272">[ Ear-damaging whistle ]</tt:p>
+            <tt:p begin="00:17:19.306" end="00:17:20.440">MALORY: Right then.</tt:p>
+            <tt:p begin="00:17:20.473" end="00:17:23.510">That snoopy detective is gone,<tt:br/>thanks to Dr. Krieger, so --</tt:p>
+            <tt:p begin="00:17:23.543" end="00:17:24.377">CHERYL/CAROL: Krieger?</tt:p>
+            <tt:p begin="00:17:24.411" end="00:17:25.878">What about the rest of us?</tt:p>
+            <tt:p begin="00:17:25.912" end="00:17:29.249">MALORY: The rest of you can get<tt:br/>out of my clothes,<tt:br/>and then out of my house.</tt:p>
+            <tt:p begin="00:17:29.282" end="00:17:32.719">But thank you all so much<tt:br/>for coming!</tt:p>
+            <tt:p begin="00:17:32.752" end="00:17:33.786">ARCHER: Loved it.</tt:p>
+            <tt:p begin="00:17:33.820" end="00:17:34.687">LANA: Never, never again.</tt:p>
+            <tt:p begin="00:17:34.721" end="00:17:35.855">CHERYL/CAROL: Thanks for<tt:br/>dead guy in a box.</tt:p>
+            <tt:p begin="00:17:35.888" end="00:17:36.856">Not very elegant.</tt:p>
+            <tt:p begin="00:17:36.889" end="00:17:39.126">GILLETTE: Oh no, thanks<tt:br/>for having us, amazing.</tt:p>
+            <tt:p begin="00:17:39.159" end="00:17:42.095">KRIEGER: And remember,<tt:br/>smiley face! And thank you.</tt:p>
+            <tt:p begin="00:17:42.129" end="00:17:42.962">MALORY: Krieger, wait.</tt:p>
+            <tt:p begin="00:17:42.995" end="00:17:45.698">The bathroom, the body,<tt:br/>how did you...?</tt:p>
+            <tt:p begin="00:17:45.732" end="00:17:48.201">KRIEGER: Shhhhh! Shh shh<tt:br/>shh shh shhhhhhh.</tt:p>
+            <tt:p begin="00:17:48.235" end="00:17:49.702">You don't wanna know.</tt:p>
+            <tt:p begin="00:17:49.736" end="00:17:52.305">But you do probably wanna wash<tt:br/>your lips now.</tt:p>
+            <tt:p begin="00:17:52.339" end="00:17:55.208">MALORY: Ugh.</tt:p>
+            <tt:p begin="00:17:55.242" end="00:17:56.576">LANA: Screw you, Archer!</tt:p>
+            <tt:p begin="00:17:56.609" end="00:17:57.544">Sullen wench? !</tt:p>
+            <tt:p begin="00:17:57.577" end="00:17:58.145">ARCHER: Lana!</tt:p>
+            <tt:p begin="00:17:58.178" end="00:17:59.512">C'mon, I was just kidding!</tt:p>
+            <tt:p begin="00:17:59.546" end="00:18:00.747">I had to make it look good!</tt:p>
+            <tt:p begin="00:18:00.780" end="00:18:02.649">LANA: You had to make it look<tt:br/>good...</tt:p>
+            <tt:p begin="00:18:02.682" end="00:18:04.251">ARCHER: Well, and also<tt:br/>annoy you.</tt:p>
+            <tt:p begin="00:18:04.284" end="00:18:06.453">LANA: Walther PP,<tt:br/>chambered for thirty-two ACP.</tt:p>
+            <tt:p begin="00:18:06.486" end="00:18:08.121">What's the magazine capacity?</tt:p>
+            <tt:p begin="00:18:08.155" end="00:18:09.122">ARCHER: Uh... eight.</tt:p>
+            <tt:p begin="00:18:09.156" end="00:18:09.822">LANA: Eight rounds.</tt:p>
+            <tt:p begin="00:18:09.856" end="00:18:11.158">Plus one in the chamber.</tt:p>
+            <tt:p begin="00:18:11.191" end="00:18:12.125">For a total...</tt:p>
+            <tt:p begin="00:18:12.159" end="00:18:13.260">of nine.</tt:p>
+            <tt:p begin="00:18:13.293" end="00:18:14.527">ARCHER: Hey thanks, Rainman.</tt:p>
+            <tt:p begin="00:18:14.561" end="00:18:15.562">Your point being?</tt:p>
+            <tt:p begin="00:18:15.595" end="00:18:17.164">LANA: Malory's clip was empty.</tt:p>
+            <tt:p begin="00:18:17.197" end="00:18:19.532">But she said she only fired<tt:br/>three shots.</tt:p>
+            <tt:p begin="00:18:19.566" end="00:18:24.237">ARCHER: Oh my God,<tt:br/>so you're saying Mother lured<tt:br/>Mascalzone up there...</tt:p>
+            <tt:p begin="00:18:24.271" end="00:18:27.874">Greased him into a<tt:br/>six-foot manrubber,<tt:br/>strapped him to a chair...</tt:p>
+            <tt:p begin="00:18:27.907" end="00:18:28.808">MALORY: Sei pronto?</tt:p>
+            <tt:p begin="00:18:28.841" end="00:18:31.678">MASCALZONE: Si, cara mia,<tt:br/>sono molto pronto!</tt:p>
+            <tt:p begin="00:18:31.711" end="00:18:33.346">MALORY: Bene. Anch'io.</tt:p>
+            <tt:p begin="00:18:33.380" end="00:18:34.614">MASCALZONE: Oho!</tt:p>
+            <tt:p begin="00:18:34.647" end="00:18:36.716">Mi fai pazzo con libido!</tt:p>
+            <tt:p begin="00:18:36.749" end="00:18:37.717">MALORY: I know dear.</tt:p>
+            <tt:p begin="00:18:37.750" end="00:18:38.818">But you have to wait.</tt:p>
+            <tt:p begin="00:18:38.851" end="00:18:40.453">ARCHER: Calls us...</tt:p>
+            <tt:p begin="00:18:40.487" end="00:18:41.454">What?</tt:p>
+            <tt:p begin="00:18:41.488" end="00:18:43.556">Mother calm -- I'm on my way!</tt:p>
+            <tt:p begin="00:18:43.590" end="00:18:44.524">Don't move.</tt:p>
+            <tt:p begin="00:18:44.557" end="00:18:47.227">I'll probably be back.</tt:p>
+            <tt:p begin="00:18:47.260" end="00:18:49.296">Then she pulls a gun on him? !</tt:p>
+            <tt:p begin="00:18:49.329" end="00:18:49.896">MASCALZONE: Che cosa? !</tt:p>
+            <tt:p begin="00:18:49.929" end="00:18:50.897">What is this? !</tt:p>
+            <tt:p begin="00:18:50.930" end="00:18:52.031">ARCHER: A crock of shit!</tt:p>
+            <tt:p begin="00:18:52.064" end="00:18:54.934">Because that would mean she<tt:br/>called the cops on herself!</tt:p>
+            <tt:p begin="00:18:54.967" end="00:18:57.837">LANA: Knowing they'd never come<tt:br/>back after they searched her<tt:br/>apartment.</tt:p>
+            <tt:p begin="00:18:57.870" end="00:19:00.407">Which was full of people,<tt:br/>and spotless.</tt:p>
+            <tt:p begin="00:19:00.440" end="00:19:02.909">ARCHER: Oh my God, do the math,<tt:br/>Rainman!</tt:p>
+            <tt:p begin="00:19:02.942" end="00:19:06.213">The wall was shot three times...</tt:p>
+            <tt:p begin="00:19:06.246" end="00:19:10.717">Mascalzone was shot five times!</tt:p>
+            <tt:p begin="00:19:10.750" end="00:19:13.320">For a total, wait for it,<tt:br/>of eight!</tt:p>
+            <tt:p begin="00:19:13.353" end="00:19:14.287">LANA: Yeah.</tt:p>
+            <tt:p begin="00:19:14.321" end="00:19:14.954">Plus the one in her arm.</tt:p>
+            <tt:p begin="00:19:14.987" end="00:19:15.655">ARCHER: Wh-? !</tt:p>
+            <tt:p begin="00:19:15.688" end="00:19:17.624">So what, Mother shot herself? !</tt:p>
+            <tt:p begin="00:19:17.657" end="00:19:19.292">Oh my God!</tt:p>
+            <tt:p begin="00:19:19.326" end="00:19:21.261">MALORY: Ungh!</tt:p>
+            <tt:p begin="00:19:21.294" end="00:19:22.329">MASCALZONE: Mio dio! Perche? !</tt:p>
+            <tt:p begin="00:19:22.362" end="00:19:23.363">MALORY: Why?</tt:p>
+            <tt:p begin="00:19:23.396" end="00:19:24.831">I'll tell you exactly why.</tt:p>
+            <tt:p begin="00:19:24.864" end="00:19:26.666">Before I kill you.</tt:p>
+            <tt:p begin="00:19:26.699" end="00:19:27.900">Operation Gladio.</tt:p>
+            <tt:p begin="00:19:27.934" end="00:19:28.935">MASCALZONE: Gladio? !</tt:p>
+            <tt:p begin="00:19:28.968" end="00:19:31.838">ARCHER: Which would mean<tt:br/>Mother's been banging him</tt:p>
+            <tt:p begin="00:19:31.871" end="00:19:35.575">once a year for like<tt:br/>thirty-five years,</tt:p>
+            <tt:p begin="00:19:35.608" end="00:19:41.648">and the whole time she's been<tt:br/>holding a grudge,<tt:br/>just waiting to...</tt:p>
+            <tt:p begin="00:19:41.681" end="00:19:42.815">Holy shit.</tt:p>
+            <tt:p begin="00:19:42.849" end="00:19:43.916">She killed him.</tt:p>
+            <tt:p begin="00:19:43.950" end="00:19:45.952">LANA: And got us to dispose<tt:br/>of the body.</tt:p>
+            <tt:p begin="00:19:45.985" end="00:19:47.454">ARCHER: Ugh. But why?</tt:p>
+            <tt:p begin="00:19:47.487" end="00:19:49.021">After all this time?</tt:p>
+            <tt:p begin="00:19:49.055" end="00:19:52.725">MALORY: Well, to be honest,<tt:br/>until recently the sex has been<tt:br/>pretty phenomenal --</tt:p>
+            <tt:p begin="00:19:52.759" end="00:19:53.660">MASCALZONE: Grazie.</tt:p>
+            <tt:p begin="00:19:53.693" end="00:19:55.728">MALORY: And I figured, eh,<tt:br/>what's the hurry?</tt:p>
+            <tt:p begin="00:19:55.762" end="00:19:57.764">But then you started getting...</tt:p>
+            <tt:p begin="00:19:57.797" end="00:19:58.631">weird.</tt:p>
+            <tt:p begin="00:19:58.665" end="00:20:00.667">MASCALZONE: But why you make<tt:br/>la vendetta?</tt:p>
+            <tt:p begin="00:20:00.700" end="00:20:03.436">MALORY: Because one night,<tt:br/>all those years ago in Rome,</tt:p>
+            <tt:p begin="00:20:03.470" end="00:20:07.240">you and your fascist thugs<tt:br/>gunned down a young man in the<tt:br/>street.</tt:p>
+            <tt:p begin="00:20:07.274" end="00:20:08.207">A beautiful man.</tt:p>
+            <tt:p begin="00:20:08.241" end="00:20:11.544">Blue eyes, full lips,<tt:br/>black thick wavy hair...</tt:p>
+            <tt:p begin="00:20:11.578" end="00:20:12.345">MASCALZONE: Perche?</tt:p>
+            <tt:p begin="00:20:12.379" end="00:20:13.246">What was his crime?</tt:p>
+            <tt:p begin="00:20:13.280" end="00:20:15.515">MALORY: Well,<tt:br/>I wouldn't call speaking out</tt:p>
+            <tt:p begin="00:20:15.548" end="00:20:17.917">against the rebirth of fascism<tt:br/>a crime.</tt:p>
+            <tt:p begin="00:20:17.950" end="00:20:19.586">More of a mistake.</tt:p>
+            <tt:p begin="00:20:19.619" end="00:20:22.589">By a beautiful,<tt:br/>idealistic young man.</tt:p>
+            <tt:p begin="00:20:22.622" end="00:20:24.757">Who may have been<tt:br/>my son's father.</tt:p>
+            <tt:p begin="00:20:24.791" end="00:20:26.025">MASCALZONE: May have been? !</tt:p>
+            <tt:p begin="00:20:26.058" end="00:20:27.427">You don't know? !</tt:p>
+            <tt:p begin="00:20:27.460" end="00:20:28.495">Madon'!</tt:p>
+            <tt:p begin="00:20:28.528" end="00:20:31.764">Che tipo di puttana sei? !</tt:p>
+            <tt:p begin="00:20:31.798" end="00:20:34.467">MALORY: Che tipo davvero.</tt:p>
+            <tt:p begin="00:20:34.501" end="00:20:36.303">Cazzo fascista.</tt:p>
+            <tt:p begin="00:20:36.336" end="00:20:37.504">LANA: Who knows, it's Malory.</tt:p>
+            <tt:p begin="00:20:37.537" end="00:20:39.406">You really wanna know why<tt:br/>she killed a guy?</tt:p>
+            <tt:p begin="00:20:39.439" end="00:20:41.508">ARCHER: I... do not, no.</tt:p>
+            <tt:p begin="00:20:41.541" end="00:20:42.642">LANA: Although...</tt:p>
+            <tt:p begin="00:20:42.675" end="00:20:45.044">I am curious why she wouldn't<tt:br/>take off that trenchcoat.</tt:p>
+            <tt:p begin="00:20:45.077" end="00:20:46.446">MALORY: Mm!</tt:p>
+            <tt:p begin="00:20:46.479" end="00:20:48.481">Honey, you still got it.</tt:p>
+            <tt:p begin="00:20:48.515" end="00:20:49.949">Bow chicka bow bow!</tt:p>
+            <tt:p begin="00:20:49.982" end="00:20:51.117">Uh huh huh!</tt:p>
+            <tt:p begin="00:20:51.150" end="00:20:55.021">ARCHER: So much of this I never<tt:br/>wanna know the answer to.</tt:p>
+            <tt:p begin="00:20:55.054" end="00:20:57.624">Okay, how 'bout a slice?</tt:p>
+            <tt:p begin="00:20:57.657" end="00:21:01.328">God, what's with me<tt:br/>and Italian lately?</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

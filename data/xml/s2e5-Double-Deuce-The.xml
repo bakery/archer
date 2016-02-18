@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:03.204" end="00:00:05.005">ARCHER:<tt:br/>Woodhouse.<tt:br/>What the hell is this?</tt:p>
+            <tt:p begin="00:00:05.073" end="00:00:06.640">I believe it's squash,<tt:br/>sir.</tt:p>
+            <tt:p begin="00:00:06.707" end="00:00:08.576">I-- What are you<tt:br/>shoveling it into?</tt:p>
+            <tt:p begin="00:00:08.642" end="00:00:10.178">The wee baby Seamus.</tt:p>
+            <tt:p begin="00:00:10.244" end="00:00:11.979">Miss Trinette said<tt:br/>you'd agreed to it</tt:p>
+            <tt:p begin="00:00:12.046" end="00:00:14.048">while she's in Atlantic City.</tt:p>
+            <tt:p begin="00:00:14.115" end="00:00:16.217">What?<tt:br/>For the Pimps and Ho's Ball</tt:p>
+            <tt:p begin="00:00:16.284" end="00:00:17.585">I believe she said.</tt:p>
+            <tt:p begin="00:00:17.651" end="00:00:20.054">Didn't seem the sort of place<tt:br/>one takes a baby.</tt:p>
+            <tt:p begin="00:00:20.121" end="00:00:22.456">You're in huge trouble.<tt:br/>Yes, sir.</tt:p>
+            <tt:p begin="00:00:22.523" end="00:00:25.426">And now I have to spend my first<tt:br/>Friday off in forever...</tt:p>
+            <tt:p begin="00:00:25.493" end="00:00:26.427">Yes, sir.</tt:p>
+            <tt:p begin="00:00:26.494" end="00:00:28.329">...devising bizarre punishment<tt:br/>for you.</tt:p>
+            <tt:p begin="00:00:28.396" end="00:00:30.564">Yes, sir.<tt:br/>So don't be surprised</tt:p>
+            <tt:p begin="00:00:30.631" end="00:00:33.033">if you end up eating a whole<tt:br/>bunch of spider webs.</tt:p>
+            <tt:p begin="00:00:33.101" end="00:00:34.268">Right? Heh.</tt:p>
+            <tt:p begin="00:00:34.335" end="00:00:35.836">Now shut up<tt:br/>and read me the paper.</tt:p>
+            <tt:p begin="00:00:35.903" end="00:00:38.672">Very good, sir. Let's see what<tt:br/>we have-- Oh, good Lord!</tt:p>
+            <tt:p begin="00:00:38.739" end="00:00:40.341">[GLASS SHATTERING,<tt:br/>SEAMUS CRYING]</tt:p>
+            <tt:p begin="00:00:40.408" end="00:00:41.642">Oh--<tt:br/>What the shit, Woodhouse?</tt:p>
+            <tt:p begin="00:00:41.709" end="00:00:43.611">I--<tt:br/>Hey, stop crying. How do you--?</tt:p>
+            <tt:p begin="00:00:43.677" end="00:00:47.148">What do you do? How do you<tt:br/>make him not--? Here. God!</tt:p>
+            <tt:p begin="00:00:47.215" end="00:00:49.283">You like that?<tt:br/>It's a Bloody Mary.</tt:p>
+            <tt:p begin="00:00:49.350" end="00:00:50.584">Or is it a Bloody Caes--</tt:p>
+            <tt:p begin="00:00:50.651" end="00:00:52.453">Why are you<tt:br/>sitting at my table?</tt:p>
+            <tt:p begin="00:00:52.520" end="00:00:54.688">The paper, sir.<tt:br/>There's an item...</tt:p>
+            <tt:p begin="00:00:54.755" end="00:00:57.525">Oh, yeah? Did somebody finally<tt:br/>out the queen? Right?</tt:p>
+            <tt:p begin="00:00:57.591" end="00:01:00.094">This baby knows what<tt:br/>I'm talking about. Give me that.</tt:p>
+            <tt:p begin="00:01:00.161" end="00:01:01.762">&quot;Sir Augustus Stilton,</tt:p>
+            <tt:p begin="00:01:01.829" end="00:01:04.265">&quot;World War I flying ace,<tt:br/>blah, blah, blah,</tt:p>
+            <tt:p begin="00:01:04.332" end="00:01:06.634">dies under mysterious<tt:br/>circumstances.&quot;</tt:p>
+            <tt:p begin="00:01:06.700" end="00:01:08.969">And mystery solved,<tt:br/>he was a thousand.</tt:p>
+            <tt:p begin="00:01:09.036" end="00:01:11.172">Stilton and I were<tt:br/>squadron-mates.</tt:p>
+            <tt:p begin="00:01:11.239" end="00:01:14.108">Oh, sorry, I--<tt:br/>Twenty-Two Squadron, RFC.</tt:p>
+            <tt:p begin="00:01:14.175" end="00:01:16.610">Most decorated aerodrome<tt:br/>of the Great War.</tt:p>
+            <tt:p begin="00:01:16.677" end="00:01:18.379">I don't care about<tt:br/>the Great War.</tt:p>
+            <tt:p begin="00:01:18.446" end="00:01:21.249">But not much left<tt:br/>of the old Double Deuce anymore.</tt:p>
+            <tt:p begin="00:01:21.315" end="00:01:22.783">We're all dying off.</tt:p>
+            <tt:p begin="00:01:22.850" end="00:01:24.452">Yeah,<tt:br/>not a huge surprise.</tt:p>
+            <tt:p begin="00:01:24.518" end="00:01:27.221">We're not dying of old age,<tt:br/>sir.</tt:p>
+            <tt:p begin="00:01:27.288" end="00:01:29.190">Wait a second.<tt:br/>&quot;Sir Aldous Wensleydale,</tt:p>
+            <tt:p begin="00:01:29.257" end="00:01:30.658">&quot;foul play suspected.</tt:p>
+            <tt:p begin="00:01:30.724" end="00:01:33.026">&quot;Nigel Buxton,<tt:br/>mysterious circumstances.</tt:p>
+            <tt:p begin="00:01:33.093" end="00:01:34.262">Edwin Glue-sester--&quot;</tt:p>
+            <tt:p begin="00:01:34.328" end="00:01:35.429">Gloucester.</tt:p>
+            <tt:p begin="00:01:35.496" end="00:01:37.097">Whatever.<tt:br/>&quot;Foul play suspected.&quot;</tt:p>
+            <tt:p begin="00:01:37.165" end="00:01:38.632">And other mysterious<tt:br/>circumstances.</tt:p>
+            <tt:p begin="00:01:38.699" end="00:01:40.368">Every one of these<tt:br/>is like that.</tt:p>
+            <tt:p begin="00:01:40.434" end="00:01:42.636">All from the past six months.<tt:br/>What the hell?</tt:p>
+            <tt:p begin="00:01:42.703" end="00:01:43.904">Hell indeed, sir.</tt:p>
+            <tt:p begin="00:01:43.971" end="00:01:45.439">Because one at a time</tt:p>
+            <tt:p begin="00:01:45.506" end="00:01:48.909">the remaining survivors<tt:br/>of the old Double Deuce</tt:p>
+            <tt:p begin="00:01:48.976" end="00:01:50.944">are being murdered.</tt:p>
+            <tt:p begin="00:01:51.011" end="00:01:53.181">Oh, my God.</tt:p>
+            <tt:p begin="00:01:53.247" end="00:01:56.150">Are we out of Bloody Marys?</tt:p>
+            <tt:p begin="00:01:56.217" end="00:01:59.220">[***]</tt:p>
+            <tt:p begin="00:02:31.219" end="00:02:34.087">Cannot picture you<tt:br/>as a fighter pilot.</tt:p>
+            <tt:p begin="00:02:34.154" end="00:02:35.356">Oh, no, sir,<tt:br/>not a pilot.</tt:p>
+            <tt:p begin="00:02:35.423" end="00:02:37.291">A batman.<tt:br/>Uh...</tt:p>
+            <tt:p begin="00:02:37.358" end="00:02:39.693">An officer's personal attendant.<tt:br/>Oh.</tt:p>
+            <tt:p begin="00:02:39.760" end="00:02:41.562">In charge of keeping his kit<tt:br/>in good order,</tt:p>
+            <tt:p begin="00:02:41.629" end="00:02:43.063">seeing to his<tt:br/>personal needs--</tt:p>
+            <tt:p begin="00:02:43.130" end="00:02:44.698">So a servant.</tt:p>
+            <tt:p begin="00:02:44.765" end="00:02:47.235">Soldier-servant<tt:br/>was the official term, but--</tt:p>
+            <tt:p begin="00:02:47.301" end="00:02:50.003">Yeah. Way to advance.</tt:p>
+            <tt:p begin="00:02:50.070" end="00:02:51.472">But for the enlisted,</tt:p>
+            <tt:p begin="00:02:51.539" end="00:02:54.675">being chosen to bat for an<tt:br/>officer was very desirable.</tt:p>
+            <tt:p begin="00:02:54.742" end="00:02:58.812">Especially when that officer<tt:br/>was Captain Reginald Thistleton.</tt:p>
+            <tt:p begin="00:02:58.879" end="00:03:01.282">THISTLETON: I say, Woodhouse. <tt:br/>WOODHOUSE: Yes, sir? </tt:p>
+            <tt:p begin="00:03:01.349" end="00:03:02.716">The Hun did a fair job</tt:p>
+            <tt:p begin="00:03:02.783" end="00:03:04.618">of stitching up the old kite<tt:br/>this time, what?</tt:p>
+            <tt:p begin="00:03:04.685" end="00:03:06.220">Thank God you're all right,<tt:br/>sir.</tt:p>
+            <tt:p begin="00:03:06.287" end="00:03:08.256">God and my twin Vickers,<tt:br/>Woodhouse.</tt:p>
+            <tt:p begin="00:03:08.322" end="00:03:10.291">Caught old Jerry<tt:br/>in a chandelle,</tt:p>
+            <tt:p begin="00:03:10.358" end="00:03:12.560">poor bastard went down<tt:br/>like a quail.</tt:p>
+            <tt:p begin="00:03:12.626" end="00:03:14.495">You scoundrel.<tt:br/>Is that brandy?</tt:p>
+            <tt:p begin="00:03:14.562" end="00:03:16.297">Thought you'd like<tt:br/>a pick-me-up, sir.</tt:p>
+            <tt:p begin="00:03:16.364" end="00:03:19.467">Woodhouse,<tt:br/>you're a rose among thorns.</tt:p>
+            <tt:p begin="00:03:19.533" end="00:03:21.269">Bagged your share today,<tt:br/>Scripes?</tt:p>
+            <tt:p begin="00:03:21.335" end="00:03:23.237">SCRIPES:<tt:br/>Loads, thanks.</tt:p>
+            <tt:p begin="00:03:23.304" end="00:03:26.674">See you've<tt:br/>already bagged yours.</tt:p>
+            <tt:p begin="00:03:26.740" end="00:03:28.041">Eww. Creepy.</tt:p>
+            <tt:p begin="00:03:28.108" end="00:03:30.511">Yes, Lieutenant Scripes<tt:br/>abhorred the way Reggie--</tt:p>
+            <tt:p begin="00:03:30.578" end="00:03:33.046">Captain Thistleton<tt:br/>carried on with the men.</tt:p>
+            <tt:p begin="00:03:33.113" end="00:03:36.083">Yeah, didn't Oscar Wilde<tt:br/>get hard labor for that?</tt:p>
+            <tt:p begin="00:03:36.149" end="00:03:37.551">What are you talking about?</tt:p>
+            <tt:p begin="00:03:37.618" end="00:03:39.219">What are you talking about?</tt:p>
+            <tt:p begin="00:03:39.287" end="00:03:41.522">The tontine.<tt:br/>Oh.</tt:p>
+            <tt:p begin="00:03:41.589" end="00:03:46.026">WOODHOUSE:<tt:br/> France. Spring, 1917. </tt:p>
+            <tt:p begin="00:03:46.093" end="00:03:48.696">  &quot;Bloody April,&quot; they called it. </tt:p>
+            <tt:p begin="00:03:48.762" end="00:03:50.264">[GROANS]</tt:p>
+            <tt:p begin="00:03:50.331" end="00:03:52.065">WOODHOUSE:<tt:br/> Black days, they were. </tt:p>
+            <tt:p begin="00:03:52.132" end="00:03:56.270"> We were losing two, <tt:br/>  sometimes three pilots a week. </tt:p>
+            <tt:p begin="00:03:56.337" end="00:03:58.972">[PLAYING &quot;DANNY BOY&quot;]</tt:p>
+            <tt:p begin="00:04:02.310" end="00:04:04.712">Who was that?</tt:p>
+            <tt:p begin="00:04:04.778" end="00:04:06.179">Foxley, I think.</tt:p>
+            <tt:p begin="00:04:06.246" end="00:04:08.949">WOODHOUSE:<tt:br/> No one thought we'd live <tt:br/> through the war </tt:p>
+            <tt:p begin="00:04:09.016" end="00:04:11.319"> so Reggie <tt:br/> came up with the idea. </tt:p>
+            <tt:p begin="00:04:11.385" end="00:04:12.620">A tontine, lads.</tt:p>
+            <tt:p begin="00:04:12.686" end="00:04:14.288">Each man pays in 50 pounds</tt:p>
+            <tt:p begin="00:04:14.355" end="00:04:17.325">and the last survivor collects<tt:br/>the capital and interest.</tt:p>
+            <tt:p begin="00:04:17.391" end="00:04:19.593">Oh, come on, lads,<tt:br/>show some stones.</tt:p>
+            <tt:p begin="00:04:19.660" end="00:04:20.994">I'll show you my stones,<tt:br/>sir.</tt:p>
+            <tt:p begin="00:04:21.061" end="00:04:23.597">That's the spirit. Who else?<tt:br/>SOLDIER: Yeah. I'm in.</tt:p>
+            <tt:p begin="00:04:23.664" end="00:04:25.633">[ALL CLAMORING]<tt:br/>Bob's your uncle.</tt:p>
+            <tt:p begin="00:04:25.699" end="00:04:27.335">So how much<tt:br/>are we talking here?</tt:p>
+            <tt:p begin="00:04:27.401" end="00:04:29.770">Oh, nearly 1200 pounds.</tt:p>
+            <tt:p begin="00:04:29.837" end="00:04:32.406">What?<tt:br/>Nobody is getting killed</tt:p>
+            <tt:p begin="00:04:32.473" end="00:04:35.343">over however much that is<tt:br/>in real money.</tt:p>
+            <tt:p begin="00:04:35.409" end="00:04:39.112">No, but are you familiar with<tt:br/>the term &quot;compound interest&quot;?</tt:p>
+            <tt:p begin="00:04:39.179" end="00:04:40.781">I'm not an idiot, Woodhouse.</tt:p>
+            <tt:p begin="00:04:40.848" end="00:04:42.916">Unlike some people<tt:br/>around here.</tt:p>
+            <tt:p begin="00:04:42.983" end="00:04:45.786">That's silver tip badger, kid.<tt:br/>You know how much this cost?</tt:p>
+            <tt:p begin="00:04:45.853" end="00:04:46.854">[CRYING]</tt:p>
+            <tt:p begin="00:04:46.920" end="00:04:49.122">No, don't.<tt:br/>Hey, come on, don't--</tt:p>
+            <tt:p begin="00:04:49.189" end="00:04:51.759">Here. God. Baby.</tt:p>
+            <tt:p begin="00:04:51.825" end="00:04:53.861">But since I don't have<tt:br/>a calculator...</tt:p>
+            <tt:p begin="00:04:53.927" end="00:04:56.464">At 10 percent,<tt:br/>by now, I'd say,</tt:p>
+            <tt:p begin="00:04:56.530" end="00:04:58.566">it's just a bit shy<tt:br/>of a million dollars.</tt:p>
+            <tt:p begin="00:04:58.632" end="00:05:01.502">What? I would totally<tt:br/>kill you for that.</tt:p>
+            <tt:p begin="00:05:01.569" end="00:05:04.304">Not me, but, you know,<tt:br/>somebody would.</tt:p>
+            <tt:p begin="00:05:04.372" end="00:05:06.039">So how many of you<tt:br/>old geezers are left?</tt:p>
+            <tt:p begin="00:05:06.106" end="00:05:08.709">Well, now that<tt:br/>Stilton's been killed,</tt:p>
+            <tt:p begin="00:05:08.776" end="00:05:10.978">it's just me,<tt:br/>Scripes, and--</tt:p>
+            <tt:p begin="00:05:11.044" end="00:05:12.279">[DOORBELL RINGS]</tt:p>
+            <tt:p begin="00:05:12.346" end="00:05:13.881">And that will be Stinky.</tt:p>
+            <tt:p begin="00:05:13.947" end="00:05:15.649">Wha--? What will?</tt:p>
+            <tt:p begin="00:05:15.716" end="00:05:17.818">Cor,<tt:br/>you done all right, then.</tt:p>
+            <tt:p begin="00:05:17.885" end="00:05:20.721">Oh, no, the flat belongs<tt:br/>to Mr. Archer, who is my--</tt:p>
+            <tt:p begin="00:05:20.788" end="00:05:24.425">None of my business.<tt:br/>Consenting adults and so on.</tt:p>
+            <tt:p begin="00:05:24.492" end="00:05:27.495">Hey, nobody is consenting<tt:br/>to anything.</tt:p>
+            <tt:p begin="00:05:27.561" end="00:05:29.530">BISHOP:<tt:br/>None of my business.</tt:p>
+            <tt:p begin="00:05:29.597" end="00:05:32.232">You're gonna eat<tt:br/>so many spider webs.</tt:p>
+            <tt:p begin="00:05:32.299" end="00:05:33.767">BISHOP:<tt:br/>That's what he said.</tt:p>
+            <tt:p begin="00:05:33.834" end="00:05:37.505">Scripes phones me at my niece's<tt:br/>house in Secaucus, New Jersey--</tt:p>
+            <tt:p begin="00:05:37.571" end="00:05:38.772">I live with my niece</tt:p>
+            <tt:p begin="00:05:38.839" end="00:05:40.741">in Secaucus, New Jersey.<tt:br/>Riveting.</tt:p>
+            <tt:p begin="00:05:40.808" end="00:05:43.243">He says, &quot;Ain't it awful<tt:br/>about Stilton?&quot;</tt:p>
+            <tt:p begin="00:05:43.310" end="00:05:45.245">And he wants to come pay us<tt:br/>a visit.</tt:p>
+            <tt:p begin="00:05:45.312" end="00:05:46.914">Good Lord!<tt:br/>What did you say?</tt:p>
+            <tt:p begin="00:05:46.980" end="00:05:50.484">Gave him your address. Told the<tt:br/>bastard we'd be waiting for him.</tt:p>
+            <tt:p begin="00:05:50.551" end="00:05:52.586">Waiting for him?<tt:br/>My God, he'll--</tt:p>
+            <tt:p begin="00:05:52.653" end="00:05:54.187">BISHOP:<tt:br/>Never know what hit him.</tt:p>
+            <tt:p begin="00:05:54.254" end="00:05:58.091">We'll turn this fruity flat<tt:br/>into a killing field.</tt:p>
+            <tt:p begin="00:05:58.158" end="00:05:59.226">But--<tt:br/>ARCHER: Seamus, no!</tt:p>
+            <tt:p begin="00:05:59.292" end="00:06:00.428">[CRYING]<tt:br/>Uh-uh!</tt:p>
+            <tt:p begin="00:06:00.494" end="00:06:02.796">No, no, no. Woodhouse,<tt:br/>I can either do--</tt:p>
+            <tt:p begin="00:06:02.863" end="00:06:05.966">God, you are such<tt:br/>a little brat. Here!</tt:p>
+            <tt:p begin="00:06:06.033" end="00:06:08.569">I can do baby, or I can do<tt:br/>geezer murder mystery,</tt:p>
+            <tt:p begin="00:06:08.636" end="00:06:09.937">but I can't do both.</tt:p>
+            <tt:p begin="00:06:10.003" end="00:06:12.640">Well, Scripes is on his way<tt:br/>here, so...</tt:p>
+            <tt:p begin="00:06:12.706" end="00:06:15.509">So, sir,<tt:br/>perhaps your mother</tt:p>
+            <tt:p begin="00:06:15.576" end="00:06:17.377">could look after<tt:br/>the wee baby Seamus?</tt:p>
+            <tt:p begin="00:06:17.445" end="00:06:19.279">Woodhouse. Yes.</tt:p>
+            <tt:p begin="00:06:19.346" end="00:06:20.914">MALORY: Nope.<tt:br/>ARCHER: Yes.</tt:p>
+            <tt:p begin="00:06:20.981" end="00:06:22.015">[CRYING]</tt:p>
+            <tt:p begin="00:06:22.082" end="00:06:24.184">Mother, come on, you--<tt:br/>You're off your nut</tt:p>
+            <tt:p begin="00:06:24.251" end="00:06:26.720">if you think I'm babysitting<tt:br/>this squalling little--</tt:p>
+            <tt:p begin="00:06:26.787" end="00:06:28.656">What the hell<tt:br/>is wrong with him?</tt:p>
+            <tt:p begin="00:06:28.722" end="00:06:31.559">He might have<tt:br/>a tiny hangover.</tt:p>
+            <tt:p begin="00:06:31.625" end="00:06:33.861">Wha--? You ass,<tt:br/>you gave him liquor?</tt:p>
+            <tt:p begin="00:06:33.927" end="00:06:35.362">No, I didn't give it to him,<tt:br/>but--</tt:p>
+            <tt:p begin="00:06:35.429" end="00:06:36.897">Ass.</tt:p>
+            <tt:p begin="00:06:36.964" end="00:06:39.132">ARCHER:<tt:br/>See? Look at him,<tt:br/>he's crazy for it.</tt:p>
+            <tt:p begin="00:06:39.199" end="00:06:41.535">You only give them liquor<tt:br/>if they have croup.</tt:p>
+            <tt:p begin="00:06:41.602" end="00:06:43.471">Well, I'm sorry,<tt:br/>Mr. Spock, I--</tt:p>
+            <tt:p begin="00:06:43.537" end="00:06:45.105">Or colic.<tt:br/>Or the jimmy legs. Or--</tt:p>
+            <tt:p begin="00:06:45.172" end="00:06:47.040">Can't you just dump him<tt:br/>on Woodhouse?</tt:p>
+            <tt:p begin="00:06:47.107" end="00:06:49.109">No, because--<tt:br/>That's what I always did.</tt:p>
+            <tt:p begin="00:06:49.176" end="00:06:52.613">I'm sure you did, but Woodhouse<tt:br/>is about to be murdered, so--</tt:p>
+            <tt:p begin="00:06:52.680" end="00:06:56.116">So are you,<tt:br/>if you piddle in here.</tt:p>
+            <tt:p begin="00:06:56.183" end="00:06:59.620">And that goes double<tt:br/>for number two, Mr. Man.</tt:p>
+            <tt:p begin="00:06:59.687" end="00:07:01.889">So you just hold it in.</tt:p>
+            <tt:p begin="00:07:01.955" end="00:07:04.958">Wow, a ton of stuff just started<tt:br/>to make sense to me.</tt:p>
+            <tt:p begin="00:07:05.025" end="00:07:06.059">[CRYING]</tt:p>
+            <tt:p begin="00:07:06.126" end="00:07:09.229">The secret is negative<tt:br/>reinforcement.</tt:p>
+            <tt:p begin="00:07:09.296" end="00:07:11.532">Yeah,<tt:br/>I'm just getting that.</tt:p>
+            <tt:p begin="00:07:11.599" end="00:07:14.535">About time. Ass.</tt:p>
+            <tt:p begin="00:07:14.602" end="00:07:17.705">Baby,<tt:br/>you're pear-shaped.</tt:p>
+            <tt:p begin="00:07:20.073" end="00:07:21.341">[GLASS SHATTERING]</tt:p>
+            <tt:p begin="00:07:21.408" end="00:07:23.544">ARCHER:<tt:br/>Oh, what the hell? Hello?</tt:p>
+            <tt:p begin="00:07:23.611" end="00:07:25.913">Great, that was my<tt:br/>second-favorite...</tt:p>
+            <tt:p begin="00:07:25.979" end="00:07:28.115">...lamp.<tt:br/>WOODHOUSE: Reloading.</tt:p>
+            <tt:p begin="00:07:28.181" end="00:07:31.284">No, you're not.<tt:br/>Don't reload. Damn it.</tt:p>
+            <tt:p begin="00:07:31.351" end="00:07:33.921">[GLASS SHATTERING]</tt:p>
+            <tt:p begin="00:07:35.288" end="00:07:36.590">BISHOP:<tt:br/>Ow.</tt:p>
+            <tt:p begin="00:07:36.657" end="00:07:39.392">And my first-favorite lamp,<tt:br/>fantastic.</tt:p>
+            <tt:p begin="00:07:39.459" end="00:07:41.294">Serves you right,<tt:br/>shooting blind like that.</tt:p>
+            <tt:p begin="00:07:41.361" end="00:07:42.996">You could've killed me.</tt:p>
+            <tt:p begin="00:07:43.063" end="00:07:45.232">Yeah, and I'd be that much<tt:br/>closer to a million bucks.</tt:p>
+            <tt:p begin="00:07:45.298" end="00:07:46.934">You know, once, uh...</tt:p>
+            <tt:p begin="00:07:47.000" end="00:07:48.802">What's up with your will<tt:br/>these days?</tt:p>
+            <tt:p begin="00:07:48.869" end="00:07:49.970">CHERYL:<tt:br/> Oh, my God. </tt:p>
+            <tt:p begin="00:07:50.037" end="00:07:52.439">Since when is this place<tt:br/>a nursery?</tt:p>
+            <tt:p begin="00:07:52.506" end="00:07:54.708">Would you knock it off,<tt:br/>Union Carbide?</tt:p>
+            <tt:p begin="00:07:54.775" end="00:07:56.744">And lay off<tt:br/>the wee baby Seamus.</tt:p>
+            <tt:p begin="00:07:56.810" end="00:07:58.746">He's got it tough enough<tt:br/>as it is.</tt:p>
+            <tt:p begin="00:07:58.812" end="00:08:01.414">What's that?<tt:br/>That's a bumblebee.</tt:p>
+            <tt:p begin="00:08:01.481" end="00:08:03.383">You want a pretty bumblebee?</tt:p>
+            <tt:p begin="00:08:03.450" end="00:08:05.452">There you go.</tt:p>
+            <tt:p begin="00:08:05.519" end="00:08:06.754">[CRYING]</tt:p>
+            <tt:p begin="00:08:06.820" end="00:08:10.257">Oh, what's the matter?<tt:br/>What happened?</tt:p>
+            <tt:p begin="00:08:10.323" end="00:08:14.061">Did somebody trick you? Hmm?</tt:p>
+            <tt:p begin="00:08:14.127" end="00:08:16.764">See? That's how<tt:br/>the world works, dear,</tt:p>
+            <tt:p begin="00:08:16.830" end="00:08:19.066">and I'm the only one<tt:br/>you can trust.</tt:p>
+            <tt:p begin="00:08:19.132" end="00:08:22.636">Wow, a ton of stuff<tt:br/>just started making sense.</tt:p>
+            <tt:p begin="00:08:22.703" end="00:08:24.404">CHERYL: No way.<tt:br/>Why not?</tt:p>
+            <tt:p begin="00:08:24.471" end="00:08:27.641">Mr. Archer said Woodhouse might<tt:br/>make a million bucks off of his.</tt:p>
+            <tt:p begin="00:08:27.708" end="00:08:30.177">Shut up, liar.<tt:br/>Of things impossible.</tt:p>
+            <tt:p begin="00:08:30.243" end="00:08:31.979">It's not-- Cyril,</tt:p>
+            <tt:p begin="00:08:32.045" end="00:08:34.214">can you explain compound<tt:br/>interest to her?</tt:p>
+            <tt:p begin="00:08:34.281" end="00:08:36.884">Oh, maybe if we had<tt:br/>an infinite amount of time.</tt:p>
+            <tt:p begin="00:08:36.950" end="00:08:38.418">And she were someone else.</tt:p>
+            <tt:p begin="00:08:38.485" end="00:08:39.587">[MOCK-LAUGHS]</tt:p>
+            <tt:p begin="00:08:39.653" end="00:08:40.821">Wait a second,<tt:br/>is that--?</tt:p>
+            <tt:p begin="00:08:40.888" end="00:08:42.522">You know tontines<tt:br/>are illegal, right?</tt:p>
+            <tt:p begin="00:08:42.590" end="00:08:44.892">So is all kinds of shit.</tt:p>
+            <tt:p begin="00:08:44.958" end="00:08:47.961">But look, half the people that<tt:br/>work here are field agents--</tt:p>
+            <tt:p begin="00:08:48.028" end="00:08:50.397">Who get killed in the line<tt:br/>of duty all the time.</tt:p>
+            <tt:p begin="00:08:50.463" end="00:08:51.599">And the control room--</tt:p>
+            <tt:p begin="00:08:51.665" end="00:08:53.366">Is basically<tt:br/>just a great big</tt:p>
+            <tt:p begin="00:08:53.433" end="00:08:55.202">asbestos lawsuit<tt:br/>waiting to happen.</tt:p>
+            <tt:p begin="00:08:55.268" end="00:08:57.304">Yeah, here's some more<tt:br/>claims forms.</tt:p>
+            <tt:p begin="00:08:57.370" end="00:09:00.073">And how long you think<tt:br/>this one's gonna be around?</tt:p>
+            <tt:p begin="00:09:00.140" end="00:09:01.341">[GULPING]</tt:p>
+            <tt:p begin="00:09:01.408" end="00:09:05.112">Yeah.<tt:br/>Yeah, count me in.</tt:p>
+            <tt:p begin="00:09:05.178" end="00:09:06.113">No.<tt:br/>Yes.</tt:p>
+            <tt:p begin="00:09:06.179" end="00:09:08.248">No.<tt:br/>We must fortify our position.</tt:p>
+            <tt:p begin="00:09:08.315" end="00:09:12.252">We need twin Vickers here by the<tt:br/>bar, a Lewis gun by the sofa--</tt:p>
+            <tt:p begin="00:09:12.319" end="00:09:14.521">[IN BRITISH ACCENT]<tt:br/>Mustard gas. Zeppelins. No.</tt:p>
+            <tt:p begin="00:09:14.588" end="00:09:16.056">[IN NORMAL VOICE]<tt:br/>Guy's a hundred,</tt:p>
+            <tt:p begin="00:09:16.123" end="00:09:18.191">he'll break both his hips<tt:br/>pushing the doorbell.</tt:p>
+            <tt:p begin="00:09:18.258" end="00:09:19.226">I don't know, sir.</tt:p>
+            <tt:p begin="00:09:19.292" end="00:09:22.095">Scripes was the toughest man<tt:br/>in the squadron.</tt:p>
+            <tt:p begin="00:09:22.162" end="00:09:23.463">Just the squadron,</tt:p>
+            <tt:p begin="00:09:23.530" end="00:09:25.833">[IN BRITISH ACCENT]<tt:br/>or the entire<tt:br/>pansy division? Ow!</tt:p>
+            <tt:p begin="00:09:25.899" end="00:09:27.735">By God,<tt:br/>you will show some respect.</tt:p>
+            <tt:p begin="00:09:27.801" end="00:09:29.536">[IN NORMAL VOICE] Ow.<tt:br/>Do as you like with me,</tt:p>
+            <tt:p begin="00:09:29.603" end="00:09:33.040">but I won't have a swishy<tt:br/>party-boy back chat a war hero.</tt:p>
+            <tt:p begin="00:09:33.106" end="00:09:34.675">War hero?<tt:br/>Oh, let's not--</tt:p>
+            <tt:p begin="00:09:34.742" end="00:09:36.243">ARCHER: Woodhouse?<tt:br/>Damn right.</tt:p>
+            <tt:p begin="00:09:36.309" end="00:09:37.577">--drag that up.</tt:p>
+            <tt:p begin="00:09:37.645" end="00:09:40.614">And if you won't tell him,<tt:br/>Woodhouse, I bloody well shall.</tt:p>
+            <tt:p begin="00:09:40.681" end="00:09:42.149">[SIGHS]</tt:p>
+            <tt:p begin="00:09:42.215" end="00:09:45.886">Alas, poor Reggie.</tt:p>
+            <tt:p begin="00:09:45.953" end="00:09:48.388"> He was on his way back <tt:br/> from a routine patrol </tt:p>
+            <tt:p begin="00:09:48.455" end="00:09:50.090"> on a Tuesday afternoon. </tt:p>
+            <tt:p begin="00:09:50.157" end="00:09:51.992"> I'd written him a letter, <tt:br/> you see, </tt:p>
+            <tt:p begin="00:09:52.059" end="00:09:53.961"> so I was waiting <tt:br/> out on the field. </tt:p>
+            <tt:p begin="00:09:54.027" end="00:09:55.629"> And he was looking at me-- </tt:p>
+            <tt:p begin="00:09:55.696" end="00:09:58.766"> My God, <tt:br/> I can still see him smile. </tt:p>
+            <tt:p begin="00:09:58.832" end="00:10:02.736"> --when that Hun bastard <tt:br/> dove in from behind. </tt:p>
+            <tt:p begin="00:10:02.803" end="00:10:05.773"> And then the sky <tt:br/> just shattered. </tt:p>
+            <tt:p begin="00:10:05.839" end="00:10:07.875">[***]</tt:p>
+            <tt:p begin="00:10:10.678" end="00:10:11.945">[GRUNTS]</tt:p>
+            <tt:p begin="00:10:14.347" end="00:10:18.085">WOODHOUSE:<tt:br/> God knows how, but he kept <tt:br/>  the old kite from rolling over </tt:p>
+            <tt:p begin="00:10:18.151" end="00:10:21.254"> and crash-landed <tt:br/> out in No Man's Land. </tt:p>
+            <tt:p begin="00:10:21.321" end="00:10:22.622">[PLANE CRASHING]</tt:p>
+            <tt:p begin="00:10:23.757" end="00:10:25.425">And? Then what?<tt:br/>Hmm?</tt:p>
+            <tt:p begin="00:10:25.492" end="00:10:28.862">Oh. Well, Reggie survived<tt:br/>the crash somehow.</tt:p>
+            <tt:p begin="00:10:28.929" end="00:10:31.331">THISTLETON:<tt:br/>Aah. I survived<tt:br/>the crash somehow.</tt:p>
+            <tt:p begin="00:10:31.398" end="00:10:33.500">WOODHOUSE:<tt:br/> So we could've sent <tt:br/> a rescue party. </tt:p>
+            <tt:p begin="00:10:33.566" end="00:10:35.302">  But with Reggie hors de combat, </tt:p>
+            <tt:p begin="00:10:35.368" end="00:10:38.071"> Scripes had become <tt:br/> acting commander. </tt:p>
+            <tt:p begin="00:10:38.138" end="00:10:40.874">And there shan't be<tt:br/>any rescue party.</tt:p>
+            <tt:p begin="00:10:40.941" end="00:10:43.877">Captain Thistleton knew the risk<tt:br/>of what he was doing</tt:p>
+            <tt:p begin="00:10:43.944" end="00:10:45.545">and now it seems<tt:br/>his chickens</tt:p>
+            <tt:p begin="00:10:45.612" end="00:10:48.682">have come home to roost.<tt:br/>Bawk, bawk.</tt:p>
+            <tt:p begin="00:10:48.749" end="00:10:52.485">WOODHOUSE:<tt:br/> A response I found <tt:br/> unsatisfactory. </tt:p>
+            <tt:p begin="00:10:52.552" end="00:10:54.654">[GRUNTING]</tt:p>
+            <tt:p begin="00:10:54.722" end="00:10:57.624">WOODHOUSE:<tt:br/> I could hear Reggie out there <tt:br/> past the wire, </tt:p>
+            <tt:p begin="00:10:57.691" end="00:10:59.827"> screaming like a lamb. </tt:p>
+            <tt:p begin="00:10:59.893" end="00:11:02.796">[THISTLETON GROANS]<tt:br/>I'm coming for you, sir.</tt:p>
+            <tt:p begin="00:11:02.863" end="00:11:04.832"> And there I found him, </tt:p>
+            <tt:p begin="00:11:04.898" end="00:11:08.501"> in the words of Henley, <tt:br/> &quot;bloodied but unbowed.&quot; </tt:p>
+            <tt:p begin="00:11:08.568" end="00:11:10.838">Woodhouse,<tt:br/>you came for me.</tt:p>
+            <tt:p begin="00:11:10.904" end="00:11:13.974">Of course I did, sir. I'm a--<tt:br/>Fag?</tt:p>
+            <tt:p begin="00:11:14.041" end="00:11:15.809">Sir?<tt:br/>Have you got one?</tt:p>
+            <tt:p begin="00:11:15.876" end="00:11:18.245">Dying for a smoke.<tt:br/>Yes, of course. Here we are.</tt:p>
+            <tt:p begin="00:11:18.311" end="00:11:19.747">Cheers.<tt:br/>Now, let me</tt:p>
+            <tt:p begin="00:11:19.813" end="00:11:21.614">just light that for you.</tt:p>
+            <tt:p begin="00:11:21.681" end="00:11:23.583">[***]</tt:p>
+            <tt:p begin="00:11:23.650" end="00:11:25.819">Ooh. Sorry, sir.</tt:p>
+            <tt:p begin="00:11:25.886" end="00:11:28.889">Just give that another go.<tt:br/>Good man.</tt:p>
+            <tt:p begin="00:11:30.423" end="00:11:32.760">Damn.<tt:br/>Good God, man, are you hourly?</tt:p>
+            <tt:p begin="00:11:32.826" end="00:11:35.562">Sorry, sir. Here we go.</tt:p>
+            <tt:p begin="00:11:35.628" end="00:11:38.098">Woodhouse there's--<tt:br/>God, that's bright.</tt:p>
+            <tt:p begin="00:11:38.165" end="00:11:40.834">There's something I've been<tt:br/>wanting to tell-- You scoundrel.</tt:p>
+            <tt:p begin="00:11:40.901" end="00:11:42.903">Is that brandy?<tt:br/>Oh, no, sir. Just water.</tt:p>
+            <tt:p begin="00:11:42.970" end="00:11:45.739">Water? Never touch the stuff.<tt:br/>Fish [BLEEP] in it.</tt:p>
+            <tt:p begin="00:11:45.806" end="00:11:48.108">But seriously, I've wanted<tt:br/>to tell you this for ages,</tt:p>
+            <tt:p begin="00:11:48.175" end="00:11:50.243">but I never<tt:br/>quite knew how.</tt:p>
+            <tt:p begin="00:11:50.310" end="00:11:53.580">I'm listening, sir.<tt:br/>Woodhouse--</tt:p>
+            <tt:p begin="00:11:53.646" end="00:11:55.883">[GUNSHOT]</tt:p>
+            <tt:p begin="00:11:55.949" end="00:11:59.452">Fish [BLEEP] in it.</tt:p>
+            <tt:p begin="00:11:59.519" end="00:12:02.655">WOODHOUSE:<tt:br/> After that, <tt:br/> it's all a bit fuzzy. </tt:p>
+            <tt:p begin="00:12:02.722" end="00:12:05.058">[WOODHOUSE SCREAMING]</tt:p>
+            <tt:p begin="00:12:05.125" end="00:12:07.494">[WOODHOUSE &amp; SOLDIERS SCREAMING]</tt:p>
+            <tt:p begin="00:12:13.133" end="00:12:17.938">Reggie!</tt:p>
+            <tt:p begin="00:12:20.407" end="00:12:21.708">ARCHER:<tt:br/>Then what?</tt:p>
+            <tt:p begin="00:12:21.775" end="00:12:23.676">Then they gave me<tt:br/>the VC and my papers.</tt:p>
+            <tt:p begin="00:12:23.743" end="00:12:25.712">Ahem.<tt:br/>Medical discharge.</tt:p>
+            <tt:p begin="00:12:25.779" end="00:12:27.080">Because of the scalps.<tt:br/>For--</tt:p>
+            <tt:p begin="00:12:27.147" end="00:12:28.882">The what?<tt:br/>German scalps.</tt:p>
+            <tt:p begin="00:12:28.949" end="00:12:30.984">What?<tt:br/>He must have had 50 of them.</tt:p>
+            <tt:p begin="00:12:31.051" end="00:12:33.386">That's a lot of scalps.<tt:br/>Could've made a blanket.</tt:p>
+            <tt:p begin="00:12:33.453" end="00:12:36.957">Ah. And then I just<tt:br/>sort of drifted about.</tt:p>
+            <tt:p begin="00:12:38.992" end="00:12:41.795">  Spent God knows how many years <tt:br/> in the orient, </tt:p>
+            <tt:p begin="00:12:41.862" end="00:12:43.096"> on a merchant schooner. </tt:p>
+            <tt:p begin="00:12:43.163" end="00:12:46.033">Reggie!</tt:p>
+            <tt:p begin="00:12:46.099" end="00:12:48.936"> Then I sort of <tt:br/> washed up in Tangiers, </tt:p>
+            <tt:p begin="00:12:49.002" end="00:12:51.805"> where I won a bar <tt:br/> in a dice game. </tt:p>
+            <tt:p begin="00:12:51.872" end="00:12:54.842"> Oh, which is how <tt:br/> I met your mother. </tt:p>
+            <tt:p begin="00:12:54.908" end="00:12:57.244">MALORY:<tt:br/>Don't shoot!</tt:p>
+            <tt:p begin="00:12:57.310" end="00:13:01.214">Please, I just killed a man<tt:br/>and I think my water just broke.</tt:p>
+            <tt:p begin="00:13:01.281" end="00:13:04.417">So I could really,<tt:br/>really use a drink.</tt:p>
+            <tt:p begin="00:13:04.484" end="00:13:07.287">Gave birth to you right there<tt:br/>on that greasy bar.</tt:p>
+            <tt:p begin="00:13:07.354" end="00:13:10.257">I cut the cord, and I've been<tt:br/>with your family ever since.</tt:p>
+            <tt:p begin="00:13:10.323" end="00:13:11.458">The-- You--</tt:p>
+            <tt:p begin="00:13:11.524" end="00:13:14.427">You saw Mother's vagina?<tt:br/>Hmm?</tt:p>
+            <tt:p begin="00:13:14.494" end="00:13:17.898">Oh, my God. Oh! Oh, God!</tt:p>
+            <tt:p begin="00:13:17.965" end="00:13:20.500">Oh, I can't breathe.</tt:p>
+            <tt:p begin="00:13:20.567" end="00:13:23.536">Ha. What an ass.<tt:br/>Right?</tt:p>
+            <tt:p begin="00:13:26.006" end="00:13:29.009">Mother? Mother? Where are you?</tt:p>
+            <tt:p begin="00:13:29.076" end="00:13:32.012">MALORY:<tt:br/>Oh, for--<tt:br/>In here, you half-wit!</tt:p>
+            <tt:p begin="00:13:32.079" end="00:13:34.314">[SEAMUS CRYING]<tt:br/>I had just gotten him to sleep.</tt:p>
+            <tt:p begin="00:13:34.381" end="00:13:36.049">Don't you know anything<tt:br/>about babies?</tt:p>
+            <tt:p begin="00:13:36.116" end="00:13:38.585">I know you're not supposed<tt:br/>to have them on a greasy bar.</tt:p>
+            <tt:p begin="00:13:38.651" end="00:13:40.854">In Tangiers.<tt:br/>Oh, my God.</tt:p>
+            <tt:p begin="00:13:40.921" end="00:13:42.122">And I know<tt:br/>you're not supposed</tt:p>
+            <tt:p begin="00:13:42.189" end="00:13:44.324">to let Woodhouse<tt:br/>see your lady parts.</tt:p>
+            <tt:p begin="00:13:44.391" end="00:13:46.393">That's why you're so upset?</tt:p>
+            <tt:p begin="00:13:46.459" end="00:13:48.929">Yes. Eww. Mother,<tt:br/>he touches my food.</tt:p>
+            <tt:p begin="00:13:48.996" end="00:13:52.665">Sterling, he also--<tt:br/>Give me that.</tt:p>
+            <tt:p begin="00:13:52.732" end="00:13:55.535">He also saved my life.<tt:br/>And yours.</tt:p>
+            <tt:p begin="00:13:55.602" end="00:13:57.804">Between my narrow hips,<tt:br/>your fat head,</tt:p>
+            <tt:p begin="00:13:57.871" end="00:14:02.109">and a city full of enemy spies<tt:br/>we both nearly died that night.</tt:p>
+            <tt:p begin="00:14:02.175" end="00:14:04.777">They'll come. We should<tt:br/>get you somewhere safe.</tt:p>
+            <tt:p begin="00:14:04.844" end="00:14:06.679">Oh, a few minutes more.</tt:p>
+            <tt:p begin="00:14:06.746" end="00:14:08.215">I just wanna look at him.</tt:p>
+            <tt:p begin="00:14:08.281" end="00:14:10.550">Isn't he perfect?<tt:br/>Aye. That he is.</tt:p>
+            <tt:p begin="00:14:10.617" end="00:14:12.185">Here, Miss, for the baby.</tt:p>
+            <tt:p begin="00:14:12.252" end="00:14:14.521">Oh, it's beautiful.</tt:p>
+            <tt:p begin="00:14:14.587" end="00:14:16.589">Clapped-out Arab whore<tt:br/>traded it for a pint.</tt:p>
+            <tt:p begin="00:14:16.656" end="00:14:17.690">Said it was sterling.</tt:p>
+            <tt:p begin="00:14:17.757" end="00:14:20.193">Sterling.<tt:br/>That's what I'll name him.</tt:p>
+            <tt:p begin="00:14:20.260" end="00:14:21.895">Oh, that's a fine name.</tt:p>
+            <tt:p begin="00:14:21.962" end="00:14:25.365">And could his middle name<tt:br/>be Reginald?</tt:p>
+            <tt:p begin="00:14:25.432" end="00:14:26.733">[SIGHS]</tt:p>
+            <tt:p begin="00:14:26.799" end="00:14:29.602">No.<tt:br/>A little too gay, but--</tt:p>
+            <tt:p begin="00:14:29.669" end="00:14:32.072">[SPEAKING IN FOREIGN LANGUAGE]</tt:p>
+            <tt:p begin="00:14:36.709" end="00:14:38.411">[BABY ARCHER CRYING]</tt:p>
+            <tt:p begin="00:14:38.478" end="00:14:41.081">But how would you<tt:br/>like a job?</tt:p>
+            <tt:p begin="00:14:41.148" end="00:14:45.485">I think I would like it very<tt:br/>much indeed, ma'am.</tt:p>
+            <tt:p begin="00:14:45.552" end="00:14:46.653">Oh, my God.</tt:p>
+            <tt:p begin="00:14:46.719" end="00:14:49.056">And if that weren't enough,<tt:br/>that very night,</tt:p>
+            <tt:p begin="00:14:49.122" end="00:14:52.292">he traded his bar for a boat<tt:br/>and sailed us to Lisbon.</tt:p>
+            <tt:p begin="00:14:52.359" end="00:14:55.462">Got me to an OSS safe house,<tt:br/>sold the boat,</tt:p>
+            <tt:p begin="00:14:55.528" end="00:14:58.265">used the money to get you both<tt:br/>home to the States,</tt:p>
+            <tt:p begin="00:14:58.331" end="00:15:01.501">then raised you by himself<tt:br/>for five years.</tt:p>
+            <tt:p begin="00:15:01.568" end="00:15:04.104">Wha--? What?<tt:br/> You heard me, young man. </tt:p>
+            <tt:p begin="00:15:04.171" end="00:15:05.538">Your mum's got home<tt:br/>from the war.</tt:p>
+            <tt:p begin="00:15:05.605" end="00:15:06.873">Give her a proper hello.</tt:p>
+            <tt:p begin="00:15:06.940" end="00:15:11.278">No. I don't have a mother.<tt:br/>And if I did, I'd hate her.</tt:p>
+            <tt:p begin="00:15:11.344" end="00:15:12.845">[SIGHS]</tt:p>
+            <tt:p begin="00:15:12.912" end="00:15:14.681">Wow, he did all that? For--</tt:p>
+            <tt:p begin="00:15:14.747" end="00:15:17.617">You. And you've treated him<tt:br/>like a dog ever since.</tt:p>
+            <tt:p begin="00:15:17.684" end="00:15:19.953">But you won't have him<tt:br/>to kick around forever--</tt:p>
+            <tt:p begin="00:15:20.020" end="00:15:21.721">Oh, shit. Woodhouse.</tt:p>
+            <tt:p begin="00:15:21.788" end="00:15:24.591">Oh, my God, he's gonna be<tt:br/>murdered. I gotta go save him.</tt:p>
+            <tt:p begin="00:15:24.657" end="00:15:26.326">Uh-uh-uh. Here.</tt:p>
+            <tt:p begin="00:15:26.393" end="00:15:28.795">You want me to take a baby.<tt:br/>To a murder.</tt:p>
+            <tt:p begin="00:15:28.861" end="00:15:30.763">Or wherever,<tt:br/>just out of here.</tt:p>
+            <tt:p begin="00:15:30.830" end="00:15:33.166">I have no more love<tt:br/>to give today.</tt:p>
+            <tt:p begin="00:15:33.233" end="00:15:35.802">Yeah, what is it,<tt:br/>like, 2:30?</tt:p>
+            <tt:p begin="00:15:35.868" end="00:15:37.504">Wait, why did you<tt:br/>have an eye patch?</tt:p>
+            <tt:p begin="00:15:37.570" end="00:15:40.240">Oh, who remembers?</tt:p>
+            <tt:p begin="00:15:40.307" end="00:15:43.676">Three-large 50, three large<tt:br/>a Benjamin, three-large--</tt:p>
+            <tt:p begin="00:15:43.743" end="00:15:47.147">Idiots doing idiot things<tt:br/>because they're idiots.</tt:p>
+            <tt:p begin="00:15:47.214" end="00:15:49.249">Ha-ha-ha.<tt:br/>Yeah, we're the idiots.</tt:p>
+            <tt:p begin="00:15:49.316" end="00:15:51.084">Says the genius<tt:br/>who got a hooker pregnant.</tt:p>
+            <tt:p begin="00:15:51.151" end="00:15:52.919">ARCHER: What?<tt:br/>Nothing.</tt:p>
+            <tt:p begin="00:15:52.986" end="00:15:54.954">ARCHER: Cyril, what?<tt:br/>Noth-- Oh!</tt:p>
+            <tt:p begin="00:15:55.022" end="00:15:56.623">[CHUCKLES]</tt:p>
+            <tt:p begin="00:15:56.689" end="00:15:58.658">Cyril? You dead?</tt:p>
+            <tt:p begin="00:15:58.725" end="00:16:00.360">[CYRIL GROANS]<tt:br/>Damn.</tt:p>
+            <tt:p begin="00:16:00.427" end="00:16:02.395">Should I put him<tt:br/>out of his misery?</tt:p>
+            <tt:p begin="00:16:02.462" end="00:16:05.298">No. Do you, though.<tt:br/>Yes.</tt:p>
+            <tt:p begin="00:16:05.365" end="00:16:09.536">No. Wait, then I don't<tt:br/>get the money, idiot.</tt:p>
+            <tt:p begin="00:16:09.602" end="00:16:13.373">WOODHOUSE:<tt:br/>You'll never take us alive,<tt:br/>Scripes.</tt:p>
+            <tt:p begin="00:16:13.440" end="00:16:15.175">What do you mean,<tt:br/>take you alive, Woodhouse?</tt:p>
+            <tt:p begin="00:16:15.242" end="00:16:16.609">I only came here--</tt:p>
+            <tt:p begin="00:16:16.676" end="00:16:18.611">What the bloody hell?</tt:p>
+            <tt:p begin="00:16:18.678" end="00:16:20.713">[GLASS SHATTERING]</tt:p>
+            <tt:p begin="00:16:22.049" end="00:16:23.316">BISHOP:<tt:br/>Ow.</tt:p>
+            <tt:p begin="00:16:23.383" end="00:16:25.652">I say, I'm dreadfully sorry<tt:br/>about that, old boy.</tt:p>
+            <tt:p begin="00:16:25.718" end="00:16:27.887">Bloody should be.<tt:br/>Almost killed me.</tt:p>
+            <tt:p begin="00:16:27.954" end="00:16:30.190">Which again,<tt:br/>from the bottom of my heart,</tt:p>
+            <tt:p begin="00:16:30.257" end="00:16:32.592">is the last thing on earth<tt:br/>I'd ever want to do.</tt:p>
+            <tt:p begin="00:16:32.659" end="00:16:35.928">I'd forgotten all<tt:br/>about that rubbish tontine.</tt:p>
+            <tt:p begin="00:16:35.995" end="00:16:37.564">But all<tt:br/>the mysterious deaths...</tt:p>
+            <tt:p begin="00:16:37.630" end="00:16:39.866">Well, I daresay,<tt:br/>there's not much mystery.</tt:p>
+            <tt:p begin="00:16:39.932" end="00:16:42.335">They're just desperate<tt:br/>to sell newspapers.</tt:p>
+            <tt:p begin="00:16:42.402" end="00:16:45.305">Gloucester fell off the roof<tt:br/>mucking about with the aerial.</tt:p>
+            <tt:p begin="00:16:45.372" end="00:16:48.475">Wens and Bux died in their sleep<tt:br/>at the pensioners' home.</tt:p>
+            <tt:p begin="00:16:48.541" end="00:16:51.644">And as for Stilton,<tt:br/>there's no nice way to put it.</tt:p>
+            <tt:p begin="00:16:51.711" end="00:16:55.215">Auto-erotic asphyxiation.<tt:br/>You're joking.</tt:p>
+            <tt:p begin="00:16:55.282" end="00:16:58.485">No, Stilton was always quite<tt:br/>keen on that. Remember?</tt:p>
+            <tt:p begin="00:16:58.551" end="00:17:00.287">Always looking<tt:br/>for something sturdy</tt:p>
+            <tt:p begin="00:17:00.353" end="00:17:02.255">to loop his Sam Browne over?</tt:p>
+            <tt:p begin="00:17:02.322" end="00:17:05.525">I do seem to recall an awful lot<tt:br/>of loose doorknobs.</tt:p>
+            <tt:p begin="00:17:05.592" end="00:17:07.460">Plus,<tt:br/>what he named his plane.</tt:p>
+            <tt:p begin="00:17:07.527" end="00:17:10.597">I always thought that had<tt:br/>something to do with the engine.</tt:p>
+            <tt:p begin="00:17:10.663" end="00:17:14.401">Well, here's to you,<tt:br/>&quot;Choke and Stroke.&quot;</tt:p>
+            <tt:p begin="00:17:14.467" end="00:17:16.236">SCRIPES &amp; BISHOP:<tt:br/>To &quot;Choke and Stroke.&quot;</tt:p>
+            <tt:p begin="00:17:16.303" end="00:17:18.505">And here's<tt:br/>to the old Double Deuce.</tt:p>
+            <tt:p begin="00:17:18.571" end="00:17:20.440">God knows we had<tt:br/>our differences,</tt:p>
+            <tt:p begin="00:17:20.507" end="00:17:25.011">but I'm just<tt:br/>so glad to see you both.</tt:p>
+            <tt:p begin="00:17:25.078" end="00:17:26.679">But if you didn't<tt:br/>come to kill us,</tt:p>
+            <tt:p begin="00:17:26.746" end="00:17:28.915">why bring that<tt:br/>whacking great Webley?</tt:p>
+            <tt:p begin="00:17:28.981" end="00:17:32.485">It's Reggie's. I stole it<tt:br/>from his effects.</tt:p>
+            <tt:p begin="00:17:32.552" end="00:17:33.753">I looked everywhere<tt:br/>for that.</tt:p>
+            <tt:p begin="00:17:33.820" end="00:17:36.123">That's right. Damned<tt:br/>wretched of me, I know,</tt:p>
+            <tt:p begin="00:17:36.189" end="00:17:38.658">but I just wanted a memento.</tt:p>
+            <tt:p begin="00:17:38.725" end="00:17:41.361">But Reggie would've wanted you<tt:br/>to have it, old boy.</tt:p>
+            <tt:p begin="00:17:41.428" end="00:17:44.531">I say,<tt:br/>that's damned decent of you.</tt:p>
+            <tt:p begin="00:17:44.597" end="00:17:45.932">Cheers.</tt:p>
+            <tt:p begin="00:17:45.998" end="00:17:47.600">Took good care of her too.</tt:p>
+            <tt:p begin="00:17:47.667" end="00:17:50.837">See, look. No rust.<tt:br/>Even the barrel's clean.</tt:p>
+            <tt:p begin="00:17:50.903" end="00:17:52.539">ARCHER:<tt:br/>No!</tt:p>
+            <tt:p begin="00:17:52.605" end="00:17:55.475">[IN SLOW-MOTION]<tt:br/>Woodhouse!</tt:p>
+            <tt:p begin="00:17:55.542" end="00:17:58.111">[IN SLOW-MOTION]<tt:br/>Oh, my God!</tt:p>
+            <tt:p begin="00:17:58.178" end="00:18:02.014">The baby!</tt:p>
+            <tt:p begin="00:18:02.081" end="00:18:04.684">WOODHOUSE [IN SLOW-MOTION]:<tt:br/>No!</tt:p>
+            <tt:p begin="00:18:04.751" end="00:18:07.120">[IN NORMAL VOICE]<tt:br/>I'm coming, Reggie!</tt:p>
+            <tt:p begin="00:18:07.187" end="00:18:08.755">[BODY THUDS<tt:br/>THEN CAR HORNS HONKING]</tt:p>
+            <tt:p begin="00:18:08.821" end="00:18:12.692">[IN NORMAL VOICE]<tt:br/>Whoo! Ha-ha! What a move.<tt:br/>Did you see that?</tt:p>
+            <tt:p begin="00:18:12.759" end="00:18:16.929">That was like Steve McQueen<tt:br/>and John Woo had a baby</tt:p>
+            <tt:p begin="00:18:16.996" end="00:18:21.134">and that baby was you, baby.<tt:br/>Yeah, pretty hot, huh?</tt:p>
+            <tt:p begin="00:18:21.201" end="00:18:23.136">[IN NORMAL VOICE]<tt:br/>Oh, my God. You-- You--</tt:p>
+            <tt:p begin="00:18:23.203" end="00:18:24.771">No, don't thank me,<tt:br/>thank the baby.</tt:p>
+            <tt:p begin="00:18:24.837" end="00:18:26.005">You ass.<tt:br/>What?</tt:p>
+            <tt:p begin="00:18:26.072" end="00:18:29.409">Unbelievably gigantic ass.</tt:p>
+            <tt:p begin="00:18:29.476" end="00:18:31.478">Hey.<tt:br/>Scripes wasn't here to kill us.</tt:p>
+            <tt:p begin="00:18:31.544" end="00:18:35.748">He came to mourn our<tt:br/>comrades-in-arms.</tt:p>
+            <tt:p begin="00:18:35.815" end="00:18:36.883">Oh.<tt:br/>&quot;Oh.&quot;</tt:p>
+            <tt:p begin="00:18:36.949" end="00:18:39.319">That's all you have to say,<tt:br/>you great flapping twit?</tt:p>
+            <tt:p begin="00:18:39.386" end="00:18:42.054">Hey, seriously, you--<tt:br/>Corporal Bishop, the Webley.</tt:p>
+            <tt:p begin="00:18:42.121" end="00:18:44.557">The what? What's a Web--?</tt:p>
+            <tt:p begin="00:18:44.624" end="00:18:45.958">Thank you,<tt:br/>Corporal Bishop.</tt:p>
+            <tt:p begin="00:18:46.025" end="00:18:49.429">The pleasure was all mine,<tt:br/>Lance Corporal Woodhouse.</tt:p>
+            <tt:p begin="00:18:49.496" end="00:18:51.598">Shame he'll send you packing<tt:br/>when he comes to.</tt:p>
+            <tt:p begin="00:18:51.664" end="00:18:54.133">Oh, I'll just<tt:br/>yank his pants off</tt:p>
+            <tt:p begin="00:18:54.201" end="00:18:56.803">splash scotch<tt:br/>and women's underthings about,</tt:p>
+            <tt:p begin="00:18:56.869" end="00:18:58.538">tell him he slipped and fell</tt:p>
+            <tt:p begin="00:18:58.605" end="00:19:03.075">chasing a terrified Asian<tt:br/>prostitute out onto the patio.</tt:p>
+            <tt:p begin="00:19:03.142" end="00:19:04.611">It's not the first time</tt:p>
+            <tt:p begin="00:19:04.677" end="00:19:07.214">I bashed his head in<tt:br/>and had to cover my tracks.</tt:p>
+            <tt:p begin="00:19:07.280" end="00:19:10.317">Happens three,<tt:br/>four times a year. Right?</tt:p>
+            <tt:p begin="00:19:10.383" end="00:19:12.452">Well, guess you and me</tt:p>
+            <tt:p begin="00:19:12.519" end="00:19:15.222">are the last two left<tt:br/>in the tontine, eh?</tt:p>
+            <tt:p begin="00:19:15.288" end="00:19:17.957">Yes, I guess we are.</tt:p>
+            <tt:p begin="00:19:18.024" end="00:19:21.060">[***]</tt:p>
+            <tt:p begin="00:19:21.127" end="00:19:22.595">Hard to believe, that.</tt:p>
+            <tt:p begin="00:19:22.662" end="00:19:25.164">Well, we were<tt:br/>the two youngest--</tt:p>
+            <tt:p begin="00:19:25.232" end="00:19:26.833">No, no, not that.</tt:p>
+            <tt:p begin="00:19:26.899" end="00:19:31.671">The fact the government let you<tt:br/>two fruit-bats adopt a baby.</tt:p>
+            <tt:p begin="00:19:31.738" end="00:19:33.072">Uh...</tt:p>
+            <tt:p begin="00:19:33.139" end="00:19:34.941">[***]</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

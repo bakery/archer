@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:01.833" end="00:00:03.800">PAM: Oh for the --<tt:br/>we're already late,</tt:p>
+            <tt:p begin="00:00:03.833" end="00:00:05.167">what'd ya go and start that for?</tt:p>
+            <tt:p begin="00:00:05.200" end="00:00:06.533">CHERYL/CAROL: I didn't!</tt:p>
+            <tt:p begin="00:00:06.567" end="00:00:09.300">PAM: So,<tt:br/>it just spontaneously combusted.</tt:p>
+            <tt:p begin="00:00:09.333" end="00:00:10.500">CHERYL/CAROL: So creepy...</tt:p>
+            <tt:p begin="00:00:10.533" end="00:00:13.167">look, I've got goosebumps.</tt:p>
+            <tt:p begin="00:00:13.200" end="00:00:14.067">PAM: I'm sure you do.</tt:p>
+            <tt:p begin="00:00:14.100" end="00:00:16.133">MALORY: What is --<tt:br/>is something burning? !</tt:p>
+            <tt:p begin="00:00:16.167" end="00:00:17.033">CHERYL/CAROL: No!</tt:p>
+            <tt:p begin="00:00:17.067" end="00:00:18.200">Maybe you're having a stroke!</tt:p>
+            <tt:p begin="00:00:18.233" end="00:00:20.033">MALORY: I'm not having a stroke!</tt:p>
+            <tt:p begin="00:00:20.067" end="00:00:22.167">ARCHER: That's great, Mother,<tt:br/>keep those periodic updates</tt:p>
+            <tt:p begin="00:00:22.200" end="00:00:22.800">coming!</tt:p>
+            <tt:p begin="00:00:22.833" end="00:00:23.733">MALORY: Oh shut up.</tt:p>
+            <tt:p begin="00:00:23.767" end="00:00:25.367">ARCHER: Hey, Friday happy hour,<tt:br/>you guys in?</tt:p>
+            <tt:p begin="00:00:25.400" end="00:00:26.167">PAM: Gimme that.</tt:p>
+            <tt:p begin="00:00:26.200" end="00:00:27.633">ARCHER: No no no no no<tt:br/>that's not --</tt:p>
+            <tt:p begin="00:00:27.667" end="00:00:29.200">CHERYL/CAROL:<tt:br/>[delighted squeal, giggle]</tt:p>
+            <tt:p begin="00:00:29.233" end="00:00:29.967">-- water.</tt:p>
+            <tt:p begin="00:00:30.000" end="00:00:31.300">PAM: Well what the hell<tt:br/>was it? !</tt:p>
+            <tt:p begin="00:00:31.333" end="00:00:32.333">ARCHER: Grappa.</tt:p>
+            <tt:p begin="00:00:32.367" end="00:00:33.267">CHERYL/CAROL: Aww...</tt:p>
+            <tt:p begin="00:00:33.300" end="00:00:34.533">ARCHER: No shit,<tt:br/>that was like twenty bucks'</tt:p>
+            <tt:p begin="00:00:34.567" end="00:00:35.300">worth.</tt:p>
+            <tt:p begin="00:00:35.333" end="00:00:36.633">PAM: Who drinks a pint<tt:br/>of grappa? !</tt:p>
+            <tt:p begin="00:00:36.667" end="00:00:39.067">ARCHER: Well nobody now,<tt:br/>Wendy Wasteful.</tt:p>
+            <tt:p begin="00:00:39.100" end="00:00:41.067">So you can buy my first<tt:br/>couple of rounds.</tt:p>
+            <tt:p begin="00:00:41.100" end="00:00:43.167">PAM: Nah, I can't, we --<tt:br/>ARCHER: No, you can.</tt:p>
+            <tt:p begin="00:00:43.200" end="00:00:44.233">I'm allowing you.</tt:p>
+            <tt:p begin="00:00:44.267" end="00:00:47.633">PAM: Oh my God, thank you --<tt:br/>ARCHER: You're welcome.</tt:p>
+            <tt:p begin="00:00:47.667" end="00:00:49.200">PAM: -- but we've got dates.</tt:p>
+            <tt:p begin="00:00:49.233" end="00:00:51.167">ARCHER: Meaning the fruit<tt:br/>of the date palm?</tt:p>
+            <tt:p begin="00:00:51.200" end="00:00:52.200">PAM: Muh-huh.</tt:p>
+            <tt:p begin="00:00:52.233" end="00:00:54.167">Date dates, dingdong.</tt:p>
+            <tt:p begin="00:00:54.200" end="00:00:55.233">ARCHER: With who?</tt:p>
+            <tt:p begin="00:00:55.267" end="00:00:57.500">CHERYL/CAROL: Oh, just some<tt:br/>handsome firemen I met.</tt:p>
+            <tt:p begin="00:00:57.533" end="00:00:58.633">At a warehouse fire.</tt:p>
+            <tt:p begin="00:00:58.667" end="00:01:00.633">PAM: So c'mon, let's go already!</tt:p>
+            <tt:p begin="00:01:00.667" end="00:01:02.500">My cooch has cobwebs on it.</tt:p>
+            <tt:p begin="00:01:02.533" end="00:01:03.467">ARCHER: Ew.</tt:p>
+            <tt:p begin="00:01:03.500" end="00:01:05.067">Krieger, hey, wanna get a drink?</tt:p>
+            <tt:p begin="00:01:05.100" end="00:01:08.100">KRIEGER: Oooooooooooooh, no.</tt:p>
+            <tt:p begin="00:01:08.133" end="00:01:10.033">It's mushi night,<tt:br/>movie and sushi</tt:p>
+            <tt:p begin="00:01:10.067" end="00:01:11.567">ARCHER: With... oh.</tt:p>
+            <tt:p begin="00:01:11.600" end="00:01:13.133">Meaning that's tentacle porn.</tt:p>
+            <tt:p begin="00:01:13.167" end="00:01:15.233">KRIEGER: &quot;Fisherman's Wife&quot; and<tt:br/>&quot;Fisherman's Wife Two:</tt:p>
+            <tt:p begin="00:01:15.267" end="00:01:16.733">The Re-Tentacling.&quot;</tt:p>
+            <tt:p begin="00:01:16.767" end="00:01:19.733">HOLOGRAM: [embarrassed giggle]<tt:br/>ARCHER: Mother, hey,</tt:p>
+            <tt:p begin="00:01:19.767" end="00:01:21.300">wanna go get a drink?</tt:p>
+            <tt:p begin="00:01:21.333" end="00:01:23.300">MALORY: You know,<tt:br/>as a matter of fact, I do.</tt:p>
+            <tt:p begin="00:01:23.333" end="00:01:25.700">ARCHER: Oh, okay, uh --<tt:br/>MALORY: And as another</tt:p>
+            <tt:p begin="00:01:25.733" end="00:01:27.233">matter of fact, I am.</tt:p>
+            <tt:p begin="00:01:27.267" end="00:01:29.733">With Ron,<tt:br/>in the bar at The Tuntmore.</tt:p>
+            <tt:p begin="00:01:29.767" end="00:01:34.100">And if he plays his cards right,<tt:br/>he'll be wetting a lot more than</tt:p>
+            <tt:p begin="00:01:34.133" end="00:01:36.067">his --<tt:br/>[TWEEEEEEEEEEEET!]</tt:p>
+            <tt:p begin="00:01:36.100" end="00:01:36.667">MALORY: Oww!</tt:p>
+            <tt:p begin="00:01:36.700" end="00:01:37.500">What is wrong with you? !</tt:p>
+            <tt:p begin="00:01:37.533" end="00:01:39.367">ARCHER: Well for one thing,<tt:br/>tinnitus!</tt:p>
+            <tt:p begin="00:01:39.400" end="00:01:43.100">Which... Yeah,<tt:br/>I think it's getting worse.</tt:p>
+            <tt:p begin="00:01:43.133" end="00:01:46.167">And how do they all have dates,<tt:br/>these aren't people you date,</tt:p>
+            <tt:p begin="00:01:46.200" end="00:01:50.167">I'm who should have a date,<tt:br/>I'm the... best at dates.</tt:p>
+            <tt:p begin="00:01:50.200" end="00:01:52.300">Hmm,<tt:br/>I wonder if Lana has a date.</tt:p>
+            <tt:p begin="00:01:52.333" end="00:01:53.367">LANA: Yes!</tt:p>
+            <tt:p begin="00:01:53.400" end="00:01:54.067">ARCHER: Lana?</tt:p>
+            <tt:p begin="00:01:54.100" end="00:01:55.233">LANA: Yes!</tt:p>
+            <tt:p begin="00:01:55.267" end="00:01:55.800">ARCHER: You heard that?</tt:p>
+            <tt:p begin="00:01:55.833" end="00:01:57.633">LANA: Yes!</tt:p>
+            <tt:p begin="00:01:57.667" end="00:01:59.167">ARCHER: Who're you,<tt:br/>Jaime Sommers?</tt:p>
+            <tt:p begin="00:01:59.200" end="00:02:00.100">LANA: Yes!</tt:p>
+            <tt:p begin="00:02:00.133" end="00:02:01.533">ARCHER: No seriously,<tt:br/>I can barely hear me,</tt:p>
+            <tt:p begin="00:02:01.567" end="00:02:03.133">are my ears really<tt:br/>that messed up?</tt:p>
+            <tt:p begin="00:02:03.167" end="00:02:05.400">LANA: Yes! Yes! Yes!</tt:p>
+            <tt:p begin="00:02:05.433" end="00:02:06.700">ARCHER: Okay, Jesus,<tt:br/>I'm not deaf,</tt:p>
+            <tt:p begin="00:02:06.733" end="00:02:11.033">I'm just --<tt:br/>Going to vomit.</tt:p>
+            <tt:p begin="00:02:11.067" end="00:02:12.367">I am going to vomit.</tt:p>
+            <tt:p begin="00:02:12.400" end="00:02:14.067">MALORY: Not on my carpet,<tt:br/>you're not!</tt:p>
+            <tt:p begin="00:02:14.100" end="00:02:19.300">I --<tt:br/>Oh for God's sake, get a room!</tt:p>
+            <tt:p begin="00:02:19.333" end="00:02:21.267">LANA: We did.</tt:p>
+            <tt:p begin="00:02:58.200" end="00:02:59.800">[TWEEEEEEET.]<tt:br/>LANA: Shut up,</tt:p>
+            <tt:p begin="00:02:59.833" end="00:03:01.200">because first of all...</tt:p>
+            <tt:p begin="00:03:01.233" end="00:03:03.200">I don't have to<tt:br/>explain myself to you,</tt:p>
+            <tt:p begin="00:03:03.233" end="00:03:05.700">of all people, and --<tt:br/>[TWEET.]</tt:p>
+            <tt:p begin="00:03:05.733" end="00:03:09.067">LANA: -- and if you blow that<tt:br/>thing again the next time you</tt:p>
+            <tt:p begin="00:03:09.100" end="00:03:12.333">hear it'll be when some whore<tt:br/>is giving you a blow job.</tt:p>
+            <tt:p begin="00:03:12.367" end="00:03:14.567">ARCHER: Doesn't even make sense.</tt:p>
+            <tt:p begin="00:03:14.600" end="00:03:16.567">CYRIL: I think she means she'll<tt:br/>shove it up your --</tt:p>
+            <tt:p begin="00:03:16.600" end="00:03:19.233">[TWEEEEEEET.]<tt:br/>LANA: Dickhole,</tt:p>
+            <tt:p begin="00:03:19.267" end="00:03:20.733">and where did you get that? !</tt:p>
+            <tt:p begin="00:03:20.767" end="00:03:21.800">ARCHER: Rape prevention class.</tt:p>
+            <tt:p begin="00:03:21.833" end="00:03:26.033">Which, turns out, is a<tt:br/>not-good place to meet women.</tt:p>
+            <tt:p begin="00:03:26.067" end="00:03:27.000">LANA: No shit.</tt:p>
+            <tt:p begin="00:03:27.033" end="00:03:28.733">ARCHER: Yeah,<tt:br/>it's like their guard is so up,</tt:p>
+            <tt:p begin="00:03:28.767" end="00:03:30.667">it's --<tt:br/>Cyril, scotch, where? !</tt:p>
+            <tt:p begin="00:03:30.700" end="00:03:33.100">CYRIL: Well if you mean my<tt:br/>grandfather's Glengoolie Blue,</tt:p>
+            <tt:p begin="00:03:33.133" end="00:03:35.500">you drank it and then puked it<tt:br/>into my trash can!</tt:p>
+            <tt:p begin="00:03:35.533" end="00:03:38.667">ARCHER: Oh my God, Lana I get,<tt:br/>she wants to make me jealous,</tt:p>
+            <tt:p begin="00:03:38.700" end="00:03:40.567">but are you seriously just<tt:br/>getting me back for</tt:p>
+            <tt:p begin="00:03:40.600" end="00:03:41.267">the scotch? !</tt:p>
+            <tt:p begin="00:03:41.300" end="00:03:44.033">LANA: Do you even hear yourself?</tt:p>
+            <tt:p begin="00:03:44.067" end="00:03:45.167">ARCHER: It honestly kinda<tt:br/>comes and goes.</tt:p>
+            <tt:p begin="00:03:45.200" end="00:03:47.700">LANA: Well, since thanks to you<tt:br/>I didn't do the former,</tt:p>
+            <tt:p begin="00:03:47.733" end="00:03:49.133">now we're doing the latter.</tt:p>
+            <tt:p begin="00:03:49.167" end="00:03:50.800">Cyril, go start the car.</tt:p>
+            <tt:p begin="00:03:50.833" end="00:03:52.700">CYRIL: Are you not going --<tt:br/>LANA: Cyril?</tt:p>
+            <tt:p begin="00:03:52.733" end="00:03:54.700">Remember the ground rules for<tt:br/>this?</tt:p>
+            <tt:p begin="00:03:54.733" end="00:03:57.467">So carefully negotiated?</tt:p>
+            <tt:p begin="00:03:57.500" end="00:03:59.167">CYRIL: I will go start the car.</tt:p>
+            <tt:p begin="00:03:59.200" end="00:04:01.700">LANA: And before you say it --<tt:br/>ARCHER: How long's it been</tt:p>
+            <tt:p begin="00:04:01.733" end="00:04:03.300">since you got laid, Lana?</tt:p>
+            <tt:p begin="00:04:03.333" end="00:04:05.700">LANA: That's not why I'm dating<tt:br/>Cyril again!</tt:p>
+            <tt:p begin="00:04:05.733" end="00:04:08.800">ARCHER: Uh-huh, so two --<tt:br/>LANA: No! Not two years!</tt:p>
+            <tt:p begin="00:04:08.833" end="00:04:11.800">Ass.</tt:p>
+            <tt:p begin="00:04:11.833" end="00:04:13.033">Fourteen months.</tt:p>
+            <tt:p begin="00:04:13.067" end="00:04:14.467">So go ahead, laugh.</tt:p>
+            <tt:p begin="00:04:14.500" end="00:04:15.067">ARCHER: At what?</tt:p>
+            <tt:p begin="00:04:15.100" end="00:04:16.300">I was gonna say two weeks.</tt:p>
+            <tt:p begin="00:04:16.333" end="00:04:17.167">Two years is...</tt:p>
+            <tt:p begin="00:04:17.200" end="00:04:19.667">Lana, that's the --<tt:br/>third saddest thing</tt:p>
+            <tt:p begin="00:04:19.700" end="00:04:22.700">I've heard today.</tt:p>
+            <tt:p begin="00:04:22.733" end="00:04:25.167">Pam told me about a little girl<tt:br/>who drowned trying to save</tt:p>
+            <tt:p begin="00:04:25.200" end="00:04:26.067">a puppy.</tt:p>
+            <tt:p begin="00:04:26.100" end="00:04:26.800">LANA: Jesus...</tt:p>
+            <tt:p begin="00:04:26.833" end="00:04:28.800">what was the second saddest?</tt:p>
+            <tt:p begin="00:04:28.833" end="00:04:31.467">ARCHER: The puppy drowned too.</tt:p>
+            <tt:p begin="00:04:31.500" end="00:04:35.167">But it's a close third,<tt:br/>I mean don't do this, Lana,</tt:p>
+            <tt:p begin="00:04:35.200" end="00:04:37.200">c'mon, I'd be happy to bang you.</tt:p>
+            <tt:p begin="00:04:37.233" end="00:04:39.633">LANA: Me and anybody who could<tt:br/>fog a mirror.</tt:p>
+            <tt:p begin="00:04:39.667" end="00:04:41.800">ARCHER: Well before, maybe,<tt:br/>but I really think I've changed,</tt:p>
+            <tt:p begin="00:04:41.833" end="00:04:43.033">Ya know!</tt:p>
+            <tt:p begin="00:04:43.067" end="00:04:44.333">And-or matured!</tt:p>
+            <tt:p begin="00:04:44.367" end="00:04:45.200">LANA: Ha.</tt:p>
+            <tt:p begin="00:04:45.233" end="00:04:47.167">ARCHER: No, I'm serious,<tt:br/>with the cancer,</tt:p>
+            <tt:p begin="00:04:47.200" end="00:04:50.200">and my possible father dying,<tt:br/>and um...</tt:p>
+            <tt:p begin="00:04:50.233" end="00:04:52.033">oh my God, the tinnitus? !</tt:p>
+            <tt:p begin="00:04:52.067" end="00:04:52.833">LANA: Archer...</tt:p>
+            <tt:p begin="00:04:52.867" end="00:04:53.800">ARCHER: Hang on,<tt:br/>should we get that?</tt:p>
+            <tt:p begin="00:04:53.833" end="00:04:55.033">LANA: Get what?</tt:p>
+            <tt:p begin="00:04:55.067" end="00:04:57.200">ARCHER: Is the phone not...?</tt:p>
+            <tt:p begin="00:04:57.233" end="00:04:59.700">Damn you, tinnitus,<tt:br/>you're a cruel mistress!</tt:p>
+            <tt:p begin="00:04:59.733" end="00:05:01.633">[CELL PHONE RINGING]<tt:br/>But seriously,</tt:p>
+            <tt:p begin="00:05:01.667" end="00:05:02.067">do you not hear that?</tt:p>
+            <tt:p begin="00:05:02.100" end="00:05:03.500">LANA: Yes, now!</tt:p>
+            <tt:p begin="00:05:03.533" end="00:05:04.300">It's your phone!</tt:p>
+            <tt:p begin="00:05:04.333" end="00:05:06.333">ARCHER: Oh. Duh.</tt:p>
+            <tt:p begin="00:05:06.367" end="00:05:09.200">Wait please, Lana, c'mon,<tt:br/>you can't deny we're attracted</tt:p>
+            <tt:p begin="00:05:09.233" end="00:05:10.567">to each other!</tt:p>
+            <tt:p begin="00:05:10.600" end="00:05:11.700">LANA: So? !</tt:p>
+            <tt:p begin="00:05:11.733" end="00:05:14.067">ARCHER: So what if all that<tt:br/>stuff really has matured me?</tt:p>
+            <tt:p begin="00:05:14.100" end="00:05:16.067">I know I'm not perfect,<tt:br/>but you have to admit I'm</tt:p>
+            <tt:p begin="00:05:16.100" end="00:05:16.667">better!</tt:p>
+            <tt:p begin="00:05:16.700" end="00:05:17.633">LANA: Than?</tt:p>
+            <tt:p begin="00:05:17.667" end="00:05:19.400">ARCHER: Than I was!</tt:p>
+            <tt:p begin="00:05:19.433" end="00:05:21.333">And also than Cyril<tt:br/>could ever be.</tt:p>
+            <tt:p begin="00:05:21.367" end="00:05:23.400">LANA: First of all, Cyril --<tt:br/>ARCHER: Cheated on you</tt:p>
+            <tt:p begin="00:05:23.433" end="00:05:26.733">as much as I did, Lana,<tt:br/>and I'm ten times handsomer</tt:p>
+            <tt:p begin="00:05:26.767" end="00:05:28.733">than him, so --<tt:br/>LANA: They're the same!</tt:p>
+            <tt:p begin="00:05:28.767" end="00:05:31.133">ARCHER: Lana, be honest<tt:br/>with yourself.</tt:p>
+            <tt:p begin="00:05:31.167" end="00:05:33.167">LANA: It was actually about<tt:br/>ten times worse.</tt:p>
+            <tt:p begin="00:05:33.200" end="00:05:35.667">[CELL PHONE RINGING]<tt:br/>What happened to your idiot</tt:p>
+            <tt:p begin="00:05:35.700" end="00:05:36.633">voicemail? !</tt:p>
+            <tt:p begin="00:05:36.667" end="00:05:39.100">ARCHER: I'm doing this<tt:br/>new thing, where now it</tt:p>
+            <tt:p begin="00:05:39.133" end="00:05:41.333">just rings, drives people crazy.</tt:p>
+            <tt:p begin="00:05:41.367" end="00:05:43.200">LANA: Oh my God,<tt:br/>you have matured...</tt:p>
+            <tt:p begin="00:05:43.233" end="00:05:44.100">ARCHER: Lana, I have!</tt:p>
+            <tt:p begin="00:05:44.133" end="00:05:45.067">Just let me prove it!</tt:p>
+            <tt:p begin="00:05:45.100" end="00:05:46.100">LANA: If.</tt:p>
+            <tt:p begin="00:05:46.133" end="00:05:49.633">In some crazy parallel universe<tt:br/>I agreed to that.</tt:p>
+            <tt:p begin="00:05:49.667" end="00:05:50.833">How would you.</tt:p>
+            <tt:p begin="00:05:50.867" end="00:05:54.167">ARCHER: By -- Jesus, hang on,<tt:br/>Woodhouse might be trapped in</tt:p>
+            <tt:p begin="00:05:54.200" end="00:05:55.733">the dumbwaiter again.</tt:p>
+            <tt:p begin="00:05:55.767" end="00:05:57.333">He was in there<tt:br/>two days last time.</tt:p>
+            <tt:p begin="00:05:57.367" end="00:05:58.800">LANA: Your apartment's<tt:br/>one level,</tt:p>
+            <tt:p begin="00:05:58.833" end="00:05:59.667">how do you have a dumbwaiter?</tt:p>
+            <tt:p begin="00:05:59.700" end="00:06:01.300">ARCHER: Goes sideways.</tt:p>
+            <tt:p begin="00:06:01.333" end="00:06:03.200">Mmmmmmmmyello?</tt:p>
+            <tt:p begin="00:06:03.233" end="00:06:04.567">Speaking.</tt:p>
+            <tt:p begin="00:06:04.600" end="00:06:06.167">Uh-huh.</tt:p>
+            <tt:p begin="00:06:06.200" end="00:06:08.033">Uh-huh.</tt:p>
+            <tt:p begin="00:06:08.067" end="00:06:09.667">Uh-huh.</tt:p>
+            <tt:p begin="00:06:09.700" end="00:06:11.100">Uh-huh.</tt:p>
+            <tt:p begin="00:06:11.133" end="00:06:12.567">Uh-huh.</tt:p>
+            <tt:p begin="00:06:12.600" end="00:06:14.400">Okay, bye.</tt:p>
+            <tt:p begin="00:06:14.433" end="00:06:15.733">Yes!</tt:p>
+            <tt:p begin="00:06:15.767" end="00:06:17.733">Okay, Lana, check you later.</tt:p>
+            <tt:p begin="00:06:17.767" end="00:06:18.733">LANA: What?</tt:p>
+            <tt:p begin="00:06:18.767" end="00:06:20.133">What about all that just now?</tt:p>
+            <tt:p begin="00:06:20.167" end="00:06:20.933">ARCHER: All what just now?</tt:p>
+            <tt:p begin="00:06:20.967" end="00:06:22.700">LANA: About how much you've<tt:br/>matured,</tt:p>
+            <tt:p begin="00:06:22.733" end="00:06:24.033">and how you want to get back<tt:br/>together?</tt:p>
+            <tt:p begin="00:06:24.067" end="00:06:24.900">ARCHER: That's what you heard?</tt:p>
+            <tt:p begin="00:06:24.933" end="00:06:27.733">Wow, your ears<tt:br/>are even worse than mine.</tt:p>
+            <tt:p begin="00:06:27.767" end="00:06:29.700">LANA: Wait, was that even<tt:br/>Woodhouse?</tt:p>
+            <tt:p begin="00:06:29.733" end="00:06:30.633">ARCHER: Nooop!</tt:p>
+            <tt:p begin="00:06:30.667" end="00:06:33.067">LANA: Then who was it? !</tt:p>
+            <tt:p begin="00:06:33.100" end="00:06:37.400">[CRYING]<tt:br/>KATYA: Yes, my dear Sterling,</tt:p>
+            <tt:p begin="00:06:37.433" end="00:06:40.067">come for me.</tt:p>
+            <tt:p begin="00:06:40.100" end="00:06:42.167">Phrezzing, boom.</tt:p>
+            <tt:p begin="00:06:45.067" end="00:06:57.133">[WHISTLING]<tt:br/>MAN: Hey, asshole!</tt:p>
+            <tt:p begin="00:06:57.167" end="00:07:01.067">ARCHER: [AHEMS]<tt:br/>ARCHER: Thanks.</tt:p>
+            <tt:p begin="00:07:01.100" end="00:07:03.733">And oh, my name is Cyril Figgis.</tt:p>
+            <tt:p begin="00:07:28.400" end="00:07:31.667">ARCHER: Hey, how's it going?</tt:p>
+            <tt:p begin="00:07:31.700" end="00:07:34.167">KATYA: Thenk you,<tt:br/>they are beautiful.</tt:p>
+            <tt:p begin="00:07:34.200" end="00:07:35.500">ARCHER: Sorry about the<tt:br/>chocolate,</tt:p>
+            <tt:p begin="00:07:35.533" end="00:07:38.367">I didn't know you were allergic<tt:br/>or whatever.</tt:p>
+            <tt:p begin="00:07:38.400" end="00:07:39.367">KATYA: The alkaloids.</tt:p>
+            <tt:p begin="00:07:39.400" end="00:07:42.167">They can make a problem with my<tt:br/>bioelectronics.</tt:p>
+            <tt:p begin="00:07:42.200" end="00:07:43.500">ARCHER: Oh. Right.</tt:p>
+            <tt:p begin="00:07:43.533" end="00:07:45.033">Because you have those.</tt:p>
+            <tt:p begin="00:07:45.067" end="00:07:46.733">KATYA: And I'm sorry if you<tt:br/>misunderstood.</tt:p>
+            <tt:p begin="00:07:46.767" end="00:07:49.200">I did not call you<tt:br/>for the romance.</tt:p>
+            <tt:p begin="00:07:49.233" end="00:07:55.167">ARCHER: I -- yeah I mean yeah,<tt:br/>no, duh, and besides I wouldn't</tt:p>
+            <tt:p begin="00:07:55.200" end="00:07:57.733">be interested,<tt:br/>I have a girlfriend, so.</tt:p>
+            <tt:p begin="00:07:57.767" end="00:07:58.333">KATYA: Oh.</tt:p>
+            <tt:p begin="00:07:58.367" end="00:08:00.333">ARCHER: Yeah, an actress.</tt:p>
+            <tt:p begin="00:08:00.367" end="00:08:02.667">Of stage and screen.</tt:p>
+            <tt:p begin="00:08:02.700" end="00:08:03.400">KATYA: Oh.</tt:p>
+            <tt:p begin="00:08:03.433" end="00:08:05.500">Well, I hope<tt:br/>she makes you happy.</tt:p>
+            <tt:p begin="00:08:05.533" end="00:08:09.033">Is funny,<tt:br/>you don't ask where is Barry.</tt:p>
+            <tt:p begin="00:08:09.067" end="00:08:11.400">ARCHER: What do you mean<tt:br/>where is Barry, he's --</tt:p>
+            <tt:p begin="00:08:11.433" end="00:08:13.167">Yeah, where is Barry?</tt:p>
+            <tt:p begin="00:08:13.200" end="00:08:16.333">KATYA: I...</tt:p>
+            <tt:p begin="00:08:16.367" end="00:08:19.033">I don't know!</tt:p>
+            <tt:p begin="00:08:19.067" end="00:08:22.333">And only one week after,<tt:br/>well, you know,</tt:p>
+            <tt:p begin="00:08:22.367" end="00:08:25.167">when I left you for him,<tt:br/>he said he must go for work,</tt:p>
+            <tt:p begin="00:08:25.200" end="00:08:26.333">to London.</tt:p>
+            <tt:p begin="00:08:26.367" end="00:08:27.667">ARCHER: Wow,<tt:br/>that was months ago...</tt:p>
+            <tt:p begin="00:08:27.700" end="00:08:30.100">KATYA: And since then, nothing!</tt:p>
+            <tt:p begin="00:08:30.133" end="00:08:32.500">Not a word!</tt:p>
+            <tt:p begin="00:08:32.533" end="00:08:34.733">What could have happened<tt:br/>to him? !</tt:p>
+            <tt:p begin="00:08:34.767" end="00:08:35.400">ARCHER: Uhhh...</tt:p>
+            <tt:p begin="00:08:35.433" end="00:08:39.333">BARRY: Noooooooooooooooooooo!</tt:p>
+            <tt:p begin="00:08:39.367" end="00:08:41.033">KATYA: He is on space station? !</tt:p>
+            <tt:p begin="00:08:41.067" end="00:08:42.167">But why? !</tt:p>
+            <tt:p begin="00:08:42.200" end="00:08:44.400">ARCHER: Well, ya know, I hate<tt:br/>to say this, but obviously</tt:p>
+            <tt:p begin="00:08:44.433" end="00:08:46.367">he met someone else.</tt:p>
+            <tt:p begin="00:08:46.400" end="00:08:48.033">KATYA: Sterling. Pliz.</tt:p>
+            <tt:p begin="00:08:48.067" end="00:08:50.333">ARCHER: Yeah, that was the --<tt:br/>third dumbest thing</tt:p>
+            <tt:p begin="00:08:50.367" end="00:08:51.667">I've ever said.</tt:p>
+            <tt:p begin="00:08:51.700" end="00:08:54.167">KATYA: Wait,<tt:br/>what were the first two?</tt:p>
+            <tt:p begin="00:08:54.200" end="00:08:57.800">ARCHER: Buddy,<tt:br/>you just sold a timeshare!</tt:p>
+            <tt:p begin="00:08:57.833" end="00:09:00.700">Make that two timeshares!</tt:p>
+            <tt:p begin="00:09:00.733" end="00:09:02.300">Goddamn maintenance fees...</tt:p>
+            <tt:p begin="00:09:02.333" end="00:09:04.167">KATYA: Sterling,<tt:br/>will you please help me</tt:p>
+            <tt:p begin="00:09:04.200" end="00:09:04.700">find him?</tt:p>
+            <tt:p begin="00:09:04.733" end="00:09:05.400">ARCHER: How?</tt:p>
+            <tt:p begin="00:09:05.433" end="00:09:07.133">That office was just a trailer.</tt:p>
+            <tt:p begin="00:09:07.167" end="00:09:08.167">KATYA: Barry.</tt:p>
+            <tt:p begin="00:09:08.200" end="00:09:10.133">ARCHER: Oh. Barry, right.</tt:p>
+            <tt:p begin="00:09:10.167" end="00:09:12.233">KATYA: Pliz, Sterling.</tt:p>
+            <tt:p begin="00:09:12.267" end="00:09:15.633">If you ever truly loved me,<tt:br/>you will help Barry to come</tt:p>
+            <tt:p begin="00:09:15.667" end="00:09:20.233">home to me.</tt:p>
+            <tt:p begin="00:09:20.267" end="00:09:22.133">ARCHER: 'kay.</tt:p>
+            <tt:p begin="00:09:22.167" end="00:09:24.133">PAM: Okay,<tt:br/>lemme get this straight...</tt:p>
+            <tt:p begin="00:09:24.167" end="00:09:27.100">You wanna help psycho<tt:br/>cyborg supervillain Barry,</tt:p>
+            <tt:p begin="00:09:27.133" end="00:09:29.233">who's trapped in space like<tt:br/>General frickin Zod,</tt:p>
+            <tt:p begin="00:09:29.267" end="00:09:32.067">get back to earth so she'll dump<tt:br/>him for you?</tt:p>
+            <tt:p begin="00:09:32.100" end="00:09:33.167">ARCHER: Right?</tt:p>
+            <tt:p begin="00:09:33.200" end="00:09:35.333">When Barry gets back she'll<tt:br/>realize what a dick he is,</tt:p>
+            <tt:p begin="00:09:35.367" end="00:09:39.100">so she'll need somebody to talk<tt:br/>to, so enter Sterling Archer,</tt:p>
+            <tt:p begin="00:09:39.133" end="00:09:40.033">the sensitive friend!</tt:p>
+            <tt:p begin="00:09:40.067" end="00:09:42.167">CHERYL/CAROL: What is this,<tt:br/>Opposite World?</tt:p>
+            <tt:p begin="00:09:42.200" end="00:09:44.133">PAM: Yeah, right?</tt:p>
+            <tt:p begin="00:09:44.167" end="00:09:47.133">Oh for --<tt:br/>this is not Opposite World.</tt:p>
+            <tt:p begin="00:09:47.167" end="00:09:49.133">ARCHER: I think in her mind<tt:br/>that means --</tt:p>
+            <tt:p begin="00:09:49.167" end="00:09:50.133">PAM: God, okay!</tt:p>
+            <tt:p begin="00:09:50.167" end="00:09:52.100">This is Opposite World!</tt:p>
+            <tt:p begin="00:09:52.133" end="00:09:53.133">CHERYL/CAROL: Whew!</tt:p>
+            <tt:p begin="00:09:53.167" end="00:09:55.067">ARCHER: Um, okay,<tt:br/>and since certain people around</tt:p>
+            <tt:p begin="00:09:55.100" end="00:09:57.333">here may not see how brilliant<tt:br/>my plan is,</tt:p>
+            <tt:p begin="00:09:57.367" end="00:09:59.033">they're gonna need to be --<tt:br/>PAM: Convinced?</tt:p>
+            <tt:p begin="00:09:59.067" end="00:10:01.733">ARCHER: I'm sorry,<tt:br/>did you say incapacitated?</tt:p>
+            <tt:p begin="00:10:01.767" end="00:10:03.733">Because, Krieger,<tt:br/>I can't have the --</tt:p>
+            <tt:p begin="00:10:03.767" end="00:10:05.133">KRIEGER: Responsible people?</tt:p>
+            <tt:p begin="00:10:05.167" end="00:10:06.300">ARCHER: Naysayers!</tt:p>
+            <tt:p begin="00:10:06.333" end="00:10:09.567">Walk in on you while you're<tt:br/>helping Barry build a rocket!</tt:p>
+            <tt:p begin="00:10:09.600" end="00:10:12.100">KRIEGER: Barry The Unstoppable<tt:br/>Psycho-Cyborg.</tt:p>
+            <tt:p begin="00:10:12.133" end="00:10:13.633">ARCHER: He's not unstoppable<tt:br/>anymore!</tt:p>
+            <tt:p begin="00:10:13.667" end="00:10:16.233">Ray's got bionic legs!</tt:p>
+            <tt:p begin="00:10:16.267" end="00:10:19.500">But if you don't wanna see two<tt:br/>robots smashing each other with</tt:p>
+            <tt:p begin="00:10:19.533" end="00:10:23.033">cop cars and shit as they fight<tt:br/>to the death through the</tt:p>
+            <tt:p begin="00:10:23.067" end="00:10:24.200">streets of Manhattan...</tt:p>
+            <tt:p begin="00:10:24.233" end="00:10:25.233">KRIEGER: Bup bup bup bup bup!</tt:p>
+            <tt:p begin="00:10:25.267" end="00:10:26.800">Stop.</tt:p>
+            <tt:p begin="00:10:26.833" end="00:10:29.300">My penis can only get so erect.</tt:p>
+            <tt:p begin="00:10:29.333" end="00:10:31.100">HOLOGRAM: Honntou ne...</tt:p>
+            <tt:p begin="00:10:31.133" end="00:10:33.133">[Very true...]<tt:br/>KRIEGER: I was tired!</tt:p>
+            <tt:p begin="00:10:33.167" end="00:10:34.300">ARCHER: Ew.</tt:p>
+            <tt:p begin="00:10:34.333" end="00:10:43.100">[WHISTLING]<tt:br/>ARCHER: Cyril?</tt:p>
+            <tt:p begin="00:10:43.133" end="00:10:43.833">CYRIL: What.</tt:p>
+            <tt:p begin="00:10:43.867" end="00:10:49.100">[TRANQUILIZER DART]<tt:br/>ARCHER: Ew.</tt:p>
+            <tt:p begin="00:10:49.133" end="00:10:50.467">ARCHER: Ray?</tt:p>
+            <tt:p begin="00:10:50.500" end="00:10:51.300">GILLETTE: What.</tt:p>
+            <tt:p begin="00:10:51.333" end="00:10:53.333">[TRANQUILIZER DART]<tt:br/>ARCHER: Seriously,</tt:p>
+            <tt:p begin="00:10:53.367" end="00:10:55.133">how is that even a genre?</tt:p>
+            <tt:p begin="00:10:55.167" end="00:10:56.733">And is this just<tt:br/>jackoff central?</tt:p>
+            <tt:p begin="00:10:56.767" end="00:10:59.333">PAM: Ugh,<tt:br/>not with all this damn racket!</tt:p>
+            <tt:p begin="00:10:59.367" end="00:11:01.200">ARCHER: Wh-? Why aren't you in<tt:br/>position? !</tt:p>
+            <tt:p begin="00:11:01.233" end="00:11:03.067">PAM: I am, this is how I do it!</tt:p>
+            <tt:p begin="00:11:03.100" end="00:11:04.067">ARCHER: Wh-? Ewww!</tt:p>
+            <tt:p begin="00:11:04.100" end="00:11:05.167">I meant with Mother!</tt:p>
+            <tt:p begin="00:11:05.200" end="00:11:06.167">PAM: Oh.</tt:p>
+            <tt:p begin="00:11:06.200" end="00:11:07.333">I put Cheryl on that.</tt:p>
+            <tt:p begin="00:11:07.367" end="00:11:09.700">ARCHER: Great,<tt:br/>Miss Opposite World? !</tt:p>
+            <tt:p begin="00:11:09.733" end="00:11:12.300">CHERYL/CAROL: You heard me,<tt:br/>do not go in there.</tt:p>
+            <tt:p begin="00:11:12.333" end="00:11:14.133">LANA: Why,<tt:br/>what are you hiding this time?</tt:p>
+            <tt:p begin="00:11:14.167" end="00:11:17.633">MALORY: Probably another one of<tt:br/>her so-called mystery fires.</tt:p>
+            <tt:p begin="00:11:17.667" end="00:11:22.367">CHERYL/CAROL: Lana, I said no!</tt:p>
+            <tt:p begin="00:11:22.400" end="00:11:26.700">LANA: Okay, so where's the --<tt:br/>-- fire.</tt:p>
+            <tt:p begin="00:11:26.733" end="00:11:32.067">MALORY: [DEEPLY WEARY SIGH]<tt:br/>CHERYL/CAROL: Worst. Day. Evah!</tt:p>
+            <tt:p begin="00:11:32.100" end="00:11:33.200">ARCHER: Okay status report!</tt:p>
+            <tt:p begin="00:11:33.233" end="00:11:34.400">Mother in there?</tt:p>
+            <tt:p begin="00:11:34.433" end="00:11:35.167">CHERYL/CAROL: No.</tt:p>
+            <tt:p begin="00:11:35.200" end="00:11:37.033">MALORY: Carol,<tt:br/>open this damn door!</tt:p>
+            <tt:p begin="00:11:37.067" end="00:11:39.333">ARCHER: Um, okay,<tt:br/>now I just need to find --</tt:p>
+            <tt:p begin="00:11:39.367" end="00:11:40.100">LANA: Cheryl!</tt:p>
+            <tt:p begin="00:11:40.133" end="00:11:41.033">CHERYL/CAROL: And neither is<tt:br/>Lana.</tt:p>
+            <tt:p begin="00:11:41.067" end="00:11:42.067">ARCHER: Nice!</tt:p>
+            <tt:p begin="00:11:42.100" end="00:11:43.700">Hey excellent job,<tt:br/>seriously --</tt:p>
+            <tt:p begin="00:11:43.733" end="00:11:45.067">Ow! I mean...</tt:p>
+            <tt:p begin="00:11:45.100" end="00:11:46.733">totally shit job?</tt:p>
+            <tt:p begin="00:11:46.767" end="00:11:47.300">LANA: Cheryl!</tt:p>
+            <tt:p begin="00:11:47.333" end="00:11:48.267">CHERYL/CAROL: Thank you.</tt:p>
+            <tt:p begin="00:11:48.300" end="00:11:51.167">PAM: So when I said this is<tt:br/>Opposite World --</tt:p>
+            <tt:p begin="00:11:51.200" end="00:11:52.000">CHERYL/CAROL: Pam.</tt:p>
+            <tt:p begin="00:11:52.033" end="00:11:53.700">The important thing is that<tt:br/>I'm happy.</tt:p>
+            <tt:p begin="00:11:53.733" end="00:11:56.167">Try not to overthink it.</tt:p>
+            <tt:p begin="00:11:56.200" end="00:11:58.167">KRIEGER: I just wanna help you<tt:br/>finish your new spaceship,</tt:p>
+            <tt:p begin="00:11:58.200" end="00:11:59.233">why is that weird?</tt:p>
+            <tt:p begin="00:11:59.267" end="00:12:01.167">BARRY: Why is that weird --<tt:br/>Because my sworn purpose</tt:p>
+            <tt:p begin="00:12:01.200" end="00:12:03.233">in life is to murder your<tt:br/>little buddy Archer?</tt:p>
+            <tt:p begin="00:12:03.267" end="00:12:04.167">KRIEGER: Archer?</tt:p>
+            <tt:p begin="00:12:04.200" end="00:12:06.733">No way man, I hate that guy!</tt:p>
+            <tt:p begin="00:12:06.767" end="00:12:07.733">BARRY: Since when?</tt:p>
+            <tt:p begin="00:12:07.767" end="00:12:10.400">KRIEGER: Since, um,<tt:br/>he slept with my girlfriend!</tt:p>
+            <tt:p begin="00:12:10.433" end="00:12:11.100">HOLOGRAM: Dattara iinoni...</tt:p>
+            <tt:p begin="00:12:11.133" end="00:12:14.033">[I wish.]<tt:br/>KRIEGER: Keep it up.</tt:p>
+            <tt:p begin="00:12:14.067" end="00:12:15.333">BARRY: God, that is just<tt:br/>classic Archer!</tt:p>
+            <tt:p begin="00:12:15.367" end="00:12:16.500">KRIEGER: Right?</tt:p>
+            <tt:p begin="00:12:16.533" end="00:12:19.067">I mean, not a huge surprise,<tt:br/>from a self-centered alcoholic</tt:p>
+            <tt:p begin="00:12:19.100" end="00:12:21.367">who feels compelled to sleep<tt:br/>with every woman he meets</tt:p>
+            <tt:p begin="00:12:21.400" end="00:12:24.033">because that's the only way to<tt:br/>fill the emptiness inside where</tt:p>
+            <tt:p begin="00:12:24.067" end="00:12:25.067">his mother's love should -- ow!</tt:p>
+            <tt:p begin="00:12:25.100" end="00:12:26.667">BARRY: Do what?</tt:p>
+            <tt:p begin="00:12:26.700" end="00:12:28.033">KRIEGER: One sec?</tt:p>
+            <tt:p begin="00:12:28.067" end="00:12:29.167">ARCHER: What the shit? !</tt:p>
+            <tt:p begin="00:12:29.200" end="00:12:30.500">KRIEGER: What,<tt:br/>you said be convin --</tt:p>
+            <tt:p begin="00:12:30.533" end="00:12:31.533">ARCHER: Convincing!</tt:p>
+            <tt:p begin="00:12:31.567" end="00:12:33.200">Not deliberately hurtful!</tt:p>
+            <tt:p begin="00:12:33.233" end="00:12:34.033">KRIEGER: Well? !</tt:p>
+            <tt:p begin="00:12:34.067" end="00:12:35.067">BARRY: Yo, asshole!</tt:p>
+            <tt:p begin="00:12:35.100" end="00:12:35.900">What're we doing here?</tt:p>
+            <tt:p begin="00:12:35.933" end="00:12:37.667">KRIEGER: Fixing that spaceship,<tt:br/>buddy!</tt:p>
+            <tt:p begin="00:12:37.700" end="00:12:40.200">Looks like it's just about done,<tt:br/>huh?</tt:p>
+            <tt:p begin="00:12:40.233" end="00:12:42.167">BARRY: Yeah,<tt:br/>those scientists were pretty</tt:p>
+            <tt:p begin="00:12:42.200" end="00:12:43.533">resourceful.</tt:p>
+            <tt:p begin="00:12:43.567" end="00:12:45.033">Until they all died.</tt:p>
+            <tt:p begin="00:12:45.067" end="00:12:48.500">KRIEGER: And how did they, um,<tt:br/>all die?</tt:p>
+            <tt:p begin="00:12:48.533" end="00:12:50.033">BARRY: Oh...</tt:p>
+            <tt:p begin="00:12:50.067" end="00:12:51.700">different ways.</tt:p>
+            <tt:p begin="00:12:51.733" end="00:12:53.167">KRIEGER: 'kay.</tt:p>
+            <tt:p begin="00:12:53.200" end="00:12:54.400">MALORY: Swift and severe.</tt:p>
+            <tt:p begin="00:12:54.433" end="00:12:58.067">The punishment will be swift<tt:br/>and severe.</tt:p>
+            <tt:p begin="00:12:58.100" end="00:13:01.167">I mean it, Lana,<tt:br/>that girl is out of here.</tt:p>
+            <tt:p begin="00:13:01.200" end="00:13:03.067">LANA: Aww, and right when<tt:br/>she was gonna invest</tt:p>
+            <tt:p begin="00:13:03.100" end="00:13:05.100">ten million dollars in ISIS.</tt:p>
+            <tt:p begin="00:13:05.133" end="00:13:06.167">MALORY: She said that? !</tt:p>
+            <tt:p begin="00:13:06.200" end="00:13:08.067">Oh my God,<tt:br/>that phony prospectus</tt:p>
+            <tt:p begin="00:13:08.100" end="00:13:09.467">must've worked!</tt:p>
+            <tt:p begin="00:13:09.500" end="00:13:11.200">Do you think the money's<tt:br/>in here? !</tt:p>
+            <tt:p begin="00:13:11.233" end="00:13:13.533">Come on, help me<tt:br/>look in these boxes!</tt:p>
+            <tt:p begin="00:13:13.567" end="00:13:13.967">LANA: Malory!</tt:p>
+            <tt:p begin="00:13:14.000" end="00:13:15.300">MALORY: What? !</tt:p>
+            <tt:p begin="00:13:15.333" end="00:13:17.167">Oh.</tt:p>
+            <tt:p begin="00:13:17.200" end="00:13:18.033">Dammit.</tt:p>
+            <tt:p begin="00:13:18.067" end="00:13:19.467">ARCHER: So yeah...</tt:p>
+            <tt:p begin="00:13:19.500" end="00:13:22.200">Krieger's helping Barry<tt:br/>finish his rocketship,</tt:p>
+            <tt:p begin="00:13:22.233" end="00:13:23.333">and when he gets home he can...</tt:p>
+            <tt:p begin="00:13:23.367" end="00:13:25.467">tell you about the other woman.</tt:p>
+            <tt:p begin="00:13:25.500" end="00:13:26.400">KATYA: The what? !</tt:p>
+            <tt:p begin="00:13:26.433" end="00:13:28.167">ARCHER: Wait,<tt:br/>how'd we get to another woman?</tt:p>
+            <tt:p begin="00:13:28.200" end="00:13:30.467">KATYA: Oh my God,<tt:br/>do you have proof of this? !</tt:p>
+            <tt:p begin="00:13:30.500" end="00:13:33.200">ARCHER: No, I --<tt:br/>can probably get some...</tt:p>
+            <tt:p begin="00:13:33.233" end="00:13:35.200">KATYA: Oh, Sterling!</tt:p>
+            <tt:p begin="00:13:35.233" end="00:13:37.200">If Barry really is cheating on<tt:br/>me...</tt:p>
+            <tt:p begin="00:13:37.233" end="00:13:39.467">ARCHER: And also if I prove it<tt:br/>somehow...</tt:p>
+            <tt:p begin="00:13:39.500" end="00:13:41.133">KATYA: Then he will be dead to<tt:br/>me!</tt:p>
+            <tt:p begin="00:13:41.167" end="00:13:45.200">Because I will kill him with my<tt:br/>bare hands!</tt:p>
+            <tt:p begin="00:13:45.233" end="00:13:47.200">ARCHER: Yeah, or not,<tt:br/>since then there's no reason</tt:p>
+            <tt:p begin="00:13:47.233" end="00:13:50.200">for him to come home at all!</tt:p>
+            <tt:p begin="00:13:50.233" end="00:13:50.733">KATYA: What's that?</tt:p>
+            <tt:p begin="00:13:50.767" end="00:13:52.133">ARCHER: Nothing, what?</tt:p>
+            <tt:p begin="00:13:52.167" end="00:13:54.300">Oh, you mean that?</tt:p>
+            <tt:p begin="00:13:54.333" end="00:13:55.133">Sorry, that's...</tt:p>
+            <tt:p begin="00:13:55.167" end="00:13:57.600">just a sympathy boner.</tt:p>
+            <tt:p begin="00:14:01.133" end="00:14:05.733">[WHISTLING]<tt:br/>MAN: Oww!</tt:p>
+            <tt:p begin="00:14:05.767" end="00:14:06.733">ARCHER: Woooo!</tt:p>
+            <tt:p begin="00:14:06.767" end="00:14:09.100">Cyril Figgis strikes again!</tt:p>
+            <tt:p begin="00:14:17.600" end="00:14:18.400">ARCHER: Status report!</tt:p>
+            <tt:p begin="00:14:18.433" end="00:14:19.567">CHERYL/CAROL: Terrible!</tt:p>
+            <tt:p begin="00:14:19.600" end="00:14:22.100">ARCHER: Wait, what hap --<tt:br/>goddammit!</tt:p>
+            <tt:p begin="00:14:22.133" end="00:14:22.800">CHERYL/CAROL: What? !</tt:p>
+            <tt:p begin="00:14:22.833" end="00:14:23.800">Dude, assimilate!</tt:p>
+            <tt:p begin="00:14:23.833" end="00:14:26.567">ARCHER: Are Mother and Lana<tt:br/>still in the vault?</tt:p>
+            <tt:p begin="00:14:26.600" end="00:14:27.033">CHERYL/CAROL: No.</tt:p>
+            <tt:p begin="00:14:27.067" end="00:14:28.800">ARCHER: I -- rrgh!</tt:p>
+            <tt:p begin="00:14:28.833" end="00:14:32.567">MALORY: A situation, by the way,<tt:br/>for which I blame you entirely.</tt:p>
+            <tt:p begin="00:14:32.600" end="00:14:34.333">LANA: How is this my fault? !</tt:p>
+            <tt:p begin="00:14:34.367" end="00:14:36.733">You were the --<tt:br/>holy shit, there really are</tt:p>
+            <tt:p begin="00:14:36.767" end="00:14:38.633">nerve gas canisters up here!</tt:p>
+            <tt:p begin="00:14:38.667" end="00:14:40.300">I thought that was a joke!</tt:p>
+            <tt:p begin="00:14:40.333" end="00:14:41.800">MALORY: How is that funny?</tt:p>
+            <tt:p begin="00:14:41.833" end="00:14:43.500">ARCHER: Because I said so.</tt:p>
+            <tt:p begin="00:14:43.533" end="00:14:45.100">KRIEGER: What's this even<tt:br/>written on?</tt:p>
+            <tt:p begin="00:14:45.133" end="00:14:46.400">ARCHER: A bar bill,<tt:br/>and just do it.</tt:p>
+            <tt:p begin="00:14:46.433" end="00:14:48.400">Forget about actually fixing<tt:br/>the rocket.</tt:p>
+            <tt:p begin="00:14:48.433" end="00:14:50.733">KRIEGER: But what about the<tt:br/>robot fight? !</tt:p>
+            <tt:p begin="00:14:50.767" end="00:14:53.167">And why are you<tt:br/>beating on shit? !</tt:p>
+            <tt:p begin="00:14:53.200" end="00:14:54.733">BARRY: Because shit is stuck!</tt:p>
+            <tt:p begin="00:14:54.767" end="00:14:55.367">KRIEGER: Dude!</tt:p>
+            <tt:p begin="00:14:55.400" end="00:14:56.300">It's not a frickin tractor!</tt:p>
+            <tt:p begin="00:14:56.333" end="00:14:58.067">BARRY: Yeah,<tt:br/>that's what all the space-nerds</tt:p>
+            <tt:p begin="00:14:58.100" end="00:14:59.400">up here kept saying.</tt:p>
+            <tt:p begin="00:14:59.433" end="00:15:02.400">Until Other Barry just couldn't<tt:br/>stand it anymore.</tt:p>
+            <tt:p begin="00:15:02.433" end="00:15:03.500">KRIEGER: I --<tt:br/>ARCHER: Krieger!</tt:p>
+            <tt:p begin="00:15:03.533" end="00:15:06.133">Forget the robot fight and just<tt:br/>read the damn script!</tt:p>
+            <tt:p begin="00:15:06.167" end="00:15:09.167">Then upload the audio to the<tt:br/>mainframe!</tt:p>
+            <tt:p begin="00:15:09.200" end="00:15:11.067">KRIEGER: Okay, either Barry!</tt:p>
+            <tt:p begin="00:15:11.100" end="00:15:14.067">I need you to find a female<tt:br/>co-ax bus connector.</tt:p>
+            <tt:p begin="00:15:14.100" end="00:15:15.133">BARRY: What's a female...</tt:p>
+            <tt:p begin="00:15:15.167" end="00:15:17.100">whatever look like?</tt:p>
+            <tt:p begin="00:15:17.133" end="00:15:17.733">ARCHER: Pam!</tt:p>
+            <tt:p begin="00:15:17.767" end="00:15:19.133">Pam!</tt:p>
+            <tt:p begin="00:15:19.167" end="00:15:20.533">Paaaaaam!</tt:p>
+            <tt:p begin="00:15:20.567" end="00:15:21.433">PAM: Whaaat? !</tt:p>
+            <tt:p begin="00:15:21.467" end="00:15:23.400">ARCHER: C'mon,<tt:br/>I need your help on -- wait,</tt:p>
+            <tt:p begin="00:15:23.433" end="00:15:24.700">what were you doing in there?</tt:p>
+            <tt:p begin="00:15:24.733" end="00:15:25.233">PAM: Nothin.</tt:p>
+            <tt:p begin="00:15:25.267" end="00:15:26.700">But don't go in there!</tt:p>
+            <tt:p begin="00:15:26.733" end="00:15:28.300">ARCHER: No, huh-uh!</tt:p>
+            <tt:p begin="00:15:28.333" end="00:15:31.567">That's how Mother and Lana<tt:br/>wound up locked in the vault!</tt:p>
+            <tt:p begin="00:15:31.600" end="00:15:33.533">MALORY: A situation, by the way,<tt:br/>for which --</tt:p>
+            <tt:p begin="00:15:33.567" end="00:15:34.633">LANA: I heard you!</tt:p>
+            <tt:p begin="00:15:34.667" end="00:15:35.667">ARCHER: C'mon!</tt:p>
+            <tt:p begin="00:15:35.700" end="00:15:37.533">You're still into all that<tt:br/>stupid AV stuff, right?</tt:p>
+            <tt:p begin="00:15:37.567" end="00:15:38.567">PAM: Uh...</tt:p>
+            <tt:p begin="00:15:38.600" end="00:15:41.400">Not reeeally...</tt:p>
+            <tt:p begin="00:15:41.433" end="00:15:44.067">KRIEGER: Okay,<tt:br/>so screw those in...</tt:p>
+            <tt:p begin="00:15:44.100" end="00:15:44.833">BARRY: All of 'em?</tt:p>
+            <tt:p begin="00:15:44.867" end="00:15:47.100">KRIEGER: Dammit man,<tt:br/>I said screw!</tt:p>
+            <tt:p begin="00:15:47.133" end="00:15:48.533">BARRY: I am screwing!</tt:p>
+            <tt:p begin="00:15:48.567" end="00:15:50.700">KRIEGER: Wow,<tt:br/>this might actually work.</tt:p>
+            <tt:p begin="00:15:50.733" end="00:15:51.500">PAM: What's that?</tt:p>
+            <tt:p begin="00:15:51.533" end="00:15:53.200">ARCHER: I said why not use<tt:br/>this one.</tt:p>
+            <tt:p begin="00:15:53.233" end="00:15:54.633">PAM: No! Gimme that!</tt:p>
+            <tt:p begin="00:15:54.667" end="00:15:55.700">ARCHER: Why, what's on here?</tt:p>
+            <tt:p begin="00:15:55.733" end="00:15:57.700">PAM: Nothing! Jesus!</tt:p>
+            <tt:p begin="00:15:57.733" end="00:15:59.033">CYRIL: Christ, Ray!</tt:p>
+            <tt:p begin="00:15:59.067" end="00:16:00.533">Is it too much to ask? !</tt:p>
+            <tt:p begin="00:16:00.567" end="00:16:02.067">Just once? !</tt:p>
+            <tt:p begin="00:16:02.100" end="00:16:04.067">To be unconscious in a<tt:br/>bathroom without being sexually</tt:p>
+            <tt:p begin="00:16:04.100" end="00:16:08.367">assaulted by -- you um,<tt:br/>have a dart in your neck.</tt:p>
+            <tt:p begin="00:16:08.400" end="00:16:10.300">GILLETTE: Oh. So do you.</tt:p>
+            <tt:p begin="00:16:10.333" end="00:16:11.533">CYRIL: Oh.</tt:p>
+            <tt:p begin="00:16:11.567" end="00:16:13.067">Sorry I accused you of, um...</tt:p>
+            <tt:p begin="00:16:13.100" end="00:16:14.167">GILLETTE: It's okay.</tt:p>
+            <tt:p begin="00:16:14.200" end="00:16:16.500">C'mon, let's find our --<tt:br/>CYRIL: Noooooooooooooooooooo!</tt:p>
+            <tt:p begin="00:16:20.267" end="00:16:22.100">GILLETTE: Noooooooooooooooooooo!</tt:p>
+            <tt:p begin="00:16:22.133" end="00:16:24.367">PAM: Yes...</tt:p>
+            <tt:p begin="00:16:24.400" end="00:16:24.967">owww!</tt:p>
+            <tt:p begin="00:16:25.000" end="00:16:25.767">ARCHER: Will you focus? !</tt:p>
+            <tt:p begin="00:16:25.800" end="00:16:27.733">PAM: That's as good as I<tt:br/>can get it!</tt:p>
+            <tt:p begin="00:16:27.767" end="00:16:28.867">Dicknuts!</tt:p>
+            <tt:p begin="00:16:28.900" end="00:16:31.700">ARCHER: Shut up, okay, then<tt:br/>that'll have to do, so make</tt:p>
+            <tt:p begin="00:16:31.733" end="00:16:33.733">a tape or whatever, and --<tt:br/>CHERYL/CAROL: So,</tt:p>
+            <tt:p begin="00:16:33.767" end="00:16:36.200">just a quick heads up,<tt:br/>Ms. Archer and Lana are still</tt:p>
+            <tt:p begin="00:16:36.233" end="00:16:37.033">in the vault.</tt:p>
+            <tt:p begin="00:16:37.067" end="00:16:38.200">ARCHER: Wh-?</tt:p>
+            <tt:p begin="00:16:38.233" end="00:16:40.700">Then why are you bothering --<tt:br/>MALORY: Carol! LANA: Cheryl!</tt:p>
+            <tt:p begin="00:16:40.733" end="00:16:42.367">CHERYL/CAROL: [startled yelp]<tt:br/>MALORY: Pam you better not be</tt:p>
+            <tt:p begin="00:16:42.400" end="00:16:44.033">making pornos!</tt:p>
+            <tt:p begin="00:16:44.067" end="00:16:44.733">PAM: 'kay!</tt:p>
+            <tt:p begin="00:16:44.767" end="00:16:46.100">ARCHER: Tape, woman, tape!</tt:p>
+            <tt:p begin="00:16:46.133" end="00:16:47.333">PAM: Okay, here!</tt:p>
+            <tt:p begin="00:16:47.367" end="00:16:49.700">Dicknuts!</tt:p>
+            <tt:p begin="00:16:59.067" end="00:17:01.167">ARCHER: I'm afraid I have some<tt:br/>bad news.</tt:p>
+            <tt:p begin="00:17:01.200" end="00:17:04.533">Now, the audio's a little rough,<tt:br/>ya know, it's from outer space,</tt:p>
+            <tt:p begin="00:17:04.567" end="00:17:06.033">but --<tt:br/>KATYA: Sterling, pliz!</tt:p>
+            <tt:p begin="00:17:06.067" end="00:17:07.233">I want to hear it.</tt:p>
+            <tt:p begin="00:17:07.267" end="00:17:09.400">ARCHER: Well, Katya,<tt:br/>you say that...</tt:p>
+            <tt:p begin="00:17:09.433" end="00:17:10.567">ARCHER ON TAPE: Barry?</tt:p>
+            <tt:p begin="00:17:10.600" end="00:17:12.200">Barry it's me, Archer.</tt:p>
+            <tt:p begin="00:17:12.233" end="00:17:13.500">ARCHER: That's not me,<tt:br/>talking to Barry.</tt:p>
+            <tt:p begin="00:17:13.533" end="00:17:14.033">KATYA: Shh!</tt:p>
+            <tt:p begin="00:17:14.067" end="00:17:14.833">BARRY: Classic Archer!</tt:p>
+            <tt:p begin="00:17:14.867" end="00:17:16.033">ARCHER: That's Barry,<tt:br/>talking to --</tt:p>
+            <tt:p begin="00:17:16.067" end="00:17:17.133">KATYA: Shhhhh!</tt:p>
+            <tt:p begin="00:17:17.167" end="00:17:19.167">ARCHER: Yeah so listen,<tt:br/>Katya asked me to call you...</tt:p>
+            <tt:p begin="00:17:19.200" end="00:17:20.000">BARRY: Shit.</tt:p>
+            <tt:p begin="00:17:20.033" end="00:17:22.033">ARCHER: She's wondering why<tt:br/>you left.</tt:p>
+            <tt:p begin="00:17:22.067" end="00:17:24.167">BARRY: Because<tt:br/>couldn't stand it anymore.</tt:p>
+            <tt:p begin="00:17:24.200" end="00:17:26.033">KATYA: [small gasp]<tt:br/>ARCHER: So you lied to her</tt:p>
+            <tt:p begin="00:17:26.067" end="00:17:28.500">about being on the<tt:br/>space station because --</tt:p>
+            <tt:p begin="00:17:28.533" end="00:17:28.900">BARRY: Archer.</tt:p>
+            <tt:p begin="00:17:28.933" end="00:17:31.167">I am screwing!</tt:p>
+            <tt:p begin="00:17:31.200" end="00:17:31.833">Female.</tt:p>
+            <tt:p begin="00:17:31.867" end="00:17:33.467">Scientists up here all of 'em?</tt:p>
+            <tt:p begin="00:17:33.500" end="00:17:35.300">KATYA: [medium gasp]<tt:br/>ARCHER: Oh, I was gonna ask</tt:p>
+            <tt:p begin="00:17:35.333" end="00:17:37.167">which one, but --<tt:br/>BARRY: All of 'em?</tt:p>
+            <tt:p begin="00:17:37.200" end="00:17:37.933">All of 'em?</tt:p>
+            <tt:p begin="00:17:37.967" end="00:17:39.200">All of --<tt:br/>ARCHER: Okay Barry, I --</tt:p>
+            <tt:p begin="00:17:39.233" end="00:17:40.033">BARRY: Different ways.</tt:p>
+            <tt:p begin="00:17:40.067" end="00:17:40.800">Like?</tt:p>
+            <tt:p begin="00:17:40.833" end="00:17:41.467">In.</tt:p>
+            <tt:p begin="00:17:41.500" end="00:17:42.300">Asshole!</tt:p>
+            <tt:p begin="00:17:42.333" end="00:17:44.500">KATYA: [huge gasp]<tt:br/>ARCHER: Okay, Barry!</tt:p>
+            <tt:p begin="00:17:44.533" end="00:17:46.800">Jesus, have some --<tt:br/>KATYA: [almost feral</tt:p>
+            <tt:p begin="00:17:46.833" end="00:17:49.533">sobbing/screaming]<tt:br/>ARCHER: Katya, baby, don't!</tt:p>
+            <tt:p begin="00:17:49.567" end="00:17:52.467">C'mon, you'll -- wait,<tt:br/>does that even hurt your hands?</tt:p>
+            <tt:p begin="00:17:52.500" end="00:17:55.700">KATYA: The only thing<tt:br/>that hurts is my heart!</tt:p>
+            <tt:p begin="00:17:55.733" end="00:17:59.067">And when Barry gets back,<tt:br/>his heart will hurt,</tt:p>
+            <tt:p begin="00:17:59.100" end="00:18:00.633">because I will rip it out!</tt:p>
+            <tt:p begin="00:18:00.667" end="00:18:01.233">ARCHER: What if...</tt:p>
+            <tt:p begin="00:18:01.267" end="00:18:03.367">Barry wasn't coming back?</tt:p>
+            <tt:p begin="00:18:03.400" end="00:18:05.633">KATYA: But you said Krieger<tt:br/>was fixing rocket.</tt:p>
+            <tt:p begin="00:18:05.667" end="00:18:07.467">ARCHER: Yeah, but only because<tt:br/>he wanted to see an epic</tt:p>
+            <tt:p begin="00:18:07.500" end="00:18:10.200">robot fi --<tt:br/>oh, shit!</tt:p>
+            <tt:p begin="00:18:10.233" end="00:18:11.467">Will you excuse me?</tt:p>
+            <tt:p begin="00:18:11.500" end="00:18:13.200">For a sec?</tt:p>
+            <tt:p begin="00:18:15.067" end="00:18:17.033">ARCHER: No no no no no no no no!</tt:p>
+            <tt:p begin="00:18:17.067" end="00:18:18.467">BARRY: Yes!</tt:p>
+            <tt:p begin="00:18:18.500" end="00:18:20.033">I think that's got 'er, dude!</tt:p>
+            <tt:p begin="00:18:20.067" end="00:18:21.800">KRIEGER: Told you it was the<tt:br/>viscous coupling!</tt:p>
+            <tt:p begin="00:18:21.833" end="00:18:23.633">BARRY: Well goody,<tt:br/>you win space camp.</tt:p>
+            <tt:p begin="00:18:23.667" end="00:18:25.167">So tell Archer<tt:br/>I'm coming for him,</tt:p>
+            <tt:p begin="00:18:25.200" end="00:18:28.167">phrasing, boom,<tt:br/>and both Barrys out!</tt:p>
+            <tt:p begin="00:18:28.200" end="00:18:29.667">ARCHER: Krieger!</tt:p>
+            <tt:p begin="00:18:29.700" end="00:18:31.800">Why is Barry rocket-shipping<tt:br/>away from the frickin</tt:p>
+            <tt:p begin="00:18:31.833" end="00:18:32.767">space station? !</tt:p>
+            <tt:p begin="00:18:32.800" end="00:18:36.033">KRIEGER: Because<tt:br/>Newton's Third Law of Motion?</tt:p>
+            <tt:p begin="00:18:36.067" end="00:18:38.167">ARCHER: Hey thanks,<tt:br/>Neil deGrasse Tyson!</tt:p>
+            <tt:p begin="00:18:38.200" end="00:18:41.700">HOLOGRAM: Oooooh,<tt:br/>deGrasse Tyson-san...</tt:p>
+            <tt:p begin="00:18:41.733" end="00:18:43.167">ARCHER: How the hell did you fix<tt:br/>his ship? !</tt:p>
+            <tt:p begin="00:18:43.200" end="00:18:45.033">I gave you a bunch of gibberish!</tt:p>
+            <tt:p begin="00:18:45.067" end="00:18:47.667">KRIEGER: I may have gone a teeny<tt:br/>bit off script?</tt:p>
+            <tt:p begin="00:18:47.700" end="00:18:48.267">ARCHER: Wh-?</tt:p>
+            <tt:p begin="00:18:48.300" end="00:18:49.700">What is wrong with you? !</tt:p>
+            <tt:p begin="00:18:49.733" end="00:18:50.800">KRIEGER: With me?</tt:p>
+            <tt:p begin="00:18:50.833" end="00:18:52.800">Dude, robot fight.</tt:p>
+            <tt:p begin="00:18:52.833" end="00:18:54.300">Oh, and Barry said<tt:br/>tell you he's --</tt:p>
+            <tt:p begin="00:18:54.333" end="00:18:55.800">ARCHER: I heard him!</tt:p>
+            <tt:p begin="00:18:55.833" end="00:18:58.167">Okay, I'll tell Katya to pack a<tt:br/>bag and we'll move to,</tt:p>
+            <tt:p begin="00:18:58.200" end="00:19:02.567">Alaska or somewhere else snowy,<tt:br/>where he can't track us!</tt:p>
+            <tt:p begin="00:19:02.600" end="00:19:03.733">KRIEGER: Doesn't even make<tt:br/>sense.</tt:p>
+            <tt:p begin="00:19:03.767" end="00:19:05.733">ARCHER: You know what<tt:br/>doesn't make sense? !</tt:p>
+            <tt:p begin="00:19:05.767" end="00:19:07.567">OPERATOR: The number you have<tt:br/>dialed has been disconnected</tt:p>
+            <tt:p begin="00:19:07.600" end="00:19:09.500">or is --<tt:br/>ARCHER: Nooooooooooooooooooo!</tt:p>
+            <tt:p begin="00:19:09.533" end="00:19:11.100">OPERATOR: -- longer in service.</tt:p>
+            <tt:p begin="00:19:11.133" end="00:19:11.967">Goodbye.</tt:p>
+            <tt:p begin="00:19:12.000" end="00:19:17.467">[PHONE RINGING]<tt:br/>BARRY: Hey, punkin pie!</tt:p>
+            <tt:p begin="00:19:17.500" end="00:19:19.800">KATYA: Dun't give me your<tt:br/>pie of pumpkin, Barry,</tt:p>
+            <tt:p begin="00:19:19.833" end="00:19:21.067">you are in the big trouble!</tt:p>
+            <tt:p begin="00:19:21.100" end="00:19:22.567">BARRY: I --<tt:br/>KATYA: I told you!</tt:p>
+            <tt:p begin="00:19:22.600" end="00:19:25.067">I said dun't try to kill<tt:br/>Sterling and what do you do? !</tt:p>
+            <tt:p begin="00:19:25.100" end="00:19:26.167">BARRY: Um, that.</tt:p>
+            <tt:p begin="00:19:26.200" end="00:19:26.767">KATYA: Da.</tt:p>
+            <tt:p begin="00:19:26.800" end="00:19:28.533">But I do what you ask me.</tt:p>
+            <tt:p begin="00:19:28.567" end="00:19:30.700">To repair your rocket,<tt:br/>I use Sterling, and once again</tt:p>
+            <tt:p begin="00:19:30.733" end="00:19:33.700">break his heart, so --<tt:br/>BARRY: Archer? Please.</tt:p>
+            <tt:p begin="00:19:33.733" end="00:19:35.800">KATYA: You pliz, he loves me.</tt:p>
+            <tt:p begin="00:19:35.833" end="00:19:37.733">You should have heard thet<tt:br/>pathetic tape.</tt:p>
+            <tt:p begin="00:19:37.767" end="00:19:39.733">BARRY: Well whatever, look --<tt:br/>KATYA: You look.</tt:p>
+            <tt:p begin="00:19:39.767" end="00:19:43.200">When you get home you are going<tt:br/>to hev some new ground rules.</tt:p>
+            <tt:p begin="00:19:43.233" end="00:19:44.700">BARRY: Okay, hon?</tt:p>
+            <tt:p begin="00:19:44.733" end="00:19:50.200">Look, I'm sorry I lied,<tt:br/>but, ya know, I make the rules.</tt:p>
+            <tt:p begin="00:19:50.233" end="00:19:54.033">I mean, I am the head of<tt:br/>the KGB, so --</tt:p>
+            <tt:p begin="00:19:54.067" end="00:19:55.067">KATYA: Hello?</tt:p>
+            <tt:p begin="00:19:55.100" end="00:19:57.067">Darling, you are breaking up.</tt:p>
+            <tt:p begin="00:20:00.567" end="00:20:02.567">KATYA: Now who do I hev<tt:br/>to screw to get a drink</tt:p>
+            <tt:p begin="00:20:02.600" end="00:20:03.800">around here?</tt:p>
+            <tt:p begin="00:20:03.833" end="00:20:05.233">BORIS: Nobody, ma'am.</tt:p>
+            <tt:p begin="00:20:05.267" end="00:20:09.367">Unless you wunt.</tt:p>
+            <tt:p begin="00:20:09.400" end="00:20:13.200">And if you do wunt,<tt:br/>I ken be buttum.</tt:p>
+            <tt:p begin="00:20:13.233" end="00:20:15.500">No problem there.</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

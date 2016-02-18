@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:02.670" end="00:00:05.039">MALORY(O.S.): Hurry, hurry, sit<tt:br/>down, come in!</tt:p>
+            <tt:p begin="00:00:05.073" end="00:00:07.241">I have the most fantastic news!</tt:p>
+            <tt:p begin="00:00:07.275" end="00:00:09.077">ARCHER: What, did Bub finally<tt:br/>die?</tt:p>
+            <tt:p begin="00:00:09.110" end="00:00:10.278">LANA: Who's Bub?</tt:p>
+            <tt:p begin="00:00:10.311" end="00:00:12.213">MALORY: My mother, and before<tt:br/>you make some snotty comment,</tt:p>
+            <tt:p begin="00:00:12.246" end="00:00:15.549">yes I have a mother, do you<tt:br/>want to hear my news or not?!</tt:p>
+            <tt:p begin="00:00:15.583" end="00:00:18.252">LANA: Yeah, if you're done<tt:br/>yelling at me for no reason.</tt:p>
+            <tt:p begin="00:00:18.286" end="00:00:21.322">MALORY: Last night, an Air<tt:br/>Force B-52 bomber crashed</tt:p>
+            <tt:p begin="00:00:21.355" end="00:00:23.191">off the coast of Bermuda!</tt:p>
+            <tt:p begin="00:00:23.224" end="00:00:26.594">ARCHER: Well it's about<tt:br/>frickin time!</tt:p>
+            <tt:p begin="00:00:26.627" end="00:00:28.562">What, we're we not bombing them<tt:br/>in advance of an amphibious</tt:p>
+            <tt:p begin="00:00:28.596" end="00:00:29.497">invasion?</tt:p>
+            <tt:p begin="00:00:29.530" end="00:00:31.099">LANA: Why would we invade.</tt:p>
+            <tt:p begin="00:00:31.132" end="00:00:32.032">Bermuda.</tt:p>
+            <tt:p begin="00:00:32.066" end="00:00:35.336">ARCHER: Ah, Bermuda. I was<tt:br/>thinking Bahamas.</tt:p>
+            <tt:p begin="00:00:35.369" end="00:00:36.204">LANA: Same question.</tt:p>
+            <tt:p begin="00:00:36.237" end="00:00:38.206">ARCHER: Same answer, Why<tt:br/>not? It's how we</tt:p>
+            <tt:p begin="00:00:38.239" end="00:00:39.407">got the Virgin Islands.</tt:p>
+            <tt:p begin="00:00:39.440" end="00:00:41.442">CYRIL: Actually, the United<tt:br/>States bought the Virgin Islands</tt:p>
+            <tt:p begin="00:00:41.475" end="00:00:42.676">from Denmark.</tt:p>
+            <tt:p begin="00:00:42.710" end="00:00:44.278">ARCHER: Okay, Mr. Peabody...</tt:p>
+            <tt:p begin="00:00:44.312" end="00:00:45.213">MALORY: Are you finished?</tt:p>
+            <tt:p begin="00:00:45.246" end="00:00:46.013">ARCHER: Yes.</tt:p>
+            <tt:p begin="00:00:46.046" end="00:00:48.216">MALORY: Good. Because the B-52<tt:br/>was -</tt:p>
+            <tt:p begin="00:00:48.249" end="00:00:50.284">ARCHER: In the middle of the<tt:br/>Bermuda Triangle, is this</tt:p>
+            <tt:p begin="00:00:50.318" end="00:00:52.253">about the Bermuda Triangle,<tt:br/>because that's my fourth</tt:p>
+            <tt:p begin="00:00:52.286" end="00:00:53.087">biggest fear!</tt:p>
+            <tt:p begin="00:00:53.121" end="00:00:56.157">MALORY: It's about the B-52's<tt:br/>payload!</tt:p>
+            <tt:p begin="00:00:56.190" end="00:00:59.260">MALORY: Namely, a Mark-28<tt:br/>hydrogen bomb.</tt:p>
+            <tt:p begin="00:00:59.293" end="00:01:00.428">EVERYBODY: Ohhhh!</tt:p>
+            <tt:p begin="00:01:00.461" end="00:01:03.197">MALORY: Which ISIS... is going<tt:br/>to recover.</tt:p>
+            <tt:p begin="00:01:03.231" end="00:01:04.132">EVERYBODY: What!?</tt:p>
+            <tt:p begin="00:01:04.165" end="00:01:06.267">MALORY: And then give to the<tt:br/>U.S. government</tt:p>
+            <tt:p begin="00:01:06.300" end="00:01:08.569">in exchange for a huge reward!</tt:p>
+            <tt:p begin="00:01:08.602" end="00:01:11.105">CYRIL: So, ransom it back.</tt:p>
+            <tt:p begin="00:01:11.139" end="00:01:14.375">MALORY: No, not ransom it,<tt:br/>Cyril, we're -look,</tt:p>
+            <tt:p begin="00:01:14.408" end="00:01:17.111">semantics, whatever, this is -<tt:br/>CYRIL: Treason?</tt:p>
+            <tt:p begin="00:01:17.145" end="00:01:19.647">MALORY: A huge opportunity for<tt:br/>ISIS!</tt:p>
+            <tt:p begin="00:01:19.680" end="00:01:22.583">Or the Russians...</tt:p>
+            <tt:p begin="00:01:22.616" end="00:01:25.586">MALORY: The B-52 is on the<tt:br/>ocean floor here, at a depth</tt:p>
+            <tt:p begin="00:01:25.619" end="00:01:27.155">of eight thousand feet...</tt:p>
+            <tt:p begin="00:01:27.188" end="00:01:29.590">ARCHER: or thirteen hundred<tt:br/>thirty-three fathoms.</tt:p>
+            <tt:p begin="00:01:29.623" end="00:01:30.824">LANA: How do you know that?</tt:p>
+            <tt:p begin="00:01:30.858" end="00:01:31.992">ARCHER: How do you not?</tt:p>
+            <tt:p begin="00:01:32.025" end="00:01:34.595">MALORY: So recovering the bomb<tt:br/>requires a deep submergence</tt:p>
+            <tt:p begin="00:01:34.628" end="00:01:38.166">vehicle. The only American<tt:br/>DSV is here, in the</tt:p>
+            <tt:p begin="00:01:38.199" end="00:01:40.434">Pacific. The Russians have<tt:br/>one in the North</tt:p>
+            <tt:p begin="00:01:40.468" end="00:01:43.137">Atlantic, so if they hear<tt:br/>about the wreck and start</tt:p>
+            <tt:p begin="00:01:43.171" end="00:01:45.239">steaming toward it -<tt:br/>ARCHER: They don't actually</tt:p>
+            <tt:p begin="00:01:45.273" end="00:01:46.840">steam anymore, Mother.</tt:p>
+            <tt:p begin="00:01:46.874" end="00:01:50.278">MALORY: It's a figure of<tt:br/>speech, like &quot;shut your hatch,&quot;</tt:p>
+            <tt:p begin="00:01:50.311" end="00:01:52.346">because my point was,<tt:br/>the Russians will beat them</tt:p>
+            <tt:p begin="00:01:52.380" end="00:01:57.285">to it. So we are going to<tt:br/>beat the Russians.</tt:p>
+            <tt:p begin="00:01:57.318" end="00:01:59.353">ARCHER: Give it up, folks!</tt:p>
+            <tt:p begin="00:01:59.387" end="00:02:01.322">Mike Eruzione!</tt:p>
+            <tt:p begin="00:02:01.355" end="00:02:05.326">LANA; Well - shut up - since<tt:br/>Krieger doesn't have a</tt:p>
+            <tt:p begin="00:02:05.359" end="00:02:07.328">submersible hidden in his lab...</tt:p>
+            <tt:p begin="00:02:07.361" end="00:02:10.464">KRIEGER: Or do I?</tt:p>
+            <tt:p begin="00:02:10.498" end="00:02:12.266">I don't, actually.</tt:p>
+            <tt:p begin="00:02:12.300" end="00:02:14.302">ARCHER: Then how are we<tt:br/>supposed to beat anybody to</tt:p>
+            <tt:p begin="00:02:14.335" end="00:02:17.438">a hydrogen bomb, under<tt:br/>two-point-two-seven leagues of</tt:p>
+            <tt:p begin="00:02:17.471" end="00:02:18.506">water?!</tt:p>
+            <tt:p begin="00:02:18.539" end="00:02:21.442">CHERYL/CAROL: Oh my Jesus God<tt:br/>damn alright already!</tt:p>
+            <tt:p begin="00:02:21.475" end="00:02:22.510">MALORY: Can I possibly help you?</tt:p>
+            <tt:p begin="00:02:22.543" end="00:02:25.279">CHERYL/CAROL: Please, I know<tt:br/>you were talking loud so</tt:p>
+            <tt:p begin="00:02:25.313" end="00:02:27.781">I'd hear you, so whatever, but<tt:br/>we're not speaking so if you</tt:p>
+            <tt:p begin="00:02:27.815" end="00:02:30.451">want a deep submergence whatever<tt:br/>you can talk to my</tt:p>
+            <tt:p begin="00:02:30.484" end="00:02:32.820">stupid gross brother Cecil!</tt:p>
+            <tt:p begin="00:02:32.853" end="00:02:35.356">Who, by the way, is here to<tt:br/>see you.</tt:p>
+            <tt:p begin="00:02:35.389" end="00:02:37.225">Ms. Archer will see you now.</tt:p>
+            <tt:p begin="00:02:37.258" end="00:02:39.327">CECIL: Thank you, Cheryl, I -<tt:br/>CHERYL/CAROL: Rrraaaghh!</tt:p>
+            <tt:p begin="00:02:39.360" end="00:02:41.895">I hate you!</tt:p>
+            <tt:p begin="00:02:41.929" end="00:02:43.831">CECIL: Hello, I'm Cecil Tunt.</tt:p>
+            <tt:p begin="00:02:43.864" end="00:02:46.334">I believe you're in need<tt:br/>of some assistance?</tt:p>
+            <tt:p begin="00:02:46.367" end="00:02:48.302">ARCHER: (chuckling)<tt:br/>Yeah, RienPoortvliet just</tt:p>
+            <tt:p begin="00:02:48.336" end="00:02:50.738">called, he wants you to pose<tt:br/>for him.</tt:p>
+            <tt:p begin="00:02:50.771" end="00:02:54.208">C'mon, beloved illustrator of<tt:br/>&quot;Gnomes&quot;?</tt:p>
+            <tt:p begin="00:02:54.242" end="00:02:57.211">Jesus, read a coffee table book!</tt:p>
+            <tt:p begin="00:02:57.245" end="00:03:04.285">[theme music]</tt:p>
+            <tt:p begin="00:03:32.813" end="00:03:36.250">ARCHER (O.S.): Wow, you own an<tt:br/>island, an undersea laboratory,</tt:p>
+            <tt:p begin="00:03:36.284" end="00:03:38.852">and this... choppersaurus?</tt:p>
+            <tt:p begin="00:03:38.886" end="00:03:41.255">Guess it doesn't suck to be a<tt:br/>billionaire, huh?</tt:p>
+            <tt:p begin="00:03:41.289" end="00:03:43.291">CECIL: Probably not, but<tt:br/>Cheryl and I split our</tt:p>
+            <tt:p begin="00:03:43.324" end="00:03:45.393">parents' estate, so technically<tt:br/>I'm only worth five hundred</tt:p>
+            <tt:p begin="00:03:45.426" end="00:03:46.927">million.</tt:p>
+            <tt:p begin="00:03:46.960" end="00:03:49.530">Which also doesn't suck,<tt:br/>obviously.</tt:p>
+            <tt:p begin="00:03:49.563" end="00:03:51.932">CHERYL/CAROL (O.S.): Unlike<tt:br/>you who totally sucks obviously!</tt:p>
+            <tt:p begin="00:03:51.965" end="00:03:53.601">PAM: Will you shut up?!</tt:p>
+            <tt:p begin="00:03:53.634" end="00:03:56.604">I swear to God, if you get us<tt:br/>kicked off before I get</tt:p>
+            <tt:p begin="00:03:56.637" end="00:03:59.640">my jumbo scrimps on -<tt:br/>You'll wish you were Michael</tt:p>
+            <tt:p begin="00:03:59.673" end="00:04:00.674">Findlay.</tt:p>
+            <tt:p begin="00:04:00.708" end="00:04:02.543">CHERYL/CAROL: A, Cecil won't<tt:br/>kick you off, he wants</tt:p>
+            <tt:p begin="00:04:02.576" end="00:04:04.278">everybody here, for no good<tt:br/>reason --</tt:p>
+            <tt:p begin="00:04:04.312" end="00:04:06.780">MALORY: He doesn't need one,<tt:br/>he's an American hero. Who's</tt:p>
+            <tt:p begin="00:04:06.814" end="00:04:08.449">going to make me rich.</tt:p>
+            <tt:p begin="00:04:08.482" end="00:04:10.318">CHERYL/CAROL: And B, that's<tt:br/>not even real shrimp.</tt:p>
+            <tt:p begin="00:04:10.351" end="00:04:11.819">This is all vegan-soy-bullshit.</tt:p>
+            <tt:p begin="00:04:11.852" end="00:04:12.886">PAM: Pffrrfft! Prrfft! Puh!</tt:p>
+            <tt:p begin="00:04:12.920" end="00:04:14.822">CHERYL/CAROL: Because he's<tt:br/>totally vegan, because his</tt:p>
+            <tt:p begin="00:04:14.855" end="00:04:16.724">stupid gross girlfriend Tiffy's<tt:br/>a vegan, and a...</tt:p>
+            <tt:p begin="00:04:16.757" end="00:04:18.326">brother- stealer!</tt:p>
+            <tt:p begin="00:04:18.359" end="00:04:20.828">TIFFY (O.S.): Who can also<tt:br/>totally heeearyoooou...</tt:p>
+            <tt:p begin="00:04:20.861" end="00:04:22.896">CHERYL/CAROL: Which is amazing<tt:br/>because why aren't you dead</tt:p>
+            <tt:p begin="00:04:22.930" end="00:04:24.031">from protein deficiency?!</tt:p>
+            <tt:p begin="00:04:24.064" end="00:04:26.634">TIFFY: Uh, because I get all<tt:br/>eight essential amino acids</tt:p>
+            <tt:p begin="00:04:26.667" end="00:04:29.670">from amaranth and quinoa<tt:br/>without murdering helpless</tt:p>
+            <tt:p begin="00:04:29.703" end="00:04:31.071">animals?</tt:p>
+            <tt:p begin="00:04:31.104" end="00:04:31.739">CHERYL/CAROL (O.S.): Oooooh!</tt:p>
+            <tt:p begin="00:04:31.772" end="00:04:32.606">TIFFY: kkkuughh!</tt:p>
+            <tt:p begin="00:04:32.640" end="00:04:34.308">CECIL (O.S.): Hey, Tiff?</tt:p>
+            <tt:p begin="00:04:34.342" end="00:04:36.310">Could you, instead of<tt:br/>antagonizing her, maybe</tt:p>
+            <tt:p begin="00:04:36.344" end="00:04:37.678">go ahead and take off?</tt:p>
+            <tt:p begin="00:04:37.711" end="00:04:41.482">Love yoooou.</tt:p>
+            <tt:p begin="00:04:41.515" end="00:04:43.684">We'll rendezvous with my<tt:br/>research vessel in a few hours,</tt:p>
+            <tt:p begin="00:04:43.717" end="00:04:46.420">so in the meantime,<tt:br/>I guess, continue to make</tt:p>
+            <tt:p begin="00:04:46.454" end="00:04:48.656">such wildly liberal use of the<tt:br/>bar.</tt:p>
+            <tt:p begin="00:04:48.689" end="00:04:51.759">ARCHER: Done! You're okay,<tt:br/>Cecil. I don't get why Cheryl</tt:p>
+            <tt:p begin="00:04:51.792" end="00:04:53.494">hates you so much.</tt:p>
+            <tt:p begin="00:04:53.527" end="00:04:54.595">CECIL: Right?</tt:p>
+            <tt:p begin="00:04:54.628" end="00:04:55.596">ARCHER: I mean, you've got<tt:br/>this whole Jacques Cousteau</tt:p>
+            <tt:p begin="00:04:55.629" end="00:04:56.730">thing going on, that's -<tt:br/>CECIL: Just one of many</tt:p>
+            <tt:p begin="00:04:56.764" end="00:05:00.701">philanthropies. I have so<tt:br/>much on my plate, as it were.</tt:p>
+            <tt:p begin="00:05:00.734" end="00:05:03.604">Children Without Plates,<tt:br/>speaking of plates, uh,</tt:p>
+            <tt:p begin="00:05:03.637" end="00:05:04.672">Doctors Within Borders...</tt:p>
+            <tt:p begin="00:05:04.705" end="00:05:05.873">ARCHER: Within borders.</tt:p>
+            <tt:p begin="00:05:05.906" end="00:05:07.675">CECIL: Well, of countries<tt:br/>ravaged by war.</tt:p>
+            <tt:p begin="00:05:07.708" end="00:05:09.710">ARCHER: Right, otherwise -<tt:br/>CECIL: Otherwise there's not</tt:p>
+            <tt:p begin="00:05:09.743" end="00:05:10.878">really much point.</tt:p>
+            <tt:p begin="00:05:10.911" end="00:05:14.515">Then there's Nourish A Child,<tt:br/>Shoe A Child, Bespectacle A</tt:p>
+            <tt:p begin="00:05:14.548" end="00:05:17.851">Child,<tt:br/>umm, One Laptop Per Child</tt:p>
+            <tt:p begin="00:05:17.885" end="00:05:18.952">Soldier...</tt:p>
+            <tt:p begin="00:05:18.986" end="00:05:20.020">ARCHER: Wait, what?</tt:p>
+            <tt:p begin="00:05:20.053" end="00:05:21.455">CECIL: Which, unfortunately,<tt:br/>soon became One Thousand</tt:p>
+            <tt:p begin="00:05:21.489" end="00:05:23.424">Laptops Per Warlord.</tt:p>
+            <tt:p begin="00:05:23.457" end="00:05:24.792">ARCHER: Man, all those<tt:br/>charities have gotta</tt:p>
+            <tt:p begin="00:05:24.825" end="00:05:26.860">cost, like -<tt:br/>CECIL: Hey! I should go help</tt:p>
+            <tt:p begin="00:05:26.894" end="00:05:27.861">Tiffy.</tt:p>
+            <tt:p begin="00:05:27.895" end="00:05:29.997">Since we're flying into the<tt:br/>Bermuda Triangle...</tt:p>
+            <tt:p begin="00:05:30.030" end="00:05:33.434">where mysteries abound!</tt:p>
+            <tt:p begin="00:05:33.467" end="00:05:34.868">ARCHER: What kind of mysteries?</tt:p>
+            <tt:p begin="00:05:34.902" end="00:05:38.406">CECIL: I'm kidding!</tt:p>
+            <tt:p begin="00:05:38.439" end="00:05:40.508">ARCHER: Well Cheryl, you come<tt:br/>by it honest.</tt:p>
+            <tt:p begin="00:05:40.541" end="00:05:41.609">LANA (O.S.): Speaking of...</tt:p>
+            <tt:p begin="00:05:41.642" end="00:05:42.743">ARCHER: Aagh! Lana c'mon,<tt:br/>we're about to fly into the</tt:p>
+            <tt:p begin="00:05:42.776" end="00:05:45.479">Bermuda Triangle, my nerves<tt:br/>are frayed enough as it is.</tt:p>
+            <tt:p begin="00:05:45.513" end="00:05:46.614">LANA: Really.</tt:p>
+            <tt:p begin="00:05:46.647" end="00:05:48.749">ARCHER: No, Long Island Iced<tt:br/>Tea number three really took</tt:p>
+            <tt:p begin="00:05:48.782" end="00:05:49.850">the edge off. Want one?</tt:p>
+            <tt:p begin="00:05:49.883" end="00:05:51.885">LANA: No, I'm not drinking,<tt:br/>but -</tt:p>
+            <tt:p begin="00:05:51.919" end="00:05:54.822">ARCHER: Oh my God! I totally<tt:br/>saw this coming!</tt:p>
+            <tt:p begin="00:05:54.855" end="00:05:55.756">LANA: You saw what coming?</tt:p>
+            <tt:p begin="00:05:55.789" end="00:05:57.858">ARCHER: Did you not join the<tt:br/>Nation of Islam?</tt:p>
+            <tt:p begin="00:05:57.891" end="00:05:59.493">LANA: No, Archer, I -<tt:br/>ARCHER: You know they won't</tt:p>
+            <tt:p begin="00:05:59.527" end="00:06:01.929">let you keep dating Cyril,<tt:br/>right? Plus no bacon?</tt:p>
+            <tt:p begin="00:06:01.962" end="00:06:03.497">LANA: You done?</tt:p>
+            <tt:p begin="00:06:03.531" end="00:06:05.733">ARCHER: Well for now, but<tt:br/>after I take a nap -</tt:p>
+            <tt:p begin="00:06:05.766" end="00:06:07.601">LANA: You'll wake up just in<tt:br/>time to get shot for treason,</tt:p>
+            <tt:p begin="00:06:07.635" end="00:06:09.603">because your mother<tt:br/>wants to ransom a hydrogen</tt:p>
+            <tt:p begin="00:06:09.637" end="00:06:11.572">bomb back to the<tt:br/>United States government.</tt:p>
+            <tt:p begin="00:06:11.605" end="00:06:13.774">ARCHER: It's a reward! And<tt:br/>maritime salvage law is</tt:p>
+            <tt:p begin="00:06:13.807" end="00:06:15.743">very clear on the subject.</tt:p>
+            <tt:p begin="00:06:15.776" end="00:06:17.445">According to Cecil.</tt:p>
+            <tt:p begin="00:06:17.478" end="00:06:18.912">LANA: And what's he getting<tt:br/>out of this?</tt:p>
+            <tt:p begin="00:06:18.946" end="00:06:21.682">ARCHER: I... guess whatever<tt:br/>useless thing philanthropists</tt:p>
+            <tt:p begin="00:06:21.715" end="00:06:23.584">normally get from<tt:br/>squandering their money on the</tt:p>
+            <tt:p begin="00:06:23.617" end="00:06:24.752">poor.</tt:p>
+            <tt:p begin="00:06:24.785" end="00:06:26.620">LANA: So what, he's conducting<tt:br/>a huge naval operation just</tt:p>
+            <tt:p begin="00:06:26.654" end="00:06:28.556">for a warm fuzzy?</tt:p>
+            <tt:p begin="00:06:28.589" end="00:06:30.558">ARCHER: I -- hey, wait a<tt:br/>second!</tt:p>
+            <tt:p begin="00:06:30.591" end="00:06:31.525">LANA: What?</tt:p>
+            <tt:p begin="00:06:31.559" end="00:06:33.961">ARCHER: I think I have room<tt:br/>for a fuzzy navel.</tt:p>
+            <tt:p begin="00:06:33.994" end="00:06:37.030">CHERYL/CAROL (O.S.): Wow Tiffy,<tt:br/>who taught you how to fly?</tt:p>
+            <tt:p begin="00:06:37.064" end="00:06:39.633">Was it that goose you freed,<tt:br/>ruining last year's Christmas</tt:p>
+            <tt:p begin="00:06:39.667" end="00:06:42.536">dinner, or --<tt:br/>TIFFY: Rrrgh, Cecil, I swear</tt:p>
+            <tt:p begin="00:06:42.570" end="00:06:43.571">to Goddess...?</tt:p>
+            <tt:p begin="00:06:43.604" end="00:06:45.906">CECIL: I know, Tiffy, but<tt:br/>please, try to focus on</tt:p>
+            <tt:p begin="00:06:45.939" end="00:06:48.141">the greater good. In the<tt:br/>words of the immortal Jeremy</tt:p>
+            <tt:p begin="00:06:48.175" end="00:06:49.810">Bentham -<tt:br/>TIFFY: Good thing I'm</tt:p>
+            <tt:p begin="00:06:49.843" end="00:06:52.880">immortal, cause if she says<tt:br/>one more word to me I will slam</tt:p>
+            <tt:p begin="00:06:52.913" end="00:06:56.116">this helicopter into the<tt:br/>frickin ocean.</tt:p>
+            <tt:p begin="00:06:56.149" end="00:06:59.887">CECIL: Well, you seem busy.</tt:p>
+            <tt:p begin="00:06:59.920" end="00:07:03.924">MALORY: So say it's worth two<tt:br/>billion, a fair reward on that</tt:p>
+            <tt:p begin="00:07:03.957" end="00:07:05.225">would be...</tt:p>
+            <tt:p begin="00:07:05.258" end="00:07:06.460">CECIL: um, hello!</tt:p>
+            <tt:p begin="00:07:06.494" end="00:07:09.597">MALORY: Oh, Mr. Tunt! Please,<tt:br/>join me, you're just the person</tt:p>
+            <tt:p begin="00:07:09.630" end="00:07:10.731">I want to talk to....</tt:p>
+            <tt:p begin="00:07:10.764" end="00:07:14.101">CECIL: And I you. About my<tt:br/>sister. I was curious if you'd</tt:p>
+            <tt:p begin="00:07:14.134" end="00:07:15.569">noticed anything...</tt:p>
+            <tt:p begin="00:07:15.603" end="00:07:17.605">well, curious, about her<tt:br/>behavior.</tt:p>
+            <tt:p begin="00:07:17.638" end="00:07:19.573">MALORY: Ha! Ha! Ha!</tt:p>
+            <tt:p begin="00:07:19.607" end="00:07:20.974">Oh, you're serious.</tt:p>
+            <tt:p begin="00:07:21.008" end="00:07:22.576">CECIL: I'm afraid so, yes.</tt:p>
+            <tt:p begin="00:07:22.610" end="00:07:24.812">MALORY: Well how much time do<tt:br/>you have?</tt:p>
+            <tt:p begin="00:07:24.845" end="00:07:30.518">CECIL: As much as you need...</tt:p>
+            <tt:p begin="00:07:30.551" end="00:07:33.954">CECIL (O.S.): Oh my God, I<tt:br/>don't know what to say...</tt:p>
+            <tt:p begin="00:07:33.987" end="00:07:36.590">I have figuratively lost my<tt:br/>tongue.</tt:p>
+            <tt:p begin="00:07:36.624" end="00:07:38.826">MALORY: With Brent it was<tt:br/>almost literally.</tt:p>
+            <tt:p begin="00:07:38.859" end="00:07:40.594">That's why we can't have<tt:br/>scissors.</tt:p>
+            <tt:p begin="00:07:40.628" end="00:07:42.530">CECIL: I had no idea her<tt:br/>mental state had declined</tt:p>
+            <tt:p begin="00:07:42.563" end="00:07:47.100">to such an extent. I mean,<tt:br/>the arson's not surprising...</tt:p>
+            <tt:p begin="00:07:47.134" end="00:07:48.101">CHILD CECIL: What have you done?</tt:p>
+            <tt:p begin="00:07:48.135" end="00:07:48.869">CHILD CHERYL/CAROL: Ha haha!</tt:p>
+            <tt:p begin="00:07:48.902" end="00:07:50.671">Take that, gazebo!</tt:p>
+            <tt:p begin="00:07:50.704" end="00:07:52.940">CECIL: But you're telling me<tt:br/>she had...</tt:p>
+            <tt:p begin="00:07:52.973" end="00:07:55.976">MALORY: Mm! Choke-sex, that's<tt:br/>her kink!</tt:p>
+            <tt:p begin="00:07:56.009" end="00:07:58.779">With a KGB cyborg. After she<tt:br/>led him straight to the</tt:p>
+            <tt:p begin="00:07:58.812" end="00:08:01.882">ISIS safehouse,<tt:br/>at 921 East Seventy-Third</tt:p>
+            <tt:p begin="00:08:01.915" end="00:08:02.783">Street.</tt:p>
+            <tt:p begin="00:08:02.816" end="00:08:05.653">CECIL: Oh my -- wait, is that<tt:br/>classified?</tt:p>
+            <tt:p begin="00:08:05.686" end="00:08:07.688">MALORY: I won't tell if you<tt:br/>won't tell...</tt:p>
+            <tt:p begin="00:08:07.721" end="00:08:09.890">CECIL: Mmmkay! Well, I<tt:br/>appreciate your candor in</tt:p>
+            <tt:p begin="00:08:09.923" end="00:08:13.060">this matter, Ms. Archer -<tt:br/>MALORY: Oh no, it's Ms.</tt:p>
+            <tt:p begin="00:08:13.093" end="00:08:14.728">Oh.</tt:p>
+            <tt:p begin="00:08:14.762" end="00:08:19.867">CECIL: Ms., yes, thank you<tt:br/>for, um... yes.</tt:p>
+            <tt:p begin="00:08:19.900" end="00:08:24.538">[creepy music]</tt:p>
+            <tt:p begin="00:08:29.176" end="00:08:31.979">ARCHER (O.S.): Come on, you call<tt:br/>this fully stocked?</tt:p>
+            <tt:p begin="00:08:32.012" end="00:08:34.582">And no Georgia peaches? What<tt:br/>the--?</tt:p>
+            <tt:p begin="00:08:34.615" end="00:08:35.683">ARCHER: What're you doing?</tt:p>
+            <tt:p begin="00:08:35.716" end="00:08:37.551">CHERYL/CAROL: I -- what're you<tt:br/>doing?!</tt:p>
+            <tt:p begin="00:08:37.585" end="00:08:40.220">ARCHER: Hairy navel. Started<tt:br/>as a fuzzy, but I'm calling</tt:p>
+            <tt:p begin="00:08:40.253" end="00:08:43.657">this vacation, so...</tt:p>
+            <tt:p begin="00:08:43.691" end="00:08:45.025">Okay.</tt:p>
+            <tt:p begin="00:08:45.058" end="00:08:47.327">Love our little talks!</tt:p>
+            <tt:p begin="00:08:47.360" end="00:08:49.029">PAM: Rrowrf.Om nom nomnomnom.</tt:p>
+            <tt:p begin="00:08:49.062" end="00:08:50.764">CECIL: Hi, it's Pam, right?</tt:p>
+            <tt:p begin="00:08:50.798" end="00:08:53.734">Enjoying the cruelty-free<tt:br/>vegan seafood buffet?</tt:p>
+            <tt:p begin="00:08:53.767" end="00:08:55.669">PAM: Mrmff, it's pretty good,<tt:br/>once you get over how</tt:p>
+            <tt:p begin="00:08:55.703" end="00:08:57.104">allergic I am to soy.</tt:p>
+            <tt:p begin="00:08:57.137" end="00:08:58.839">CECIL: What?! Oh my God, don't<tt:br/>eat that!</tt:p>
+            <tt:p begin="00:08:58.872" end="00:09:01.108">PAM: Wh-? Hey! I am a<tt:br/>consenting adult.</tt:p>
+            <tt:p begin="00:09:01.141" end="00:09:04.578">Plus I assume you've got an<tt:br/>epi-pen on this big</tt:p>
+            <tt:p begin="00:09:04.612" end="00:09:05.779">Riptide-lookin' bastard?</tt:p>
+            <tt:p begin="00:09:05.813" end="00:09:09.349">CECIL: I -- yes, in the first<tt:br/>aid kit in the cockpit, but -</tt:p>
+            <tt:p begin="00:09:09.382" end="00:09:11.118">PAM: Well then shut up.</tt:p>
+            <tt:p begin="00:09:11.151" end="00:09:13.954">CECIL: Shutting up, yes. But<tt:br/>before I do, could I... ask</tt:p>
+            <tt:p begin="00:09:13.987" end="00:09:17.658">you a few questions?</tt:p>
+            <tt:p begin="00:09:17.691" end="00:09:20.060">LANA: How is everybody okay<tt:br/>with this?</tt:p>
+            <tt:p begin="00:09:20.093" end="00:09:20.894">GILLETTE: How are you not?</tt:p>
+            <tt:p begin="00:09:20.928" end="00:09:22.062">CYRIL: Lana, you heard Ms.<tt:br/>Archer, it's</tt:p>
+            <tt:p begin="00:09:22.095" end="00:09:24.231">either us or the Russians, and -<tt:br/>LANA: I did not hear that,</tt:p>
+            <tt:p begin="00:09:24.264" end="00:09:26.634">actually, but -<tt:br/>GILLETTE: But if you found</tt:p>
+            <tt:p begin="00:09:26.667" end="00:09:29.136">somebody's wallet, you'd<tt:br/>expect to get a reward, so -</tt:p>
+            <tt:p begin="00:09:29.169" end="00:09:30.938">LANA: What if they won't pay a<tt:br/>reward?</tt:p>
+            <tt:p begin="00:09:30.971" end="00:09:32.606">Then what, she just keeps the<tt:br/>bomb?</tt:p>
+            <tt:p begin="00:09:32.640" end="00:09:33.841">CYRIL: C'mon, it's not gonna<tt:br/>come to that.</tt:p>
+            <tt:p begin="00:09:33.874" end="00:09:35.943">GILLETTE: Ooh, but if it does<tt:br/>we could move to Cecil's island</tt:p>
+            <tt:p begin="00:09:35.976" end="00:09:37.310">and be a rogue state!</tt:p>
+            <tt:p begin="00:09:37.344" end="00:09:38.612">CYRIL: Coool...</tt:p>
+            <tt:p begin="00:09:38.646" end="00:09:40.113">LANA: Ugh, forget it.</tt:p>
+            <tt:p begin="00:09:40.147" end="00:09:43.050">Oh, and also dummies? We're<tt:br/>five hundred miles from the</tt:p>
+            <tt:p begin="00:09:43.083" end="00:09:44.652">nearest tree.</tt:p>
+            <tt:p begin="00:09:44.685" end="00:09:47.054">CYRIL: Hey thanks, Magellan!</tt:p>
+            <tt:p begin="00:09:47.087" end="00:09:49.923">Hey wait, why the heck are you<tt:br/>painting my face like this?!</tt:p>
+            <tt:p begin="00:09:49.957" end="00:09:51.324">GILLETTE: Cause you look<tt:br/>fierce.</tt:p>
+            <tt:p begin="00:09:51.358" end="00:09:52.325">Rrowr.</tt:p>
+            <tt:p begin="00:09:52.359" end="00:09:53.426">PAM: Rrowrf.</tt:p>
+            <tt:p begin="00:09:53.460" end="00:09:54.494">CECIL: Well thank you, Pam, I<tt:br/>appreciate your candor,</tt:p>
+            <tt:p begin="00:09:54.527" end="00:09:57.898">and -- you really, really<tt:br/>should really stop eating</tt:p>
+            <tt:p begin="00:09:57.931" end="00:09:58.799">those.</tt:p>
+            <tt:p begin="00:09:58.832" end="00:10:00.067">PAM: Last one.</tt:p>
+            <tt:p begin="00:10:00.100" end="00:10:03.671">Mmrowmf.</tt:p>
+            <tt:p begin="00:10:03.704" end="00:10:05.673">LANA: Malory, please, is there<tt:br/>any way I can get you</tt:p>
+            <tt:p begin="00:10:05.706" end="00:10:06.573">to reconsider this?</tt:p>
+            <tt:p begin="00:10:06.606" end="00:10:09.109">MALORY: Well, if you feel that<tt:br/>strongly...</tt:p>
+            <tt:p begin="00:10:09.142" end="00:10:10.143">LANA: I so do.</tt:p>
+            <tt:p begin="00:10:10.177" end="00:10:12.680">MALORY: Cecil says marine<tt:br/>salvage goes for ten to</tt:p>
+            <tt:p begin="00:10:12.713" end="00:10:15.683">twenty percent of the item's<tt:br/>value, but since all I'm</tt:p>
+            <tt:p begin="00:10:15.716" end="00:10:18.018">asking is a measly three<tt:br/>percent, if you've got</tt:p>
+            <tt:p begin="00:10:18.051" end="00:10:20.688">sixty million dollars lying<tt:br/>around...?</tt:p>
+            <tt:p begin="00:10:20.721" end="00:10:21.689">LANA: Bwexqueeze me?!</tt:p>
+            <tt:p begin="00:10:21.722" end="00:10:23.090">MALORY: I know, right?</tt:p>
+            <tt:p begin="00:10:23.123" end="00:10:24.992">It's a steal at twice the<tt:br/>price.</tt:p>
+            <tt:p begin="00:10:25.025" end="00:10:27.360">GILLETTE: Yeah and about that,<tt:br/>Cyril figured out how big our</tt:p>
+            <tt:p begin="00:10:27.394" end="00:10:28.662">bonuses should be.</tt:p>
+            <tt:p begin="00:10:28.696" end="00:10:29.797">MALORY: Your what?!</tt:p>
+            <tt:p begin="00:10:29.830" end="00:10:30.731">CYRIL: I -- Ray made me!</tt:p>
+            <tt:p begin="00:10:30.764" end="00:10:33.033">GILLETTE: Cyril! C'mon you're<tt:br/>fierce, rrowr!</tt:p>
+            <tt:p begin="00:10:33.066" end="00:10:35.769">ARCHER (O.S.): Rrraarrgh!</tt:p>
+            <tt:p begin="00:10:35.803" end="00:10:38.171">No! Don't!</tt:p>
+            <tt:p begin="00:10:38.205" end="00:10:39.707">[grrrrzzz]<tt:br/>CECIL: Uh, could I speak to</tt:p>
+            <tt:p begin="00:10:39.740" end="00:10:40.607">you for a moment?</tt:p>
+            <tt:p begin="00:10:40.640" end="00:10:43.210">ARCHER: &quot;Wildly liberal use,&quot;<tt:br/>Cecil, those</tt:p>
+            <tt:p begin="00:10:43.243" end="00:10:44.845">were your exact words!</tt:p>
+            <tt:p begin="00:10:44.878" end="00:10:46.446">CECIL: No, of course, that's<tt:br/>totally fine, but I wanted</tt:p>
+            <tt:p begin="00:10:46.479" end="00:10:49.149">to talk to you about -<tt:br/>ARCHER: Don't say high-</tt:p>
+            <tt:p begin="00:10:49.182" end="00:10:50.818">functioning alcoholism.</tt:p>
+            <tt:p begin="00:10:50.851" end="00:10:52.853">CECIL: I wasn't. Going to.</tt:p>
+            <tt:p begin="00:10:52.886" end="00:10:53.653">ARCHER: Well then what's on<tt:br/>your mind?</tt:p>
+            <tt:p begin="00:10:53.687" end="00:10:55.889">CECIL: Well, it's about my<tt:br/>sister...</tt:p>
+            <tt:p begin="00:10:55.923" end="00:10:58.692">ARCHER: Hey whoa! I dunno what<tt:br/>she told you but Carol's a</tt:p>
+            <tt:p begin="00:10:58.726" end="00:11:00.828">consenting adult, so -<tt:br/>CECIL: Well that's actually</tt:p>
+            <tt:p begin="00:11:00.861" end="00:11:03.196">kind of my point,<tt:br/>I wanted to ask if you'd ever</tt:p>
+            <tt:p begin="00:11:03.230" end="00:11:05.398">seen my sister acting strangely,<tt:br/>or -</tt:p>
+            <tt:p begin="00:11:05.432" end="00:11:10.470">ARCHER: Ha! Oh, you're serious.</tt:p>
+            <tt:p begin="00:11:10.503" end="00:11:15.876">[creepy music]<tt:br/>CHERYL/CAROL: Just ignore it,</tt:p>
+            <tt:p begin="00:11:15.909" end="00:11:19.747">it's non-diegetic.</tt:p>
+            <tt:p begin="00:11:19.780" end="00:11:22.182">PAM: Last one, stinky-pinky-<tt:br/>swear.</tt:p>
+            <tt:p begin="00:11:22.215" end="00:11:23.216">Mrowf.</tt:p>
+            <tt:p begin="00:11:23.250" end="00:11:24.217">CHERYL/CAROL (O.S.): Psst! Pam!</tt:p>
+            <tt:p begin="00:11:24.251" end="00:11:26.386">PAM: Aw crap, already?</tt:p>
+            <tt:p begin="00:11:26.419" end="00:11:27.387">CHERYL/CAROL (O.S.): Pam!</tt:p>
+            <tt:p begin="00:11:27.420" end="00:11:29.256">PAM: Look, auditory<tt:br/>hallucinations aren't gonna</tt:p>
+            <tt:p begin="00:11:29.289" end="00:11:31.224">make you any less delicious.</tt:p>
+            <tt:p begin="00:11:31.258" end="00:11:33.727">PAM: Hey! I was talking to<tt:br/>that!</tt:p>
+            <tt:p begin="00:11:33.761" end="00:11:34.862">CHERYL/CAROL: Shhh! Shut up! I<tt:br/>need your help!</tt:p>
+            <tt:p begin="00:11:34.895" end="00:11:36.163">PAM: And that's how you ask?</tt:p>
+            <tt:p begin="00:11:36.196" end="00:11:37.765">CHERYL/CAROL: Cecil's like,<tt:br/>interviewing everybody!</tt:p>
+            <tt:p begin="00:11:37.798" end="00:11:40.200">PAM: Yeah, he -- is he? Doing<tt:br/>that?</tt:p>
+            <tt:p begin="00:11:40.233" end="00:11:41.769">CHERYL/CAROL: Yes! And I think<tt:br/>he's taping it!</tt:p>
+            <tt:p begin="00:11:41.802" end="00:11:43.403">Look, there's cameras<tt:br/>everywhere!</tt:p>
+            <tt:p begin="00:11:43.436" end="00:11:44.504">PAM: Huh.</tt:p>
+            <tt:p begin="00:11:44.537" end="00:11:45.672">CHERYL/CAROL: I think he's<tt:br/>taping them saying I'm crazy</tt:p>
+            <tt:p begin="00:11:45.705" end="00:11:48.275">so he can show it to a judge<tt:br/>and get a conservatorship over</tt:p>
+            <tt:p begin="00:11:48.308" end="00:11:49.276">me!</tt:p>
+            <tt:p begin="00:11:49.309" end="00:11:51.078">PAM: Huh.</tt:p>
+            <tt:p begin="00:11:51.111" end="00:11:52.279">CHERYL/CAROL: &quot;Huh&quot; what?!</tt:p>
+            <tt:p begin="00:11:52.312" end="00:11:55.248">PAM: I mean... ya<tt:br/>think that's the worst idea</tt:p>
+            <tt:p begin="00:11:55.282" end="00:11:56.283">anybody ever had?</tt:p>
+            <tt:p begin="00:11:56.316" end="00:11:57.918">CHERYL/CAROL: Oh. My God.</tt:p>
+            <tt:p begin="00:11:57.951" end="00:11:59.386">PAM: I know, it's hard to<tt:br/>hear, but -</tt:p>
+            <tt:p begin="00:11:59.419" end="00:12:00.921">[thwap]<tt:br/>PAM: Owww!</tt:p>
+            <tt:p begin="00:12:00.954" end="00:12:01.955">CHERYL/CAROL: I thought you<tt:br/>were my friend!</tt:p>
+            <tt:p begin="00:12:01.989" end="00:12:03.857">PAM: Yeah and for like six<tt:br/>months you also thought</tt:p>
+            <tt:p begin="00:12:03.891" end="00:12:06.126">you were a werewolf!</tt:p>
+            <tt:p begin="00:12:06.159" end="00:12:11.298">Aw crap, I can't feel my face.</tt:p>
+            <tt:p begin="00:12:11.331" end="00:12:13.333">PAM: Last one, swear to God.</tt:p>
+            <tt:p begin="00:12:15.836" end="00:12:17.905">ARCHER: Swear to God, every<tt:br/>full moon she'd make us</tt:p>
+            <tt:p begin="00:12:17.938" end="00:12:19.973">lock her in the ISIS vault.</tt:p>
+            <tt:p begin="00:12:20.007" end="00:12:21.842">CECIL: Oh my God, how are you<tt:br/>laughing?</tt:p>
+            <tt:p begin="00:12:21.875" end="00:12:24.077">That's not funny, it's tragic!</tt:p>
+            <tt:p begin="00:12:24.111" end="00:12:28.782">ARCHER: I -- no yeah, but you<tt:br/>know, plus time, it equals -</tt:p>
+            <tt:p begin="00:12:28.816" end="00:12:30.784">CECIL: Thank you, I've heard<tt:br/>quite enough.</tt:p>
+            <tt:p begin="00:12:30.818" end="00:12:32.853">Now if you'll please excuse<tt:br/>me, I -</tt:p>
+            <tt:p begin="00:12:32.886" end="00:12:34.822">TIFFY (O.S.): Cecil? My<tt:br/>darling whom I love?</tt:p>
+            <tt:p begin="00:12:34.855" end="00:12:37.157">TIFFY: And also strangers whom<tt:br/>I don't even like?</tt:p>
+            <tt:p begin="00:12:37.190" end="00:12:39.159">Our ETA is fifteen minutes.</tt:p>
+            <tt:p begin="00:12:39.192" end="00:12:42.495">And the seas are really<tt:br/>choppy, so we may be in for</tt:p>
+            <tt:p begin="00:12:42.529" end="00:12:44.264">a rough landing.</tt:p>
+            <tt:p begin="00:12:44.297" end="00:12:47.134">CECIL: Thank you love yoooooou.</tt:p>
+            <tt:p begin="00:12:47.167" end="00:12:50.971">So you may want to switch to<tt:br/>coffee.</tt:p>
+            <tt:p begin="00:12:51.004" end="00:12:53.306">ARCHER: Ha! Ha! Ha! ahhh.</tt:p>
+            <tt:p begin="00:12:53.340" end="00:12:56.243">Oh, you're still serious.</tt:p>
+            <tt:p begin="00:12:56.276" end="00:12:59.980">CHERYL/CAROL: Or am I?</tt:p>
+            <tt:p begin="00:13:00.013" end="00:13:01.815">I am, actually.</tt:p>
+            <tt:p begin="00:13:01.849" end="00:13:03.817">MALORY: Have you people lost<tt:br/>your minds?!</tt:p>
+            <tt:p begin="00:13:03.851" end="00:13:05.518">LANA: 'cause apparently it's<tt:br/>going around...</tt:p>
+            <tt:p begin="00:13:05.552" end="00:13:08.088">MALORY: Because - shut up - if<tt:br/>we recover the bomb, I</tt:p>
+            <tt:p begin="00:13:08.121" end="00:13:11.859">will decide if any of<tt:br/>you receives a tiny bonus, so -</tt:p>
+            <tt:p begin="00:13:11.892" end="00:13:12.759">CYRIL GILLETTE: If?! If?!</tt:p>
+            <tt:p begin="00:13:12.792" end="00:13:14.494">ARCHER: Guys, shut up, I got<tt:br/>this, shut up.</tt:p>
+            <tt:p begin="00:13:14.527" end="00:13:15.863">What do you mean, if?!</tt:p>
+            <tt:p begin="00:13:15.896" end="00:13:16.964">Also, what are we talking<tt:br/>about?</tt:p>
+            <tt:p begin="00:13:16.997" end="00:13:19.299">MALORY: Nothing. There's<tt:br/>nothing to talk about, because</tt:p>
+            <tt:p begin="00:13:19.332" end="00:13:21.969">I am -- Jesus Christ!</tt:p>
+            <tt:p begin="00:13:22.002" end="00:13:24.371">ARCHER: Okay, it's either the<tt:br/>altitude or a stroke.</tt:p>
+            <tt:p begin="00:13:24.404" end="00:13:27.474">Mother, it's Sterling! Do you<tt:br/>smell toast?</tt:p>
+            <tt:p begin="00:13:27.507" end="00:13:28.208">MALORY: Pam?!</tt:p>
+            <tt:p begin="00:13:28.241" end="00:13:32.980">PAM: Grrrgh, grrrgh!</tt:p>
+            <tt:p begin="00:13:33.013" end="00:13:34.514">LANA: What the -<tt:br/>TIFFY: -- hell are you</tt:p>
+            <tt:p begin="00:13:34.547" end="00:13:35.548">doing?!</tt:p>
+            <tt:p begin="00:13:35.582" end="00:13:38.018">The cockpit is off limits,<tt:br/>missy!</tt:p>
+            <tt:p begin="00:13:38.051" end="00:13:41.021">CHERYL/CAROL: Oh yeah?! Well<tt:br/>so's my inheritance!</tt:p>
+            <tt:p begin="00:13:41.054" end="00:13:43.056">[creepy music]<tt:br/>Goddammit, shut</tt:p>
+            <tt:p begin="00:13:43.090" end="00:13:44.858">up John Williams!</tt:p>
+            <tt:p begin="00:13:44.892" end="00:13:47.294">TIFFY: Oh my God you really<tt:br/>are crazy!</tt:p>
+            <tt:p begin="00:13:47.327" end="00:13:49.229">Would a crazy person do this?!</tt:p>
+            <tt:p begin="00:13:49.262" end="00:13:50.864">Ungh!</tt:p>
+            <tt:p begin="00:13:50.898" end="00:13:54.034">TIFFY: Yes!</tt:p>
+            <tt:p begin="00:13:54.067" end="00:13:56.036">ARCHER: What the hell's going<tt:br/>on?!</tt:p>
+            <tt:p begin="00:13:56.069" end="00:13:57.938">CECIL: It's Cheryl! She's in<tt:br/>the cockpit!</tt:p>
+            <tt:p begin="00:13:57.971" end="00:14:00.173">I think she's trying to kill<tt:br/>us all!</tt:p>
+            <tt:p begin="00:14:00.207" end="00:14:01.141">ARCHER Oh good.</tt:p>
+            <tt:p begin="00:14:01.174" end="00:14:04.344">For a second there I thought I<tt:br/>drank too much.</tt:p>
+            <tt:p begin="00:14:04.377" end="00:14:06.947">[slurrp]</tt:p>
+            <tt:p begin="00:14:10.350" end="00:14:14.922">[struggling sounds]<tt:br/>CECIL (O.S.): Cheryl! Cheryl,</tt:p>
+            <tt:p begin="00:14:14.955" end="00:14:16.023">open the door!</tt:p>
+            <tt:p begin="00:14:16.056" end="00:14:20.027">LANA: Rrrr! Rrrk! Why the<tt:br/>hell's there a lock on it?!</tt:p>
+            <tt:p begin="00:14:20.060" end="00:14:22.062">CECIL: Well obviously to<tt:br/>prevent this exact scenario</tt:p>
+            <tt:p begin="00:14:22.095" end="00:14:23.997">from ever happening, but -<tt:br/>LANA: Now?! Really?! You think</tt:p>
+            <tt:p begin="00:14:24.031" end="00:14:25.999">this is a<tt:br/>good time to be facetious?!</tt:p>
+            <tt:p begin="00:14:26.033" end="00:14:27.901">CECIL: I'm -- fairly certain<tt:br/>you're not using</tt:p>
+            <tt:p begin="00:14:27.935" end="00:14:29.036">&quot;facetious&quot; correctlrrmp.</tt:p>
+            <tt:p begin="00:14:29.069" end="00:14:30.971">LANA: Cheryl? Can you come out<tt:br/>here so we can talk about</tt:p>
+            <tt:p begin="00:14:31.004" end="00:14:32.172">this like adults?</tt:p>
+            <tt:p begin="00:14:32.205" end="00:14:34.607">Who aren't gonna die in a<tt:br/>helicopter crash?</tt:p>
+            <tt:p begin="00:14:34.641" end="00:14:37.110">CHERYL/CAROL: We'll crash with<tt:br/>the tapes! Of all of you stupid</tt:p>
+            <tt:p begin="00:14:37.144" end="00:14:40.080">jerks saying I'm crazy!</tt:p>
+            <tt:p begin="00:14:40.113" end="00:14:40.914">LANA: The what?</tt:p>
+            <tt:p begin="00:14:40.948" end="00:14:42.115">CECIL: [shrug]<tt:br/>CHERYL/CAROL (O.S.): The</tt:p>
+            <tt:p begin="00:14:42.149" end="00:14:44.918">tapes! It's part of his sneaky<tt:br/>plan to get a conservatorship</tt:p>
+            <tt:p begin="00:14:44.952" end="00:14:47.921">over me so he can steal my<tt:br/>inheritance!</tt:p>
+            <tt:p begin="00:14:47.955" end="00:14:49.957">ARCHER: That's why she<tt:br/>hijacked his helicopter?</tt:p>
+            <tt:p begin="00:14:49.990" end="00:14:52.592">Man, talk about rich people<tt:br/>problems.</tt:p>
+            <tt:p begin="00:14:52.625" end="00:14:53.526">PAM (O.S.): Grrrgh...</tt:p>
+            <tt:p begin="00:14:53.560" end="00:14:55.228">CYRIL: What're you -- Archer,<tt:br/>Pam is dying!</tt:p>
+            <tt:p begin="00:14:55.262" end="00:14:57.130">ARCHER: Cyril shut up! I'm in<tt:br/>charge here!</tt:p>
+            <tt:p begin="00:14:57.164" end="00:15:00.067">And...okay, here's what we're<tt:br/>doing!</tt:p>
+            <tt:p begin="00:15:00.100" end="00:15:03.070">[slurrp]<tt:br/>ARCHER:(burps) Emergency</tt:p>
+            <tt:p begin="00:15:03.103" end="00:15:03.937">tracheotomy!</tt:p>
+            <tt:p begin="00:15:03.971" end="00:15:05.038">PAM: Grrrk?!</tt:p>
+            <tt:p begin="00:15:05.072" end="00:15:06.173">CYRIL: With a crazy straw?!</tt:p>
+            <tt:p begin="00:15:06.206" end="00:15:08.976">ARCHER: It's fine, it's pretty<tt:br/>sterile, that Hairy Navel</tt:p>
+            <tt:p begin="00:15:09.009" end="00:15:10.643">was mostly Kentucky Moon.</tt:p>
+            <tt:p begin="00:15:10.677" end="00:15:11.644">PAM: Grrrgh!</tt:p>
+            <tt:p begin="00:15:11.678" end="00:15:12.679">GILLETTE: That's not how you<tt:br/>make a Hairy Navel!</tt:p>
+            <tt:p begin="00:15:12.712" end="00:15:15.248">ARCHER: I know, it's a new<tt:br/>drink, help me think of</tt:p>
+            <tt:p begin="00:15:15.282" end="00:15:18.651">a name, so far all I've<tt:br/>got is Horatio Cornblower.</tt:p>
+            <tt:p begin="00:15:18.685" end="00:15:20.220">Which...</tt:p>
+            <tt:p begin="00:15:20.253" end="00:15:21.588">Okay, Pam! Here's what's<tt:br/>happening!</tt:p>
+            <tt:p begin="00:15:21.621" end="00:15:22.956">I'm gonna make a small<tt:br/>incision in</tt:p>
+            <tt:p begin="00:15:22.990" end="00:15:24.224">your trachea with this...</tt:p>
+            <tt:p begin="00:15:24.257" end="00:15:25.225">PAM: Grrrrk?!</tt:p>
+            <tt:p begin="00:15:25.258" end="00:15:26.626">CYRIL: Archer!</tt:p>
+            <tt:p begin="00:15:26.659" end="00:15:28.495">ARCHER: Yeah right, that's not<tt:br/>sterile...</tt:p>
+            <tt:p begin="00:15:28.528" end="00:15:31.231">MALORY: Ugh! And since when do<tt:br/>you carry a switchblade?!</tt:p>
+            <tt:p begin="00:15:31.264" end="00:15:34.634">ARCHER: It's a long story,<tt:br/>Mother!</tt:p>
+            <tt:p begin="00:15:34.667" end="00:15:35.702">Neat.</tt:p>
+            <tt:p begin="00:15:35.735" end="00:15:39.072">Well, not so much long as just<tt:br/>not very interesting.</tt:p>
+            <tt:p begin="00:15:39.106" end="00:15:41.674">Okay, Pam, you with me? Then,<tt:br/>I'm gonna stick this in the</tt:p>
+            <tt:p begin="00:15:41.708" end="00:15:44.044">incision,<tt:br/>and you should be good to go.</tt:p>
+            <tt:p begin="00:15:44.077" end="00:15:44.677">Ready?</tt:p>
+            <tt:p begin="00:15:44.711" end="00:15:46.113">PAM: Nnghnnnngh!</tt:p>
+            <tt:p begin="00:15:46.146" end="00:15:48.248">ARCHER: I -- no, don't -- Pam,<tt:br/>stop it!</tt:p>
+            <tt:p begin="00:15:48.281" end="00:15:51.118">[krunch]<tt:br/>PAM: Nnghnnnngh!</tt:p>
+            <tt:p begin="00:15:51.151" end="00:15:53.253">ARCHER: Okay, sorry in advance<tt:br/>for this...</tt:p>
+            <tt:p begin="00:15:53.286" end="00:15:54.654">[krunch]<tt:br/>PAM: Ungh!</tt:p>
+            <tt:p begin="00:15:54.687" end="00:15:56.156">ARCHER: Unnngh!</tt:p>
+            <tt:p begin="00:15:56.189" end="00:15:57.057">PAM: Frstrrrdkerrrrrt!</tt:p>
+            <tt:p begin="00:15:57.090" end="00:15:59.259">Erperperrrrrn!</tt:p>
+            <tt:p begin="00:15:59.292" end="00:16:00.593">CYRIL: Oh my God, the first<tt:br/>aid kit! I</tt:p>
+            <tt:p begin="00:16:00.627" end="00:16:01.995">think it might have an epi-pen!</tt:p>
+            <tt:p begin="00:16:02.029" end="00:16:02.962">PAM: Rrrrhrrrr!</tt:p>
+            <tt:p begin="00:16:02.996" end="00:16:05.098">ARCHER: Ow, jeez, and<tt:br/>hopefully a cold pack...</tt:p>
+            <tt:p begin="00:16:05.132" end="00:16:07.167">GILLETTE: Go get the damn<tt:br/>first aid kit!</tt:p>
+            <tt:p begin="00:16:07.200" end="00:16:09.636">ARCHER: I am! But not because<tt:br/>you said so!</tt:p>
+            <tt:p begin="00:16:09.669" end="00:16:12.172">CYRIL: Just breathe Pam, it's<tt:br/>on the way!</tt:p>
+            <tt:p begin="00:16:12.205" end="00:16:14.507">So, you think Cecil's really<tt:br/>trying to steal Cheryl's</tt:p>
+            <tt:p begin="00:16:14.541" end="00:16:15.008">inheritance?</tt:p>
+            <tt:p begin="00:16:15.042" end="00:16:16.309">MALORY: Who cares?!</tt:p>
+            <tt:p begin="00:16:16.343" end="00:16:17.644">GILLETTE: Well you should.</tt:p>
+            <tt:p begin="00:16:17.677" end="00:16:18.878">MALORY: Because...?</tt:p>
+            <tt:p begin="00:16:18.911" end="00:16:21.148">GILLETTE: Because you've been<tt:br/>trying to get your bony manhooks</tt:p>
+            <tt:p begin="00:16:21.181" end="00:16:23.683">on her money for years,<tt:br/>and how the hell're you gonna</tt:p>
+            <tt:p begin="00:16:23.716" end="00:16:24.851">do that if Cecil gets it?!</tt:p>
+            <tt:p begin="00:16:24.884" end="00:16:27.687">MALORY: Tapes! We have to find<tt:br/>and destroy the tapes there</tt:p>
+            <tt:p begin="00:16:27.720" end="00:16:30.023">must be some sort of<tt:br/>recording device somewhere and</tt:p>
+            <tt:p begin="00:16:30.057" end="00:16:32.359">why are you still standing there<tt:br/>go!</tt:p>
+            <tt:p begin="00:16:32.392" end="00:16:33.060">CYRIL: What about Pam?!</tt:p>
+            <tt:p begin="00:16:33.093" end="00:16:34.161">MALORY: I'll buy you a new one!</tt:p>
+            <tt:p begin="00:16:34.194" end="00:16:35.395">CYRIL: Oww!</tt:p>
+            <tt:p begin="00:16:35.428" end="00:16:36.696">PAM: Grrgh, grrgh!</tt:p>
+            <tt:p begin="00:16:36.729" end="00:16:41.234">MALORY: Oh, quit milking it.</tt:p>
+            <tt:p begin="00:16:41.268" end="00:16:43.336">ARCHER: Hey hey hey, whoa, Lana<tt:br/>stop!</tt:p>
+            <tt:p begin="00:16:43.370" end="00:16:44.404">LANA: What?!</tt:p>
+            <tt:p begin="00:16:44.437" end="00:16:46.039">ARCHER: If you damage that, it<tt:br/>might not work in the</tt:p>
+            <tt:p begin="00:16:46.073" end="00:16:47.407">event of an emergency.</tt:p>
+            <tt:p begin="00:16:47.440" end="00:16:48.808">LANA: And what would you call<tt:br/>this?!</tt:p>
+            <tt:p begin="00:16:48.841" end="00:16:49.676">ARCHER: Oh right.</tt:p>
+            <tt:p begin="00:16:49.709" end="00:16:51.511">Speaking of,<tt:br/>Pam's dying of anaphylactic</tt:p>
+            <tt:p begin="00:16:51.544" end="00:16:52.079">shock.</tt:p>
+            <tt:p begin="00:16:52.112" end="00:16:53.346">You got a first aid kit?</tt:p>
+            <tt:p begin="00:16:53.380" end="00:16:55.215">CECIL: I -- it's in the<tt:br/>cockpit!</tt:p>
+            <tt:p begin="00:16:55.248" end="00:16:57.050">LANA: Which is locked, and --<tt:br/>no nonono!</tt:p>
+            <tt:p begin="00:16:57.084" end="00:16:58.385">BLAM<tt:br/>BLAMBLAMBLAMBLAMBLAMBLAMBLAM!</tt:p>
+            <tt:p begin="00:16:58.418" end="00:16:59.219">CECIL: Gagh!</tt:p>
+            <tt:p begin="00:16:59.252" end="00:17:01.221">LANA: And also apparently<tt:br/>bulletproof.</tt:p>
+            <tt:p begin="00:17:01.254" end="00:17:03.556">ARCHER: Well yeah, you'd want<tt:br/>it to be, to prevent -</tt:p>
+            <tt:p begin="00:17:03.590" end="00:17:04.757">CECIL: You shot me!</tt:p>
+            <tt:p begin="00:17:04.791" end="00:17:05.892">You idiot!</tt:p>
+            <tt:p begin="00:17:05.925" end="00:17:09.196">ARCHER: Hey! First of all, if<tt:br/>I shot you you'd know it!</tt:p>
+            <tt:p begin="00:17:09.229" end="00:17:11.364">And secondly, now<tt:br/>who's the idiot?</tt:p>
+            <tt:p begin="00:17:11.398" end="00:17:13.066">CECIL: Wh-? You! All of you!</tt:p>
+            <tt:p begin="00:17:13.100" end="00:17:15.368">You're here because I wanted<tt:br/>you here, so I could -</tt:p>
+            <tt:p begin="00:17:15.402" end="00:17:17.370">ARCHER: Help us get the<tt:br/>hydrogen bomb, yeah.</tt:p>
+            <tt:p begin="00:17:17.404" end="00:17:21.241">CECIL: Oh my God! There is no<tt:br/>bomb!</tt:p>
+            <tt:p begin="00:17:21.274" end="00:17:22.109">LANA: What?!</tt:p>
+            <tt:p begin="00:17:22.142" end="00:17:25.278">MALORY: Well, guess I had that<tt:br/>coming...</tt:p>
+            <tt:p begin="00:17:25.312" end="00:17:27.114">PAM: Grrgh!</tt:p>
+            <tt:p begin="00:17:27.147" end="00:17:28.215">MALORY: Well you don't have to<tt:br/>rub it in!</tt:p>
+            <tt:p begin="00:17:28.248" end="00:17:31.384">CECIL: I just wanted to get<tt:br/>you people on tape saying</tt:p>
+            <tt:p begin="00:17:31.418" end="00:17:34.087">Cheryl was crazy, so I<tt:br/>could get control of her</tt:p>
+            <tt:p begin="00:17:34.121" end="00:17:37.124">inheritance to fund my numerous<tt:br/>philanthropies!</tt:p>
+            <tt:p begin="00:17:37.157" end="00:17:41.261">[shunk]<tt:br/>CHERYL/CAROL: A-ha! Hang on.</tt:p>
+            <tt:p begin="00:17:41.294" end="00:17:43.630">Now shut up! And land...</tt:p>
+            <tt:p begin="00:17:43.663" end="00:17:44.297">This...</tt:p>
+            <tt:p begin="00:17:44.331" end="00:17:46.133">shitheap!</tt:p>
+            <tt:p begin="00:17:46.166" end="00:17:48.635">Ahem. Now, I believe there was<tt:br/>some mention of anaphylactic</tt:p>
+            <tt:p begin="00:17:48.668" end="00:17:49.636">shock?</tt:p>
+            <tt:p begin="00:17:49.669" end="00:17:50.337">LANA: Thank you!</tt:p>
+            <tt:p begin="00:17:50.370" end="00:17:52.105">ARCHER: She's my patient, Lana!</tt:p>
+            <tt:p begin="00:17:52.139" end="00:17:54.407">LANA: Wait, so if all you<tt:br/>wanted was to get us on tape</tt:p>
+            <tt:p begin="00:17:54.441" end="00:17:55.442">saying she's crazy...</tt:p>
+            <tt:p begin="00:17:55.475" end="00:17:57.244">CHERYL/CAROL: Which I'm<tt:br/>totally not, by the wrrmp.</tt:p>
+            <tt:p begin="00:17:57.277" end="00:17:59.412">LANA: You could've done that<tt:br/>in a lawyer's office.</tt:p>
+            <tt:p begin="00:17:59.446" end="00:18:01.314">Why drag us all the way out<tt:br/>to the middle of the frickin</tt:p>
+            <tt:p begin="00:18:01.348" end="00:18:02.182">ocean?!</tt:p>
+            <tt:p begin="00:18:02.215" end="00:18:05.385">CECIL: Well... promise you<tt:br/>won't get mad?</tt:p>
+            <tt:p begin="00:18:05.418" end="00:18:07.287">LANA: Uh, no?</tt:p>
+            <tt:p begin="00:18:07.320" end="00:18:09.156">PAM (O.S.): You ssshole!</tt:p>
+            <tt:p begin="00:18:09.189" end="00:18:10.457">PAM: Stupid! Drunk ass!</tt:p>
+            <tt:p begin="00:18:10.490" end="00:18:13.893">Switchblade tracheotomygivin<tt:br/>dicknuts!</tt:p>
+            <tt:p begin="00:18:13.926" end="00:18:14.261">ARCHER: Ow!</tt:p>
+            <tt:p begin="00:18:14.294" end="00:18:16.463">PAM: Rrrgh!</tt:p>
+            <tt:p begin="00:18:16.496" end="00:18:18.665">Sorry, thanks, I feel a lot<tt:br/>better.</tt:p>
+            <tt:p begin="00:18:18.698" end="00:18:20.833">ARCHER: Yeah that's why I<tt:br/>jammed it in your neck,</tt:p>
+            <tt:p begin="00:18:20.867" end="00:18:22.169">I figured if -- oww!</tt:p>
+            <tt:p begin="00:18:22.202" end="00:18:23.403">ARCHER: What the hell was that<tt:br/>for?!</tt:p>
+            <tt:p begin="00:18:23.436" end="00:18:25.405">PAM: Horatio Cornblower?!</tt:p>
+            <tt:p begin="00:18:25.438" end="00:18:26.439">ARCHER: I know, right?</tt:p>
+            <tt:p begin="00:18:26.473" end="00:18:28.141">You got anything?</tt:p>
+            <tt:p begin="00:18:28.175" end="00:18:29.142">PAM: Dicknuts.</tt:p>
+            <tt:p begin="00:18:29.176" end="00:18:30.310">CYRIL: Okay, we got the tapes!</tt:p>
+            <tt:p begin="00:18:30.343" end="00:18:31.244">MALORY: Big whoop.</tt:p>
+            <tt:p begin="00:18:31.278" end="00:18:33.480">CYRIL: I -- wait, I thought<tt:br/>you wanted -what</tt:p>
+            <tt:p begin="00:18:33.513" end="00:18:34.347">just happened?</tt:p>
+            <tt:p begin="00:18:34.381" end="00:18:36.283">MALORY: It was a hoax! There<tt:br/>is no bomb!</tt:p>
+            <tt:p begin="00:18:36.316" end="00:18:38.485">GILLETTE: Boom! Guess you had<tt:br/>that comin'</tt:p>
+            <tt:p begin="00:18:38.518" end="00:18:40.820">MALORY: Oh, put another man's<tt:br/>penis in it.</tt:p>
+            <tt:p begin="00:18:40.853" end="00:18:43.490">TIFFY (O.S.): Attention<tt:br/>unwelcome passengers...</tt:p>
+            <tt:p begin="00:18:43.523" end="00:18:46.293">We are now landing, so please<tt:br/>find your seats and fasten your</tt:p>
+            <tt:p begin="00:18:46.326" end="00:18:47.627">seat belts.</tt:p>
+            <tt:p begin="00:18:47.660" end="00:18:51.231">Or not, because frankly, I<tt:br/>could give a shit if all you</tt:p>
+            <tt:p begin="00:18:51.264" end="00:18:53.633">people live or die.</tt:p>
+            <tt:p begin="00:18:53.666" end="00:18:56.203">LANA: The odds on which I'd<tt:br/>put at about... whatcha think,</tt:p>
+            <tt:p begin="00:18:56.236" end="00:18:57.804">Cecil? Fifty-to- one?</tt:p>
+            <tt:p begin="00:18:57.837" end="00:18:59.206">MALORY: Lana? What's going on?</tt:p>
+            <tt:p begin="00:18:59.239" end="00:19:00.106">ARCHER: Somebody shot him.</tt:p>
+            <tt:p begin="00:19:00.139" end="00:19:03.243">MALORY: Will you...? Lana,<tt:br/>what's going on?</tt:p>
+            <tt:p begin="00:19:03.276" end="00:19:04.544">LANA: Why don't you ask Cecil?</tt:p>
+            <tt:p begin="00:19:04.577" end="00:19:07.247">CECIL: Ow! God, your hands are<tt:br/>like --ow!</tt:p>
+            <tt:p begin="00:19:07.280" end="00:19:09.649">Well as you may know, one of<tt:br/>my many philanthropic</tt:p>
+            <tt:p begin="00:19:09.682" end="00:19:13.186">endeavors is an undersea<tt:br/>research laboratory, which, as</tt:p>
+            <tt:p begin="00:19:13.220" end="00:19:15.222">luck would have it, is actually<tt:br/>beneath us right now.</tt:p>
+            <tt:p begin="00:19:15.255" end="00:19:17.257">LANA: Cut. To the chase.</tt:p>
+            <tt:p begin="00:19:17.290" end="00:19:19.526">CECIL: Ow! Anyhoo, the lead<tt:br/>scientist is threatening</tt:p>
+            <tt:p begin="00:19:19.559" end="00:19:22.295">-- well, he can tell you.</tt:p>
+            <tt:p begin="00:19:22.329" end="00:19:25.198">CECIL: Ahem. Captain<tt:br/>Murphy?</tt:p>
+            <tt:p begin="00:19:25.232" end="00:19:28.201">[creepy music]<tt:br/>CHERYL/CAROL: Please tell me</tt:p>
+            <tt:p begin="00:19:28.235" end="00:19:28.835">you guys heard that.</tt:p>
+            <tt:p begin="00:19:28.868" end="00:19:30.703">MURPHY: Ahhhh. Mister Tunt.</tt:p>
+            <tt:p begin="00:19:30.737" end="00:19:32.872">CECIL: Don't worry, he can't<tt:br/>see us.</tt:p>
+            <tt:p begin="00:19:32.905" end="00:19:34.641">MURPHY: No, but I can hear<tt:br/>you...</tt:p>
+            <tt:p begin="00:19:34.674" end="00:19:36.276">CECIL: Although he can hear us.</tt:p>
+            <tt:p begin="00:19:36.309" end="00:19:39.646">MURPHY: Yes I can, and please<tt:br/>hear me. For years, decades,</tt:p>
+            <tt:p begin="00:19:39.679" end="00:19:42.382">I have begged the so-<tt:br/>called leaders of the world to</tt:p>
+            <tt:p begin="00:19:42.415" end="00:19:44.217">stop poisoning our oceans.</tt:p>
+            <tt:p begin="00:19:44.251" end="00:19:46.219">But they have<tt:br/>ignored my pleas. As I will</tt:p>
+            <tt:p begin="00:19:46.253" end="00:19:49.556">ignore theirs, Mr. Tunt. Unless<tt:br/>my list of</tt:p>
+            <tt:p begin="00:19:49.589" end="00:19:51.358">demands is met in the next...</tt:p>
+            <tt:p begin="00:19:51.391" end="00:19:55.228">Tsk tsk, twelve hours. At which<tt:br/>point, I will launch our</tt:p>
+            <tt:p begin="00:19:55.262" end="00:19:58.331">missiles on Washington,<tt:br/>Miami, and New York.</tt:p>
+            <tt:p begin="00:19:58.365" end="00:20:01.000">Hope everybody has a gas mask.</tt:p>
+            <tt:p begin="00:20:01.033" end="00:20:03.236">[zzzrpt]</tt:p>
+            <tt:p begin="00:20:04.404" end="00:20:05.905">LANA: Why do they have<tt:br/>missiles?!</tt:p>
+            <tt:p begin="00:20:05.938" end="00:20:08.275">MALORY: And what did he mean<tt:br/>by &quot;gas mask&quot;?!</tt:p>
+            <tt:p begin="00:20:08.308" end="00:20:11.244">CECIL: I, you know, that was,<tt:br/>I think, maybe, probably,</tt:p>
+            <tt:p begin="00:20:11.278" end="00:20:14.914">because the missiles are<tt:br/>definitely tipped with VX</tt:p>
+            <tt:p begin="00:20:14.947" end="00:20:16.316">nerve gas?</tt:p>
+            <tt:p begin="00:20:16.349" end="00:20:18.251">EVERYBODY: [gasp]<tt:br/>ARCHER: Oh my God!</tt:p>
+            <tt:p begin="00:20:18.285" end="00:20:19.319">LANA: What?</tt:p>
+            <tt:p begin="00:20:19.352" end="00:20:23.256">ARCHER: The -- it's -- the --<tt:br/>dammit!</tt:p>
+            <tt:p begin="00:20:23.290" end="00:20:26.259">Still can't beat Horatio<tt:br/>Cornblower.</tt:p>
+            <tt:p begin="00:20:26.293" end="00:20:27.794">PAM: Dicknuts!</tt:p>
+            <tt:p begin="00:20:27.827" end="00:20:30.297">hrmmmff.</tt:p>
+            <tt:p begin="00:20:30.330" end="00:20:37.504">[theme music]</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:01.569" end="00:00:02.670">[ARCHER SIGHS]</tt:p>
+            <tt:p begin="00:00:02.736" end="00:00:04.938">ARCHER: Oh, man, is this great?<tt:br/>LANA: No, Archer.</tt:p>
+            <tt:p begin="00:00:05.005" end="00:00:06.440">ARCHER:<tt:br/>Was that rhetorical?</tt:p>
+            <tt:p begin="00:00:06.507" end="00:00:07.975">And also was that?<tt:br/>LANA: Archer.</tt:p>
+            <tt:p begin="00:00:08.042" end="00:00:09.443">Answer: yes. They both were,</tt:p>
+            <tt:p begin="00:00:09.510" end="00:00:11.679">because New Orleans<tt:br/>is my kind of town</tt:p>
+            <tt:p begin="00:00:11.745" end="00:00:13.881">and I haven't had a vacation<tt:br/>in forever.</tt:p>
+            <tt:p begin="00:00:13.947" end="00:00:15.683">Well, that's great but--<tt:br/>NOLA.</tt:p>
+            <tt:p begin="00:00:15.749" end="00:00:17.785">The Crescent City, the Big--</tt:p>
+            <tt:p begin="00:00:17.851" end="00:00:19.053">Easy.</tt:p>
+            <tt:p begin="00:00:19.120" end="00:00:21.489">Our mission is to stop<tt:br/>an eco-terrorist</tt:p>
+            <tt:p begin="00:00:21.555" end="00:00:23.791">from blowing up the biggest<tt:br/>natural gas pipeline</tt:p>
+            <tt:p begin="00:00:23.857" end="00:00:25.093">in North America,</tt:p>
+            <tt:p begin="00:00:25.159" end="00:00:27.195">so I wouldn't exactly call it<tt:br/>a vacation.</tt:p>
+            <tt:p begin="00:00:27.261" end="00:00:29.763">Whatever. Working vacation.<tt:br/>Ugh.</tt:p>
+            <tt:p begin="00:00:29.830" end="00:00:32.133">Because I'm not too worried<tt:br/>about some drum-circling,</tt:p>
+            <tt:p begin="00:00:32.200" end="00:00:33.301">hippie tree hugger.</tt:p>
+            <tt:p begin="00:00:33.367" end="00:00:35.436">Sir, can you find<tt:br/>your seat for me?</tt:p>
+            <tt:p begin="00:00:35.503" end="00:00:36.637">Uh, yeah,<tt:br/>it's right there.</tt:p>
+            <tt:p begin="00:00:36.704" end="00:00:38.972">Can you go find<tt:br/>some more hurricanes for me?</tt:p>
+            <tt:p begin="00:00:39.039" end="00:00:40.508">STEWARDESS:<tt:br/>Ugh.</tt:p>
+            <tt:p begin="00:00:40.574" end="00:00:42.476">LANA:<tt:br/>Hippies aren't the only people<tt:br/>who care.</tt:p>
+            <tt:p begin="00:00:42.543" end="00:00:45.513">Like, I happen to care.<tt:br/>A lot.</tt:p>
+            <tt:p begin="00:00:45.579" end="00:00:48.349">And so does our target,<tt:br/>Joshua Gray, a.k.a. Gandalf.</tt:p>
+            <tt:p begin="00:00:48.416" end="00:00:50.451">His name's Gandalf?<tt:br/>And he's not a hippie?</tt:p>
+            <tt:p begin="00:00:50.518" end="00:00:53.187">Gray's an ex-Green Beret.<tt:br/>He's attacked power plants</tt:p>
+            <tt:p begin="00:00:53.254" end="00:00:55.489">hydroelectric dams,<tt:br/>whaling ships--</tt:p>
+            <tt:p begin="00:00:55.556" end="00:00:58.492">Whaling ships? What, he's<tt:br/>against clean-burning lamp oil?</tt:p>
+            <tt:p begin="00:00:58.559" end="00:01:01.562">Would you relax? We know<tt:br/>he's gonna attack the pipeline</tt:p>
+            <tt:p begin="00:01:01.629" end="00:01:03.697">and we know<tt:br/>where the pipeline is.</tt:p>
+            <tt:p begin="00:01:03.764" end="00:01:06.567">Running through a couple hundred<tt:br/>miles of marshy wetlands.</tt:p>
+            <tt:p begin="00:01:06.634" end="00:01:08.236">So mobility will be key,<tt:br/>Lana.</tt:p>
+            <tt:p begin="00:01:08.302" end="00:01:10.404">And how will we achieve<tt:br/>mobility?</tt:p>
+            <tt:p begin="00:01:10.471" end="00:01:11.439">Huh?</tt:p>
+            <tt:p begin="00:01:11.505" end="00:01:13.807">An airboat.<tt:br/>An airboat, Lana.</tt:p>
+            <tt:p begin="00:01:13.874" end="00:01:15.843">Like Burt Reynolds<tt:br/>in White Lightning. </tt:p>
+            <tt:p begin="00:01:15.909" end="00:01:17.010">Great, just--</tt:p>
+            <tt:p begin="00:01:17.077" end="00:01:18.346">Not to mention Gator. <tt:br/>Archer.</tt:p>
+            <tt:p begin="00:01:18.412" end="00:01:20.047">Which, even though<tt:br/>it's the sequel,</tt:p>
+            <tt:p begin="00:01:20.114" end="00:01:22.049">I think is the stronger<tt:br/>of the two.</tt:p>
+            <tt:p begin="00:01:22.116" end="00:01:23.451">Just try to keep<tt:br/>a low profile.</tt:p>
+            <tt:p begin="00:01:23.517" end="00:01:24.752">We could scare off Gray</tt:p>
+            <tt:p begin="00:01:24.818" end="00:01:26.920">if we don't maintain<tt:br/>the element of surprise.</tt:p>
+            <tt:p begin="00:01:26.987" end="00:01:29.657">Hey, here's a surprise.<tt:br/>Hermès.</tt:p>
+            <tt:p begin="00:01:29.723" end="00:01:32.760">And here's another one. Remember<tt:br/>Jerry Reed's character in Gator? </tt:p>
+            <tt:p begin="00:01:32.826" end="00:01:34.595">No.<tt:br/>Bama McCall?</tt:p>
+            <tt:p begin="00:01:34.662" end="00:01:36.063">No.</tt:p>
+            <tt:p begin="00:01:36.130" end="00:01:37.665">Well, whatever, check this out,<tt:br/>I sto--</tt:p>
+            <tt:p begin="00:01:37.731" end="00:01:40.934">Borrowed it from Woodhouse.<tt:br/>Archer, what the shit?</tt:p>
+            <tt:p begin="00:01:41.001" end="00:01:42.370">Right? It's just like in Gator. </tt:p>
+            <tt:p begin="00:01:42.436" end="00:01:43.604">MARSHAL: Gun! gun!<tt:br/>Wha--?</tt:p>
+            <tt:p begin="00:01:43.671" end="00:01:46.106">Drop it! drop it!<tt:br/>You drop it.</tt:p>
+            <tt:p begin="00:01:46.174" end="00:01:47.908">Lana, hijacking.<tt:br/>Damn it, it's not a hi--</tt:p>
+            <tt:p begin="00:01:47.975" end="00:01:49.410">[SCREAMING]</tt:p>
+            <tt:p begin="00:01:49.477" end="00:01:51.979">Oh, great,<tt:br/>there better be more of those.</tt:p>
+            <tt:p begin="00:01:52.045" end="00:01:53.514">Sky marshal, drop your weapon!</tt:p>
+            <tt:p begin="00:01:53.581" end="00:01:55.649">Oh, okay, relax.<tt:br/>It's okay, we're--</tt:p>
+            <tt:p begin="00:01:55.716" end="00:01:56.617">Da, da-da-da--</tt:p>
+            <tt:p begin="00:01:56.684" end="00:01:59.587">Sterling Archer<tt:br/>and Lana Kane of ISIS,</tt:p>
+            <tt:p begin="00:01:59.653" end="00:02:01.789">and we're on a mission<tt:br/>to stop an eco-terrorist</tt:p>
+            <tt:p begin="00:02:01.855" end="00:02:04.124">Da-da-da.<tt:br/>from blowing up a gas pipeline.</tt:p>
+            <tt:p begin="00:02:04.192" end="00:02:05.593">[LANA SIGHS]</tt:p>
+            <tt:p begin="00:02:05.659" end="00:02:06.794">So for the love of God, woman,</tt:p>
+            <tt:p begin="00:02:06.860" end="00:02:09.497">go make me a fresh batch<tt:br/>of hurricanes!</tt:p>
+            <tt:p begin="00:02:09.563" end="00:02:11.199">Great.<tt:br/>Way to keep a low profile.</tt:p>
+            <tt:p begin="00:02:11.265" end="00:02:12.600">Thanks.</tt:p>
+            <tt:p begin="00:02:12.666" end="00:02:14.067">[CHUCKLES]</tt:p>
+            <tt:p begin="00:02:14.134" end="00:02:17.205">[***]</tt:p>
+            <tt:p begin="00:02:49.637" end="00:02:53.173">BACKUS:<tt:br/>This is the AmPetCo<tt:br/>gas pipeline.</tt:p>
+            <tt:p begin="00:02:53.241" end="00:02:54.975">Runs right underneath<tt:br/>these swamps,</tt:p>
+            <tt:p begin="00:02:55.042" end="00:02:56.577">supplying almost<tt:br/>20 percent</tt:p>
+            <tt:p begin="00:02:56.644" end="00:02:58.746">of America's liquid<tt:br/>natural gas demand.</tt:p>
+            <tt:p begin="00:02:58.812" end="00:03:00.781">ARCHER: Right.<tt:br/>But there's a pig launcher here.</tt:p>
+            <tt:p begin="00:03:00.848" end="00:03:02.550">ARCHER:<tt:br/>Is that what it sounds like?</tt:p>
+            <tt:p begin="00:03:02.616" end="00:03:05.653">It's a pipe inspection gauge<tt:br/>for cleaning the pipeline.</tt:p>
+            <tt:p begin="00:03:05.719" end="00:03:07.755">It's the only section<tt:br/>above ground,</tt:p>
+            <tt:p begin="00:03:07.821" end="00:03:09.623">so if Gray wants to attack<tt:br/>our pipeline--</tt:p>
+            <tt:p begin="00:03:09.690" end="00:03:11.792">He'll have to do it there.<tt:br/>ARCHER: Right.</tt:p>
+            <tt:p begin="00:03:11.859" end="00:03:14.395">So we'll set up a defensive<tt:br/>perimeter at the launcher</tt:p>
+            <tt:p begin="00:03:14.462" end="00:03:15.829">and catch him when he tries.</tt:p>
+            <tt:p begin="00:03:15.896" end="00:03:17.431">ARCHER:<tt:br/>Well, wait, hang on a second.</tt:p>
+            <tt:p begin="00:03:17.498" end="00:03:19.667">Can I get the oyster po' boy</tt:p>
+            <tt:p begin="00:03:19.733" end="00:03:22.870">and a side of crawfish étouffée?<tt:br/>I'm not sure I'm gonna like it.</tt:p>
+            <tt:p begin="00:03:22.936" end="00:03:25.239">Archer. Archer.<tt:br/>Just an entrée? Okay. Uh...</tt:p>
+            <tt:p begin="00:03:25.306" end="00:03:26.474">LANA:<tt:br/>Archer.</tt:p>
+            <tt:p begin="00:03:26.540" end="00:03:28.008">Okay, so, the po' boy,<tt:br/>the-- Hello?</tt:p>
+            <tt:p begin="00:03:28.075" end="00:03:31.545">Wow, speaking of disastrous--<tt:br/>Speaking of shut up.</tt:p>
+            <tt:p begin="00:03:31.612" end="00:03:33.447">Think about what will happen<tt:br/>to those wetlands</tt:p>
+            <tt:p begin="00:03:33.514" end="00:03:35.215">if that pipeline explodes.</tt:p>
+            <tt:p begin="00:03:35.283" end="00:03:36.750">BACKUS:<tt:br/>Screw the damn swamps,</tt:p>
+            <tt:p begin="00:03:36.817" end="00:03:39.687">think of what'll happen<tt:br/>to AmPetCo's profit margin.</tt:p>
+            <tt:p begin="00:03:39.753" end="00:03:41.555">What?<tt:br/>Big money.</tt:p>
+            <tt:p begin="00:03:41.622" end="00:03:44.625">Huge tax credits from<tt:br/>that hippie Democrat Congress</tt:p>
+            <tt:p begin="00:03:44.692" end="00:03:47.461">just for making a few simple<tt:br/>changes around here.</tt:p>
+            <tt:p begin="00:03:47.528" end="00:03:49.129">A lot of these<tt:br/>aren't so simple.</tt:p>
+            <tt:p begin="00:03:49.196" end="00:03:52.400">Replacing all the lights with<tt:br/>high-efficiency fluorescents,</tt:p>
+            <tt:p begin="00:03:52.466" end="00:03:54.368">putting low-flow fixtures<tt:br/>on plumbing.</tt:p>
+            <tt:p begin="00:03:54.435" end="00:03:56.169">Recycling old batteries.</tt:p>
+            <tt:p begin="00:03:56.236" end="00:03:58.205">Exactly.<tt:br/>Don't we do that already?</tt:p>
+            <tt:p begin="00:03:58.272" end="00:03:59.307">Um...</tt:p>
+            <tt:p begin="00:03:59.373" end="00:04:00.674">[GARBAGE DISPOSAL WHIRRING]</tt:p>
+            <tt:p begin="00:04:00.741" end="00:04:04.978">I don't even understand<tt:br/>why we have a car battery!</tt:p>
+            <tt:p begin="00:04:07.180" end="00:04:08.549">Pretty much.</tt:p>
+            <tt:p begin="00:04:08.616" end="00:04:11.385">Good. Because I'm not leaving<tt:br/>money on the table.</tt:p>
+            <tt:p begin="00:04:11.452" end="00:04:13.987">So to get these freebie<tt:br/>socialist tax credits</tt:p>
+            <tt:p begin="00:04:14.054" end="00:04:18.225">we are going to make<tt:br/>this place lean and green.</tt:p>
+            <tt:p begin="00:04:18.292" end="00:04:19.827">Typical<tt:br/>corporate bullshit.</tt:p>
+            <tt:p begin="00:04:19.893" end="00:04:22.630">Thirty acres of wetlands<tt:br/>disappear every single day,</tt:p>
+            <tt:p begin="00:04:22.696" end="00:04:25.366">but all you care about<tt:br/>is how much gas you pump out.</tt:p>
+            <tt:p begin="00:04:25.433" end="00:04:28.001">Hey, we're just<tt:br/>supplying a demand.</tt:p>
+            <tt:p begin="00:04:28.068" end="00:04:30.404">Yeah, AmPetCo's demand<tt:br/>for huge profits.</tt:p>
+            <tt:p begin="00:04:30.471" end="00:04:31.805">Well, some of those huge profits</tt:p>
+            <tt:p begin="00:04:31.872" end="00:04:34.074">are paying ISIS to protect<tt:br/>that pipeline.</tt:p>
+            <tt:p begin="00:04:34.141" end="00:04:36.243">Which I'm only doing<tt:br/>for the wetlands.</tt:p>
+            <tt:p begin="00:04:36.310" end="00:04:37.611">Wetlands, profits, whatever.</tt:p>
+            <tt:p begin="00:04:37.678" end="00:04:39.112">Yeah,<tt:br/>sounds like a win-win.</tt:p>
+            <tt:p begin="00:04:39.179" end="00:04:40.814">Just get out there<tt:br/>and do your job.</tt:p>
+            <tt:p begin="00:04:40.881" end="00:04:45.018">Yeah, I will.<tt:br/>If you will excuse me.</tt:p>
+            <tt:p begin="00:04:45.085" end="00:04:46.487">[DOOR SLAMS]</tt:p>
+            <tt:p begin="00:04:48.021" end="00:04:50.424">I should go with her.</tt:p>
+            <tt:p begin="00:04:50.491" end="00:04:52.660">I don't think room service<tt:br/>is coming.</tt:p>
+            <tt:p begin="00:04:52.726" end="00:04:54.227">REMY:<tt:br/>Should have called first.</tt:p>
+            <tt:p begin="00:04:54.294" end="00:04:57.565">That's the only airboat around<tt:br/>for 50 miles, and it reserved.</tt:p>
+            <tt:p begin="00:04:57.631" end="00:04:59.867">What do you mean?<tt:br/>Is that not self-explanatory?</tt:p>
+            <tt:p begin="00:04:59.933" end="00:05:02.202">Look,<tt:br/>this is kind of an emergency.</tt:p>
+            <tt:p begin="00:05:02.269" end="00:05:03.637">Can't we work<tt:br/>something out?</tt:p>
+            <tt:p begin="00:05:03.704" end="00:05:05.873">If you use that money<tt:br/>to buy a time machine,</tt:p>
+            <tt:p begin="00:05:05.939" end="00:05:08.709">go back and be the first person<tt:br/>to reserve that boat.</tt:p>
+            <tt:p begin="00:05:08.776" end="00:05:10.177">You sure about that?<tt:br/>Yup.</tt:p>
+            <tt:p begin="00:05:10.243" end="00:05:12.513">That's good, because I've waited<tt:br/>my entire life</tt:p>
+            <tt:p begin="00:05:12.580" end="00:05:13.981">to say this exact phrase.</tt:p>
+            <tt:p begin="00:05:14.047" end="00:05:16.850">I'm commandeering<tt:br/>this airboat.</tt:p>
+            <tt:p begin="00:05:16.917" end="00:05:19.152">LANA: Sorry.<tt:br/>ARCHER: Whoo!</tt:p>
+            <tt:p begin="00:05:19.219" end="00:05:20.754">It really is an emergency.</tt:p>
+            <tt:p begin="00:05:20.821" end="00:05:25.292">Of an awesome<tt:br/>and ass-kicky nature.</tt:p>
+            <tt:p begin="00:05:25.359" end="00:05:27.828">And some<tt:br/>damn guard dog you is.</tt:p>
+            <tt:p begin="00:05:27.895" end="00:05:28.929">Annie?</tt:p>
+            <tt:p begin="00:05:30.297" end="00:05:31.665">Annie.</tt:p>
+            <tt:p begin="00:05:31.732" end="00:05:34.034">Well, that's just great.</tt:p>
+            <tt:p begin="00:05:34.101" end="00:05:37.738">Now both my dogs is dead.</tt:p>
+            <tt:p begin="00:05:37.805" end="00:05:38.972">[REMY SOBS]</tt:p>
+            <tt:p begin="00:05:39.039" end="00:05:41.975">Stupid efficient Canadian<tt:br/>light bulbs.</tt:p>
+            <tt:p begin="00:05:42.042" end="00:05:43.544">I can barely even see<tt:br/>what I'm doing.</tt:p>
+            <tt:p begin="00:05:43.611" end="00:05:44.845">What are you doing?</tt:p>
+            <tt:p begin="00:05:44.912" end="00:05:47.648">I need six more of these.<tt:br/>Why do you need seven?</tt:p>
+            <tt:p begin="00:05:47.715" end="00:05:49.917">One for each cat, duh.</tt:p>
+            <tt:p begin="00:05:49.983" end="00:05:53.521">For God's sake, Pam.<tt:br/>Have you no sense of decency?</tt:p>
+            <tt:p begin="00:05:53.587" end="00:05:55.856">That bathroom's like<tt:br/>a war crime.</tt:p>
+            <tt:p begin="00:05:55.923" end="00:05:58.826">Don't blame me,<tt:br/>it's those new low-flow toilets.</tt:p>
+            <tt:p begin="00:05:58.892" end="00:06:01.862">With the old ones you could<tt:br/>flush a dachshund puppy.</tt:p>
+            <tt:p begin="00:06:01.929" end="00:06:03.531">I mean, not that you would,<tt:br/>but--</tt:p>
+            <tt:p begin="00:06:03.597" end="00:06:04.732">Next time use the--</tt:p>
+            <tt:p begin="00:06:04.798" end="00:06:06.834">Da-da-da--<tt:br/>Women's restroom.</tt:p>
+            <tt:p begin="00:06:06.900" end="00:06:08.068">Da--</tt:p>
+            <tt:p begin="00:06:10.103" end="00:06:12.573">The what?<tt:br/>Thanks, Cyril.</tt:p>
+            <tt:p begin="00:06:15.342" end="00:06:16.910">ARCHER:<tt:br/>Whoo-hoo!</tt:p>
+            <tt:p begin="00:06:16.977" end="00:06:19.847">Airboat! Oh, man!</tt:p>
+            <tt:p begin="00:06:19.913" end="00:06:22.683">Seriously, this must be what<tt:br/>it's like to have sex with me.</tt:p>
+            <tt:p begin="00:06:22.750" end="00:06:24.518">How can an airboat<tt:br/>be selfish?</tt:p>
+            <tt:p begin="00:06:24.585" end="00:06:26.253">Nope, can't hear you.<tt:br/>I'm too happy.</tt:p>
+            <tt:p begin="00:06:26.319" end="00:06:29.022">You can't hear me because<tt:br/>you're redlining the engine.</tt:p>
+            <tt:p begin="00:06:29.089" end="00:06:31.825">Oh, thank you,<tt:br/>certified airboat mechanic.</tt:p>
+            <tt:p begin="00:06:31.892" end="00:06:33.727">Now, where's this<tt:br/>pig launcher thing?</tt:p>
+            <tt:p begin="00:06:33.794" end="00:06:35.362">This heading, one mile.<tt:br/>Whoo!</tt:p>
+            <tt:p begin="00:06:35.429" end="00:06:37.397">I'm serious, Archer,<tt:br/>if you don't slow down--</tt:p>
+            <tt:p begin="00:06:37.465" end="00:06:40.400">I'll keep feeling this<tt:br/>incredibly vibrant and alive?</tt:p>
+            <tt:p begin="00:06:40.468" end="00:06:42.269">Yeah, until you blow<tt:br/>the damn engine, so--</tt:p>
+            <tt:p begin="00:06:42.335" end="00:06:46.273">Lana! I'm not gonna blow the--</tt:p>
+            <tt:p begin="00:06:46.339" end="00:06:48.642">[SCREAMS]</tt:p>
+            <tt:p begin="00:07:00.087" end="00:07:01.188">[LANA CLEARS THROAT]</tt:p>
+            <tt:p begin="00:07:04.357" end="00:07:05.959">Ahem.<tt:br/>Yeah, try clearing your throat</tt:p>
+            <tt:p begin="00:07:06.026" end="00:07:10.230">about a jillion more times,<tt:br/>Lana, see if that helps.</tt:p>
+            <tt:p begin="00:07:10.297" end="00:07:11.364">[CLEARS THROAT]</tt:p>
+            <tt:p begin="00:07:11.431" end="00:07:13.767">No? Nothing?</tt:p>
+            <tt:p begin="00:07:19.339" end="00:07:22.976">No, no, by all means,<tt:br/>let me do this, Lana.</tt:p>
+            <tt:p begin="00:07:23.043" end="00:07:25.112">You just sit there like<tt:br/>the African Queen.</tt:p>
+            <tt:p begin="00:07:25.178" end="00:07:27.848">  The African Queen was the boat.<tt:br/>No, it was Audrey--</tt:p>
+            <tt:p begin="00:07:27.915" end="00:07:28.882">Katharine.</tt:p>
+            <tt:p begin="00:07:28.949" end="00:07:31.184">Whichever Hepburn.<tt:br/>She was the queen.</tt:p>
+            <tt:p begin="00:07:32.720" end="00:07:34.555">Of Africa.<tt:br/>Yeah.</tt:p>
+            <tt:p begin="00:07:34.622" end="00:07:37.090">The white queen of Africa.</tt:p>
+            <tt:p begin="00:07:37.157" end="00:07:38.225">Yeah, back then,</tt:p>
+            <tt:p begin="00:07:38.291" end="00:07:40.794">Hollywood was pretty weird<tt:br/>about the whole race thing.</tt:p>
+            <tt:p begin="00:07:40.861" end="00:07:43.964">Like Amos and Andy were white,<tt:br/>a white guy played Charlie Chan.</tt:p>
+            <tt:p begin="00:07:44.031" end="00:07:46.133">Archer.<tt:br/>Pretty sure Tonto was a Jew.</tt:p>
+            <tt:p begin="00:07:46.199" end="00:07:47.535">Stop.<tt:br/>What?</tt:p>
+            <tt:p begin="00:07:47.601" end="00:07:49.169">Gator?<tt:br/>Talking.</tt:p>
+            <tt:p begin="00:07:49.236" end="00:07:50.904">But I do really wish<tt:br/>there was a gator.</tt:p>
+            <tt:p begin="00:07:50.971" end="00:07:53.473">Hey, come on,<tt:br/>not even as a joke, Lana.</tt:p>
+            <tt:p begin="00:07:53.541" end="00:07:55.208">It so wasn't.<tt:br/>I said I was sorry.</tt:p>
+            <tt:p begin="00:07:55.275" end="00:07:58.011">Tell this wildlife you're sorry<tt:br/>when the pipeline blows</tt:p>
+            <tt:p begin="00:07:58.078" end="00:07:59.747">because we're not there<tt:br/>to protect it.</tt:p>
+            <tt:p begin="00:07:59.813" end="00:08:02.449">A, all this wildlife<tt:br/>can suck it.</tt:p>
+            <tt:p begin="00:08:02.516" end="00:08:05.385">Everything out here either wants<tt:br/>to eat me or give me malaria.</tt:p>
+            <tt:p begin="00:08:05.452" end="00:08:06.987">And B...</tt:p>
+            <tt:p begin="00:08:08.188" end="00:08:10.558">LANA: Oh.<tt:br/>No thanks to you, Queen Audrey.</tt:p>
+            <tt:p begin="00:08:10.624" end="00:08:12.025">Would you just--?<tt:br/>Yeah.</tt:p>
+            <tt:p begin="00:08:12.092" end="00:08:13.226">[GROANS]</tt:p>
+            <tt:p begin="00:08:13.293" end="00:08:15.596">Okay, let's set up<tt:br/>a defensive perimeter.</tt:p>
+            <tt:p begin="00:08:15.663" end="00:08:17.865">Right after I set up the grill.<tt:br/>Will you just--?</tt:p>
+            <tt:p begin="00:08:17.931" end="00:08:19.533">Hey, I just dragged<tt:br/>this damn boat</tt:p>
+            <tt:p begin="00:08:19.600" end="00:08:21.735">through a mile<tt:br/>of my three biggest fears,</tt:p>
+            <tt:p begin="00:08:21.802" end="00:08:23.637">so I think I've earned<tt:br/>a kebab.</tt:p>
+            <tt:p begin="00:08:23.704" end="00:08:25.305">Well, too bad.<tt:br/>But--</tt:p>
+            <tt:p begin="00:08:25.372" end="00:08:27.040">Your lab uses more electricity</tt:p>
+            <tt:p begin="00:08:27.107" end="00:08:28.742">than the rest of ISIS<tt:br/>put together.</tt:p>
+            <tt:p begin="00:08:28.809" end="00:08:30.844">Yes,<tt:br/>and I need every single watt.</tt:p>
+            <tt:p begin="00:08:30.911" end="00:08:34.247">No, we all have to pitch in<tt:br/>to make ISIS green.</tt:p>
+            <tt:p begin="00:08:34.314" end="00:08:37.818">Look at me, chopping ice for<tt:br/>a Tom Collins like a field hand.</tt:p>
+            <tt:p begin="00:08:37.885" end="00:08:40.688">But I--<tt:br/>Ooh. Or do I want a mint julep?</tt:p>
+            <tt:p begin="00:08:40.754" end="00:08:43.757">The slightest reduction of power<tt:br/>could put lives at risk.</tt:p>
+            <tt:p begin="00:08:43.824" end="00:08:45.893">Lives of what,<tt:br/>a few lab rats?</tt:p>
+            <tt:p begin="00:08:45.959" end="00:08:47.861">[BEEPING]</tt:p>
+            <tt:p begin="00:08:52.966" end="00:08:54.534">Also, yes.</tt:p>
+            <tt:p begin="00:08:55.803" end="00:08:57.871">Yeah, good, great idea.</tt:p>
+            <tt:p begin="00:08:57.938" end="00:08:59.973">Do the one thing that could<tt:br/>possibly make it hotter.</tt:p>
+            <tt:p begin="00:09:00.040" end="00:09:02.309">You gotta sear them first,<tt:br/>it locks in the flavor.</tt:p>
+            <tt:p begin="00:09:02.375" end="00:09:05.579">And if you're hot, and also<tt:br/>somewhat bitchy, drink a beer.</tt:p>
+            <tt:p begin="00:09:05.646" end="00:09:07.715">I don't want a beer, Archer,<tt:br/>I want water.</tt:p>
+            <tt:p begin="00:09:07.781" end="00:09:09.149">Your funeral.</tt:p>
+            <tt:p begin="00:09:09.216" end="00:09:11.685">God knows what kind of parasites<tt:br/>are swimming around in it.</tt:p>
+            <tt:p begin="00:09:11.752" end="00:09:14.221">Not swamp water, you ass.<tt:br/>Bottled.</tt:p>
+            <tt:p begin="00:09:14.287" end="00:09:17.758">Oh, you are shitting me.<tt:br/>I know, right?</tt:p>
+            <tt:p begin="00:09:17.825" end="00:09:20.293">A rainbow should shoot out<tt:br/>every time you open it.</tt:p>
+            <tt:p begin="00:09:20.360" end="00:09:23.063">You didn't bring any water?<tt:br/>Where would I put it?</tt:p>
+            <tt:p begin="00:09:23.130" end="00:09:25.966">Great, I'll just wait half an<tt:br/>hour for a cup of ice to melt.</tt:p>
+            <tt:p begin="00:09:26.033" end="00:09:27.267">Don't. Don't...<tt:br/>Ow! Shit.</tt:p>
+            <tt:p begin="00:09:27.334" end="00:09:29.703">...touch it.<tt:br/>What the [BLEEP] shit is this?</tt:p>
+            <tt:p begin="00:09:29.770" end="00:09:32.606">No, no, no. Lana. It's dry ice.<tt:br/>Ow!</tt:p>
+            <tt:p begin="00:09:32.673" end="00:09:34.775">[BLEEPING]</tt:p>
+            <tt:p begin="00:09:38.879" end="00:09:40.614">Hurry,<tt:br/>put your hands in the swamp.</tt:p>
+            <tt:p begin="00:09:40.681" end="00:09:42.349">[LANA GROANS]</tt:p>
+            <tt:p begin="00:09:42.415" end="00:09:45.285">[WHIMPERING]</tt:p>
+            <tt:p begin="00:09:45.352" end="00:09:47.788">[SQUEALS]</tt:p>
+            <tt:p begin="00:09:47.855" end="00:09:49.923">How you doing, buddy?</tt:p>
+            <tt:p begin="00:09:51.224" end="00:09:53.661">Because dry ice<tt:br/>is something crazy, like,</tt:p>
+            <tt:p begin="00:09:53.727" end="00:09:55.028">negative a hundred degrees.</tt:p>
+            <tt:p begin="00:09:55.095" end="00:09:58.098">I need you to not talk to me.<tt:br/>I know.</tt:p>
+            <tt:p begin="00:09:58.165" end="00:10:01.635">And I know you're in a lot<tt:br/>of pain, so just try to relax.</tt:p>
+            <tt:p begin="00:10:01.702" end="00:10:03.236">Why are you still talk--? Ow!</tt:p>
+            <tt:p begin="00:10:03.303" end="00:10:05.773">ARCHER:<tt:br/>And say hi to Sister Morphine.</tt:p>
+            <tt:p begin="00:10:05.839" end="00:10:07.274">Morphine? Damn it,<tt:br/>I don't need...</tt:p>
+            <tt:p begin="00:10:07.340" end="00:10:08.441">[SIGHS]</tt:p>
+            <tt:p begin="00:10:08.508" end="00:10:09.877">Yeah?<tt:br/>Yeah.</tt:p>
+            <tt:p begin="00:10:09.943" end="00:10:11.779">That actually<tt:br/>feels way better.</tt:p>
+            <tt:p begin="00:10:11.845" end="00:10:13.814">Good, get up.<tt:br/>You're sitting on the beer.</tt:p>
+            <tt:p begin="00:10:15.115" end="00:10:16.850">All right,<tt:br/>so wait a second.</tt:p>
+            <tt:p begin="00:10:16.917" end="00:10:18.418">What are your three<tt:br/>biggest fears?</tt:p>
+            <tt:p begin="00:10:18.485" end="00:10:20.153">Nope.<tt:br/>Come on.</tt:p>
+            <tt:p begin="00:10:20.220" end="00:10:22.923">No, hush, I'm trying to fish.<tt:br/>No, don't shoot the fish.</tt:p>
+            <tt:p begin="00:10:22.990" end="00:10:25.092">Come on, this is a very<tt:br/>fragile ecosystem.</tt:p>
+            <tt:p begin="00:10:25.158" end="00:10:26.593">Too fragile<tt:br/>to spare one trout?</tt:p>
+            <tt:p begin="00:10:26.660" end="00:10:27.761">No, but--</tt:p>
+            <tt:p begin="00:10:27.828" end="00:10:29.496">Or bass or whatever.<tt:br/>What's in here?</tt:p>
+            <tt:p begin="00:10:29.562" end="00:10:32.733">Nothing soon, if people like you<tt:br/>keep destroying the environment.</tt:p>
+            <tt:p begin="00:10:32.800" end="00:10:34.467">What? It's one lousy fish.</tt:p>
+            <tt:p begin="00:10:34.534" end="00:10:37.370">One lousy black rhino,<tt:br/>one lousy Bengal tiger.</tt:p>
+            <tt:p begin="00:10:37.437" end="00:10:38.772">One lousy Lorax.</tt:p>
+            <tt:p begin="00:10:38.839" end="00:10:41.675">Since when are you<tt:br/>such a radical environmentalist?</tt:p>
+            <tt:p begin="00:10:41.742" end="00:10:44.311">I'm not radical.<tt:br/>Well, I mean not anymore.</tt:p>
+            <tt:p begin="00:10:44.377" end="00:10:46.346">But back in the day...</tt:p>
+            <tt:p begin="00:10:46.413" end="00:10:49.482">PROTESTERS [CHANTING]:<tt:br/> Fur is murder! <tt:br/> Fur is murder! Fur is murder! </tt:p>
+            <tt:p begin="00:10:49.549" end="00:10:52.820">MAN:<tt:br/>There's one. Get her.<tt:br/>Go, go, go!</tt:p>
+            <tt:p begin="00:10:52.886" end="00:10:55.422">How's it feel to be a murderer?</tt:p>
+            <tt:p begin="00:10:55.488" end="00:10:58.458">Shall we find out?</tt:p>
+            <tt:p begin="00:10:58.525" end="00:11:00.728">[PROTESTERS SCREAMING]</tt:p>
+            <tt:p begin="00:11:00.794" end="00:11:03.463">Lady, you don't scare me.</tt:p>
+            <tt:p begin="00:11:03.530" end="00:11:06.066">Dear, this is a .44 Magnum.</tt:p>
+            <tt:p begin="00:11:06.133" end="00:11:08.936">You're really not scared,<tt:br/>are you?</tt:p>
+            <tt:p begin="00:11:09.002" end="00:11:10.904">No.</tt:p>
+            <tt:p begin="00:11:10.971" end="00:11:13.673">Then how would you<tt:br/>like a job?</tt:p>
+            <tt:p begin="00:11:13.741" end="00:11:15.375">Three weeks later<tt:br/>I was in Tunisia,</tt:p>
+            <tt:p begin="00:11:15.442" end="00:11:16.543">killing a different man.</tt:p>
+            <tt:p begin="00:11:16.609" end="00:11:19.612">ARCHER: Heh, heh, heh.<tt:br/>And how and why is that funny?</tt:p>
+            <tt:p begin="00:11:19.679" end="00:11:21.815">I forgot about that afro.<tt:br/>You know what?</tt:p>
+            <tt:p begin="00:11:21.882" end="00:11:23.083">You looked like Angela Davis</tt:p>
+            <tt:p begin="00:11:23.150" end="00:11:25.385">had a lovechild<tt:br/>with &quot;Sweet&quot; Lou Dunbar.</tt:p>
+            <tt:p begin="00:11:25.452" end="00:11:26.353">Shut up.</tt:p>
+            <tt:p begin="00:11:26.419" end="00:11:28.055">You. I'm trying<tt:br/>to catch us dinner.</tt:p>
+            <tt:p begin="00:11:28.121" end="00:11:30.690">If you'd brought enough food--<tt:br/>I wouldn't have beer.</tt:p>
+            <tt:p begin="00:11:30.758" end="00:11:32.860">Since I can't catch beer--<tt:br/>Or a fish.</tt:p>
+            <tt:p begin="00:11:32.926" end="00:11:35.495">Yes, I can. Burt Reynolds<tt:br/>is my spirit guide.</tt:p>
+            <tt:p begin="00:11:35.562" end="00:11:36.897">Did you say &quot;man crush&quot;?</tt:p>
+            <tt:p begin="00:11:36.964" end="00:11:38.465">I'm pretty sure<tt:br/>it was &quot;shut up.&quot;</tt:p>
+            <tt:p begin="00:11:40.200" end="00:11:42.002">What are your three<tt:br/>biggest fears?</tt:p>
+            <tt:p begin="00:11:42.069" end="00:11:43.937">Getting stuck on a boat with you<tt:br/>three times.</tt:p>
+            <tt:p begin="00:11:44.004" end="00:11:46.373">Oh, come on.<tt:br/>Oh, here we go.</tt:p>
+            <tt:p begin="00:11:46.439" end="00:11:49.009">Come here, fishy, fishy.</tt:p>
+            <tt:p begin="00:11:49.076" end="00:11:51.945">And while you eat humble pie<tt:br/>with a side of crow, Lana,</tt:p>
+            <tt:p begin="00:11:52.012" end="00:11:53.781">I will be dining on trout.</tt:p>
+            <tt:p begin="00:11:54.815" end="00:11:56.483">[ARCHER &amp; LANA SCREAM]</tt:p>
+            <tt:p begin="00:11:56.549" end="00:11:57.717">What the hell is that?</tt:p>
+            <tt:p begin="00:11:57.785" end="00:12:00.954">What the hell does it look like,<tt:br/>Lana?</tt:p>
+            <tt:p begin="00:12:01.021" end="00:12:02.990">Shoot it, Archer! Shoot it!</tt:p>
+            <tt:p begin="00:12:03.056" end="00:12:04.291">ARCHER:<tt:br/>Oh, so now it's okay?</tt:p>
+            <tt:p begin="00:12:04.357" end="00:12:06.293">What happened to your<tt:br/>fragile ecosystem?</tt:p>
+            <tt:p begin="00:12:06.359" end="00:12:09.930">Screw the damn ecosystem. Shoot!<tt:br/>You are such a hypocrite.</tt:p>
+            <tt:p begin="00:12:09.997" end="00:12:12.165">I bet you probably eat veal.</tt:p>
+            <tt:p begin="00:12:14.935" end="00:12:16.136">[WATER GURGLING]</tt:p>
+            <tt:p begin="00:12:16.203" end="00:12:19.406">Did you see that?<tt:br/>And hear that?</tt:p>
+            <tt:p begin="00:12:19.472" end="00:12:21.341">What is that?<tt:br/>What is that sound?</tt:p>
+            <tt:p begin="00:12:21.408" end="00:12:23.811">Oh, you are shitting me.</tt:p>
+            <tt:p begin="00:12:23.877" end="00:12:25.612">How did you shoot the boat?</tt:p>
+            <tt:p begin="00:12:25.678" end="00:12:29.016">Because I was bucking around<tt:br/>like a rodeo clown in a barrel.</tt:p>
+            <tt:p begin="00:12:29.082" end="00:12:30.583">Well, did you at least<tt:br/>hit the gator?</tt:p>
+            <tt:p begin="00:12:30.650" end="00:12:32.719">I don't know. I mean, maybe.</tt:p>
+            <tt:p begin="00:12:32.786" end="00:12:34.221">Great,<tt:br/>so maybe he's wounded.</tt:p>
+            <tt:p begin="00:12:34.287" end="00:12:35.755">No, he's definitely wounded.</tt:p>
+            <tt:p begin="00:12:35.823" end="00:12:39.292">Oh, right, I forgot he has an<tt:br/>arrow sticking out of his head.</tt:p>
+            <tt:p begin="00:12:39.359" end="00:12:41.795">Yeah, I think that's what<tt:br/>enraged him.</tt:p>
+            <tt:p begin="00:12:41.862" end="00:12:43.964">And so now all 20<tt:br/>enraged feet of him</tt:p>
+            <tt:p begin="00:12:44.031" end="00:12:45.398">is swimming around out there.</tt:p>
+            <tt:p begin="00:12:45.465" end="00:12:47.434">In that inky black water.</tt:p>
+            <tt:p begin="00:12:47.500" end="00:12:49.569">Into which we are<tt:br/>currently sinking.</tt:p>
+            <tt:p begin="00:12:49.636" end="00:12:51.038">Yeah, it's not ideal.</tt:p>
+            <tt:p begin="00:12:51.104" end="00:12:52.840">I mean,<tt:br/>even if we had more shells.</tt:p>
+            <tt:p begin="00:12:52.906" end="00:12:54.374">You only brought<tt:br/>two shells?</tt:p>
+            <tt:p begin="00:12:54.441" end="00:12:56.476">No, I brought shitloads,<tt:br/>thank you.</tt:p>
+            <tt:p begin="00:12:56.543" end="00:12:58.912">Well, where are they?<tt:br/>In the gear bags.</tt:p>
+            <tt:p begin="00:12:58.979" end="00:13:00.848">With your guns.</tt:p>
+            <tt:p begin="00:13:00.914" end="00:13:03.116">And everything else.</tt:p>
+            <tt:p begin="00:13:03.183" end="00:13:04.684">[SIGHS]</tt:p>
+            <tt:p begin="00:13:04.751" end="00:13:06.786">Still got the cooler though,<tt:br/>so...</tt:p>
+            <tt:p begin="00:13:06.854" end="00:13:08.856">[BOAT CREAKING]</tt:p>
+            <tt:p begin="00:13:10.390" end="00:13:13.593">Thank God for small miracles,<tt:br/>huh?</tt:p>
+            <tt:p begin="00:13:13.660" end="00:13:15.495">Lana.</tt:p>
+            <tt:p begin="00:13:15.562" end="00:13:16.997">Lana.</tt:p>
+            <tt:p begin="00:13:17.064" end="00:13:19.466">Lana!<tt:br/>What?</tt:p>
+            <tt:p begin="00:13:19.532" end="00:13:22.002">I said,<tt:br/>thank God for small miracles.</tt:p>
+            <tt:p begin="00:13:22.069" end="00:13:25.438">I heard you.<tt:br/>I know.</tt:p>
+            <tt:p begin="00:13:25.505" end="00:13:26.974">[CHUCKLES]</tt:p>
+            <tt:p begin="00:13:31.644" end="00:13:33.113">[BOTTLE CAP POPS]</tt:p>
+            <tt:p begin="00:13:33.180" end="00:13:35.148">LANA:<tt:br/>Yeah, why don't you<tt:br/>have another one?</tt:p>
+            <tt:p begin="00:13:35.215" end="00:13:37.717">Well, somebody's got to.<tt:br/>Since you refuse to help...</tt:p>
+            <tt:p begin="00:13:37.784" end="00:13:39.086">You don't need help<tt:br/>to get drunk.</tt:p>
+            <tt:p begin="00:13:39.152" end="00:13:41.521">Oh, please, it takes more<tt:br/>than some 3.2--</tt:p>
+            <tt:p begin="00:13:41.588" end="00:13:44.892">Wow, six-percent beer.<tt:br/>--to get Sterling Archer drunk.</tt:p>
+            <tt:p begin="00:13:44.958" end="00:13:47.995">Six percent, really?<tt:br/>Yeah, so would you lay off?</tt:p>
+            <tt:p begin="00:13:48.061" end="00:13:51.164">There is a giant wounded<tt:br/>alligator out there,</tt:p>
+            <tt:p begin="00:13:51.231" end="00:13:53.400">not to mention<tt:br/>a dangerous eco-terrorist.</tt:p>
+            <tt:p begin="00:13:53.466" end="00:13:55.502">Holy shit,<tt:br/>totally forgot about him.</tt:p>
+            <tt:p begin="00:13:55.568" end="00:13:56.803">I didn't.</tt:p>
+            <tt:p begin="00:13:56.870" end="00:13:59.406">More reason for you to get<tt:br/>on board with my new plan.</tt:p>
+            <tt:p begin="00:13:59.472" end="00:14:01.374">Is it as idiotic<tt:br/>as your other plan?</tt:p>
+            <tt:p begin="00:14:01.441" end="00:14:03.343">That's how brainstorming works,<tt:br/>Lana.</tt:p>
+            <tt:p begin="00:14:03.410" end="00:14:06.113">It's free-form,<tt:br/>you come up with a lot of ideas.</tt:p>
+            <tt:p begin="00:14:06.179" end="00:14:09.149">Yeah, like using the pipeline<tt:br/>to set the entire swamp on fire.</tt:p>
+            <tt:p begin="00:14:09.216" end="00:14:11.018">Which, yes, bad idea,</tt:p>
+            <tt:p begin="00:14:11.084" end="00:14:13.386">but it got me thinking<tt:br/>about chemical reactions.</tt:p>
+            <tt:p begin="00:14:13.453" end="00:14:15.889">Like alcohol's effect<tt:br/>on the brain?</tt:p>
+            <tt:p begin="00:14:15.956" end="00:14:17.324">No, like the reaction between...</tt:p>
+            <tt:p begin="00:14:17.390" end="00:14:18.458">[BURPS]</tt:p>
+            <tt:p begin="00:14:18.525" end="00:14:21.061">...solid carbon dioxide,<tt:br/>also known as dry ice,</tt:p>
+            <tt:p begin="00:14:21.128" end="00:14:22.930">of which we have plenty,</tt:p>
+            <tt:p begin="00:14:22.996" end="00:14:25.265">and a fun,<tt:br/>sexy little molecule</tt:p>
+            <tt:p begin="00:14:25.332" end="00:14:29.036">I like to call<tt:br/>dihydrogen monoxide.</tt:p>
+            <tt:p begin="00:14:29.102" end="00:14:30.303">Water?<tt:br/>Water.</tt:p>
+            <tt:p begin="00:14:30.370" end="00:14:32.605">Combine them<tt:br/>in a sealed container</tt:p>
+            <tt:p begin="00:14:32.672" end="00:14:35.175">and you've got yourself--<tt:br/>Some kind of dry-ice bomb?</tt:p>
+            <tt:p begin="00:14:35.242" end="00:14:38.111">Ugh! Yes,<tt:br/>ruiner of explanations.</tt:p>
+            <tt:p begin="00:14:38.178" end="00:14:42.015">I was building to that, but yes.<tt:br/>Well, we got plenty of water.</tt:p>
+            <tt:p begin="00:14:42.082" end="00:14:43.850">No, the swamp's too dirty,<tt:br/>it's full of</tt:p>
+            <tt:p begin="00:14:43.917" end="00:14:45.452">whatever alligators shit out,</tt:p>
+            <tt:p begin="00:14:45.518" end="00:14:46.954">which I can only assume<tt:br/>is people.</tt:p>
+            <tt:p begin="00:14:47.020" end="00:14:49.622">They don't eat people.<tt:br/>They eat people all the time.</tt:p>
+            <tt:p begin="00:14:49.689" end="00:14:51.658">They don't--<tt:br/>Sarasota County, Florida.</tt:p>
+            <tt:p begin="00:14:51.724" end="00:14:54.594">Chet Willard, age 16,<tt:br/>swimming in the Oak River Canal,</tt:p>
+            <tt:p begin="00:14:54.661" end="00:14:56.029">killed by an 11-footer.</tt:p>
+            <tt:p begin="00:14:56.096" end="00:14:57.965">Two years ago,<tt:br/>Chatham County, Georgia,</tt:p>
+            <tt:p begin="00:14:58.031" end="00:15:01.868">Ruth Baker, age 39, killed in<tt:br/>her backyard by a 10-footer.</tt:p>
+            <tt:p begin="00:15:01.935" end="00:15:03.236">Archer.<tt:br/>Same year,</tt:p>
+            <tt:p begin="00:15:03.303" end="00:15:05.138">Pinellas County, Florida,<tt:br/>Walter Jakes,</tt:p>
+            <tt:p begin="00:15:05.205" end="00:15:08.208">age 70, and his dog,<tt:br/>killed by a 12-footer.</tt:p>
+            <tt:p begin="00:15:08.275" end="00:15:10.777">Three years ago, Dade County--<tt:br/>Archer!</tt:p>
+            <tt:p begin="00:15:10.843" end="00:15:12.012">What?</tt:p>
+            <tt:p begin="00:15:12.079" end="00:15:15.115">What are your three<tt:br/>biggest fears? Archer?</tt:p>
+            <tt:p begin="00:15:15.182" end="00:15:17.617">Alligators,<tt:br/>by far the biggest.</tt:p>
+            <tt:p begin="00:15:17.684" end="00:15:21.021">And so you've memorized<tt:br/>every fatal alligator attack?</tt:p>
+            <tt:p begin="00:15:21.088" end="00:15:22.455">Just in the U.S.,</tt:p>
+            <tt:p begin="00:15:22.522" end="00:15:24.657">I can't find any information<tt:br/>on attacks in China.</tt:p>
+            <tt:p begin="00:15:24.724" end="00:15:27.360">They only live here and China.<tt:br/>Two different species.</tt:p>
+            <tt:p begin="00:15:27.427" end="00:15:29.196">Chinese alligators<tt:br/>are smaller,</tt:p>
+            <tt:p begin="00:15:29.262" end="00:15:30.830">but their bellies<tt:br/>are fully-armored</tt:p>
+            <tt:p begin="00:15:30.897" end="00:15:33.466">so it kind of equals out.<tt:br/>Can we change the subject?</tt:p>
+            <tt:p begin="00:15:33.533" end="00:15:35.668">Okay,<tt:br/>what's your second biggest fear?</tt:p>
+            <tt:p begin="00:15:35.735" end="00:15:38.271">God, will you just--?<tt:br/>It's crocodiles, okay.</tt:p>
+            <tt:p begin="00:15:38.338" end="00:15:40.173">Do crocodiles even live here?</tt:p>
+            <tt:p begin="00:15:40.240" end="00:15:41.908">Not &quot;here&quot; here,<tt:br/>in the Everglades.</tt:p>
+            <tt:p begin="00:15:41.975" end="00:15:43.977">That's, like,<tt:br/>a thousand miles away.</tt:p>
+            <tt:p begin="00:15:44.044" end="00:15:45.845">Three years ago,<tt:br/>they caught a 9-foot croc</tt:p>
+            <tt:p begin="00:15:45.912" end="00:15:49.082">in the surf at Myrtle Beach,<tt:br/>so, you know, shit happens.</tt:p>
+            <tt:p begin="00:15:49.149" end="00:15:51.051">Wow. Not sure I wanna know<tt:br/>what your third--</tt:p>
+            <tt:p begin="00:15:51.118" end="00:15:52.885">Brain aneurysm.<tt:br/>What?</tt:p>
+            <tt:p begin="00:15:52.952" end="00:15:54.821">What does a brain aneurysm<tt:br/>have to do</tt:p>
+            <tt:p begin="00:15:54.887" end="00:15:56.489">with walking around in a swamp?</tt:p>
+            <tt:p begin="00:15:56.556" end="00:15:58.425">Nothing. It can happen<tt:br/>anywhere at anytime,</tt:p>
+            <tt:p begin="00:15:58.491" end="00:15:59.892">that's why<tt:br/>it's so terrifying.</tt:p>
+            <tt:p begin="00:15:59.959" end="00:16:01.361">Oh, my God. Okay.</tt:p>
+            <tt:p begin="00:16:01.428" end="00:16:04.064">So if the gator-poop water<tt:br/>is too dirty--</tt:p>
+            <tt:p begin="00:16:04.131" end="00:16:05.598">Yeah,<tt:br/>we need distilled water.</tt:p>
+            <tt:p begin="00:16:05.665" end="00:16:08.101">Your plan include finding some?<tt:br/>Yes, but--</tt:p>
+            <tt:p begin="00:16:08.168" end="00:16:09.936">But what?<tt:br/>You're not gonna like it.</tt:p>
+            <tt:p begin="00:16:10.003" end="00:16:11.571">Do we have to distill<tt:br/>our pee?</tt:p>
+            <tt:p begin="00:16:11.638" end="00:16:15.408">You can if you want,<tt:br/>but I was just gonna use this.</tt:p>
+            <tt:p begin="00:16:15.475" end="00:16:18.278">Wha--? There was bottled water<tt:br/>in there the whole time?</tt:p>
+            <tt:p begin="00:16:18.345" end="00:16:20.547">Yes. Sorry, I forgot.</tt:p>
+            <tt:p begin="00:16:20.613" end="00:16:22.782">You forgot. Thanks, idiot.</tt:p>
+            <tt:p begin="00:16:22.849" end="00:16:25.818">What? You still would've burned<tt:br/>your hands reaching in here.</tt:p>
+            <tt:p begin="00:16:25.885" end="00:16:27.554">I hope an alligator<tt:br/>attacks you</tt:p>
+            <tt:p begin="00:16:27.620" end="00:16:29.522">at the exact moment you have<tt:br/>a brain aneurysm.</tt:p>
+            <tt:p begin="00:16:29.589" end="00:16:31.191">How could you<tt:br/>even say that?</tt:p>
+            <tt:p begin="00:16:31.258" end="00:16:33.293">That's like me saying<tt:br/>I hope you get cancer.</tt:p>
+            <tt:p begin="00:16:33.360" end="00:16:35.562">What is wrong with you?<tt:br/>I obviously don't,</tt:p>
+            <tt:p begin="00:16:35.628" end="00:16:38.131">but holy shit, Lana,<tt:br/>I pour my heart out,</tt:p>
+            <tt:p begin="00:16:38.198" end="00:16:40.067">and you just throw it right back<tt:br/>in my face?</tt:p>
+            <tt:p begin="00:16:41.268" end="00:16:42.702">Sorry.<tt:br/>Well, you should be.</tt:p>
+            <tt:p begin="00:16:42.769" end="00:16:45.138">That's-- Wait, okay,<tt:br/>what's your biggest fear?</tt:p>
+            <tt:p begin="00:16:45.205" end="00:16:47.207">Nope.<tt:br/>Come on, I told you mine.</tt:p>
+            <tt:p begin="00:16:47.274" end="00:16:48.575">I know. You lose.</tt:p>
+            <tt:p begin="00:16:48.641" end="00:16:50.410">I think your biggest fear<tt:br/>is intimacy.</tt:p>
+            <tt:p begin="00:16:50.477" end="00:16:52.445">When what you should be<tt:br/>afraid of</tt:p>
+            <tt:p begin="00:16:52.512" end="00:16:54.047">is falling in love<tt:br/>with me again</tt:p>
+            <tt:p begin="00:16:54.114" end="00:16:55.815">because of my awesomeness.</tt:p>
+            <tt:p begin="00:16:55.882" end="00:16:58.017">Check this out.<tt:br/>How do you light it?</tt:p>
+            <tt:p begin="00:16:58.085" end="00:16:59.886">Pressure builds<tt:br/>until it explodes.</tt:p>
+            <tt:p begin="00:16:59.952" end="00:17:01.421">How long does that take?</tt:p>
+            <tt:p begin="00:17:01.488" end="00:17:04.057">Depends how much water.<tt:br/>We're gonna need to dial it in.</tt:p>
+            <tt:p begin="00:17:04.124" end="00:17:05.925">You have no idea<tt:br/>when that's gonna go off?</tt:p>
+            <tt:p begin="00:17:05.992" end="00:17:07.894">How could I?</tt:p>
+            <tt:p begin="00:17:07.960" end="00:17:09.729">[BOTTLE HISSING]</tt:p>
+            <tt:p begin="00:17:09.796" end="00:17:10.730">Oh, shit.</tt:p>
+            <tt:p begin="00:17:17.337" end="00:17:18.571">Asshole.<tt:br/>Did it get you?</tt:p>
+            <tt:p begin="00:17:18.638" end="00:17:20.973">No.<tt:br/>Me neither. Wow. Again, small--</tt:p>
+            <tt:p begin="00:17:21.040" end="00:17:23.009">Don't.</tt:p>
+            <tt:p begin="00:17:23.076" end="00:17:24.544">Miracles.<tt:br/>Argh!</tt:p>
+            <tt:p begin="00:17:24.611" end="00:17:25.578">How long was that?</tt:p>
+            <tt:p begin="00:17:25.645" end="00:17:28.181">Oh, I'm sorry,<tt:br/>I forgot to time it.</tt:p>
+            <tt:p begin="00:17:28.248" end="00:17:30.083">It's okay,<tt:br/>I forgot to measure it.</tt:p>
+            <tt:p begin="00:17:30.150" end="00:17:32.552">So we're both gonna need<tt:br/>to do better.</tt:p>
+            <tt:p begin="00:17:32.619" end="00:17:34.154">MALORY:<tt:br/> Every single one. </tt:p>
+            <tt:p begin="00:17:34.221" end="00:17:35.622">To hell<tt:br/>with the tax credits.</tt:p>
+            <tt:p begin="00:17:35.688" end="00:17:38.558">I want every last one of those<tt:br/>low-flow toilets out.</tt:p>
+            <tt:p begin="00:17:38.625" end="00:17:41.328">Dump them on the street with<tt:br/>those ridiculous light bulbs.</tt:p>
+            <tt:p begin="00:17:41.394" end="00:17:43.563">Why do I have to carry<tt:br/>the toilets?</tt:p>
+            <tt:p begin="00:17:43.630" end="00:17:44.631">You know why.</tt:p>
+            <tt:p begin="00:17:44.697" end="00:17:46.899">Because of the things<tt:br/>that come out of your body.</tt:p>
+            <tt:p begin="00:17:46.966" end="00:17:48.535">Oh, shut up, Mr. Bigmouth,</tt:p>
+            <tt:p begin="00:17:48.601" end="00:17:50.337">telling it we have<tt:br/>a women's bathroom.</tt:p>
+            <tt:p begin="00:17:50.403" end="00:17:52.639">Where I better never<tt:br/>catch you again.</tt:p>
+            <tt:p begin="00:17:52.705" end="00:17:55.175">PAM:<tt:br/>Okay, jeez,<tt:br/>hostile work environment.</tt:p>
+            <tt:p begin="00:17:55.242" end="00:17:57.377">Yeah. So everything's back<tt:br/>to normal.</tt:p>
+            <tt:p begin="00:17:57.444" end="00:18:00.447">Is it?<tt:br/>I told you lives were at risk.</tt:p>
+            <tt:p begin="00:18:00.513" end="00:18:02.449">Now behold the horror<tt:br/>you have wrought.</tt:p>
+            <tt:p begin="00:18:02.515" end="00:18:05.118">Pam, if you're dumping stuff<tt:br/>on the street, this can go.</tt:p>
+            <tt:p begin="00:18:05.185" end="00:18:07.154">What is it?<tt:br/>Shattered dreams.</tt:p>
+            <tt:p begin="00:18:07.220" end="00:18:09.189">Smells like rotten meat.<tt:br/>Also, yes.</tt:p>
+            <tt:p begin="00:18:09.256" end="00:18:11.124">[EXPLOSION]</tt:p>
+            <tt:p begin="00:18:11.191" end="00:18:12.792">Yeah, there we go.</tt:p>
+            <tt:p begin="00:18:12.859" end="00:18:15.027">I think we got this recipe<tt:br/>figured out.</tt:p>
+            <tt:p begin="00:18:15.094" end="00:18:16.263">That was pretty great.</tt:p>
+            <tt:p begin="00:18:16.329" end="00:18:17.664">Duh. You shut up.<tt:br/>Shut up.</tt:p>
+            <tt:p begin="00:18:17.730" end="00:18:20.066">I'll get dry ice in the rest<tt:br/>of the bottles,</tt:p>
+            <tt:p begin="00:18:20.133" end="00:18:21.634">you be ready with the water</tt:p>
+            <tt:p begin="00:18:21.701" end="00:18:24.637">and we'll wait for that big,<tt:br/>fat, stupid gator to come back.</tt:p>
+            <tt:p begin="00:18:24.704" end="00:18:26.606">GRAY:<tt:br/>Destroying his habitat<tt:br/>isn't enough?</tt:p>
+            <tt:p begin="00:18:26.673" end="00:18:27.840">Wha--?</tt:p>
+            <tt:p begin="00:18:27.907" end="00:18:30.243">I would've been here sooner,<tt:br/>but you stole my boat.</tt:p>
+            <tt:p begin="00:18:30.310" end="00:18:32.779">Do you not understand<tt:br/>how reservations work?</tt:p>
+            <tt:p begin="00:18:32.845" end="00:18:34.514">Reserve this, Treebeard.</tt:p>
+            <tt:p begin="00:18:34.581" end="00:18:36.082">Oh, please,<tt:br/>it's not even loaded.</tt:p>
+            <tt:p begin="00:18:36.149" end="00:18:37.284">Wha--? Thanks, Lana.</tt:p>
+            <tt:p begin="00:18:37.350" end="00:18:39.686">Shut up. Hi, Josh.<tt:br/>Hello, Lana.</tt:p>
+            <tt:p begin="00:18:39.752" end="00:18:40.987">You know each other?</tt:p>
+            <tt:p begin="00:18:41.053" end="00:18:44.624">Josh was my Environmental Policy<tt:br/>TA when I was in college.</tt:p>
+            <tt:p begin="00:18:44.691" end="00:18:45.592">And her lover.</tt:p>
+            <tt:p begin="00:18:53.900" end="00:18:54.967">Also, yes.</tt:p>
+            <tt:p begin="00:18:55.034" end="00:18:56.569">Wait, I thought he was<tt:br/>a Green Beret.</tt:p>
+            <tt:p begin="00:18:56.636" end="00:18:58.605">I went to grad school<tt:br/>on the G.I. Bill.</tt:p>
+            <tt:p begin="00:18:58.671" end="00:19:00.973">That's when I realized<tt:br/>I had to lead the fight</tt:p>
+            <tt:p begin="00:19:01.040" end="00:19:03.443">against the systematic rape<tt:br/>of Mother Nature.</tt:p>
+            <tt:p begin="00:19:03.510" end="00:19:05.845">But back then you just<tt:br/>organized peaceful protests.</tt:p>
+            <tt:p begin="00:19:05.912" end="00:19:07.714">Like that day at the fur store.<tt:br/>Yeah.</tt:p>
+            <tt:p begin="00:19:07.780" end="00:19:09.449">Where you disappeared<tt:br/>without a trace.</tt:p>
+            <tt:p begin="00:19:09.516" end="00:19:11.017">I guess I found my calling.</tt:p>
+            <tt:p begin="00:19:11.083" end="00:19:14.387">As a hired gun for the<tt:br/>military-industrial complex?</tt:p>
+            <tt:p begin="00:19:14.454" end="00:19:17.224">A traitor to the cause<tt:br/>of environmental protection?</tt:p>
+            <tt:p begin="00:19:17.290" end="00:19:18.591">Me? What about you?</tt:p>
+            <tt:p begin="00:19:18.658" end="00:19:20.693">Always running around,<tt:br/>blowing shit up.</tt:p>
+            <tt:p begin="00:19:20.760" end="00:19:22.529">Threatening our supply<tt:br/>of lamp oil.</tt:p>
+            <tt:p begin="00:19:22.595" end="00:19:24.364">Shut up.<tt:br/>But, Josh, seriously,</tt:p>
+            <tt:p begin="00:19:24.431" end="00:19:27.133">do you really think the ends<tt:br/>justify such violent means?</tt:p>
+            <tt:p begin="00:19:27.200" end="00:19:29.702">Yes, because this is a war.</tt:p>
+            <tt:p begin="00:19:29.769" end="00:19:31.538">And victory will only come<tt:br/>when Americans</tt:p>
+            <tt:p begin="00:19:31.604" end="00:19:33.172">stop destroying the earth</tt:p>
+            <tt:p begin="00:19:33.240" end="00:19:35.242">just so they can drive<tt:br/>bigger cars,</tt:p>
+            <tt:p begin="00:19:35.308" end="00:19:38.110">build bigger houses<tt:br/>and eat bigger food.</tt:p>
+            <tt:p begin="00:19:38.177" end="00:19:41.281">So, like, never.<tt:br/>Yeah.</tt:p>
+            <tt:p begin="00:19:41.348" end="00:19:43.550">Oh, my God, that's depressing.<tt:br/>Sorry.</tt:p>
+            <tt:p begin="00:19:43.616" end="00:19:46.286">And I'm also sorry we can't<tt:br/>let you blow up this pipeline.</tt:p>
+            <tt:p begin="00:19:46.353" end="00:19:48.020">I wasn't going to.<tt:br/>Then--</tt:p>
+            <tt:p begin="00:19:48.087" end="00:19:50.490">I mean, I was, but I saw you<tt:br/>with this idiot</tt:p>
+            <tt:p begin="00:19:50.557" end="00:19:52.692">yelling on the plane<tt:br/>about working for ISIS.</tt:p>
+            <tt:p begin="00:19:52.759" end="00:19:55.228">So technically,<tt:br/>I saved the pipeline.</tt:p>
+            <tt:p begin="00:19:55.295" end="00:19:56.296">Yeah, you're the best.</tt:p>
+            <tt:p begin="00:19:56.363" end="00:19:58.598">Whatever, I win.<tt:br/>Suck it, Samwise.</tt:p>
+            <tt:p begin="00:19:58.665" end="00:20:01.601">Archer.<tt:br/>So you need a lift back to land?</tt:p>
+            <tt:p begin="00:20:01.668" end="00:20:03.202">Yeah, let me just grab<tt:br/>my cooler and--</tt:p>
+            <tt:p begin="00:20:03.270" end="00:20:04.671">Not you, ass.</tt:p>
+            <tt:p begin="00:20:04.737" end="00:20:08.875">Lana, maybe we can grab dinner,<tt:br/>see some Dixieland jazz?</tt:p>
+            <tt:p begin="00:20:08.941" end="00:20:11.077">That sounds lovely.</tt:p>
+            <tt:p begin="00:20:11.143" end="00:20:12.979">Oh, come on, are you kidding me?</tt:p>
+            <tt:p begin="00:20:13.045" end="00:20:14.847">You're really gonna leave me<tt:br/>out here?</tt:p>
+            <tt:p begin="00:20:14.914" end="00:20:15.948">LANA:<tt:br/>Yup.</tt:p>
+            <tt:p begin="00:20:16.015" end="00:20:17.950">GRAY:<tt:br/>I like your new hairdo,<tt:br/>by the way.</tt:p>
+            <tt:p begin="00:20:18.017" end="00:20:21.354">LANA:<tt:br/>Well, if you like the collar,<tt:br/>you're gonna love the cuffs.</tt:p>
+            <tt:p begin="00:20:21.421" end="00:20:23.456">Well, that's just great.</tt:p>
+            <tt:p begin="00:20:23.523" end="00:20:25.992">She gets dinner and Dixieland<tt:br/>and laid</tt:p>
+            <tt:p begin="00:20:26.058" end="00:20:29.629">and I get mosquitoes and no beer<tt:br/>and not laid.</tt:p>
+            <tt:p begin="00:20:29.696" end="00:20:31.798">How could this get any--?<tt:br/>[ALLIGATOR GROWLING]</tt:p>
+            <tt:p begin="00:20:31.864" end="00:20:33.766">Let me finish.</tt:p>
+            <tt:p begin="00:20:33.833" end="00:20:37.570">--worse.<tt:br/>Now-- Okay, see? You ruined it.</tt:p>
+            <tt:p begin="00:20:37.637" end="00:20:39.972">You ruined the moment.</tt:p>
+            <tt:p begin="00:20:40.039" end="00:20:41.841">[***]</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

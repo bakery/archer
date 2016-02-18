@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:02.570" end="00:00:06.274">KELLOGG: Mayday mayday mayday,<tt:br/>this is Commander Kellogg of</tt:p>
+            <tt:p begin="00:00:06.307" end="00:00:08.809">I.S.A. Space Station Horizon,<tt:br/>[garbled]</tt:p>
+            <tt:p begin="00:00:08.842" end="00:00:10.778">secure transmission<tt:br/>[garbled]</tt:p>
+            <tt:p begin="00:00:10.811" end="00:00:12.046">Commander Drake.</tt:p>
+            <tt:p begin="00:00:12.080" end="00:00:14.282">Tony, the crew has<tt:br/>[garbled],</tt:p>
+            <tt:p begin="00:00:14.315" end="00:00:15.816">and we are under<tt:br/>[garbled].</tt:p>
+            <tt:p begin="00:00:15.849" end="00:00:17.285">I say again,<tt:br/>we are under</tt:p>
+            <tt:p begin="00:00:17.318" end="00:00:19.353">[garbled].</tt:p>
+            <tt:p begin="00:00:19.387" end="00:00:24.258">Croatoooooan!</tt:p>
+            <tt:p begin="00:00:24.292" end="00:00:25.826">DRAKE: And that, Mrs. Archer...</tt:p>
+            <tt:p begin="00:00:25.859" end="00:00:26.660">MALORY: Ms.</tt:p>
+            <tt:p begin="00:00:26.694" end="00:00:27.628">ARCHER: Don't.</tt:p>
+            <tt:p begin="00:00:27.661" end="00:00:30.164">DRAKE: Ahh -- Ms. Archer,<tt:br/>I beg your pardon --</tt:p>
+            <tt:p begin="00:00:30.198" end="00:00:31.332">ARCHER: Don't.</tt:p>
+            <tt:p begin="00:00:31.365" end="00:00:33.634">DRAKE: -- that was the last<tt:br/>transmission from the Horizon.</tt:p>
+            <tt:p begin="00:00:33.667" end="00:00:35.536">ARCHER: Which,<tt:br/>obviously pretty vague.</tt:p>
+            <tt:p begin="00:00:35.569" end="00:00:36.837">DRAKE: Vague? !</tt:p>
+            <tt:p begin="00:00:36.870" end="00:00:39.773">You heard Commander Kellogg,<tt:br/>he said the Horizon is under<tt:br/>attack!</tt:p>
+            <tt:p begin="00:00:39.807" end="00:00:41.475">LANA: Well, under something...</tt:p>
+            <tt:p begin="00:00:41.509" end="00:00:43.077">ARCHER: He could've been saying<tt:br/>underfinanced.</tt:p>
+            <tt:p begin="00:00:43.111" end="00:00:43.611">DRAKE: What?</tt:p>
+            <tt:p begin="00:00:43.644" end="00:00:45.179">MALORY: Sterling --</tt:p>
+            <tt:p begin="00:00:45.213" end="00:00:48.216">ARCHER: What, they're always<tt:br/>whining about needing more<tt:br/>money for their boondocks.</tt:p>
+            <tt:p begin="00:00:48.249" end="00:00:48.782">LANA: Doggles.</tt:p>
+            <tt:p begin="00:00:48.816" end="00:00:49.850">ARCHER: What?</tt:p>
+            <tt:p begin="00:00:49.883" end="00:00:52.420">DRAKE: You think space<tt:br/>exploration is a boondoggle? !</tt:p>
+            <tt:p begin="00:00:52.453" end="00:00:54.222">LANA: Well c'mon,<tt:br/>in this economy?</tt:p>
+            <tt:p begin="00:00:54.255" end="00:00:55.523">DRAKE: Exactly!</tt:p>
+            <tt:p begin="00:00:55.556" end="00:00:59.160">Now, more than ever,<tt:br/>is when we need to look to space</tt:p>
+            <tt:p begin="00:00:59.193" end="00:01:02.430">for the solutions to mankind's<tt:br/>problems.</tt:p>
+            <tt:p begin="00:01:02.463" end="00:01:05.366">In just two hundred years,<tt:br/>Earth's population will exceed</tt:p>
+            <tt:p begin="00:01:05.399" end="00:01:07.635">her capacity to produce enough<tt:br/>food.</tt:p>
+            <tt:p begin="00:01:07.668" end="00:01:11.472">And even as the famines begin,<tt:br/>global war will erupt as fresh</tt:p>
+            <tt:p begin="00:01:11.505" end="00:01:14.208">water becomes scarcer than<tt:br/>gold.</tt:p>
+            <tt:p begin="00:01:14.242" end="00:01:17.678">But if we begin now,<tt:br/>using the lessons learned aboard</tt:p>
+            <tt:p begin="00:01:17.711" end="00:01:20.881">Space Station Horizon,<tt:br/>a small group of brave</tt:p>
+            <tt:p begin="00:01:20.914" end="00:01:23.717">colonists,<tt:br/>can terraform Mars.</tt:p>
+            <tt:p begin="00:01:23.751" end="00:01:31.159">And mankind can finally slip<tt:br/>the surly bonds of Earth,<tt:br/>to live forever among the stars!</tt:p>
+            <tt:p begin="00:01:31.192" end="00:01:31.892">ARCHER: Yeah, Lana.</tt:p>
+            <tt:p begin="00:01:31.925" end="00:01:32.826">LANA: Wh-?</tt:p>
+            <tt:p begin="00:01:32.860" end="00:01:34.662">ARCHER: Jesus,<tt:br/>read a book once in your life.</tt:p>
+            <tt:p begin="00:01:34.695" end="00:01:36.730">So where does ISIS fit in,<tt:br/>Commander?</tt:p>
+            <tt:p begin="00:01:36.764" end="00:01:38.299">DRAKE: Well --</tt:p>
+            <tt:p begin="00:01:38.332" end="00:01:40.901">MALORY: Well I think that's a<tt:br/>bit premature, until we discuss<tt:br/>our fee structure.</tt:p>
+            <tt:p begin="00:01:40.934" end="00:01:43.671">DRAKE: As to that,<tt:br/>you can name your price.</tt:p>
+            <tt:p begin="00:01:43.704" end="00:01:45.339">LANA: Oh now they've got --</tt:p>
+            <tt:p begin="00:01:45.373" end="00:01:46.374">MALORY: Enough!</tt:p>
+            <tt:p begin="00:01:46.407" end="00:01:48.876">Commander? As to our role?</tt:p>
+            <tt:p begin="00:01:48.909" end="00:01:51.245">DRAKE: Horizon has an<tt:br/>international crew.</tt:p>
+            <tt:p begin="00:01:51.279" end="00:01:53.614">American, German, Chinese,<tt:br/>French --</tt:p>
+            <tt:p begin="00:01:53.647" end="00:01:55.616">ARCHER: Ba-dum-bump!</tt:p>
+            <tt:p begin="00:01:55.649" end="00:01:58.352">Sorry, I thought &quot;French&quot;<tt:br/>was a joke.</tt:p>
+            <tt:p begin="00:01:58.386" end="00:02:00.721">DRAKE: Is mutiny funny to you,<tt:br/>Mr. Archer?</tt:p>
+            <tt:p begin="00:02:00.754" end="00:02:03.157">ARCHER: I dunno,<tt:br/>maybe a mutiny of clowns...</tt:p>
+            <tt:p begin="00:02:03.191" end="00:02:04.925">DRAKE: Because I fear that one<tt:br/>faction,</tt:p>
+            <tt:p begin="00:02:04.958" end="00:02:07.195">led by radical nationalists,<tt:br/>has mutinied.</tt:p>
+            <tt:p begin="00:02:07.228" end="00:02:07.661">LANA: But who?</tt:p>
+            <tt:p begin="00:02:07.695" end="00:02:08.462">Which one?</tt:p>
+            <tt:p begin="00:02:08.496" end="00:02:09.297">DRAKE: Well if I --</tt:p>
+            <tt:p begin="00:02:09.330" end="00:02:10.898">ARCHER: If he knew,<tt:br/>he would tell us!</tt:p>
+            <tt:p begin="00:02:10.931" end="00:02:12.266">MALORY: Read a book!</tt:p>
+            <tt:p begin="00:02:12.300" end="00:02:14.868">DRAKE: And since I don't know<tt:br/>which faction is behind the<tt:br/>mutiny --</tt:p>
+            <tt:p begin="00:02:14.902" end="00:02:16.237">LANA: If there even was one...</tt:p>
+            <tt:p begin="00:02:16.270" end="00:02:18.472">DRAKE: -- I can't trust anyone<tt:br/>at the I.S.A.</tt:p>
+            <tt:p begin="00:02:18.506" end="00:02:20.474">Which is why I came to ISIS.</tt:p>
+            <tt:p begin="00:02:20.508" end="00:02:21.942">MALORY: Because of our loyalty.</tt:p>
+            <tt:p begin="00:02:21.975" end="00:02:23.444">DRAKE: Or lack thereof.</tt:p>
+            <tt:p begin="00:02:23.477" end="00:02:24.912">MALORY: Or whatever.</tt:p>
+            <tt:p begin="00:02:24.945" end="00:02:27.448">DRAKE: Because I need a small<tt:br/>cadre of highly trained agents</tt:p>
+            <tt:p begin="00:02:27.481" end="00:02:30.218">to fly into orbit and help me<tt:br/>to retake control of Horizon.</tt:p>
+            <tt:p begin="00:02:30.251" end="00:02:31.185">LANA: Nooope!</tt:p>
+            <tt:p begin="00:02:31.219" end="00:02:31.885">ARCHER: Yeahhhp!</tt:p>
+            <tt:p begin="00:02:31.919" end="00:02:32.553">LANA: Archer!</tt:p>
+            <tt:p begin="00:02:32.586" end="00:02:33.354">ARCHER: Lana!</tt:p>
+            <tt:p begin="00:02:33.387" end="00:02:34.855">LANA: He just said<tt:br/>&quot;highly-trained&quot;!</tt:p>
+            <tt:p begin="00:02:34.888" end="00:02:38.626">And last time I checked,<tt:br/>none of us were even<tt:br/>lowly-trained to be astronauts!</tt:p>
+            <tt:p begin="00:02:38.659" end="00:02:39.860">ARCHER: Well how hard could it<tt:br/>be?</tt:p>
+            <tt:p begin="00:02:39.893" end="00:02:40.894">DRAKE: Incredibly.</tt:p>
+            <tt:p begin="00:02:40.928" end="00:02:43.697">MALORY: But since apparently<tt:br/>money is no object...</tt:p>
+            <tt:p begin="00:02:43.731" end="00:02:45.065">DRAKE: The training schedule<tt:br/>will have to be highly</tt:p>
+            <tt:p begin="00:02:45.098" end="00:02:48.736">compressed,<tt:br/>because the shuttle Intrepid is<tt:br/>launching in three days.</tt:p>
+            <tt:p begin="00:02:48.769" end="00:02:51.672">And I won't lie to you,<tt:br/>this mission will be dangerous.</tt:p>
+            <tt:p begin="00:02:51.705" end="00:02:55.476">ARCHER: Would you say we'll be<tt:br/>venturing into a zone of<tt:br/>danger?</tt:p>
+            <tt:p begin="00:02:55.509" end="00:02:56.844">DRAKE: Well yes, obviously.</tt:p>
+            <tt:p begin="00:02:56.877" end="00:02:57.978">ARCHER: No, but --</tt:p>
+            <tt:p begin="00:02:58.011" end="00:02:58.912">how would you phrase that?</tt:p>
+            <tt:p begin="00:02:58.946" end="00:03:00.248">DRAKE: I --</tt:p>
+            <tt:p begin="00:03:00.281" end="00:03:01.715">the zone will be one of danger?</tt:p>
+            <tt:p begin="00:03:01.749" end="00:03:02.850">ARCHER: No, I mean say --</tt:p>
+            <tt:p begin="00:03:02.883" end="00:03:05.386">oh forget it, never mind.</tt:p>
+            <tt:p begin="00:03:05.419" end="00:03:08.256">And you never mind<tt:br/>and also shut up.</tt:p>
+            <tt:p begin="00:03:44.925" end="00:03:45.959">ARCHER: Oww!</tt:p>
+            <tt:p begin="00:03:45.993" end="00:03:48.329">Jesus Krieger, that's the bone!</tt:p>
+            <tt:p begin="00:03:48.362" end="00:03:51.899">KRIEGER: Oh, da mean doctor take<tt:br/>widdle baby's bwud,<tt:br/>and widdle baby goes --</tt:p>
+            <tt:p begin="00:03:51.932" end="00:03:52.833">owww!</tt:p>
+            <tt:p begin="00:03:52.866" end="00:03:54.668">ARCHER: You're a baby.</tt:p>
+            <tt:p begin="00:03:54.702" end="00:03:56.036">And astronaut training sucks<tt:br/>complete ass!</tt:p>
+            <tt:p begin="00:03:56.069" end="00:03:56.904">Literally!</tt:p>
+            <tt:p begin="00:03:56.937" end="00:03:58.739">What is the deal with all the<tt:br/>enemas? !</tt:p>
+            <tt:p begin="00:03:58.772" end="00:03:59.673">KRIEGER: Uh --</tt:p>
+            <tt:p begin="00:03:59.707" end="00:04:01.609">ARCHER: And why do you need<tt:br/>so much blood? !</tt:p>
+            <tt:p begin="00:04:01.642" end="00:04:03.411">And wait,<tt:br/>now that I think about it --</tt:p>
+            <tt:p begin="00:04:03.444" end="00:04:05.313">DRAKE: Why is this man in<tt:br/>the restricted area? !</tt:p>
+            <tt:p begin="00:04:05.346" end="00:04:06.714">KRIEGER: Who, him?</tt:p>
+            <tt:p begin="00:04:06.747" end="00:04:07.815">DRAKE: You.</tt:p>
+            <tt:p begin="00:04:07.848" end="00:04:09.283">ARCHER: Wh-? Krieger!</tt:p>
+            <tt:p begin="00:04:09.317" end="00:04:11.719">KRIEGER: Uh -- smoke bomb!</tt:p>
+            <tt:p begin="00:04:11.752" end="00:04:13.754">DRAKE: And why aren't you with<tt:br/>the other trainees?</tt:p>
+            <tt:p begin="00:04:13.787" end="00:04:18.392">ARCHER: I was told I had to<tt:br/>undergo a bunch of extremely<tt:br/>invasive medical tests.</tt:p>
+            <tt:p begin="00:04:18.426" end="00:04:21.695">DRAKE: Well normally you would,<tt:br/>but by our doctors.</tt:p>
+            <tt:p begin="00:04:21.729" end="00:04:24.365">But since you're on such an<tt:br/>accelerated training schedule --</tt:p>
+            <tt:p begin="00:04:24.398" end="00:04:26.800">ARCHER: Six enemas is a luxury<tt:br/>we can ill afford, got it.</tt:p>
+            <tt:p begin="00:04:26.834" end="00:04:27.901">MALORY: Six? !</tt:p>
+            <tt:p begin="00:04:27.935" end="00:04:29.803">ARCHER: Or -- who knows,<tt:br/>he put me under.</tt:p>
+            <tt:p begin="00:04:29.837" end="00:04:30.604">Maybe twelve.</tt:p>
+            <tt:p begin="00:04:30.638" end="00:04:32.506">DRAKE: Now you've wasted<tt:br/>half a day,</tt:p>
+            <tt:p begin="00:04:32.540" end="00:04:34.508">so the other trainees are way<tt:br/>ahead of you.</tt:p>
+            <tt:p begin="00:04:34.542" end="00:04:37.077">ARCHER: Not for long they're<tt:br/>not!</tt:p>
+            <tt:p begin="00:04:37.110" end="00:04:38.979">[loud crash]</tt:p>
+            <tt:p begin="00:04:39.012" end="00:04:41.081">DRAKE: Well he's eager,<tt:br/>I'll give him that.</tt:p>
+            <tt:p begin="00:04:41.114" end="00:04:42.983">MALORY: Well, you inspire him.</tt:p>
+            <tt:p begin="00:04:43.016" end="00:04:45.986">With all those medals on that<tt:br/>powerful chest.</tt:p>
+            <tt:p begin="00:04:46.019" end="00:04:47.555">Your wife is a very lucky --</tt:p>
+            <tt:p begin="00:04:47.588" end="00:04:49.390">DRAKE: I'm a widower.</tt:p>
+            <tt:p begin="00:04:49.423" end="00:04:50.491">MALORY: Oh!</tt:p>
+            <tt:p begin="00:04:50.524" end="00:04:53.394">Difficult to meet people,<tt:br/>isn't it, in jobs like ours.</tt:p>
+            <tt:p begin="00:04:53.427" end="00:04:56.997">I only mention it because I<tt:br/>also happen to be single --</tt:p>
+            <tt:p begin="00:04:57.030" end="00:04:59.099">DRAKE: Yes, I know.</tt:p>
+            <tt:p begin="00:04:59.132" end="00:05:08.809">Excuse me.</tt:p>
+            <tt:p begin="00:05:08.842" end="00:05:10.844">MALORY: I hope to God that was<tt:br/>alcohol.</tt:p>
+            <tt:p begin="00:05:10.878" end="00:05:11.712">LANA: No!</tt:p>
+            <tt:p begin="00:05:11.745" end="00:05:12.346">ARCHER: Yes!</tt:p>
+            <tt:p begin="00:05:12.380" end="00:05:12.880">LANA: Dammit Archer, it's --</tt:p>
+            <tt:p begin="00:05:12.913" end="00:05:14.114">ARCHER: It's my turn!</tt:p>
+            <tt:p begin="00:05:14.147" end="00:05:15.983">Cyril! Cyril!</tt:p>
+            <tt:p begin="00:05:16.016" end="00:05:17.618">Drake said lemme fly it!</tt:p>
+            <tt:p begin="00:05:17.651" end="00:05:19.353">CYRIL: Cut it out, Archer!</tt:p>
+            <tt:p begin="00:05:19.387" end="00:05:20.788">I'm landing!</tt:p>
+            <tt:p begin="00:05:20.821" end="00:05:24.091">C'mon, baby,<tt:br/>keep that nose up...</tt:p>
+            <tt:p begin="00:05:24.124" end="00:05:25.058">[SMASH]</tt:p>
+            <tt:p begin="00:05:25.092" end="00:05:26.427">CYRIL: What the --? !</tt:p>
+            <tt:p begin="00:05:26.460" end="00:05:28.028">SEXY ROBOTIC VOICE:<tt:br/>Explosive decompression.</tt:p>
+            <tt:p begin="00:05:28.061" end="00:05:29.397">Explosive decompression.</tt:p>
+            <tt:p begin="00:05:29.430" end="00:05:30.398">ARCHER: Happy, Cyril? !</tt:p>
+            <tt:p begin="00:05:30.431" end="00:05:32.566">You just destroyed Alderaan!</tt:p>
+            <tt:p begin="00:05:32.600" end="00:05:36.069">LANA: Dammit,<tt:br/>that was closer than any of us<tt:br/>have gotten to actually landing!</tt:p>
+            <tt:p begin="00:05:36.103" end="00:05:40.674">ARCHER: A, because you're all<tt:br/>crap, and B, who cares,<tt:br/>we're not gonna land it!</tt:p>
+            <tt:p begin="00:05:40.708" end="00:05:41.375">CYRIL: What the hell --</tt:p>
+            <tt:p begin="00:05:41.409" end="00:05:42.743">DRAKE: -- is going on in here? !</tt:p>
+            <tt:p begin="00:05:42.776" end="00:05:43.744">LANA: Archer --</tt:p>
+            <tt:p begin="00:05:43.777" end="00:05:46.046">ARCHER: Saw an electrical fire<tt:br/>in the simulator,</tt:p>
+            <tt:p begin="00:05:46.079" end="00:05:48.816">and knowing that my colleague's<tt:br/>life was in danger, I --</tt:p>
+            <tt:p begin="00:05:48.849" end="00:05:50.651">DRAKE: You acted without<tt:br/>thinking!</tt:p>
+            <tt:p begin="00:05:50.684" end="00:05:51.419">LANA: As always.</tt:p>
+            <tt:p begin="00:05:51.452" end="00:05:52.586">ARCHER: Not always...</tt:p>
+            <tt:p begin="00:05:52.620" end="00:05:54.655">DRAKE: Well, thank God<tt:br/>you did --</tt:p>
+            <tt:p begin="00:05:54.688" end="00:05:55.255">LANA: Wh-?</tt:p>
+            <tt:p begin="00:05:55.288" end="00:05:56.890">ARCHER: But almost always!</tt:p>
+            <tt:p begin="00:05:56.924" end="00:06:00.461">DRAKE: -- because that's exactly<tt:br/>the kind of decisive action<tt:br/>this mission calls for.</tt:p>
+            <tt:p begin="00:06:00.494" end="00:06:02.162">You could all learn something<tt:br/>from him.</tt:p>
+            <tt:p begin="00:06:02.195" end="00:06:03.597">EVERYBODY: Oh my God...</tt:p>
+            <tt:p begin="00:06:03.631" end="00:06:07.601">DRAKE: Starting with a little<tt:br/>training exercise we<tt:br/>lightheartedly call...</tt:p>
+            <tt:p begin="00:06:07.635" end="00:06:11.739">The Vomit Comet!</tt:p>
+            <tt:p begin="00:06:11.772" end="00:06:13.907">And if you're wondering<tt:br/>why we call it that...</tt:p>
+            <tt:p begin="00:06:13.941" end="00:06:14.975">LANA: [huge retch]</tt:p>
+            <tt:p begin="00:06:15.008" end="00:06:15.843">GILLETTE: Gagh!</tt:p>
+            <tt:p begin="00:06:15.876" end="00:06:16.944">Aw, it's all in my hair!</tt:p>
+            <tt:p begin="00:06:16.977" end="00:06:19.647">CYRIL: Oh Jeezy H. Petes!</tt:p>
+            <tt:p begin="00:06:19.680" end="00:06:21.415">ARCHER: What the hell is wrong<tt:br/>with you, Lana? !</tt:p>
+            <tt:p begin="00:06:21.449" end="00:06:22.883">DRAKE: ... that's why we<tt:br/>call it that.</tt:p>
+            <tt:p begin="00:06:22.916" end="00:06:27.120">LANA: What possible reason,<tt:br/>could there be,<tt:br/>to subject human beings to --</tt:p>
+            <tt:p begin="00:06:27.154" end="00:06:30.891">SKEWWWWWWW...</tt:p>
+            <tt:p begin="00:06:30.924" end="00:06:33.761">ARCHER: Such mind-shattering<tt:br/>awesomeness!</tt:p>
+            <tt:p begin="00:06:33.794" end="00:06:37.531">DRAKE: The KC-135 flies in a<tt:br/>parabolic arc --</tt:p>
+            <tt:p begin="00:06:37.565" end="00:06:40.133">ARCHER: Woo-hoo-hoo-hoo<tt:br/>caaaaaaaaaares!</tt:p>
+            <tt:p begin="00:06:40.167" end="00:06:43.937">DRAKE: -- which allows us to<tt:br/>achieve weightlessness for<tt:br/>about thirty seconds.</tt:p>
+            <tt:p begin="00:06:43.971" end="00:06:45.606">We'll do this twenty times --</tt:p>
+            <tt:p begin="00:06:45.639" end="00:06:48.542">ARCHER: Woooooo! Weightlessness!</tt:p>
+            <tt:p begin="00:06:48.576" end="00:06:51.645">DRAKE: -- so you can get<tt:br/>acquainted with the sensation<tt:br/>of being weightless.</tt:p>
+            <tt:p begin="00:06:51.679" end="00:06:53.714">It takes some time getting<tt:br/>used to, but --</tt:p>
+            <tt:p begin="00:06:53.747" end="00:06:54.982">CYRIL: Ow.</tt:p>
+            <tt:p begin="00:06:55.015" end="00:06:56.183">DRAKE: Agent Kane.</tt:p>
+            <tt:p begin="00:06:56.216" end="00:06:57.084">Are you all right?</tt:p>
+            <tt:p begin="00:06:57.117" end="00:06:57.951">LANA: Yep.</tt:p>
+            <tt:p begin="00:06:57.985" end="00:06:59.186">Yep yep yep.</tt:p>
+            <tt:p begin="00:06:59.219" end="00:07:00.954">GILLETTE: What is going on<tt:br/>with you?</tt:p>
+            <tt:p begin="00:07:00.988" end="00:07:02.022">LANA: Do not like.</tt:p>
+            <tt:p begin="00:07:02.055" end="00:07:02.856">GILLETTE: What're you, crazy?</tt:p>
+            <tt:p begin="00:07:02.890" end="00:07:03.724">What's not to --</tt:p>
+            <tt:p begin="00:07:03.757" end="00:07:04.825">LANA: [huge retch]</tt:p>
+            <tt:p begin="00:07:04.858" end="00:07:05.759">GILLETTE: Oh.</tt:p>
+            <tt:p begin="00:07:05.793" end="00:07:07.495">CYRIL: No! Archer, noooo!</tt:p>
+            <tt:p begin="00:07:07.528" end="00:07:08.462">ARCHER: Yeesss!</tt:p>
+            <tt:p begin="00:07:08.496" end="00:07:10.964">CYRIL: Please don't do this!</tt:p>
+            <tt:p begin="00:07:10.998" end="00:07:18.138">ARCHER: What's that? Sorry,<tt:br/>I couldn't hear you over the<tt:br/>sound of the vawshiiiit!</tt:p>
+            <tt:p begin="00:07:18.171" end="00:07:19.239">DRAKE: Looking good!</tt:p>
+            <tt:p begin="00:07:19.272" end="00:07:22.476">Only nineteen more to go!</tt:p>
+            <tt:p begin="00:07:22.510" end="00:07:25.145">LANA: Nineteen more times...</tt:p>
+            <tt:p begin="00:07:25.178" end="00:07:28.916">Until there was literally<tt:br/>no more fluid left in my body.</tt:p>
+            <tt:p begin="00:07:28.949" end="00:07:30.751">CYRIL: Yeah,<tt:br/>and thanks so much for that.</tt:p>
+            <tt:p begin="00:07:30.784" end="00:07:32.285">LANA: Cyril...</tt:p>
+            <tt:p begin="00:07:32.319" end="00:07:34.855">ARCHER: She's not the one who<tt:br/>kept riding you into it<tt:br/>holding your mouth open.</tt:p>
+            <tt:p begin="00:07:34.888" end="00:07:37.491">CYRIL: Jeez, even in zero<tt:br/>gravity you're an assho --</tt:p>
+            <tt:p begin="00:07:37.525" end="00:07:39.126">ARCHER: You were saying?</tt:p>
+            <tt:p begin="00:07:39.159" end="00:07:43.597">To the wet-towel wielding<tt:br/>survivor of fifteen years of<tt:br/>boarding school locker rooms?</tt:p>
+            <tt:p begin="00:07:43.631" end="00:07:44.732">LANA: Wait, fifteen?</tt:p>
+            <tt:p begin="00:07:44.765" end="00:07:46.233">ARCHER: Or -- whatever,<tt:br/>the normal number.</tt:p>
+            <tt:p begin="00:07:46.266" end="00:07:47.167">LANA: Twelve? !</tt:p>
+            <tt:p begin="00:07:47.200" end="00:07:49.570">DRAKE: Yes,<tt:br/>we will launch in twelve hours.</tt:p>
+            <tt:p begin="00:07:49.603" end="00:07:51.705">We received another transmission<tt:br/>from the Horizon.</tt:p>
+            <tt:p begin="00:07:51.739" end="00:07:52.640">They can't wait.</tt:p>
+            <tt:p begin="00:07:52.673" end="00:07:54.207">LANA: But we haven't been<tt:br/>trained properly!</tt:p>
+            <tt:p begin="00:07:54.241" end="00:07:55.909">ARCHER: To what,<tt:br/>wear a seat belt?</tt:p>
+            <tt:p begin="00:07:55.943" end="00:07:57.878">Actually, is it<tt:br/>a five-point harness, or...?</tt:p>
+            <tt:p begin="00:07:57.911" end="00:08:00.814">DRAKE: I admit this<tt:br/>isn't an ideal scenario --</tt:p>
+            <tt:p begin="00:08:00.848" end="00:08:03.917">LANA: Speaking of,<tt:br/>what's the scenario when we get<tt:br/>to the Horizon?</tt:p>
+            <tt:p begin="00:08:03.951" end="00:08:05.986">We don't have a tactical plan,<tt:br/>we don't --</tt:p>
+            <tt:p begin="00:08:06.019" end="00:08:08.689">DRAKE: We'll have plenty of time<tt:br/>to discuss our plan of action<tt:br/>during the flight.</tt:p>
+            <tt:p begin="00:08:08.722" end="00:08:09.189">LANA: But --</tt:p>
+            <tt:p begin="00:08:09.222" end="00:08:10.023">MALORY: Lana!</tt:p>
+            <tt:p begin="00:08:10.057" end="00:08:10.891">What has gotten in to you?</tt:p>
+            <tt:p begin="00:08:10.924" end="00:08:12.926">CYRIL: More like what got out<tt:br/>of her...</tt:p>
+            <tt:p begin="00:08:12.960" end="00:08:15.062">GILLETTE: Sir, I'm not sure Lana<tt:br/>- sorry honey -</tt:p>
+            <tt:p begin="00:08:15.095" end="00:08:17.030">is physically capable of<tt:br/>spaceflight.</tt:p>
+            <tt:p begin="00:08:17.064" end="00:08:18.732">LANA: Ray!</tt:p>
+            <tt:p begin="00:08:18.766" end="00:08:20.601">Actually I may not be<tt:br/>cut out for it.</tt:p>
+            <tt:p begin="00:08:20.634" end="00:08:23.771">DRAKE: I'm sorry to hear that,<tt:br/>Agent Kane...</tt:p>
+            <tt:p begin="00:08:23.804" end="00:08:31.311">Because you're going.</tt:p>
+            <tt:p begin="00:08:31.344" end="00:08:39.853">ARCHER: [chuckling] To a zone,<tt:br/>which is one of danger.</tt:p>
+            <tt:p begin="00:08:44.257" end="00:08:46.627">SEXY ROBOTIC VOICE:<tt:br/>T-minus ninety seconds.</tt:p>
+            <tt:p begin="00:08:46.660" end="00:08:48.829">DRAKE: Roger, Control,<tt:br/>all systems are go.</tt:p>
+            <tt:p begin="00:08:48.862" end="00:08:50.598">Next stop, Horizon.</tt:p>
+            <tt:p begin="00:08:50.631" end="00:08:51.999">Okay. Archer.</tt:p>
+            <tt:p begin="00:08:52.032" end="00:08:54.134">ARCHER: Sorry,<tt:br/>are you talking to me?</tt:p>
+            <tt:p begin="00:08:54.167" end="00:08:56.870">Or to her,<tt:br/>who why is she here? !</tt:p>
+            <tt:p begin="00:08:56.904" end="00:08:58.071">MALORY: Because Tony invited me!</tt:p>
+            <tt:p begin="00:08:58.105" end="00:08:59.406">ARCHER: Tony? !</tt:p>
+            <tt:p begin="00:08:59.439" end="00:09:02.209">What, you trying to get my<tt:br/>mother into the Million-Mile<tt:br/>High Club? !</tt:p>
+            <tt:p begin="00:09:02.242" end="00:09:03.076">MALORY: Sterling!</tt:p>
+            <tt:p begin="00:09:03.110" end="00:09:03.944">DRAKE: Archer...</tt:p>
+            <tt:p begin="00:09:03.977" end="00:09:05.112">GILLETTE: Would you calm the<tt:br/>hell down? !</tt:p>
+            <tt:p begin="00:09:05.145" end="00:09:06.113">ARCHER: I am calm!</tt:p>
+            <tt:p begin="00:09:06.146" end="00:09:07.347">And I'm also outta here!</tt:p>
+            <tt:p begin="00:09:07.380" end="00:09:09.116">DRAKE: Take your hands off that<tt:br/>harness.</tt:p>
+            <tt:p begin="00:09:09.149" end="00:09:10.083">ARCHER: Make me!</tt:p>
+            <tt:p begin="00:09:10.117" end="00:09:11.318">Oh, and just so you know? !</tt:p>
+            <tt:p begin="00:09:11.351" end="00:09:13.053">She --</tt:p>
+            <tt:p begin="00:09:13.086" end="00:09:14.722">Can't breathe.</tt:p>
+            <tt:p begin="00:09:14.755" end="00:09:17.925">MISSION CONTROL: Uh, Flight,<tt:br/>we're showing suit number two<tt:br/>with an oh-two malfunction.</tt:p>
+            <tt:p begin="00:09:17.958" end="00:09:19.159">DRAKE: Double-check that,<tt:br/>Control,</tt:p>
+            <tt:p begin="00:09:19.192" end="00:09:20.761">I'm showing green across<tt:br/>the board.</tt:p>
+            <tt:p begin="00:09:20.794" end="00:09:22.029">MISSION CONTROL: Stand by.</tt:p>
+            <tt:p begin="00:09:22.062" end="00:09:24.965">DRAKE: Roger, standing by.</tt:p>
+            <tt:p begin="00:09:24.998" end="00:09:25.899">Doo do doooo...</tt:p>
+            <tt:p begin="00:09:25.933" end="00:09:26.667">MALORY: Tony, please!</tt:p>
+            <tt:p begin="00:09:26.700" end="00:09:27.668">He'll behave!</tt:p>
+            <tt:p begin="00:09:27.701" end="00:09:28.602">Won't he!</tt:p>
+            <tt:p begin="00:09:28.636" end="00:09:29.970">ARCHER: Ip.</tt:p>
+            <tt:p begin="00:09:30.003" end="00:09:32.005">DRAKE: Excellent...</tt:p>
+            <tt:p begin="00:09:32.039" end="00:09:33.707">Because I won't - I can't -</tt:p>
+            <tt:p begin="00:09:33.741" end="00:09:36.710">let anyone jeopardize the<tt:br/>success of this mission.</tt:p>
+            <tt:p begin="00:09:36.744" end="00:09:39.680">MISSION CONTROL: Flight,<tt:br/>oh-two on suit two is showing<tt:br/>normal.</tt:p>
+            <tt:p begin="00:09:39.713" end="00:09:40.981">But uh, keep an eye on it.</tt:p>
+            <tt:p begin="00:09:41.014" end="00:09:43.717">DRAKE: Oh, I will.</tt:p>
+            <tt:p begin="00:09:43.751" end="00:09:44.451">ARCHER: Hooray...</tt:p>
+            <tt:p begin="00:09:44.484" end="00:09:45.919">DRAKE: Resume countdown,<tt:br/>Control.</tt:p>
+            <tt:p begin="00:09:45.953" end="00:09:47.254">MISSION CONTROL: Roger, Flight.</tt:p>
+            <tt:p begin="00:09:47.287" end="00:09:50.157">SEXY ROBOTIC VOICE:<tt:br/>T-minus five...four<tt:br/>DRAKE: Exciting, isn't it?</tt:p>
+            <tt:p begin="00:09:50.190" end="00:09:51.725">SEXY ROBOTIC VOICE:<tt:br/>Three.</tt:p>
+            <tt:p begin="00:09:51.759" end="00:09:52.192">Two.</tt:p>
+            <tt:p begin="00:09:52.225" end="00:09:53.126">One.</tt:p>
+            <tt:p begin="00:09:53.160" end="00:09:53.827">DRAKE: I think it is.</tt:p>
+            <tt:p begin="00:09:53.861" end="00:09:56.396">SEXY ROBOTIC VOICE:<tt:br/>Ignition.</tt:p>
+            <tt:p begin="00:09:56.429" end="00:10:01.368">MISSION CONTROL: Liftoff.</tt:p>
+            <tt:p begin="00:10:01.401" end="00:10:03.971">DRAKE: Just relax,<tt:br/>and rely on your training!</tt:p>
+            <tt:p begin="00:10:04.004" end="00:10:06.006">LANA: Which we didn't have!</tt:p>
+            <tt:p begin="00:10:06.039" end="00:10:07.908">DRAKE: Because Phase Two's<tt:br/>a little rough!</tt:p>
+            <tt:p begin="00:10:07.941" end="00:10:08.876">ARCHER: Phase Two? !</tt:p>
+            <tt:p begin="00:10:08.909" end="00:10:09.810">What's Phase --</tt:p>
+            <tt:p begin="00:10:09.843" end="00:10:10.944">[BOOOOM!]</tt:p>
+            <tt:p begin="00:10:10.978" end="00:10:18.418">EVERYBODY: Aaaaaaghhhhh!</tt:p>
+            <tt:p begin="00:10:18.451" end="00:10:20.187">DRAKE: That was Phase Two.</tt:p>
+            <tt:p begin="00:10:20.220" end="00:10:21.955">LANA: Did not like.</tt:p>
+            <tt:p begin="00:10:21.989" end="00:10:23.657">DRAKE: Wait'll you see<tt:br/>Phase Three.</tt:p>
+            <tt:p begin="00:10:23.691" end="00:10:25.425">EVERYBODY: What?</tt:p>
+            <tt:p begin="00:10:25.458" end="00:10:27.995">DRAKE: I'm kidding,<tt:br/>there is no Phase Three.</tt:p>
+            <tt:p begin="00:10:28.028" end="00:10:29.196">Just a little space-humor.</tt:p>
+            <tt:p begin="00:10:29.229" end="00:10:30.731">ARCHER: Yeah, funny stuff.</tt:p>
+            <tt:p begin="00:10:30.764" end="00:10:32.800">DRAKE: Right?</tt:p>
+            <tt:p begin="00:10:32.833" end="00:10:34.167">Right, then...</tt:p>
+            <tt:p begin="00:10:34.201" end="00:10:37.137">I want to brief you all<tt:br/>on we can expect when we dock<tt:br/>with Horizon.</tt:p>
+            <tt:p begin="00:10:37.170" end="00:10:39.740">LANA: Ugh,<tt:br/>can we expect a pharmacy?</tt:p>
+            <tt:p begin="00:10:39.773" end="00:10:41.374">ARCHER: Lana,<tt:br/>it's not a strip mall.</tt:p>
+            <tt:p begin="00:10:41.408" end="00:10:43.176">Although I assume<tt:br/>there's a bar?</tt:p>
+            <tt:p begin="00:10:43.210" end="00:10:44.211">DRAKE: A bar?</tt:p>
+            <tt:p begin="00:10:44.244" end="00:10:45.946">ARCHER: Or whatever, cantina.</tt:p>
+            <tt:p begin="00:10:45.979" end="00:10:47.147">DRAKE: Ah... No.</tt:p>
+            <tt:p begin="00:10:47.180" end="00:10:49.182">Please pay attention.</tt:p>
+            <tt:p begin="00:10:49.216" end="00:10:52.786">We'll dock here,<tt:br/>move forward on foot toward<tt:br/>Horizon's bridge, and --</tt:p>
+            <tt:p begin="00:10:52.820" end="00:10:54.054">CYRIL: Wait, on foot?</tt:p>
+            <tt:p begin="00:10:54.087" end="00:10:56.824">DRAKE: Horizon has artificial<tt:br/>gravity.</tt:p>
+            <tt:p begin="00:10:56.857" end="00:10:59.392">See how it spins on its<tt:br/>longitudinal axis?</tt:p>
+            <tt:p begin="00:10:59.426" end="00:11:02.029">ARCHER: Lana, look at it spin.</tt:p>
+            <tt:p begin="00:11:02.062" end="00:11:05.032">DRAKE: When we reach the bridge,<tt:br/>we'll retake control<tt:br/>of Horizon.</tt:p>
+            <tt:p begin="00:11:05.065" end="00:11:07.134">But we can expect heavy<tt:br/>resistance,</tt:p>
+            <tt:p begin="00:11:07.167" end="00:11:09.069">I'm sure the mutineers are<tt:br/>armed.</tt:p>
+            <tt:p begin="00:11:09.102" end="00:11:11.304">ARCHER: With what,<tt:br/>slide rules and Tang?</tt:p>
+            <tt:p begin="00:11:11.338" end="00:11:15.442">DRAKE: The M-41 Mark Two<tt:br/>plasma-pulse rifle with<tt:br/>concussion grenade launcher.</tt:p>
+            <tt:p begin="00:11:15.475" end="00:11:17.144">EVERYBODY: Oh shit!</tt:p>
+            <tt:p begin="00:11:17.177" end="00:11:21.048">DRAKE: On &quot;kill&quot; mode,<tt:br/>the M-41 fires lethal<tt:br/>plasma ammunition.</tt:p>
+            <tt:p begin="00:11:21.081" end="00:11:23.383">On &quot;stun&quot; it fires<tt:br/>an ion pulse.</tt:p>
+            <tt:p begin="00:11:23.416" end="00:11:25.185">Similar to an EMP.</tt:p>
+            <tt:p begin="00:11:25.218" end="00:11:27.087">ARCHER: And can it be<tt:br/>fired with an erection?</tt:p>
+            <tt:p begin="00:11:27.120" end="00:11:27.654">MALORY: Ugh.</tt:p>
+            <tt:p begin="00:11:27.687" end="00:11:29.056">LANA: Archer! Muzzle? !</tt:p>
+            <tt:p begin="00:11:29.089" end="00:11:30.490">ARCHER: Relax,<tt:br/>it's on stun Lana.</tt:p>
+            <tt:p begin="00:11:30.523" end="00:11:31.491">DRAKE: Careful.</tt:p>
+            <tt:p begin="00:11:31.524" end="00:11:35.996">Even on stun it can --</tt:p>
+            <tt:p begin="00:11:36.029" end="00:11:36.830">ARCHER: Oops.</tt:p>
+            <tt:p begin="00:11:36.864" end="00:11:37.497">DRAKE: Clear!</tt:p>
+            <tt:p begin="00:11:37.530" end="00:11:39.466">LANA: Clear! GILLETTE: Clear!</tt:p>
+            <tt:p begin="00:11:39.499" end="00:11:42.502">CYRIL: Owwwwwww!</tt:p>
+            <tt:p begin="00:11:42.535" end="00:11:46.840">DRAKE: Whew! As I was saying,<tt:br/>it's possible for the EMP to<tt:br/>stop a man's heart.</tt:p>
+            <tt:p begin="00:11:46.874" end="00:11:50.110">ARCHER: So &quot;stun,&quot;<tt:br/>maybe a bit of a misnomer.</tt:p>
+            <tt:p begin="00:11:50.143" end="00:11:51.311">CYRIL: Dammit, Archer...</tt:p>
+            <tt:p begin="00:11:51.344" end="00:11:52.846">ARCHER: I'm not the one who was<tt:br/>all sweaty!</tt:p>
+            <tt:p begin="00:11:52.880" end="00:11:56.516">DRAKE: Mr. Archer,<tt:br/>that's twice you've jeopardized<tt:br/>the success of this mission!</tt:p>
+            <tt:p begin="00:11:56.549" end="00:11:58.218">There will not be a third!</tt:p>
+            <tt:p begin="00:11:58.251" end="00:12:01.188">MISSION CONTROL: Uh, Flight,<tt:br/>we have a problem...</tt:p>
+            <tt:p begin="00:12:01.221" end="00:12:03.156">ARCHER: Well don't look at me...</tt:p>
+            <tt:p begin="00:12:03.190" end="00:12:06.760">DRAKE: My God,<tt:br/>on this trajectory we'll miss<tt:br/>Horizon!</tt:p>
+            <tt:p begin="00:12:06.794" end="00:12:07.828">Control, what happened? !</tt:p>
+            <tt:p begin="00:12:07.861" end="00:12:10.030">MISSION CONTROL: Burn rates<tt:br/>were good, Flight, uh...</tt:p>
+            <tt:p begin="00:12:10.063" end="00:12:12.465">stand by.</tt:p>
+            <tt:p begin="00:12:12.499" end="00:12:15.535">Uh, Flight,<tt:br/>we're showing that you are<tt:br/>grossly overweight.</tt:p>
+            <tt:p begin="00:12:15.568" end="00:12:17.004">PAM: Oh, for --!</tt:p>
+            <tt:p begin="00:12:17.037" end="00:12:18.872">I wouldn't say grossly!</tt:p>
+            <tt:p begin="00:12:18.906" end="00:12:20.340">CHERYL/CAROL: I would.</tt:p>
+            <tt:p begin="00:12:20.373" end="00:12:24.945">DRAKE: I would be well within my<tt:br/>rights to jettison both of you<tt:br/>into space!</tt:p>
+            <tt:p begin="00:12:24.978" end="00:12:25.913">MALORY: Well within them!</tt:p>
+            <tt:p begin="00:12:25.946" end="00:12:26.446">LANA: Malory!</tt:p>
+            <tt:p begin="00:12:26.479" end="00:12:27.480">DRAKE: However!</tt:p>
+            <tt:p begin="00:12:27.514" end="00:12:29.883">For uh, numerous reasons -</tt:p>
+            <tt:p begin="00:12:29.917" end="00:12:32.853">one being this ship<tt:br/>can't actually do that -</tt:p>
+            <tt:p begin="00:12:32.886" end="00:12:34.454">I've decided take you<tt:br/>with us.</tt:p>
+            <tt:p begin="00:12:34.487" end="00:12:35.856">EVERYBODY: [Sigh of relief]</tt:p>
+            <tt:p begin="00:12:35.889" end="00:12:37.524">DRAKE: But I want to know<tt:br/>how you got aboard.</tt:p>
+            <tt:p begin="00:12:37.557" end="00:12:39.059">PAM: Whaddya mean, how?</tt:p>
+            <tt:p begin="00:12:39.092" end="00:12:41.829">Mr. Ar --</tt:p>
+            <tt:p begin="00:12:41.862" end="00:12:44.464">ARCHER: Yeah so that safety's<tt:br/>tricky, huh?</tt:p>
+            <tt:p begin="00:12:44.497" end="00:12:45.132">DRAKE: Clear!</tt:p>
+            <tt:p begin="00:12:45.165" end="00:12:47.167">LANA: Clear! GILLETTE: Clear!</tt:p>
+            <tt:p begin="00:12:47.200" end="00:12:49.970">PAM: Owwwwwww!</tt:p>
+            <tt:p begin="00:12:50.003" end="00:12:51.271">CHERYL/CAROL: Awesome...</tt:p>
+            <tt:p begin="00:12:51.304" end="00:12:53.340">PAM: Son of a shitsnackin<tt:br/>whore...</tt:p>
+            <tt:p begin="00:12:53.373" end="00:12:55.008">DRAKE: Mr. Figgis!</tt:p>
+            <tt:p begin="00:12:55.042" end="00:12:59.012">Lock that man in the<tt:br/>cargo hold.</tt:p>
+            <tt:p begin="00:12:59.046" end="00:12:59.947">ARCHER: Who, me?</tt:p>
+            <tt:p begin="00:12:59.980" end="00:13:01.448">CYRIL: Aye freaking aye.</tt:p>
+            <tt:p begin="00:13:01.481" end="00:13:03.050">DRAKE: Ms. Archer.</tt:p>
+            <tt:p begin="00:13:03.083" end="00:13:05.485">MALORY: In case I need to<tt:br/>sterilize something?</tt:p>
+            <tt:p begin="00:13:05.518" end="00:13:06.519">DRAKE: Get strapped in.</tt:p>
+            <tt:p begin="00:13:06.553" end="00:13:09.389">Agent Gillette,<tt:br/>monitor this woman's vital<tt:br/>signs.</tt:p>
+            <tt:p begin="00:13:09.422" end="00:13:11.291">Agent Kane, come with me.</tt:p>
+            <tt:p begin="00:13:11.324" end="00:13:14.027">I may need some help getting us<tt:br/>to Horizon.</tt:p>
+            <tt:p begin="00:13:14.061" end="00:13:17.898">So that we don't die writhing in<tt:br/>agony when we run out of oxygen.</tt:p>
+            <tt:p begin="00:13:17.931" end="00:13:20.033">ARCHER: Yeah, been there,<tt:br/>no picnic.</tt:p>
+            <tt:p begin="00:13:20.067" end="00:13:22.836">Speaking of,<tt:br/>great for picnics.</tt:p>
+            <tt:p begin="00:13:22.870" end="00:13:25.205">The tofu teriyaki, not so much.</tt:p>
+            <tt:p begin="00:13:25.238" end="00:13:27.040">PAM: There's teriyaki?</tt:p>
+            <tt:p begin="00:13:27.074" end="00:13:28.175">CYRIL: No!</tt:p>
+            <tt:p begin="00:13:28.208" end="00:13:29.376">ARCHER: Cyril, c'mon,<tt:br/>lemme out.</tt:p>
+            <tt:p begin="00:13:29.409" end="00:13:30.377">CYRIL: No, you jerk!</tt:p>
+            <tt:p begin="00:13:30.410" end="00:13:32.279">You shoot me in the heart with<tt:br/>a space-blaster...</tt:p>
+            <tt:p begin="00:13:32.312" end="00:13:32.946">ARCHER: Wh-? !</tt:p>
+            <tt:p begin="00:13:32.980" end="00:13:35.348">You're still mad about that? !</tt:p>
+            <tt:p begin="00:13:35.382" end="00:13:39.419">CYRIL: Not to mention whatever<tt:br/>idiot reason you had for<tt:br/>smuggling Pam on board!</tt:p>
+            <tt:p begin="00:13:39.452" end="00:13:40.587">GILLETTE: You're screwin him,<tt:br/>aren'tcha?</tt:p>
+            <tt:p begin="00:13:40.620" end="00:13:43.023">PAM: Whaaaaaaaat?</tt:p>
+            <tt:p begin="00:13:43.056" end="00:13:43.623">Yes.</tt:p>
+            <tt:p begin="00:13:43.656" end="00:13:44.858">CYRIL: No!</tt:p>
+            <tt:p begin="00:13:44.892" end="00:13:48.028">Because if we don't die,<tt:br/>for all I care you can rot<tt:br/>in there!</tt:p>
+            <tt:p begin="00:13:48.061" end="00:13:50.563">ARCHER: Cyril? ! Cyril!</tt:p>
+            <tt:p begin="00:13:50.597" end="00:13:59.239">Well good luck fighting<tt:br/>a bunch of whatever,<tt:br/>space-pirates without me.</tt:p>
+            <tt:p begin="00:13:59.272" end="00:14:01.909">[BEEP] you, space.</tt:p>
+            <tt:p begin="00:14:08.415" end="00:14:13.220">DRAKE: Come on baby,<tt:br/>just a few more seconds!</tt:p>
+            <tt:p begin="00:14:13.253" end="00:14:15.488">Damn it!</tt:p>
+            <tt:p begin="00:14:15.522" end="00:14:17.157">I don't know if that was<tt:br/>a long enough burn!</tt:p>
+            <tt:p begin="00:14:17.190" end="00:14:20.160">Agent Kane, I need a readout!</tt:p>
+            <tt:p begin="00:14:20.193" end="00:14:22.329">For God's sake, woman,<tt:br/>Dramamine!</tt:p>
+            <tt:p begin="00:14:22.362" end="00:14:23.897">LANA: It makes me sleepy...</tt:p>
+            <tt:p begin="00:14:23.931" end="00:14:25.032">CYRIL: I think we're okay, sir!</tt:p>
+            <tt:p begin="00:14:25.065" end="00:14:26.466">DRAKE: Thank God.</tt:p>
+            <tt:p begin="00:14:26.499" end="00:14:28.301">Because we're out of fuel.</tt:p>
+            <tt:p begin="00:14:28.335" end="00:14:29.136">CHERYL/CAROL: What? !</tt:p>
+            <tt:p begin="00:14:29.169" end="00:14:30.637">How are we gonna get back<tt:br/>to Earth? !</tt:p>
+            <tt:p begin="00:14:30.670" end="00:14:32.372">DRAKE: There is fuel.</tt:p>
+            <tt:p begin="00:14:32.405" end="00:14:33.606">On Horizon.</tt:p>
+            <tt:p begin="00:14:33.640" end="00:14:35.675">CHERYL/CAROL: Well<tt:br/>I didn't know that.</tt:p>
+            <tt:p begin="00:14:35.708" end="00:14:37.310">DRAKE: The flight computer<tt:br/>will dock the ship.</tt:p>
+            <tt:p begin="00:14:37.344" end="00:14:38.912">Assemble the boarding party.</tt:p>
+            <tt:p begin="00:14:38.946" end="00:14:40.948">CHERYL/CAROL: Nor was I told<tt:br/>there would be a party.</tt:p>
+            <tt:p begin="00:14:40.981" end="00:14:42.082">Lana, what're you wearing?</tt:p>
+            <tt:p begin="00:14:42.115" end="00:14:44.451">DRAKE: Bio-matrix composite<tt:br/>body armor.</tt:p>
+            <tt:p begin="00:14:44.484" end="00:14:46.219">Effective against<tt:br/>small-arms fire.</tt:p>
+            <tt:p begin="00:14:46.253" end="00:14:48.388">And we need all the help<tt:br/>we can get.</tt:p>
+            <tt:p begin="00:14:48.421" end="00:14:50.057">GILLETTE: Since there's only<tt:br/>four of us.</tt:p>
+            <tt:p begin="00:14:50.090" end="00:14:51.024">CYRIL: Yeah, that seems kinda...</tt:p>
+            <tt:p begin="00:14:51.058" end="00:14:52.325">few.</tt:p>
+            <tt:p begin="00:14:52.359" end="00:14:53.693">PAM: Heck,<tt:br/>if you need some help, I'll --</tt:p>
+            <tt:p begin="00:14:53.726" end="00:14:54.361">DRAKE: No!</tt:p>
+            <tt:p begin="00:14:54.394" end="00:14:57.197">We can't jeopardize the women!</tt:p>
+            <tt:p begin="00:14:57.230" end="00:14:58.298">LANA: Cough.</tt:p>
+            <tt:p begin="00:14:58.331" end="00:14:59.933">MALORY: Well not you...</tt:p>
+            <tt:p begin="00:14:59.967" end="00:15:03.303">DRAKE: No, no, no, Agent Kane,<tt:br/>I'm afraid your particular<tt:br/>skill-set outweighs your --</tt:p>
+            <tt:p begin="00:15:03.336" end="00:15:06.706">SEXY ROBOTIC VOICE:<tt:br/>Docking complete.</tt:p>
+            <tt:p begin="00:15:06.739" end="00:15:07.474">CHERYL/CAROL: Is that a ghost?</tt:p>
+            <tt:p begin="00:15:07.507" end="00:15:08.341">PAM: Nope.</tt:p>
+            <tt:p begin="00:15:08.375" end="00:15:10.143">DRAKE: Boarding party,<tt:br/>into the airlock.</tt:p>
+            <tt:p begin="00:15:10.177" end="00:15:12.412">SEXY ROBOTIC VOICE:<tt:br/>Gravity engaged.</tt:p>
+            <tt:p begin="00:15:12.445" end="00:15:15.248">DRAKE: Weapons on stun,<tt:br/>fast and hard to the bridge.</tt:p>
+            <tt:p begin="00:15:15.282" end="00:15:17.284">And remember,<tt:br/>these are mutineers.</tt:p>
+            <tt:p begin="00:15:17.317" end="00:15:18.952">Even if they try to say --</tt:p>
+            <tt:p begin="00:15:18.986" end="00:15:26.726">CYRIL: Suppressing<tt:br/>fiiiiiiiiiiiiiiiiire!</tt:p>
+            <tt:p begin="00:15:26.759" end="00:15:28.295">DRAKE: Otherwise.</tt:p>
+            <tt:p begin="00:15:28.328" end="00:15:29.529">Just follow me.</tt:p>
+            <tt:p begin="00:15:29.562" end="00:15:32.199">LANA: And try not to shoot me in<tt:br/>the awshit!</tt:p>
+            <tt:p begin="00:15:32.232" end="00:15:33.066">GILLETTE: What the hell.</tt:p>
+            <tt:p begin="00:15:33.100" end="00:15:34.301">LANA: Is wrong with me?</tt:p>
+            <tt:p begin="00:15:34.334" end="00:15:36.203">DRAKE: It's the artificial<tt:br/>gravity!</tt:p>
+            <tt:p begin="00:15:36.236" end="00:15:37.704">You have to readjust to it!</tt:p>
+            <tt:p begin="00:15:37.737" end="00:15:40.207">LANA: I'll get my<tt:br/>inner ear right on that...</tt:p>
+            <tt:p begin="00:15:40.240" end="00:15:42.309">DRAKE: We don't have time<tt:br/>for this, they're --</tt:p>
+            <tt:p begin="00:15:42.342" end="00:15:43.076">HORIZON DRONE: There they are!</tt:p>
+            <tt:p begin="00:15:43.110" end="00:15:43.743">Get 'em, get 'em!</tt:p>
+            <tt:p begin="00:15:43.776" end="00:15:44.477">Drop your weapons!</tt:p>
+            <tt:p begin="00:15:44.511" end="00:15:45.612">Drop your weapons!</tt:p>
+            <tt:p begin="00:15:45.645" end="00:15:50.450">CYRIL: Suppressing --</tt:p>
+            <tt:p begin="00:15:50.483" end="00:15:52.652">So does this run on batteries,<tt:br/>or...?</tt:p>
+            <tt:p begin="00:15:52.685" end="00:15:57.157">DRAKE: Fiiiiire!</tt:p>
+            <tt:p begin="00:15:57.190" end="00:16:00.760">EVERYBODY: Get some! Get some!</tt:p>
+            <tt:p begin="00:16:00.793" end="00:16:02.195">DRAKE: We're pinned down!</tt:p>
+            <tt:p begin="00:16:02.229" end="00:16:03.730">LANA: Really?</tt:p>
+            <tt:p begin="00:16:03.763" end="00:16:06.133">CHERYL/CAROL: You don't think I<tt:br/>could rock this?</tt:p>
+            <tt:p begin="00:16:06.166" end="00:16:07.700">MALORY: Couple things...</tt:p>
+            <tt:p begin="00:16:07.734" end="00:16:09.769">One, I don't know<tt:br/>what that means.</tt:p>
+            <tt:p begin="00:16:09.802" end="00:16:12.605">And two... hang on.</tt:p>
+            <tt:p begin="00:16:12.639" end="00:16:14.741">Hang on.</tt:p>
+            <tt:p begin="00:16:14.774" end="00:16:18.211">Hang on.</tt:p>
+            <tt:p begin="00:16:18.245" end="00:16:24.717">Hang on.</tt:p>
+            <tt:p begin="00:16:24.751" end="00:16:28.588">And two, you obviously<tt:br/>don't know what<tt:br/>&quot;boarding party&quot; means.</tt:p>
+            <tt:p begin="00:16:28.621" end="00:16:32.792">CHERYL/CAROL: Who am I,<tt:br/>sixteenth-century female Irish<tt:br/>pirate Gráinne O'Malley?</tt:p>
+            <tt:p begin="00:16:32.825" end="00:16:35.162">Or her sole female descendant!</tt:p>
+            <tt:p begin="00:16:35.195" end="00:16:36.263">ARCHER: I'm sorry.</tt:p>
+            <tt:p begin="00:16:36.296" end="00:16:37.164">PAM: For what?</tt:p>
+            <tt:p begin="00:16:37.197" end="00:16:39.532">Space-blastering me in the<tt:br/>frickin tits? !</tt:p>
+            <tt:p begin="00:16:39.566" end="00:16:41.734">Or tricking me into that<tt:br/>fart-locker to get blasted into</tt:p>
+            <tt:p begin="00:16:41.768" end="00:16:47.040">outer goddamn space on the off<tt:br/>chance you might wanna bang me!</tt:p>
+            <tt:p begin="00:16:47.074" end="00:16:48.808">ARCHER: Both I guess,<tt:br/>look --</tt:p>
+            <tt:p begin="00:16:48.841" end="00:16:52.312">PAM: After you blew me off<tt:br/>for Katya the big-titted cyborg!</tt:p>
+            <tt:p begin="00:16:52.345" end="00:16:53.546">Little Miss, uh...</tt:p>
+            <tt:p begin="00:16:53.580" end="00:16:55.282">ARCHER: R2-double-D2?</tt:p>
+            <tt:p begin="00:16:55.315" end="00:16:56.483">PAM: Nice.</tt:p>
+            <tt:p begin="00:16:56.516" end="00:16:59.686">ARCHER: Thanks, and I'm sorry,<tt:br/>but you gotta let me out, Pam,</tt:p>
+            <tt:p begin="00:16:59.719" end="00:17:01.654">they're fighting space-pirates<tt:br/>out there!</tt:p>
+            <tt:p begin="00:17:01.688" end="00:17:04.091">With Cyril!</tt:p>
+            <tt:p begin="00:17:04.124" end="00:17:05.592">CYRIL: It's supposed to fire.</tt:p>
+            <tt:p begin="00:17:05.625" end="00:17:07.260">What is wrong with you?</tt:p>
+            <tt:p begin="00:17:07.294" end="00:17:09.096">ARCHER: And Lana can't<tt:br/>even stand up!</tt:p>
+            <tt:p begin="00:17:09.129" end="00:17:12.299">LANA: You idiot,<tt:br/>just reset the -- unghff!</tt:p>
+            <tt:p begin="00:17:12.332" end="00:17:14.801">GILLETTE: Jesus,<tt:br/>like a dog in a station wagon.</tt:p>
+            <tt:p begin="00:17:14.834" end="00:17:16.469">DRAKE: No, no!</tt:p>
+            <tt:p begin="00:17:16.503" end="00:17:18.205">We're losing the beachhead!</tt:p>
+            <tt:p begin="00:17:18.238" end="00:17:19.639">ARCHER: They're running out of<tt:br/>time, Pam!</tt:p>
+            <tt:p begin="00:17:19.672" end="00:17:23.443">PAM: Oh, all right...</tt:p>
+            <tt:p begin="00:17:23.476" end="00:17:25.678">ARCHER: That being said...</tt:p>
+            <tt:p begin="00:17:25.712" end="00:17:26.846">quickie?</tt:p>
+            <tt:p begin="00:17:26.879" end="00:17:29.616">PAM: Meh.</tt:p>
+            <tt:p begin="00:17:29.649" end="00:17:30.817">Whew!</tt:p>
+            <tt:p begin="00:17:30.850" end="00:17:32.352">Okay, good luck.</tt:p>
+            <tt:p begin="00:17:32.385" end="00:17:36.189">ARCHER: Thanks, normally<tt:br/>I'd say I don't need it,<tt:br/>but I can barely feel my legs.</tt:p>
+            <tt:p begin="00:17:36.223" end="00:17:37.824">PAM: I call that the MOAB.</tt:p>
+            <tt:p begin="00:17:37.857" end="00:17:38.725">It stands for --</tt:p>
+            <tt:p begin="00:17:38.758" end="00:17:39.992">ARCHER: I know!</tt:p>
+            <tt:p begin="00:17:40.026" end="00:17:42.829">What it stands for,<tt:br/>I was there,<tt:br/>please don't say it out loud.</tt:p>
+            <tt:p begin="00:17:42.862" end="00:17:47.634">Now if you'll excuse me,<tt:br/>I need to...</tt:p>
+            <tt:p begin="00:17:47.667" end="00:17:50.437">Kick some space-pirate ass!</tt:p>
+            <tt:p begin="00:17:50.470" end="00:17:51.504">Woooooo!</tt:p>
+            <tt:p begin="00:17:51.538" end="00:17:52.305">EVERYBODY: Archer? !</tt:p>
+            <tt:p begin="00:17:52.339" end="00:17:53.240">ARCHER: Hang on?</tt:p>
+            <tt:p begin="00:17:53.273" end="00:17:54.774">Yes, Archer, duh.</tt:p>
+            <tt:p begin="00:17:54.807" end="00:17:56.743">And if you're done doing each<tt:br/>other's hair, let's --</tt:p>
+            <tt:p begin="00:17:56.776" end="00:17:59.179">DRAKE: Let's retake the<tt:br/>shiiiiip!</tt:p>
+            <tt:p begin="00:17:59.212" end="00:18:01.781">ARCHER: Or just run around<tt:br/>interrupting people.</tt:p>
+            <tt:p begin="00:18:01.814" end="00:18:03.516">DRAKE: Gagh! I'm hit, I'm hit!</tt:p>
+            <tt:p begin="00:18:03.550" end="00:18:06.119">ARCHER: Oh, for --</tt:p>
+            <tt:p begin="00:18:06.153" end="00:18:07.854">Do I have to do everything?</tt:p>
+            <tt:p begin="00:18:07.887" end="00:18:11.158">He asked, intending to be<tt:br/>facetious!</tt:p>
+            <tt:p begin="00:18:11.191" end="00:18:12.159">LANA: I'm sorry!</tt:p>
+            <tt:p begin="00:18:12.192" end="00:18:13.560">I don't know what's wrong with<tt:br/>me!</tt:p>
+            <tt:p begin="00:18:13.593" end="00:18:15.562">ARCHER: Besides suffering from<tt:br/>gigantism? !</tt:p>
+            <tt:p begin="00:18:15.595" end="00:18:16.429">LANA: Shut up.</tt:p>
+            <tt:p begin="00:18:16.463" end="00:18:17.364">DRAKE: The bridge!</tt:p>
+            <tt:p begin="00:18:17.397" end="00:18:18.665">We have to make it to the --</tt:p>
+            <tt:p begin="00:18:18.698" end="00:18:20.567">ARCHER: The bridge, yes,<tt:br/>I heard you!</tt:p>
+            <tt:p begin="00:18:20.600" end="00:18:22.535">So unless we're going the wrong<tt:br/>way...!</tt:p>
+            <tt:p begin="00:18:22.569" end="00:18:24.204">DRAKE: Uhh... oh.</tt:p>
+            <tt:p begin="00:18:24.237" end="00:18:25.138">No, that's it right there.</tt:p>
+            <tt:p begin="00:18:25.172" end="00:18:26.739">ARCHER: Then shut up! God!</tt:p>
+            <tt:p begin="00:18:26.773" end="00:18:27.807">Okay, now what?</tt:p>
+            <tt:p begin="00:18:27.840" end="00:18:28.841">You can un-shut up.</tt:p>
+            <tt:p begin="00:18:28.875" end="00:18:31.244">DRAKE: The com-link,<tt:br/>by the door...</tt:p>
+            <tt:p begin="00:18:31.278" end="00:18:32.412">Commander Kellogg?</tt:p>
+            <tt:p begin="00:18:32.445" end="00:18:33.246">It's Drake!</tt:p>
+            <tt:p begin="00:18:33.280" end="00:18:34.247">KELLOGG: Tony? !</tt:p>
+            <tt:p begin="00:18:34.281" end="00:18:36.749">ARCHER: &quot;Tony? !&quot;</tt:p>
+            <tt:p begin="00:18:36.783" end="00:18:38.885">KELLOGG: Oh my God,<tt:br/>am I glad to see you!</tt:p>
+            <tt:p begin="00:18:38.918" end="00:18:40.487">We couldn't have held out<tt:br/>much longer!</tt:p>
+            <tt:p begin="00:18:40.520" end="00:18:43.156">DRAKE: Well, we got here<tt:br/>as fast as we could.</tt:p>
+            <tt:p begin="00:18:43.190" end="00:18:44.123">KELLOGG: My God, you're wounded.</tt:p>
+            <tt:p begin="00:18:44.157" end="00:18:46.826">Put him here, please,<tt:br/>and we'll take those...</tt:p>
+            <tt:p begin="00:18:46.859" end="00:18:47.694">ARCHER: Uh, oh.</tt:p>
+            <tt:p begin="00:18:47.727" end="00:18:49.596">Yeah, here you go...</tt:p>
+            <tt:p begin="00:18:49.629" end="00:18:50.930">KELLOGG: Oh dear,<tt:br/>are you wounded too?</tt:p>
+            <tt:p begin="00:18:50.963" end="00:18:51.731">LANA: No, just --</tt:p>
+            <tt:p begin="00:18:51.764" end="00:18:53.600">DRAKE: Just a little<tt:br/>space-sickness.</tt:p>
+            <tt:p begin="00:18:53.633" end="00:18:55.335">But eventually she'll get<tt:br/>acclimated.</tt:p>
+            <tt:p begin="00:18:55.368" end="00:18:57.304">LANA: I -- eventually?</tt:p>
+            <tt:p begin="00:18:57.337" end="00:18:59.839">KELLOGG: Yes, she's strong,<tt:br/>good breeding stock.</tt:p>
+            <tt:p begin="00:18:59.872" end="00:19:00.740">LANA: Wh-? ! Hey!</tt:p>
+            <tt:p begin="00:19:00.773" end="00:19:04.311">ARCHER: Whoa,<tt:br/>Charles Benedict Davenport.</tt:p>
+            <tt:p begin="00:19:04.344" end="00:19:06.579">Uh, the father of eugenics.</tt:p>
+            <tt:p begin="00:19:06.613" end="00:19:07.947">Seriously guys, read a book.</tt:p>
+            <tt:p begin="00:19:07.980" end="00:19:12.419">DRAKE: And two more on the<tt:br/>Intrepid, stowaways,<tt:br/>almost as good as her.</tt:p>
+            <tt:p begin="00:19:12.452" end="00:19:13.520">KELLOGG: Two more? !</tt:p>
+            <tt:p begin="00:19:13.553" end="00:19:16.856">Then we can populate Mars<tt:br/>even faster than we'd hoped!</tt:p>
+            <tt:p begin="00:19:16.889" end="00:19:17.690">CYRIL: What? GILLETTE: What?</tt:p>
+            <tt:p begin="00:19:17.724" end="00:19:19.459">LANA: Did you say Mars? !</tt:p>
+            <tt:p begin="00:19:19.492" end="00:19:21.261">ARCHER: Oh now your ears --</tt:p>
+            <tt:p begin="00:19:21.294" end="00:19:22.962">wait, why did you say Mars?</tt:p>
+            <tt:p begin="00:19:22.995" end="00:19:25.932">HORIZON DRONE: Don't you see?</tt:p>
+            <tt:p begin="00:19:25.965" end="00:19:34.441">They're the mutineers!</tt:p>
+            <tt:p begin="00:19:34.474" end="00:19:37.744">DRAKE: Welcome to the...</tt:p>
+            <tt:p begin="00:19:37.777" end="00:19:40.413">Danger Zone!</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

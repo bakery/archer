@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:02.070" end="00:00:04.405">MALORY (O.S.): No, coordinate<tt:br/>with Rome, then get me the</tt:p>
+            <tt:p begin="00:00:04.438" end="00:00:07.508">latest intel, then tell Rodney<tt:br/>They need travel documents</tt:p>
+            <tt:p begin="00:00:07.541" end="00:00:09.077">an hour ago...</tt:p>
+            <tt:p begin="00:00:09.110" end="00:00:11.579">Then bring me the file I asked<tt:br/>for!</tt:p>
+            <tt:p begin="00:00:11.612" end="00:00:13.347">GILLETTE: Why don't I shove a<tt:br/>broom up my ass and sweep the</tt:p>
+            <tt:p begin="00:00:13.381" end="00:00:14.382">floor while I'm at it?</tt:p>
+            <tt:p begin="00:00:14.415" end="00:00:14.848">MALORY: What was that?!</tt:p>
+            <tt:p begin="00:00:14.882" end="00:00:16.016">GILLETTE: Nothing.</tt:p>
+            <tt:p begin="00:00:16.050" end="00:00:18.086">MALORY: Good. Saves you the<tt:br/>embarrassment of an incredibly</tt:p>
+            <tt:p begin="00:00:18.119" end="00:00:19.587">homophobic remark.</tt:p>
+            <tt:p begin="00:00:19.620" end="00:00:21.122">CHERYL/CAROL: Aww.</tt:p>
+            <tt:p begin="00:00:21.155" end="00:00:21.489">GILLETTE: Ew!</tt:p>
+            <tt:p begin="00:00:21.522" end="00:00:22.123">MALORY: Go!</tt:p>
+            <tt:p begin="00:00:22.156" end="00:00:22.456">GILLETTE: Ow!</tt:p>
+            <tt:p begin="00:00:22.490" end="00:00:23.023">LANA: Ow!</tt:p>
+            <tt:p begin="00:00:23.057" end="00:00:24.192">GILLETTE (O.S.): Sorry!</tt:p>
+            <tt:p begin="00:00:24.225" end="00:00:25.126">LANA: What's going on?</tt:p>
+            <tt:p begin="00:00:25.159" end="00:00:25.926">MALORY: Where?</tt:p>
+            <tt:p begin="00:00:25.959" end="00:00:28.196">LANA: uh, this new place<tt:br/>called here!</tt:p>
+            <tt:p begin="00:00:28.229" end="00:00:32.333">MALORY: Nothing<tt:br/>LANA: Wh-? Malory.</tt:p>
+            <tt:p begin="00:00:32.366" end="00:00:37.538">CHERYL/CAROL: Good luck, she<tt:br/>just had an electro -</tt:p>
+            <tt:p begin="00:00:37.571" end="00:00:42.543">MALORY: -- electromagnetic<tt:br/>lock installed, are you serious?</tt:p>
+            <tt:p begin="00:00:42.576" end="00:00:44.612">LANA: Malory<tt:br/>MALORY: Because I'm seriously</tt:p>
+            <tt:p begin="00:00:44.645" end="00:00:47.848">asking, did Krieger give you<tt:br/>robot hands?</tt:p>
+            <tt:p begin="00:00:47.881" end="00:00:48.449">KRIEGER: Not yet!</tt:p>
+            <tt:p begin="00:00:48.482" end="00:00:50.218">But you just say the word.</tt:p>
+            <tt:p begin="00:00:50.251" end="00:00:53.087">LANA: The -<tt:br/>[zzrrrzz].</tt:p>
+            <tt:p begin="00:00:53.121" end="00:00:54.722">LANA: Out.</tt:p>
+            <tt:p begin="00:00:54.755" end="00:00:57.858">MALORY: Can't have anything<tt:br/>nice...</tt:p>
+            <tt:p begin="00:00:57.891" end="00:00:58.359">MALORY: Krieger!</tt:p>
+            <tt:p begin="00:00:58.392" end="00:01:00.294">KRIEGER: Jazz hands!</tt:p>
+            <tt:p begin="00:01:00.328" end="00:01:03.531">MALORY: Should've never taken<tt:br/>him to see &quot;The Wiz.&quot;</tt:p>
+            <tt:p begin="00:01:03.564" end="00:01:06.400">LANA: The Broadway show or the<tt:br/>movie?</tt:p>
+            <tt:p begin="00:01:06.434" end="00:01:09.103">KRIEGER: Jazz hands!</tt:p>
+            <tt:p begin="00:01:09.137" end="00:01:10.404">MALORY: Both.</tt:p>
+            <tt:p begin="00:01:10.438" end="00:01:12.606">KRIEGER: Jazz hands!</tt:p>
+            <tt:p begin="00:01:12.640" end="00:01:15.209">LANA: I -- whatever, look,<tt:br/>obviously there's -</tt:p>
+            <tt:p begin="00:01:15.243" end="00:01:18.246">MALORY: Nothing! Is going on,<tt:br/>Lana! If there were, I would</tt:p>
+            <tt:p begin="00:01:18.279" end="00:01:19.880">tell you, but -<tt:br/>[dooot]</tt:p>
+            <tt:p begin="00:01:19.913" end="00:01:22.183">CHERYL/CAROL: Uh, there's a<tt:br/>Cardinal Corelli on line one</tt:p>
+            <tt:p begin="00:01:22.216" end="00:01:23.751">for you? Something about a<tt:br/>radical faction of the Swiss</tt:p>
+            <tt:p begin="00:01:23.784" end="00:01:28.322">Guard assassinating the pope<tt:br/>tomorrow night?</tt:p>
+            <tt:p begin="00:01:28.356" end="00:01:32.126">LANA: You need to get that?</tt:p>
+            <tt:p begin="00:01:32.760" end="00:01:40.134">[theme music]</tt:p>
+            <tt:p begin="00:02:07.695" end="00:02:10.198">LANA: Do you. Need to get that.</tt:p>
+            <tt:p begin="00:02:10.231" end="00:02:11.832">MALORY: No, I'm sure whoever<tt:br/>it is -</tt:p>
+            <tt:p begin="00:02:11.865" end="00:02:13.167">[dooot]<tt:br/>CHERYL/CAROL (O.S.): It's the</tt:p>
+            <tt:p begin="00:02:13.201" end="00:02:15.269">Vatican! Line one! Jesus!</tt:p>
+            <tt:p begin="00:02:15.303" end="00:02:18.306">CHERYL/CAROL: (gasp) Shit, I<tt:br/>hope he didn't hear that.</tt:p>
+            <tt:p begin="00:02:18.339" end="00:02:19.173">(gasp) Or that, shit!</tt:p>
+            <tt:p begin="00:02:19.207" end="00:02:21.275">MALORY: Just put him through,<tt:br/>you idiot!</tt:p>
+            <tt:p begin="00:02:21.309" end="00:02:23.444">CHERYL/CAROL (O.S.): Okay,<tt:br/>Jesus! [gasp] Shit...</tt:p>
+            <tt:p begin="00:02:23.477" end="00:02:28.449">MALORY: uhhhhh<tt:br/>Ah ha ha, Giancarlo! Como stai?</tt:p>
+            <tt:p begin="00:02:28.482" end="00:02:31.452">CORELLI: Molto meglio, cara<tt:br/>mia, now that I see your eyes,</tt:p>
+            <tt:p begin="00:02:31.485" end="00:02:33.654">your lips, your...</tt:p>
+            <tt:p begin="00:02:33.687" end="00:02:36.690">MALORY: Giancarlo! Siete senza<tt:br/>vergogna.</tt:p>
+            <tt:p begin="00:02:36.724" end="00:02:39.460">CORELLI: And you, are the only<tt:br/>woman who ever made me regret</tt:p>
+            <tt:p begin="00:02:39.493" end="00:02:41.495">taking the holy orders.</tt:p>
+            <tt:p begin="00:02:41.529" end="00:02:44.365">MALORY: And you are the only<tt:br/>man who ever made me -</tt:p>
+            <tt:p begin="00:02:44.398" end="00:02:46.267">RON CADILLAC: Come oonnn!</tt:p>
+            <tt:p begin="00:02:46.300" end="00:02:47.368">I'm right here, ya know!</tt:p>
+            <tt:p begin="00:02:47.401" end="00:02:48.436">MALORY: Why?!</tt:p>
+            <tt:p begin="00:02:48.469" end="00:02:50.338">RON CADILLAC: Gettin new<tt:br/>carpet in my office. Which,</tt:p>
+            <tt:p begin="00:02:50.371" end="00:02:51.239">speaking of...</tt:p>
+            <tt:p begin="00:02:51.272" end="00:02:52.273">MALORY: Ron?!</tt:p>
+            <tt:p begin="00:02:52.306" end="00:02:54.275">CORELLI: Malory, you have<tt:br/>married?</tt:p>
+            <tt:p begin="00:02:54.308" end="00:02:55.175">MALORY: Ehh...</tt:p>
+            <tt:p begin="00:02:55.209" end="00:02:57.545">CORELLI: You are a fortunate<tt:br/>man, signore.</tt:p>
+            <tt:p begin="00:02:57.578" end="00:02:59.513">RON CADILLAC: Ah, blow it out<tt:br/>yer cassock.</tt:p>
+            <tt:p begin="00:02:59.547" end="00:03:00.748">MALORY: Ron!</tt:p>
+            <tt:p begin="00:03:00.781" end="00:03:03.284">CORELLI: Malory. We don't have<tt:br/>much time. Your agents of ISIS,</tt:p>
+            <tt:p begin="00:03:03.317" end="00:03:04.218">they are ready?</tt:p>
+            <tt:p begin="00:03:04.252" end="00:03:06.987">LANA: Or they are confused<tt:br/>verging on angry?</tt:p>
+            <tt:p begin="00:03:07.020" end="00:03:10.524">MALORY: Lana, it's an<tt:br/>undercover mission. At the</tt:p>
+            <tt:p begin="00:03:10.558" end="00:03:11.659">Vatican?</tt:p>
+            <tt:p begin="00:03:11.692" end="00:03:14.928">LANA: What, they don't have<tt:br/>black nuns? Although granted</tt:p>
+            <tt:p begin="00:03:14.962" end="00:03:19.367">I've never seen one. But that's<tt:br/>not like, a rule, is it?</tt:p>
+            <tt:p begin="00:03:19.400" end="00:03:20.568">CORELLI: Ehh...</tt:p>
+            <tt:p begin="00:03:20.601" end="00:03:22.736">LANA: Well since you're not<tt:br/>sending me, and I assume you're</tt:p>
+            <tt:p begin="00:03:22.770" end="00:03:24.405">not sending Ray...</tt:p>
+            <tt:p begin="00:03:24.438" end="00:03:26.540">MALORY: To the Vatican? You<tt:br/>think all those Catholic</tt:p>
+            <tt:p begin="00:03:26.574" end="00:03:31.379">priests wouldn't peg him -<tt:br/>[cough, cough] As American?</tt:p>
+            <tt:p begin="00:03:31.412" end="00:03:32.913">With that hillbilly accent?</tt:p>
+            <tt:p begin="00:03:32.946" end="00:03:35.783">CORELLI: Malory, I must go<tt:br/>now. Please hurry!</tt:p>
+            <tt:p begin="00:03:35.816" end="00:03:39.387">LANA: So not Ray, and not me,<tt:br/>which leaves...</tt:p>
+            <tt:p begin="00:03:39.420" end="00:03:41.622">[gregorian chant]<tt:br/>LANA: [sigh]</tt:p>
+            <tt:p begin="00:03:41.655" end="00:03:45.393">ARCHER: In nomine Patris, et<tt:br/>Filii, et Spiritus Sancti, et</tt:p>
+            <tt:p begin="00:03:45.426" end="00:03:50.298">cetera, et -<tt:br/>LANA: You can't.</tt:p>
+            <tt:p begin="00:03:50.331" end="00:03:52.433">no one is gonna believe<tt:br/>Archer is a priest.</tt:p>
+            <tt:p begin="00:03:52.466" end="00:03:54.702">ARCHER: For your infor - I'm<tt:br/>in! Turn it off!</tt:p>
+            <tt:p begin="00:03:54.735" end="00:03:55.603">CHERYL/CAROL (O.S.): Okay!</tt:p>
+            <tt:p begin="00:03:55.636" end="00:03:57.405">Jesus! [gasp] Shit.</tt:p>
+            <tt:p begin="00:03:57.438" end="00:03:59.540">ARCHER: For your information,<tt:br/>Lana, I have totally prepared</tt:p>
+            <tt:p begin="00:03:59.573" end="00:04:00.708">for this mission.</tt:p>
+            <tt:p begin="00:04:00.741" end="00:04:01.909">LANA: Well there's a firs -<tt:br/>ARCHER: First thing I did was</tt:p>
+            <tt:p begin="00:04:01.942" end="00:04:05.313">watch every episode of &quot;Lucy,<tt:br/>Daughter of the Devil.&quot; Which</tt:p>
+            <tt:p begin="00:04:05.346" end="00:04:07.815">by the way, was grossly -<tt:br/>LANA: Inadequate preparation,</tt:p>
+            <tt:p begin="00:04:07.848" end="00:04:10.318">for an undercover mission<tt:br/>protecting the pope from an</tt:p>
+            <tt:p begin="00:04:10.351" end="00:04:11.552">assassination attempt!</tt:p>
+            <tt:p begin="00:04:11.585" end="00:04:13.554">ARCHER: I was gonna say<tt:br/>&quot;underrated,&quot; but -</tt:p>
+            <tt:p begin="00:04:13.587" end="00:04:15.489">LANA: But even if you were<tt:br/>prepared -</tt:p>
+            <tt:p begin="00:04:15.523" end="00:04:16.690">ARCHER: Which I truly feel<tt:br/>that I am.</tt:p>
+            <tt:p begin="00:04:16.724" end="00:04:18.826">LANA: -- but which you're not,<tt:br/>who's your backup if Ray's not</tt:p>
+            <tt:p begin="00:04:18.859" end="00:04:20.628">going? Cyril?</tt:p>
+            <tt:p begin="00:04:20.661" end="00:04:21.595">ARCHER: No...</tt:p>
+            <tt:p begin="00:04:21.629" end="00:04:24.298">MALORY: No, it turns out Cyril -<tt:br/>CYRIL: Aaagh!</tt:p>
+            <tt:p begin="00:04:24.332" end="00:04:25.733">How bout a little warning?!</tt:p>
+            <tt:p begin="00:04:25.766" end="00:04:28.302">MALORY: Has a thing. About<tt:br/>church stuff.</tt:p>
+            <tt:p begin="00:04:28.336" end="00:04:29.169">LANA: Since when?</tt:p>
+            <tt:p begin="00:04:29.202" end="00:04:31.472">CYRIL: Since none of your<tt:br/>beeswax, and -</tt:p>
+            <tt:p begin="00:04:31.505" end="00:04:31.872">ARCHER: Bwoohahaahaaa!</tt:p>
+            <tt:p begin="00:04:31.905" end="00:04:32.506">CYRIL: Aaagh!</tt:p>
+            <tt:p begin="00:04:32.540" end="00:04:34.408">LANA: Well...</tt:p>
+            <tt:p begin="00:04:34.442" end="00:04:39.380">CYRIL: And I think I need a<tt:br/>spanking, because I have been a</tt:p>
+            <tt:p begin="00:04:39.413" end="00:04:44.952">very naughty baaaaagh!</tt:p>
+            <tt:p begin="00:04:44.985" end="00:04:47.621">LANA: Guess that explains<tt:br/>that. But it doesn't explain</tt:p>
+            <tt:p begin="00:04:47.655" end="00:04:49.790">how Archer's gonna run this<tt:br/>mission by himself.</tt:p>
+            <tt:p begin="00:04:49.823" end="00:04:52.993">MALORY: Well, if you were<tt:br/>&quot;confused verging on angry&quot;</tt:p>
+            <tt:p begin="00:04:53.026" end="00:04:53.961">before...</tt:p>
+            <tt:p begin="00:04:53.994" end="00:04:54.428">CYRIL (O.S.): Aaagh!</tt:p>
+            <tt:p begin="00:04:54.462" end="00:04:55.262">PAM (O.S.): What?!</tt:p>
+            <tt:p begin="00:04:55.295" end="00:04:58.966">PAM: Jesus Christ... Shit. God<tt:br/>damn it.</tt:p>
+            <tt:p begin="00:04:58.999" end="00:04:59.767">MALORY: Pam!</tt:p>
+            <tt:p begin="00:04:59.800" end="00:05:00.468">PAM: What.</tt:p>
+            <tt:p begin="00:05:00.501" end="00:05:01.335">LANA: Pam?!</tt:p>
+            <tt:p begin="00:05:01.369" end="00:05:01.969">PAM: What?!</tt:p>
+            <tt:p begin="00:05:02.002" end="00:05:02.370">ARCHER: Paaaam!</tt:p>
+            <tt:p begin="00:05:02.403" end="00:05:05.038">PAM: Whaaat?!</tt:p>
+            <tt:p begin="00:05:05.072" end="00:05:07.941">ARCHER: I dunno, what're we<tt:br/>doing?</tt:p>
+            <tt:p begin="00:05:07.975" end="00:05:10.478">LANA: Esatto! Che cosa stiamo<tt:br/>facendo?!</tt:p>
+            <tt:p begin="00:05:10.511" end="00:05:12.380">PAM: Aww man, we have to learn<tt:br/>Latin?</tt:p>
+            <tt:p begin="00:05:12.413" end="00:05:14.482">ARCHER: Ew yeah, that's a<tt:br/>dealbreaker.</tt:p>
+            <tt:p begin="00:05:14.515" end="00:05:16.650">LANA: You were speaking Latin<tt:br/>when you walked in here -</tt:p>
+            <tt:p begin="00:05:16.684" end="00:05:17.851">ARCHER: Mmmmno...</tt:p>
+            <tt:p begin="00:05:17.885" end="00:05:20.454">LANA: -- whereas I was just<tt:br/>speaking Italian, which neither</tt:p>
+            <tt:p begin="00:05:20.488" end="00:05:23.624">of you speak nor even<tt:br/>understand, obviously, so -</tt:p>
+            <tt:p begin="00:05:23.657" end="00:05:25.693">ARCHER: So?! Lana, the<tt:br/>assassination plot is being</tt:p>
+            <tt:p begin="00:05:25.726" end="00:05:27.728">hatched by the Swiss Guard?</tt:p>
+            <tt:p begin="00:05:27.761" end="00:05:28.896">LANA: So...?</tt:p>
+            <tt:p begin="00:05:28.929" end="00:05:31.031">ARCHER: So it's an eight-hour<tt:br/>flight, so we get some tapes</tt:p>
+            <tt:p begin="00:05:31.064" end="00:05:33.401">and brush up on our -<tt:br/>LANA: Swiss?</tt:p>
+            <tt:p begin="00:05:33.434" end="00:05:34.568">ARCHER: Duh?</tt:p>
+            <tt:p begin="00:05:34.602" end="00:05:36.537">LANA: Well, since Swiss isn't<tt:br/>a language, maybe you should</tt:p>
+            <tt:p begin="00:05:36.570" end="00:05:40.040">get some tapes on German,<tt:br/>French, Italian and Romansh.</tt:p>
+            <tt:p begin="00:05:40.073" end="00:05:41.442">ARCHER: Maybe I will.</tt:p>
+            <tt:p begin="00:05:41.475" end="00:05:43.511">MALORY: Alright. Lana pack a<tt:br/>bag, you're -</tt:p>
+            <tt:p begin="00:05:43.544" end="00:05:45.078">ARCHER: No! Mother come on, we<tt:br/>don't need -</tt:p>
+            <tt:p begin="00:05:45.112" end="00:05:47.014">MALORY: Lana! Is going!</tt:p>
+            <tt:p begin="00:05:47.047" end="00:05:48.148">LANA: Ha!</tt:p>
+            <tt:p begin="00:05:48.181" end="00:05:50.150">MALORY: And Pam, if you keep<tt:br/>your eyes open and your big</tt:p>
+            <tt:p begin="00:05:50.183" end="00:05:53.153">mouth shut, you just might<tt:br/>learn something from her.</tt:p>
+            <tt:p begin="00:05:53.186" end="00:05:53.821">PAM: Ha!</tt:p>
+            <tt:p begin="00:05:53.854" end="00:05:55.389">ARCHER: Why are you going ha?!</tt:p>
+            <tt:p begin="00:05:55.423" end="00:05:56.557">PAM: I dunno, what're we doing?</tt:p>
+            <tt:p begin="00:05:56.590" end="00:05:59.527">LANA: I'll tell you what we<tt:br/>should be doing. So, who does</tt:p>
+            <tt:p begin="00:05:59.560" end="00:06:01.695">the pope remind you of?</tt:p>
+            <tt:p begin="00:06:01.729" end="00:06:02.730">MALORY: Ha!</tt:p>
+            <tt:p begin="00:06:02.763" end="00:06:03.597">ARCHER: What.</tt:p>
+            <tt:p begin="00:06:03.631" end="00:06:04.432">LANA: Haaa!</tt:p>
+            <tt:p begin="00:06:04.465" end="00:06:07.701">ARCHER: Shut up! And you also<tt:br/>shut up.</tt:p>
+            <tt:p begin="00:06:07.735" end="00:06:08.769">WOODHOUSE: Yessir.</tt:p>
+            <tt:p begin="00:06:08.802" end="00:06:09.570">PAM: Haaa!</tt:p>
+            <tt:p begin="00:06:09.603" end="00:06:11.739">ARCHER: Why are you still<tt:br/>going ha?!</tt:p>
+            <tt:p begin="00:06:11.772" end="00:06:13.741">PAM: Pink Panther's on.</tt:p>
+            <tt:p begin="00:06:13.774" end="00:06:16.376">Father Guido Sardoochbag.?</tt:p>
+            <tt:p begin="00:06:21.214" end="00:06:22.783">ARCHER (O.S.): Oh really?</tt:p>
+            <tt:p begin="00:06:22.816" end="00:06:25.453">ARCHER: Because she didn't<tt:br/>specify an agent in-command,</tt:p>
+            <tt:p begin="00:06:25.486" end="00:06:27.788">Lana, so I would argue -<tt:br/>LANA (O.S.): With a fence post.</tt:p>
+            <tt:p begin="00:06:27.821" end="00:06:30.791">ARCHER: I wouldn't argue with<tt:br/>a -- oof! Move, idiot!</tt:p>
+            <tt:p begin="00:06:30.824" end="00:06:32.426">PAM: I'm goin as fast as I can!</tt:p>
+            <tt:p begin="00:06:32.460" end="00:06:34.194">ARCHER: Not you, the -<tt:br/>PAM: The fence post?</tt:p>
+            <tt:p begin="00:06:34.227" end="00:06:35.128">LANA (O.S.): Ha!</tt:p>
+            <tt:p begin="00:06:35.162" end="00:06:37.531">ARCHER: It was a bollard! And<tt:br/>my point was -</tt:p>
+            <tt:p begin="00:06:37.565" end="00:06:40.200">LANA: Fine! You're agent-in-<tt:br/>command! Now shut up, brief</tt:p>
+            <tt:p begin="00:06:40.233" end="00:06:42.603">Corelli, and get the access<tt:br/>code to the pope's apartment!</tt:p>
+            <tt:p begin="00:06:42.636" end="00:06:45.573">[doot]<tt:br/>ARCHER: I... will, because I</tt:p>
+            <tt:p begin="00:06:45.606" end="00:06:46.707">command me to.</tt:p>
+            <tt:p begin="00:06:46.740" end="00:06:48.942">LANA: And you should eat, this<tt:br/>could be a long night, and</tt:p>
+            <tt:p begin="00:06:48.976" end="00:06:50.878">you're... so teeny.</tt:p>
+            <tt:p begin="00:06:50.911" end="00:06:51.845">WOODHOUSE: Hm?</tt:p>
+            <tt:p begin="00:06:51.879" end="00:06:54.815">LANA: Seriously, eat, you're<tt:br/>like a slow loris.</tt:p>
+            <tt:p begin="00:06:54.848" end="00:06:57.518">WOODHOUSE: Oh, no, bit off my<tt:br/>feed, I'm afraid.</tt:p>
+            <tt:p begin="00:06:57.551" end="00:07:00.954">LANA: Woodhouse, you need to -<tt:br/>Oh c'mon, you need to fix?</tt:p>
+            <tt:p begin="00:07:00.988" end="00:07:02.590">WOODHOUSE: [whimper]<tt:br/>LANA: Well, is there some</tt:p>
+            <tt:p begin="00:07:02.623" end="00:07:05.092">amount you can shoot up to get<tt:br/>right for the mission, without</tt:p>
+            <tt:p begin="00:07:05.125" end="00:07:07.661">gettin all... trainspotty?</tt:p>
+            <tt:p begin="00:07:07.695" end="00:07:08.829">WOODHOUSE: Back in a tick!</tt:p>
+            <tt:p begin="00:07:08.862" end="00:07:11.899">LANA: Oh for the -- and thanks<tt:br/>for making me carry your bag</tt:p>
+            <tt:p begin="00:07:11.932" end="00:07:13.066">through customs!</tt:p>
+            <tt:p begin="00:07:13.100" end="00:07:14.968">WOODHOUSE (O.S.): No, thank<tt:br/>you!</tt:p>
+            <tt:p begin="00:07:15.002" end="00:07:15.969">ARCHER (O.S.): Grazie.</tt:p>
+            <tt:p begin="00:07:16.003" end="00:07:19.106">Grazie mille,<tt:br/>vostra... majesty-o?</tt:p>
+            <tt:p begin="00:07:19.139" end="00:07:22.543">CORELLI: Your Italian is, how<tt:br/>you say, shit?</tt:p>
+            <tt:p begin="00:07:22.576" end="00:07:24.478">ARCHER: Then you are not gonna<tt:br/>like my Romansh.</tt:p>
+            <tt:p begin="00:07:24.512" end="00:07:26.914">CORELLI: Mio dio! You think<tt:br/>this is funny?!</tt:p>
+            <tt:p begin="00:07:26.947" end="00:07:28.081">ARCHER: I thought that was.</tt:p>
+            <tt:p begin="00:07:28.115" end="00:07:30.518">CORELLI: Assassins plan to<tt:br/>kill the Holy Father in his own</tt:p>
+            <tt:p begin="00:07:30.551" end="00:07:35.255">bed, on this very night, ma tu<tt:br/>stai qui con la testa nel culo!</tt:p>
+            <tt:p begin="00:07:35.288" end="00:07:38.526">PAM: Whoa whoa, take it down a<tt:br/>notch, St. Louis! His head is</tt:p>
+            <tt:p begin="00:07:38.559" end="00:07:39.326">not up his ass!</tt:p>
+            <tt:p begin="00:07:39.359" end="00:07:41.128">ARCHER: How'd you know what<tt:br/>he said?</tt:p>
+            <tt:p begin="00:07:41.161" end="00:07:42.563">PAM: It was an eight-hour<tt:br/>flight.</tt:p>
+            <tt:p begin="00:07:42.596" end="00:07:44.131">ARCHER: Wow, did you learn<tt:br/>Romansh?</tt:p>
+            <tt:p begin="00:07:44.164" end="00:07:46.867">PAM: Who am I, Cypher? The<tt:br/>gayest X-man?</tt:p>
+            <tt:p begin="00:07:46.900" end="00:07:49.670">ARCHER: I dunno, Gambit looks<tt:br/>like he knows his way around a</tt:p>
+            <tt:p begin="00:07:49.703" end="00:07:50.771">pair of -<tt:br/>CORELLI: Basta! Here is the</tt:p>
+            <tt:p begin="00:07:50.804" end="00:07:54.274">access card to the Holy<tt:br/>Father's private apartment. I</tt:p>
+            <tt:p begin="00:07:54.307" end="00:07:57.545">assume you have a plan once<tt:br/>inside?</tt:p>
+            <tt:p begin="00:07:57.578" end="00:08:00.280">PAM: We call it the old<tt:br/>switcheroo.</tt:p>
+            <tt:p begin="00:08:00.313" end="00:08:02.049">ARCHER: We absolutely do not<tt:br/>call it the old switcheroo.</tt:p>
+            <tt:p begin="00:08:02.082" end="00:08:04.518">CORELLI: Mio dio!</tt:p>
+            <tt:p begin="00:08:04.552" end="00:08:06.520">LESSER CARDINALS: [gasp]<tt:br/>ARCHER: I know, right? Trope</tt:p>
+            <tt:p begin="00:08:06.554" end="00:08:08.021">alert!</tt:p>
+            <tt:p begin="00:08:08.055" end="00:08:09.156">CORELLI: Che?</tt:p>
+            <tt:p begin="00:08:09.189" end="00:08:13.727">PAM: Eh... non si traduce bene.</tt:p>
+            <tt:p begin="00:08:13.761" end="00:08:14.795">LANA: Feeling better?</tt:p>
+            <tt:p begin="00:08:14.828" end="00:08:17.598">WOODHOUSE: Sound as a pound,<tt:br/>my dear.</tt:p>
+            <tt:p begin="00:08:17.631" end="00:08:19.199">Where the hell are we?</tt:p>
+            <tt:p begin="00:08:19.232" end="00:08:22.570">LANA: Uh, this new place<tt:br/>called Italy?</tt:p>
+            <tt:p begin="00:08:22.603" end="00:08:24.572">WOODHOUSE: How'd I get all the<tt:br/>way downtown?</tt:p>
+            <tt:p begin="00:08:24.605" end="00:08:25.839">LANA: Wh-? Not Little Italy!</tt:p>
+            <tt:p begin="00:08:25.873" end="00:08:27.207">Italy, Italy!</tt:p>
+            <tt:p begin="00:08:27.240" end="00:08:29.543">WOODHOUSE: Bloody hell. What<tt:br/>are we doing here?</tt:p>
+            <tt:p begin="00:08:29.577" end="00:08:31.244">LANA: Thwarting an<tt:br/>assassination attempt on the</tt:p>
+            <tt:p begin="00:08:31.278" end="00:08:34.615">pope. Using you as a decoy.</tt:p>
+            <tt:p begin="00:08:34.648" end="00:08:36.617">WOODHOUSE: Back in a tick!</tt:p>
+            <tt:p begin="00:08:36.650" end="00:08:38.586">LANA: With Ken and your weekend<tt:br/>weather. And you may need an</tt:p>
+            <tt:p begin="00:08:38.619" end="00:08:40.888">umbrella because it's going to<tt:br/>be raining.</tt:p>
+            <tt:p begin="00:08:40.921" end="00:08:42.556">Dead ass popes.</tt:p>
+            <tt:p begin="00:08:42.590" end="00:08:45.225">PAM (O.S.): Aw crap, he's<tt:br/>already dead.</tt:p>
+            <tt:p begin="00:08:45.258" end="00:08:47.828">ARCHER: No he's not, he's just<tt:br/>old. That's how Woodhouse looks</tt:p>
+            <tt:p begin="00:08:47.861" end="00:08:48.996">when he's asleep.</tt:p>
+            <tt:p begin="00:08:49.029" end="00:08:50.097">PAM: I'm gonna get a mirror.</tt:p>
+            <tt:p begin="00:08:50.130" end="00:08:52.600">ARCHER: Right until he wakes<tt:br/>and sees me staring at him</tt:p>
+            <tt:p begin="00:08:52.633" end="00:08:56.604">with night-vision goggles and<tt:br/>literally pisses himself. Hey,</tt:p>
+            <tt:p begin="00:08:56.637" end="00:08:58.872">does Woodhouse seem unhappy to<tt:br/>you, or -- what the hell're you</tt:p>
+            <tt:p begin="00:08:58.906" end="00:08:59.740">doing?!</tt:p>
+            <tt:p begin="00:08:59.773" end="00:09:02.576">PAM: Gonna see if his breath<tt:br/>fogs it up.</tt:p>
+            <tt:p begin="00:09:02.610" end="00:09:04.277">ARCHER: Put the stupid mirror<tt:br/>back, he's not -</tt:p>
+            <tt:p begin="00:09:04.311" end="00:09:08.716">PAM: [gasp]<tt:br/>ARCHER: Dead. Nice job, Oliver</tt:p>
+            <tt:p begin="00:09:08.749" end="00:09:09.650">Cromwell.</tt:p>
+            <tt:p begin="00:09:09.683" end="00:09:10.584">PAM: I killed the pope!</tt:p>
+            <tt:p begin="00:09:10.618" end="00:09:11.719">ARCHER: Yeah, that's why I<tt:br/>said Oliver Crom -</tt:p>
+            <tt:p begin="00:09:11.752" end="00:09:15.956">PAM: Jesus Christ I'm going to<tt:br/>hell I'm going to hell I'm</tt:p>
+            <tt:p begin="00:09:15.989" end="00:09:17.891">going to hell I'm -<tt:br/>[THWAK! THWAK! THWAK!]</tt:p>
+            <tt:p begin="00:09:17.925" end="00:09:18.759">ARCHER: Pam.</tt:p>
+            <tt:p begin="00:09:18.792" end="00:09:20.661">PAM: Yes?</tt:p>
+            <tt:p begin="00:09:20.694" end="00:09:23.764">ARCHER: Get off the pope.</tt:p>
+            <tt:p begin="00:09:23.797" end="00:09:26.967">ARCHER: Heeey,<tt:br/>Your Holiness...</tt:p>
+            <tt:p begin="00:09:27.000" end="00:09:28.135">PAM: Is he dead?!</tt:p>
+            <tt:p begin="00:09:28.168" end="00:09:29.670">ARCHER: I dunno, shut up, I'm -<tt:br/>PAM: Should I get another</tt:p>
+            <tt:p begin="00:09:29.703" end="00:09:32.773">mirror? But like, a much much<tt:br/>smaller one?</tt:p>
+            <tt:p begin="00:09:32.806" end="00:09:34.742">LANA (O.S.): No, you're half<tt:br/>heroin already!</tt:p>
+            <tt:p begin="00:09:34.775" end="00:09:36.376">[clunk]<tt:br/>LANA: Okay, here's Junkie</tt:p>
+            <tt:p begin="00:09:36.409" end="00:09:38.311">Brewster, let's...</tt:p>
+            <tt:p begin="00:09:38.345" end="00:09:39.379">Where's the pope?</tt:p>
+            <tt:p begin="00:09:39.412" end="00:09:40.781">ARCHER: Soo, Here's the thing.</tt:p>
+            <tt:p begin="00:09:40.814" end="00:09:41.849">PAM: Promise you won't get mad?</tt:p>
+            <tt:p begin="00:09:41.882" end="00:09:44.217">LANA: I -- actually<tt:br/>do not promise I won't get mad,</tt:p>
+            <tt:p begin="00:09:44.251" end="00:09:45.619">because here's what thing?</tt:p>
+            <tt:p begin="00:09:45.653" end="00:09:46.754">ARCHER: Um...</tt:p>
+            <tt:p begin="00:09:46.787" end="00:09:49.389">LANA: What, why is there a<tt:br/>giant mirror on the oh my God</tt:p>
+            <tt:p begin="00:09:49.422" end="00:09:50.557">you crushed the pope?!</tt:p>
+            <tt:p begin="00:09:50.590" end="00:09:53.260">LANA: Don't just stand there<tt:br/>idiots, help me get it off and</tt:p>
+            <tt:p begin="00:09:53.293" end="00:09:54.628">Pam! Woodhouse!</tt:p>
+            <tt:p begin="00:09:54.662" end="00:09:55.696">PAM: Huh? Oh!</tt:p>
+            <tt:p begin="00:09:55.729" end="00:09:56.396">WOODHOUSE (O.S.): Oof!</tt:p>
+            <tt:p begin="00:09:56.429" end="00:09:57.698">WOODHOUSE (O.S.): Ow!</tt:p>
+            <tt:p begin="00:09:57.731" end="00:10:00.267">PAM: Ow! What the -- is<tt:br/>that a needle?!</tt:p>
+            <tt:p begin="00:10:00.300" end="00:10:02.402">ARCHER: [chuckles]<tt:br/>LANA: Rrrrrgh!</tt:p>
+            <tt:p begin="00:10:02.435" end="00:10:03.771">POPE: [gasping]<tt:br/>LANA: Oh thank God!</tt:p>
+            <tt:p begin="00:10:03.804" end="00:10:06.707">POPE: Chi siete voi, dove sono<tt:br/>le guardie?!</tt:p>
+            <tt:p begin="00:10:06.740" end="00:10:08.976">LANA: We're -- Your Holiness,<tt:br/>do you speak English?</tt:p>
+            <tt:p begin="00:10:09.009" end="00:10:11.845">POPE: Yes, of course, but -<tt:br/>ARCHER: Ha! Way to waste your</tt:p>
+            <tt:p begin="00:10:11.879" end="00:10:13.914">time learning Italian, Pam!</tt:p>
+            <tt:p begin="00:10:13.947" end="00:10:17.918">PAM: Aw, stai zitto, testa di<tt:br/>cazzo. And could you...?</tt:p>
+            <tt:p begin="00:10:17.951" end="00:10:19.186">WOODHOUSE: Sorry.</tt:p>
+            <tt:p begin="00:10:19.219" end="00:10:21.789">POPE: Dio mio! He look just<tt:br/>like me!</tt:p>
+            <tt:p begin="00:10:21.822" end="00:10:23.991">LANA: Yes, Your Holiness, he's<tt:br/>a decoy. We have reason to</tt:p>
+            <tt:p begin="00:10:24.024" end="00:10:26.727">believe a faction of the Swiss<tt:br/>Guard will make an attempt on</tt:p>
+            <tt:p begin="00:10:26.760" end="00:10:28.829">your life tonight, so -<tt:br/>ARCHER: So if you don't mind</tt:p>
+            <tt:p begin="00:10:28.862" end="00:10:31.331">hopping out of those pope-<tt:br/>jamas...</tt:p>
+            <tt:p begin="00:10:31.364" end="00:10:34.334">LANA: Archer? We'll hide you,<tt:br/>put him in your place, wait for</tt:p>
+            <tt:p begin="00:10:34.367" end="00:10:36.269">them to come in -<tt:br/>POPE: And then what?! You are</tt:p>
+            <tt:p begin="00:10:36.303" end="00:10:37.304">only two!</tt:p>
+            <tt:p begin="00:10:37.337" end="00:10:40.140">ARCHER: Well three, so -<tt:br/>PAM: Better make that two.</tt:p>
+            <tt:p begin="00:10:40.173" end="00:10:42.943">Think I mighta grabbed the tail<tt:br/>of the dragon here...</tt:p>
+            <tt:p begin="00:10:42.976" end="00:10:45.212">WOODHOUSE: Ooh, then you're in<tt:br/>for a treat!</tt:p>
+            <tt:p begin="00:10:45.245" end="00:10:47.881">ARCHER: Shut up! And with all<tt:br/>due respect Your Holiness,</tt:p>
+            <tt:p begin="00:10:47.915" end="00:10:49.282">it's the Swiss Guard...</tt:p>
+            <tt:p begin="00:10:49.316" end="00:10:51.952">I think we can<tt:br/>handle a few court jesters</tt:p>
+            <tt:p begin="00:10:51.985" end="00:10:53.754">with, whatever, halberds.</tt:p>
+            <tt:p begin="00:10:53.787" end="00:10:56.724">LANA: Which, you realize are<tt:br/>just ceremonial.</tt:p>
+            <tt:p begin="00:10:56.757" end="00:10:59.059">ARCHER: Obviously they're<tt:br/>ceremonial, they were made</tt:p>
+            <tt:p begin="00:10:59.092" end="00:11:00.728">obsolete by the arquebus.</tt:p>
+            <tt:p begin="00:11:00.761" end="00:11:03.731">LANA: Which is why now they<tt:br/>use MP-5's.</tt:p>
+            <tt:p begin="00:11:03.764" end="00:11:04.832">ARCHER: Oh.</tt:p>
+            <tt:p begin="00:11:04.865" end="00:11:06.767">LANA: Which is why where's the<tt:br/>gear bag with all of our</tt:p>
+            <tt:p begin="00:11:06.800" end="00:11:08.001">automatic weapons?!</tt:p>
+            <tt:p begin="00:11:08.035" end="00:11:09.870">ARCHER: Well I assume in the<tt:br/>hotel room, but -</tt:p>
+            <tt:p begin="00:11:09.903" end="00:11:11.404">LANA: God -<tt:br/>ARCHER: I thought they just</tt:p>
+            <tt:p begin="00:11:11.438" end="00:11:12.239">had halberds!</tt:p>
+            <tt:p begin="00:11:12.272" end="00:11:14.174">LANA: Do you at least have a<tt:br/>sidearm?!</tt:p>
+            <tt:p begin="00:11:14.207" end="00:11:15.809">ARCHER: It was ruining the<tt:br/>lines of my cassock.</tt:p>
+            <tt:p begin="00:11:15.843" end="00:11:16.910">LANA: Dammit!</tt:p>
+            <tt:p begin="00:11:16.944" end="00:11:18.746">ARCHER: And again, I honestly<tt:br/>thought they just had -</tt:p>
+            <tt:p begin="00:11:18.779" end="00:11:21.749">[rattle rattle]<tt:br/>ARCHER: -- halberds. Although</tt:p>
+            <tt:p begin="00:11:21.782" end="00:11:24.051">technically I think they're<tt:br/>called voulges.</tt:p>
+            <tt:p begin="00:11:24.084" end="00:11:25.719">SWISS GUARD (O.S.): Santo<tt:br/>Padre! La porta, per favore!</tt:p>
+            <tt:p begin="00:11:25.753" end="00:11:28.355">PAM: I got him, just toss him<tt:br/>down!</tt:p>
+            <tt:p begin="00:11:28.388" end="00:11:30.724">LANA: I'm not tossing the<tt:br/>frickin pope!</tt:p>
+            <tt:p begin="00:11:30.758" end="00:11:32.793">ARCHER: Somehow this is all<tt:br/>your fault.</tt:p>
+            <tt:p begin="00:11:32.826" end="00:11:33.660">POPE: Che?</tt:p>
+            <tt:p begin="00:11:33.693" end="00:11:36.163">ARCHER: Oh for the -- this is<tt:br/>the pope!</tt:p>
+            <tt:p begin="00:11:36.196" end="00:11:38.031">LANA: Oh, then<tt:br/>WOODHOUSE (O.S.) [yelp]</tt:p>
+            <tt:p begin="00:11:38.065" end="00:11:38.832">WOODHOUSE (O.S.): Oof!</tt:p>
+            <tt:p begin="00:11:38.866" end="00:11:41.368">PAM: Ow! Oh for shit's sake,<tt:br/>already!</tt:p>
+            <tt:p begin="00:11:41.401" end="00:11:43.170">ARCHER: [chuckles]<tt:br/>LANA: Archer shut up and find</tt:p>
+            <tt:p begin="00:11:43.203" end="00:11:44.738">us some -<tt:br/>[krunch!]</tt:p>
+            <tt:p begin="00:11:44.772" end="00:11:45.806">SWISS GUARD: Sparale!</tt:p>
+            <tt:p begin="00:11:45.839" end="00:11:49.509">[BRRRRRRRRRRRRRRRRPT!]<tt:br/>LANA: Oof! Transport! Are you</tt:p>
+            <tt:p begin="00:11:49.542" end="00:11:50.677">shitting me?!</tt:p>
+            <tt:p begin="00:11:50.710" end="00:11:52.880">ARCHER: Well it was this or<tt:br/>the Vespas! It's not my fault</tt:p>
+            <tt:p begin="00:11:52.913" end="00:11:56.750">Italy's so gay. Which, by the<tt:br/>way, Pope, on the gay thing...</tt:p>
+            <tt:p begin="00:11:56.784" end="00:11:59.853">POPE: La Sacra Bibbia says it<tt:br/>is a mortal sin. But get me out</tt:p>
+            <tt:p begin="00:11:59.887" end="00:12:03.023">of here alive and I will pardon<tt:br/>you for it, my son.</tt:p>
+            <tt:p begin="00:12:03.056" end="00:12:06.259">ARCHER: Wh-? No, I -<tt:br/>PAM: Haaaa!</tt:p>
+            <tt:p begin="00:12:09.897" end="00:12:13.133">CHERYL/CAROL (O.S.): So why<tt:br/>are you scared of church stuff?</tt:p>
+            <tt:p begin="00:12:13.166" end="00:12:14.902">Did the unspeakable happen?</tt:p>
+            <tt:p begin="00:12:14.935" end="00:12:18.271">To your slender, hairless,<tt:br/>adolescent body?</tt:p>
+            <tt:p begin="00:12:18.305" end="00:12:19.773">CYRIL: Wh-? No!</tt:p>
+            <tt:p begin="00:12:19.807" end="00:12:20.908">CHERYL/CAROL: Aww...</tt:p>
+            <tt:p begin="00:12:20.941" end="00:12:21.441">CYRIL: Eww!</tt:p>
+            <tt:p begin="00:12:21.474" end="00:12:22.609">CHERYL/CAROL: Right?!</tt:p>
+            <tt:p begin="00:12:22.642" end="00:12:25.278">CYRIL: First of all, I'm not -<tt:br/>I'm not scared of priests or</tt:p>
+            <tt:p begin="00:12:25.312" end="00:12:26.914">nuns or -<tt:br/>CHERYL/CAROL: Bishops?</tt:p>
+            <tt:p begin="00:12:26.947" end="00:12:28.215">CYRIL: No, I just --<tt:br/>CHERYL/CAROL: Bishop the</tt:p>
+            <tt:p begin="00:12:28.248" end="00:12:29.382">android from Aliens?</tt:p>
+            <tt:p begin="00:12:29.416" end="00:12:32.285">CYRIL: No! I told Ms. Archer<tt:br/>that because I didn't wanna go</tt:p>
+            <tt:p begin="00:12:32.319" end="00:12:34.387">on another mission with the<tt:br/>world's worst colleague.</tt:p>
+            <tt:p begin="00:12:34.421" end="00:12:36.223">CHERYL/CAROL: Bishop the<tt:br/>android from Aliens?</tt:p>
+            <tt:p begin="00:12:36.256" end="00:12:38.792">CYRIL: Archer! You think he's<tt:br/>a dick here? On a mission he's</tt:p>
+            <tt:p begin="00:12:38.826" end="00:12:42.930">ten times worse.</tt:p>
+            <tt:p begin="00:12:42.963" end="00:12:43.797">CHERYL/CAROL: That's impossible.</tt:p>
+            <tt:p begin="00:12:43.831" end="00:12:44.865">ARCHER (O.S.) Oh really?!</tt:p>
+            <tt:p begin="00:12:44.898" end="00:12:48.969">PAM: Yes, really! A, I was a<tt:br/>race car driver! And B -</tt:p>
+            <tt:p begin="00:12:49.002" end="00:12:49.803">LANA: Archer.</tt:p>
+            <tt:p begin="00:12:49.837" end="00:12:50.703">ARCHER: Your Holiness, a<tt:br/>little help?!</tt:p>
+            <tt:p begin="00:12:50.737" end="00:12:52.439">PAM: The pope could drive<tt:br/>better than you!</tt:p>
+            <tt:p begin="00:12:52.472" end="00:12:54.574">POPE: No no, io non guido.</tt:p>
+            <tt:p begin="00:12:54.607" end="00:12:55.809">PAM: Ugh, esatto?</tt:p>
+            <tt:p begin="00:12:55.843" end="00:12:56.877">POPE: (chuckling) Oh, capito...</tt:p>
+            <tt:p begin="00:12:56.910" end="00:12:59.579">ARCHER: Why're you taking her<tt:br/>side?! She's Lutheran!</tt:p>
+            <tt:p begin="00:12:59.612" end="00:13:02.149">POPE: Eh, Luther had some<tt:br/>valid complaints.</tt:p>
+            <tt:p begin="00:13:02.182" end="00:13:03.150">LANA: Archer! Owwwww!</tt:p>
+            <tt:p begin="00:13:03.183" end="00:13:05.318">LANA: Drive the ffffffffrickin<tt:br/>car!</tt:p>
+            <tt:p begin="00:13:05.352" end="00:13:08.588">ARCHER: Okay, Lana! What is<tt:br/>your problem?</tt:p>
+            <tt:p begin="00:13:08.621" end="00:13:10.958">LANA: Well there's you... and<tt:br/>also that.</tt:p>
+            <tt:p begin="00:13:10.991" end="00:13:12.993">ARCHER: Why aren't they on<tt:br/>horseback?!</tt:p>
+            <tt:p begin="00:13:13.026" end="00:13:15.162">LANA: Because why would they<tt:br/>be?!</tt:p>
+            <tt:p begin="00:13:15.195" end="00:13:18.932">ARCHER: Right, halberdsmen are<tt:br/>foot-soldiers.</tt:p>
+            <tt:p begin="00:13:18.966" end="00:13:21.935">POPE: Mi scusi, the bigger<tt:br/>question is, if they really are</tt:p>
+            <tt:p begin="00:13:21.969" end="00:13:23.603">the Swiss Guards...</tt:p>
+            <tt:p begin="00:13:23.636" end="00:13:25.605">PAM: Why are they wearing<tt:br/>Swiss Guard uniforms, driving a</tt:p>
+            <tt:p begin="00:13:25.638" end="00:13:27.307">Swiss Guard car?!</tt:p>
+            <tt:p begin="00:13:27.340" end="00:13:28.541">POPE: Esatto.</tt:p>
+            <tt:p begin="00:13:28.575" end="00:13:32.279">LANA: Holy sh -- it's a false<tt:br/>flag operation! To make it look</tt:p>
+            <tt:p begin="00:13:32.312" end="00:13:33.981">like the Swiss Guard!</tt:p>
+            <tt:p begin="00:13:34.014" end="00:13:36.850">POPE: Who told you I was to be<tt:br/>assassinated?</tt:p>
+            <tt:p begin="00:13:36.884" end="00:13:39.352">ARCHER: Cardinal Corelli! He -<tt:br/>LANA: He wouldn't, by any</tt:p>
+            <tt:p begin="00:13:39.386" end="00:13:44.157">chance, be next in line for the<tt:br/>papacy, would he?</tt:p>
+            <tt:p begin="00:13:44.191" end="00:13:46.559">POPE: Well, there would be an<tt:br/>election -</tt:p>
+            <tt:p begin="00:13:46.593" end="00:13:48.295">ARCHER: Right, with the smudge-<tt:br/>pot...</tt:p>
+            <tt:p begin="00:13:48.328" end="00:13:50.864">POPE: -- but Corelli would be<tt:br/>sure to win.</tt:p>
+            <tt:p begin="00:13:50.898" end="00:13:51.831">LANA: Pretty good motive.</tt:p>
+            <tt:p begin="00:13:51.865" end="00:13:54.067">PAM: (laughing) Yeah, you must<tt:br/>make a shitlo -</tt:p>
+            <tt:p begin="00:13:54.101" end="00:13:57.470">[brrrrrrrrpt!]<tt:br/>EVERYBODY: Ahhhhhhhh!!!</tt:p>
+            <tt:p begin="00:13:57.504" end="00:14:02.642">[skreeech]<tt:br/>LANA: Go! What're you</tt:p>
+            <tt:p begin="00:14:02.675" end="00:14:03.410">doing?!</tt:p>
+            <tt:p begin="00:14:03.443" end="00:14:04.878">ARCHER: I'm letting them catch<tt:br/>up!</tt:p>
+            <tt:p begin="00:14:04.912" end="00:14:05.979">EVERYBODY: Why?!</tt:p>
+            <tt:p begin="00:14:06.013" end="00:14:09.182">ARCHER: Can I finish?! He<tt:br/>asked, agent-incommandingly!</tt:p>
+            <tt:p begin="00:14:09.216" end="00:14:12.385">Take the wheel and maintain<tt:br/>speed! Woodhouse, lighter!</tt:p>
+            <tt:p begin="00:14:12.419" end="00:14:14.922">WOODHOUSE: I'm only ninety<tt:br/>pounds wet, sir!</tt:p>
+            <tt:p begin="00:14:14.955" end="00:14:17.991">ARCHER: What? No you idiot,<tt:br/>your spoon-cooker!</tt:p>
+            <tt:p begin="00:14:18.025" end="00:14:19.092">WOODHOUSE: Oh right.</tt:p>
+            <tt:p begin="00:14:19.126" end="00:14:22.029">ARCHER: Like pulling teeth<tt:br/>with you people. Lana! Head</tt:p>
+            <tt:p begin="00:14:22.062" end="00:14:23.563">toward Swiss Guard HQ!</tt:p>
+            <tt:p begin="00:14:23.596" end="00:14:25.432">LANA: What, while you request<tt:br/>Freebird?!</tt:p>
+            <tt:p begin="00:14:25.465" end="00:14:27.400">ARCHER: Ha, ha. Ha, ha, ha.</tt:p>
+            <tt:p begin="00:14:27.434" end="00:14:28.301">ahh.</tt:p>
+            <tt:p begin="00:14:28.335" end="00:14:31.004">[brrrrrrrpt]<tt:br/>Actually that was pretty good,</tt:p>
+            <tt:p begin="00:14:31.038" end="00:14:34.041">for you at least, but no, while<tt:br/>I do...</tt:p>
+            <tt:p begin="00:14:34.074" end="00:14:36.409">Shit, I had a pun about flares.</tt:p>
+            <tt:p begin="00:14:36.443" end="00:14:37.911">LANA: Fake dynamite?!</tt:p>
+            <tt:p begin="00:14:37.945" end="00:14:40.914">PAM: That's your plan?! So<tt:br/>hey, can I squeeze in a</tt:p>
+            <tt:p begin="00:14:40.948" end="00:14:42.015">confession?</tt:p>
+            <tt:p begin="00:14:42.049" end="00:14:45.518">POPE: (chuckling) Oho, ora<tt:br/>dov'è il tuo Martin Luther?</tt:p>
+            <tt:p begin="00:14:45.552" end="00:14:49.589">PAM: Fine, I'll buy a damn<tt:br/>indulgence! Oh wait...</tt:p>
+            <tt:p begin="00:14:49.622" end="00:14:51.258">ARCHER: Wait until they're<tt:br/>right beside us, then swerve</tt:p>
+            <tt:p begin="00:14:51.291" end="00:14:52.192">into em!</tt:p>
+            <tt:p begin="00:14:52.225" end="00:14:54.027">LANA: What, so you're crushed<tt:br/>between the -</tt:p>
+            <tt:p begin="00:14:54.061" end="00:14:56.429">ARCHER: Woohoohoohoooooooooo!</tt:p>
+            <tt:p begin="00:14:56.463" end="00:14:59.032">LANA: Shoulda seen that comin...</tt:p>
+            <tt:p begin="00:14:59.066" end="00:15:00.600">ARCHER: Hey, I can see St.<tt:br/>Peter's from -</tt:p>
+            <tt:p begin="00:15:00.633" end="00:15:02.269">LANA: Archer look ooouuut!</tt:p>
+            <tt:p begin="00:15:02.302" end="00:15:04.471">ARCHER: Goddammit, quit<tt:br/>telling me what to do! I'm the</tt:p>
+            <tt:p begin="00:15:04.504" end="00:15:06.473">goddamn agent-in-command!</tt:p>
+            <tt:p begin="00:15:06.506" end="00:15:09.376">POPE: Figo, he really drops<tt:br/>the G.D. bombs...</tt:p>
+            <tt:p begin="00:15:09.409" end="00:15:11.111">PAM: Plus he's a whoremonger.</tt:p>
+            <tt:p begin="00:15:11.144" end="00:15:12.212">LANA: Cough.</tt:p>
+            <tt:p begin="00:15:12.245" end="00:15:16.149">PAM: Oh please, who hasn't<tt:br/>paid for it?! Still talking</tt:p>
+            <tt:p begin="00:15:16.183" end="00:15:17.117">about indulgences.</tt:p>
+            <tt:p begin="00:15:17.150" end="00:15:17.985">ARCHER (O.S.): Lana now!</tt:p>
+            <tt:p begin="00:15:18.018" end="00:15:20.587">LANA: He said, last<tt:br/>wordsingly. Hang on!</tt:p>
+            <tt:p begin="00:15:20.620" end="00:15:22.089">EVERYBODY: Ahhhh, oh!!</tt:p>
+            <tt:p begin="00:15:22.122" end="00:15:23.123">DRIVER: Sparale!</tt:p>
+            <tt:p begin="00:15:23.156" end="00:15:23.991">Sparale!</tt:p>
+            <tt:p begin="00:15:24.024" end="00:15:25.725">[BRRRRRRRRRPT!]<tt:br/>ARCHER: What the-?! Pam,</tt:p>
+            <tt:p begin="00:15:25.758" end="00:15:26.859">what'd he say?!</tt:p>
+            <tt:p begin="00:15:26.893" end="00:15:29.462">PAM: What do you think he<tt:br/>said, dicknuts?! Pay attention</tt:p>
+            <tt:p begin="00:15:29.496" end="00:15:31.331">to the frickin context!</tt:p>
+            <tt:p begin="00:15:31.364" end="00:15:34.301">ARCHER: Well sorry I don't<tt:br/>have your language-nerd skills!</tt:p>
+            <tt:p begin="00:15:34.334" end="00:15:37.004">Hang on... Pambit!</tt:p>
+            <tt:p begin="00:15:37.037" end="00:15:38.471">PAM (O.S.): Wrong X-Man,<tt:br/>dumbass!</tt:p>
+            <tt:p begin="00:15:38.505" end="00:15:39.406">ARCHER: Still though...</tt:p>
+            <tt:p begin="00:15:39.439" end="00:15:42.242">[BRRRRRRRRRRRRPT!]<tt:br/>DRIVER: Non lui! Il papa!</tt:p>
+            <tt:p begin="00:15:42.275" end="00:15:43.977">Spar'al papa!</tt:p>
+            <tt:p begin="00:15:44.011" end="00:15:45.078">SWISS GUARD: Ohhhh...</tt:p>
+            <tt:p begin="00:15:45.112" end="00:15:46.746">LANA: Ohhh, shit! Pam!!</tt:p>
+            <tt:p begin="00:15:46.779" end="00:15:47.380">PAM: Get doowwwn!</tt:p>
+            <tt:p begin="00:15:47.414" end="00:15:48.148">WOODHOUSE/POPE: Ungh! Ungh!</tt:p>
+            <tt:p begin="00:15:48.181" end="00:15:50.984">[BRRRRRRRRRRRRPT!]<tt:br/>LANA/PAM: Unghh!</tt:p>
+            <tt:p begin="00:15:51.018" end="00:15:52.319">ARCHER: Lanaaaa!</tt:p>
+            <tt:p begin="00:15:52.352" end="00:15:54.521">LANA: Rrrgh. I'm fine!</tt:p>
+            <tt:p begin="00:15:54.554" end="00:15:57.024">PAM: Yeah me too, asshole!</tt:p>
+            <tt:p begin="00:15:57.057" end="00:15:58.158">ARCHER (O.S.): Oh good.</tt:p>
+            <tt:p begin="00:15:58.191" end="00:15:59.026">LANA: Is the pope hit?!</tt:p>
+            <tt:p begin="00:15:59.059" end="00:16:03.063">PAM: Uhh... no, he's, they're<tt:br/>both good.</tt:p>
+            <tt:p begin="00:16:03.096" end="00:16:05.465">DRIVER: Recarica! Spara di<tt:br/>nuovo!</tt:p>
+            <tt:p begin="00:16:05.498" end="00:16:07.034">ARCHER: Really wish I hadn't<tt:br/>focused so heavily on the</tt:p>
+            <tt:p begin="00:16:07.067" end="00:16:08.601">Romansh...</tt:p>
+            <tt:p begin="00:16:08.635" end="00:16:11.171">ARCHER [snoring]<tt:br/>WOMAN'S VOICE: Lesson</tt:p>
+            <tt:p begin="00:16:11.204" end="00:16:14.041">one. Leshau untg.</tt:p>
+            <tt:p begin="00:16:14.074" end="00:16:17.010">PAM: Context! They're<tt:br/>reloading!</tt:p>
+            <tt:p begin="00:16:17.044" end="00:16:20.180">ARCHER: Ohhh... That's what<tt:br/>you mean by context?</tt:p>
+            <tt:p begin="00:16:20.213" end="00:16:21.081">DRIVER (O.S.): Spara!</tt:p>
+            <tt:p begin="00:16:21.114" end="00:16:23.150">LANA: What else could she<tt:br/>possibly mean?!</tt:p>
+            <tt:p begin="00:16:23.183" end="00:16:26.519">ARCHER: Who am I, William<tt:br/>Safire?! Oh and speaking of...</tt:p>
+            <tt:p begin="00:16:26.553" end="00:16:29.022">in the hole!</tt:p>
+            <tt:p begin="00:16:29.056" end="00:16:30.490">[SHUMP]<tt:br/>LANA: What?</tt:p>
+            <tt:p begin="00:16:30.523" end="00:16:33.060">ARCHER: Safire in the hole,<tt:br/>Lana, it's a -</tt:p>
+            <tt:p begin="00:16:33.093" end="00:16:36.196">[KABROOOOOM!]<tt:br/>EVERYBODY: Waaaagh!</tt:p>
+            <tt:p begin="00:16:36.229" end="00:16:38.798">ARCHER: Lana look oooooouuuu -<tt:br/>[KROOOM!]</tt:p>
+            <tt:p begin="00:16:38.831" end="00:16:45.205">[CAR ALARMS blaring]<tt:br/>ARCHER: Ow.</tt:p>
+            <tt:p begin="00:16:45.238" end="00:16:48.141">COMMANDER: So. The good news<tt:br/>is, my men have apprehended</tt:p>
+            <tt:p begin="00:16:48.175" end="00:16:50.477">Cardinal Corelli, who<tt:br/>immediately confessed to the</tt:p>
+            <tt:p begin="00:16:50.510" end="00:16:51.244">plot.</tt:p>
+            <tt:p begin="00:16:51.278" end="00:16:53.580">PAM: Hey heyyy, that is good<tt:br/>news!</tt:p>
+            <tt:p begin="00:16:53.613" end="00:16:56.683">LANA: You know how the whole<tt:br/>&quot;the good news is&quot; thing works,</tt:p>
+            <tt:p begin="00:16:56.716" end="00:16:57.584">right?</tt:p>
+            <tt:p begin="00:16:57.617" end="00:16:58.551">COMMANDER: The bad news is -<tt:br/>PAM: Oh right.</tt:p>
+            <tt:p begin="00:16:58.585" end="00:17:01.588">COMMANDER: -- the men you<tt:br/>killed were Camorra.</tt:p>
+            <tt:p begin="00:17:01.621" end="00:17:03.223">PAM: What're they, like the<tt:br/>mafia?</tt:p>
+            <tt:p begin="00:17:03.256" end="00:17:06.159">COMMANDER: (chuckle) The<tt:br/>Camorra is like your mafia</tt:p>
+            <tt:p begin="00:17:06.193" end="00:17:07.094">like...</tt:p>
+            <tt:p begin="00:17:07.127" end="00:17:09.096">LANA: Seal Team Six is like<tt:br/>the Girl Scouts.</tt:p>
+            <tt:p begin="00:17:09.129" end="00:17:10.830">COMMANDER: Exactly.</tt:p>
+            <tt:p begin="00:17:10.863" end="00:17:13.200">PAM: So... equally sexy?</tt:p>
+            <tt:p begin="00:17:13.233" end="00:17:13.533">LANA: Eww!</tt:p>
+            <tt:p begin="00:17:13.566" end="00:17:14.033">PAM: Oww!</tt:p>
+            <tt:p begin="00:17:14.067" end="00:17:15.102">ARCHER (O.S.): Oww!</tt:p>
+            <tt:p begin="00:17:15.135" end="00:17:19.239">ARCHER: But the real good<tt:br/>news, ow! Dick! Is that we</tt:p>
+            <tt:p begin="00:17:19.272" end="00:17:20.740">saved the pope's life.</tt:p>
+            <tt:p begin="00:17:20.773" end="00:17:23.376">COMMANDER: For which we are<tt:br/>grateful. However...</tt:p>
+            <tt:p begin="00:17:23.410" end="00:17:26.179">We cannot tell<tt:br/>these two apart, so...</tt:p>
+            <tt:p begin="00:17:26.213" end="00:17:29.249">ARCHER: So I actually have an<tt:br/>idea about that.</tt:p>
+            <tt:p begin="00:17:29.282" end="00:17:31.218">LANA: Is it take them both<tt:br/>home, see which one's a better</tt:p>
+            <tt:p begin="00:17:31.251" end="00:17:34.121">butler, and give the other one<tt:br/>back to the Catholic Church?</tt:p>
+            <tt:p begin="00:17:34.154" end="00:17:35.322">ARCHER: Never mind.</tt:p>
+            <tt:p begin="00:17:35.355" end="00:17:37.357">LANA: Then why don't we leave<tt:br/>them both here until they come</tt:p>
+            <tt:p begin="00:17:37.390" end="00:17:40.693">to. I'm sure Woodhouse never<tt:br/>gets a vacation.</tt:p>
+            <tt:p begin="00:17:40.727" end="00:17:43.163">ARCHER: Are you kidding? I<tt:br/>didn't even let him go to his</tt:p>
+            <tt:p begin="00:17:43.196" end="00:17:44.164">brother's funeral.</tt:p>
+            <tt:p begin="00:17:44.197" end="00:17:44.797">PAM: What?!</tt:p>
+            <tt:p begin="00:17:44.831" end="00:17:47.200">LANA: Oh my -- you asshole!</tt:p>
+            <tt:p begin="00:17:47.234" end="00:17:48.268">Was he crushed?!</tt:p>
+            <tt:p begin="00:17:48.301" end="00:17:49.269">ARCHER: Probably woulda been.</tt:p>
+            <tt:p begin="00:17:49.302" end="00:17:50.770">If I'd told him about it.</tt:p>
+            <tt:p begin="00:17:50.803" end="00:17:54.207">LANA: Ugh. But wait, why did<tt:br/>Corelli hire ISIS to prevent</tt:p>
+            <tt:p begin="00:17:54.241" end="00:17:55.742">the assassination?</tt:p>
+            <tt:p begin="00:17:55.775" end="00:17:58.245">COMMANDER: To show the<tt:br/>cardinals he was trying to</tt:p>
+            <tt:p begin="00:17:58.278" end="00:18:01.481">prevent it, all the while<tt:br/>assuming -</tt:p>
+            <tt:p begin="00:18:01.514" end="00:18:04.451">LANA: What, that we'd totally<tt:br/>bl-ow my God he assumed we'd</tt:p>
+            <tt:p begin="00:18:04.484" end="00:18:05.485">totally blow it?!</tt:p>
+            <tt:p begin="00:18:05.518" end="00:18:09.556">COMMANDER: Well... ISIS has a<tt:br/>certain reputation.</tt:p>
+            <tt:p begin="00:18:09.589" end="00:18:12.125">ARCHER: Hey, whoa! Not cool,<tt:br/>Payne Stewart!</tt:p>
+            <tt:p begin="00:18:12.159" end="00:18:14.494">LANA: Oh, my God, if Malory ever<tt:br/>hears about this -</tt:p>
+            <tt:p begin="00:18:14.527" end="00:18:15.762">ARCHER: Which she won't!</tt:p>
+            <tt:p begin="00:18:15.795" end="00:18:17.264">Because Pam?!</tt:p>
+            <tt:p begin="00:18:17.297" end="00:18:18.131">PAM: What?</tt:p>
+            <tt:p begin="00:18:18.165" end="00:18:18.898">ARCHER: Promise you'll never<tt:br/>tell Mother!</tt:p>
+            <tt:p begin="00:18:18.931" end="00:18:25.305">PAM: Okay, I promise! Swear to<tt:br/>God!</tt:p>
+            <tt:p begin="00:18:25.338" end="00:18:25.972">MALORY (O.S.): What?!</tt:p>
+            <tt:p begin="00:18:26.005" end="00:18:27.274">ARCHER/LANA (O.S.): Pam! Pam!</tt:p>
+            <tt:p begin="00:18:27.307" end="00:18:30.143">PAM (O.S.): Haaaaa!?</tt:p>
+            <tt:p begin="00:18:31.311" end="00:18:42.155">[theme music]</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

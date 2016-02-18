@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:wrapOption="wrap" tts:textOutline="#000000 2px" tts:textAlign="center" tts:overflow="visible" tts:origin="10% 80%" tts:opacity="1.00" tts:fontSize="80%" tts:extent="80% 15%" tts:displayAlign="before" tts:color="#FFCC00" tts:backgroundColor="transparent"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region style="AmazonDefaultStyle" xml:id="AmazonDefaultRegion"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:02.203" end="00:00:04.905">Splendid. We'll work out<tt:br/>the details when--</tt:p>
+            <tt:p begin="00:00:04.937" end="00:00:06.306">Hmm?</tt:p>
+            <tt:p begin="00:00:06.340" end="00:00:08.541">Yes, it sounds amazing,<tt:br/>it really does,</tt:p>
+            <tt:p begin="00:00:08.576" end="00:00:13.546">but we'll talk about it<tt:br/>when you get here, hm?</tt:p>
+            <tt:p begin="00:00:13.581" end="00:00:15.249">Mm-hm.</tt:p>
+            <tt:p begin="00:00:15.282" end="00:00:17.017">Something on your mind, dear?</tt:p>
+            <tt:p begin="00:00:17.051" end="00:00:19.253">Not anymore.<tt:br/>What in the--?</tt:p>
+            <tt:p begin="00:00:19.286" end="00:00:23.191">A microchip? Russian markings?<tt:br/>What on earth is this?</tt:p>
+            <tt:p begin="00:00:23.223" end="00:00:24.592">Well,<tt:br/>Krieger thinks it's</tt:p>
+            <tt:p begin="00:00:24.625" end="00:00:26.726">some satellite-linked<tt:br/>mind-control device.</tt:p>
+            <tt:p begin="00:00:26.760" end="00:00:28.629">Mind control?<tt:br/>Why does he think that?</tt:p>
+            <tt:p begin="00:00:28.661" end="00:00:30.698">Because he removed it<tt:br/>from my brain.<tt:br/>What?</tt:p>
+            <tt:p begin="00:00:30.730" end="00:00:32.499">I told Krieger<tt:br/>about my headaches.</tt:p>
+            <tt:p begin="00:00:32.533" end="00:00:34.267">He gives me a CAT scan,<tt:br/>then boom.</tt:p>
+            <tt:p begin="00:00:34.302" end="00:00:35.803">Next thing I know,</tt:p>
+            <tt:p begin="00:00:35.835" end="00:00:38.271">he shoots me full of some kind<tt:br/>of fish paralyzer.</tt:p>
+            <tt:p begin="00:00:38.306" end="00:00:39.740">That crazy--<tt:br/>Yeah.</tt:p>
+            <tt:p begin="00:00:39.772" end="00:00:42.409">Then it was drill, baby, drill.<tt:br/>Oh, my God.</tt:p>
+            <tt:p begin="00:00:42.442" end="00:00:43.943">Yeah.<tt:br/>How do you feel?</tt:p>
+            <tt:p begin="00:00:43.976" end="00:00:46.580">Little pissed off, actually.<tt:br/>That's understandable.</tt:p>
+            <tt:p begin="00:00:46.614" end="00:00:49.083">It was obviously put in<tt:br/>my brain in the first place</tt:p>
+            <tt:p begin="00:00:49.117" end="00:00:52.086">by your boyfriend,<tt:br/>Nikolai Jakov of the KGB.</tt:p>
+            <tt:p begin="00:00:52.120" end="00:00:54.722">Sterling, first of all,<tt:br/>we're not even together anymore.</tt:p>
+            <tt:p begin="00:00:54.755" end="00:00:56.889">Uh-huh. Yeah, I bet.<tt:br/>And second of all,</tt:p>
+            <tt:p begin="00:00:56.923" end="00:01:00.060">why would he put a mind-control<tt:br/>chip into your brain?</tt:p>
+            <tt:p begin="00:01:00.060" end="00:01:01.529">Because he thinks<tt:br/>he's my father.</tt:p>
+            <tt:p begin="00:01:01.562" end="00:01:03.297">And what,<tt:br/>you think he wanted</tt:p>
+            <tt:p begin="00:01:03.330" end="00:01:05.566">to mind-control you<tt:br/>into loving him?</tt:p>
+            <tt:p begin="00:01:05.599" end="00:01:07.667">You tell me, Mother,<tt:br/>that's your specialty.</tt:p>
+            <tt:p begin="00:01:07.701" end="00:01:09.137">My-- Get out.</tt:p>
+            <tt:p begin="00:01:09.169" end="00:01:11.338">No. No.<tt:br/>Yes. Yes.</tt:p>
+            <tt:p begin="00:01:11.372" end="00:01:13.407">Mother, you've been lying to me<tt:br/>my entire life.</tt:p>
+            <tt:p begin="00:01:13.441" end="00:01:15.708">Just for once,<tt:br/>I want you to tell me the truth.</tt:p>
+            <tt:p begin="00:01:15.742" end="00:01:17.977">Well, people in hell<tt:br/>want ice water.</tt:p>
+            <tt:p begin="00:01:18.010" end="00:01:19.412">What?<tt:br/>Now, if you'll excuse me,</tt:p>
+            <tt:p begin="00:01:19.447" end="00:01:22.116">I'm right in the middle<tt:br/>of a fairly huge deal.</tt:p>
+            <tt:p begin="00:01:22.150" end="00:01:24.185">[LOCK BEEPING AND WHIRRING]</tt:p>
+            <tt:p begin="00:01:27.388" end="00:01:30.090">Buying a lock factory?<tt:br/>For your information, I'm--</tt:p>
+            <tt:p begin="00:01:30.124" end="00:01:33.361">No, never mind. You'll find out<tt:br/>soon enough as it is.</tt:p>
+            <tt:p begin="00:01:33.393" end="00:01:35.296">That's classic you, Mother.</tt:p>
+            <tt:p begin="00:01:35.328" end="00:01:37.530">Avoid the truth, bury the<tt:br/>secrets, hide the--</tt:p>
+            <tt:p begin="00:01:37.564" end="00:01:39.932">Oh, for the--<tt:br/>I'm selling ISIS.</tt:p>
+            <tt:p begin="00:01:39.966" end="00:01:41.169">You what?<tt:br/>There.</tt:p>
+            <tt:p begin="00:01:41.202" end="00:01:42.603">Happy?</tt:p>
+            <tt:p begin="00:01:43.970" end="00:01:45.037">No.</tt:p>
+            <tt:p begin="00:01:45.071" end="00:01:48.176">[***]</tt:p>
+            <tt:p begin="00:02:20.007" end="00:02:22.210">Mother,<tt:br/>tell me this is a joke.</tt:p>
+            <tt:p begin="00:02:22.243" end="00:02:24.645">The only joke<tt:br/>is my bank statement.</tt:p>
+            <tt:p begin="00:02:24.678" end="00:02:26.045">What?</tt:p>
+            <tt:p begin="00:02:26.078" end="00:02:27.614">Everything I had<tt:br/>was in a hedge fund.</tt:p>
+            <tt:p begin="00:02:27.648" end="00:02:29.450">But it turns out<tt:br/>the whole thing</tt:p>
+            <tt:p begin="00:02:29.482" end="00:02:32.152">was nothing<tt:br/>but a damn Ponzi scheme.</tt:p>
+            <tt:p begin="00:02:32.186" end="00:02:34.222">I lost all my money,<tt:br/>I'm ruined.</tt:p>
+            <tt:p begin="00:02:34.255" end="00:02:35.622">[CHUCKLES]</tt:p>
+            <tt:p begin="00:02:35.656" end="00:02:37.191">ARCHER:<tt:br/>So you're selling ISIS?</tt:p>
+            <tt:p begin="00:02:37.225" end="00:02:39.260">[GASPS]</tt:p>
+            <tt:p begin="00:02:39.293" end="00:02:41.429">She what?<tt:br/>Oh, man.</tt:p>
+            <tt:p begin="00:02:41.461" end="00:02:43.530">That's totally not irie.</tt:p>
+            <tt:p begin="00:02:43.563" end="00:02:45.465">Then why don't you<tt:br/>go back to Jamaica?</tt:p>
+            <tt:p begin="00:02:45.498" end="00:02:47.567">A, because I got deported,<tt:br/>and B--</tt:p>
+            <tt:p begin="00:02:47.600" end="00:02:49.569">So she can actually sell ISIS?</tt:p>
+            <tt:p begin="00:02:49.602" end="00:02:51.070">Doesn't the government<tt:br/>own it?</tt:p>
+            <tt:p begin="00:02:51.103" end="00:02:52.706">I've never been clear<tt:br/>on that.</tt:p>
+            <tt:p begin="00:02:52.740" end="00:02:55.776">It's way too complicated to<tt:br/>explain, especially to you two.</tt:p>
+            <tt:p begin="00:02:55.809" end="00:02:58.746">But short answer,<tt:br/>yes, she can sell ISIS.</tt:p>
+            <tt:p begin="00:02:58.779" end="00:03:01.349">The question is,<tt:br/>who would buy it?</tt:p>
+            <tt:p begin="00:03:01.381" end="00:03:04.851">ARCHER: ODIN?<tt:br/>Or whom.</tt:p>
+            <tt:p begin="00:03:04.885" end="00:03:08.256">Yes, ODIN.<tt:br/>Why would ODIN wanna buy--?</tt:p>
+            <tt:p begin="00:03:08.288" end="00:03:10.357">Oh, my God, is Len Trexler<tt:br/>behind this?</tt:p>
+            <tt:p begin="00:03:10.390" end="00:03:12.359">He made me<tt:br/>a very attractive offer.</tt:p>
+            <tt:p begin="00:03:12.392" end="00:03:13.793">Yeah, I bet.</tt:p>
+            <tt:p begin="00:03:13.826" end="00:03:16.797">That's because he wants to--<tt:br/>Bleh! That with you. Ugh!</tt:p>
+            <tt:p begin="00:03:16.829" end="00:03:18.732">But wait a minute,<tt:br/>does he know you're--?</tt:p>
+            <tt:p begin="00:03:18.766" end="00:03:19.632">TREXLER:<tt:br/>Gorgeous.</tt:p>
+            <tt:p begin="00:03:19.666" end="00:03:21.201">MALORY:<tt:br/>Hello, Leonard.</tt:p>
+            <tt:p begin="00:03:21.235" end="00:03:24.036">Hello, beautiful.<tt:br/>Hey, kiddo.</tt:p>
+            <tt:p begin="00:03:24.071" end="00:03:25.273">Hey back and if you don't mind,</tt:p>
+            <tt:p begin="00:03:25.306" end="00:03:26.639">we're in the middle<tt:br/>of something.</tt:p>
+            <tt:p begin="00:03:26.673" end="00:03:29.076">Actually, if you don't mind?<tt:br/>What?</tt:p>
+            <tt:p begin="00:03:29.108" end="00:03:30.778">Len and I have a lot<tt:br/>to talk about.</tt:p>
+            <tt:p begin="00:03:30.811" end="00:03:32.913">Like selling ISIS<tt:br/>out from under us?</tt:p>
+            <tt:p begin="00:03:32.945" end="00:03:35.081">That and the around-the-world<tt:br/>luxury cruise</tt:p>
+            <tt:p begin="00:03:35.114" end="00:03:36.549">I'm taking with your mom.</tt:p>
+            <tt:p begin="00:03:36.583" end="00:03:38.252">The what?<tt:br/>Hopefully,</tt:p>
+            <tt:p begin="00:03:38.286" end="00:03:40.687">in the honeymoon suite.<tt:br/>The what?</tt:p>
+            <tt:p begin="00:03:40.721" end="00:03:44.325">And then the unemployment office<tt:br/>after ODIN lays us all off.</tt:p>
+            <tt:p begin="00:03:44.358" end="00:03:46.360">Ugh!<tt:br/>That totally stinks.</tt:p>
+            <tt:p begin="00:03:46.394" end="00:03:48.060">Eh. You were on borrowed<tt:br/>time anyway.</tt:p>
+            <tt:p begin="00:03:48.094" end="00:03:49.397">No, that.</tt:p>
+            <tt:p begin="00:03:49.430" end="00:03:52.164">What are you eating?<tt:br/>Ackee and saltfish.</tt:p>
+            <tt:p begin="00:03:52.198" end="00:03:54.001">Yeah, thanks,<tt:br/>this is only mohair.</tt:p>
+            <tt:p begin="00:03:54.033" end="00:03:55.336">Irie.</tt:p>
+            <tt:p begin="00:03:55.369" end="00:03:58.137">So you really think ODIN's<tt:br/>gonna get rid of everybody?</tt:p>
+            <tt:p begin="00:03:58.170" end="00:04:00.172">BARRY:<tt:br/>No, no, not everybody.</tt:p>
+            <tt:p begin="00:04:00.206" end="00:04:01.542">In fact,<tt:br/>ODIN plans to promote</tt:p>
+            <tt:p begin="00:04:01.574" end="00:04:04.445">a very select few<tt:br/>ISIS personnel</tt:p>
+            <tt:p begin="00:04:04.477" end="00:04:06.380">to fill some of<tt:br/>the impending vacancies.</tt:p>
+            <tt:p begin="00:04:06.413" end="00:04:08.214">Vacancies like...?</tt:p>
+            <tt:p begin="00:04:08.248" end="00:04:10.117">Malory Archer's chair.<tt:br/>Really?</tt:p>
+            <tt:p begin="00:04:10.150" end="00:04:11.451">Well, figuratively.<tt:br/>I mean,</tt:p>
+            <tt:p begin="00:04:11.485" end="00:04:14.020">I don't know<tt:br/>about the actual chair itself.</tt:p>
+            <tt:p begin="00:04:14.054" end="00:04:16.689">It's a piece of furniture.<tt:br/>So I'd be, like, the what?</tt:p>
+            <tt:p begin="00:04:16.723" end="00:04:18.891">How's Regional Director<tt:br/>for the Americas sound?</tt:p>
+            <tt:p begin="00:04:18.926" end="00:04:19.892">The--?<tt:br/>Yeah.</tt:p>
+            <tt:p begin="00:04:19.927" end="00:04:21.594">That's what we're talking about.</tt:p>
+            <tt:p begin="00:04:21.629" end="00:04:24.064">Barry, that's my dream job.<tt:br/>Yours for the taking.</tt:p>
+            <tt:p begin="00:04:24.096" end="00:04:26.165">If you are similarly mine...</tt:p>
+            <tt:p begin="00:04:26.198" end="00:04:27.368">What?<tt:br/>...for the taking?</tt:p>
+            <tt:p begin="00:04:27.400" end="00:04:28.936">&quot;Taking&quot; as in<tt:br/>to get this job,</tt:p>
+            <tt:p begin="00:04:28.968" end="00:04:30.470">I'd have to have sex<tt:br/>with you?</tt:p>
+            <tt:p begin="00:04:30.504" end="00:04:33.541">Hey, hey,<tt:br/>those are your words.</tt:p>
+            <tt:p begin="00:04:33.573" end="00:04:35.943">So--<tt:br/>And also mine, yes.</tt:p>
+            <tt:p begin="00:04:35.976" end="00:04:38.177">CHERYL: Oh, come on.<tt:br/>ARCHER: Okay, okay.</tt:p>
+            <tt:p begin="00:04:38.210" end="00:04:39.679">Hey, hey!</tt:p>
+            <tt:p begin="00:04:39.712" end="00:04:42.416">You idiots wanna hear<tt:br/>my plan or not?</tt:p>
+            <tt:p begin="00:04:42.450" end="00:04:45.618">All right,<tt:br/>so, suggestions.</tt:p>
+            <tt:p begin="00:04:45.652" end="00:04:47.587">About what?<tt:br/>What are we talking about?</tt:p>
+            <tt:p begin="00:04:47.620" end="00:04:50.358">Stopping my mother<tt:br/>from selling ISIS to ODIN.</tt:p>
+            <tt:p begin="00:04:50.391" end="00:04:51.658">You said you had a plan.</tt:p>
+            <tt:p begin="00:04:51.691" end="00:04:54.462">My plan is to crowd source<tt:br/>a plan.</tt:p>
+            <tt:p begin="00:04:54.495" end="00:04:57.530">CYRIL: I could've done that.<tt:br/>CHERYL: Thanks, Noam Chomsky.</tt:p>
+            <tt:p begin="00:04:57.565" end="00:04:59.532">[MALORY WHISTLES AND ALL GROAN]</tt:p>
+            <tt:p begin="00:04:59.567" end="00:05:00.300">CHERYL:<tt:br/>My ear balls.</tt:p>
+            <tt:p begin="00:05:00.300" end="00:05:03.069">Don't you people<tt:br/>have work to do?</tt:p>
+            <tt:p begin="00:05:03.102" end="00:05:04.404">Not for long, huh?</tt:p>
+            <tt:p begin="00:05:04.438" end="00:05:06.173">Hey, gang, I can't wait</tt:p>
+            <tt:p begin="00:05:06.206" end="00:05:09.042">to welcome each and every one<tt:br/>of you into the ODIN family.</tt:p>
+            <tt:p begin="00:05:09.075" end="00:05:10.778">And speaking of, kiddo,</tt:p>
+            <tt:p begin="00:05:10.811" end="00:05:14.347">I hope you're gonna welcome me<tt:br/>into your family.</tt:p>
+            <tt:p begin="00:05:14.382" end="00:05:15.783">My fam--</tt:p>
+            <tt:p begin="00:05:15.816" end="00:05:17.117">[VOMITS]</tt:p>
+            <tt:p begin="00:05:17.149" end="00:05:19.620">CYRIL: That's disgusting.<tt:br/>Who are you, my cat?</tt:p>
+            <tt:p begin="00:05:19.652" end="00:05:22.254">You people better not track that<tt:br/>onto the carpet.</tt:p>
+            <tt:p begin="00:05:22.288" end="00:05:23.924">It's filthy enough<tt:br/>as it is.</tt:p>
+            <tt:p begin="00:05:23.956" end="00:05:25.024">Come on, Len.</tt:p>
+            <tt:p begin="00:05:25.058" end="00:05:27.194">I'll follow you anywhere,<tt:br/>my sweet.</tt:p>
+            <tt:p begin="00:05:27.226" end="00:05:29.228">Holy shit snacks.</tt:p>
+            <tt:p begin="00:05:29.261" end="00:05:32.231">Is Trexler buying ISIS just to<tt:br/>get your mother to marry him?</tt:p>
+            <tt:p begin="00:05:32.264" end="00:05:33.534">No. Yes.</tt:p>
+            <tt:p begin="00:05:33.566" end="00:05:34.902">Look, shut up and--</tt:p>
+            <tt:p begin="00:05:34.935" end="00:05:36.604">That is some<tt:br/>high-priced MILF.</tt:p>
+            <tt:p begin="00:05:36.636" end="00:05:38.872">Hey, shut up<tt:br/>and think of a way</tt:p>
+            <tt:p begin="00:05:38.906" end="00:05:40.541">to make Trexler<tt:br/>not want my mother.</tt:p>
+            <tt:p begin="00:05:40.573" end="00:05:42.274">We could give her<tt:br/>a MILFectomy.</tt:p>
+            <tt:p begin="00:05:42.308" end="00:05:43.877">If you say &quot;MILF&quot;<tt:br/>one more time,</tt:p>
+            <tt:p begin="00:05:43.911" end="00:05:45.778">I will shoot you<tt:br/>in your eyeballs.</tt:p>
+            <tt:p begin="00:05:45.812" end="00:05:49.883">She does have a point, though.<tt:br/>Not the M-I-L-F part.</tt:p>
+            <tt:p begin="00:05:49.917" end="00:05:53.120">But if we could make Trexler<tt:br/>fall out of love...</tt:p>
+            <tt:p begin="00:05:53.152" end="00:05:55.588">How? Trust me, you can't<tt:br/>control a person's heart.</tt:p>
+            <tt:p begin="00:05:55.623" end="00:05:57.590">You can with a little thing<tt:br/>I like to call</tt:p>
+            <tt:p begin="00:05:57.625" end="00:06:00.127">a deep-cycle marine battery.</tt:p>
+            <tt:p begin="00:06:00.159" end="00:06:01.795">Or LSD.</tt:p>
+            <tt:p begin="00:06:01.829" end="00:06:04.898">Is that what<tt:br/>you've been giving me?</tt:p>
+            <tt:p begin="00:06:04.932" end="00:06:07.367">Yes?<tt:br/>Well, that explained a lot.</tt:p>
+            <tt:p begin="00:06:07.401" end="00:06:09.269">I thought they were<tt:br/>breath strips.</tt:p>
+            <tt:p begin="00:06:09.301" end="00:06:10.838">Anyway, whatever,<tt:br/>emotions like love</tt:p>
+            <tt:p begin="00:06:10.871" end="00:06:12.505">don't actually<tt:br/>come from the heart.</tt:p>
+            <tt:p begin="00:06:12.539" end="00:06:13.906">They come from--<tt:br/>The brain.</tt:p>
+            <tt:p begin="00:06:13.941" end="00:06:15.108">KRIEGER:<tt:br/>Yeah.</tt:p>
+            <tt:p begin="00:06:16.877" end="00:06:18.010">Or LSD.</tt:p>
+            <tt:p begin="00:06:18.045" end="00:06:20.212">[DRILL WHIRRING]</tt:p>
+            <tt:p begin="00:06:20.247" end="00:06:22.115">[***]</tt:p>
+            <tt:p begin="00:06:24.552" end="00:06:26.352">Oh. Come on.</tt:p>
+            <tt:p begin="00:06:26.386" end="00:06:28.456">[BEEPING]</tt:p>
+            <tt:p begin="00:06:29.690" end="00:06:31.925">Where is the trust?</tt:p>
+            <tt:p begin="00:06:35.395" end="00:06:36.829">ARCHER:<tt:br/>What could be so secret</tt:p>
+            <tt:p begin="00:06:36.863" end="00:06:39.231">she wired it up<tt:br/>with 12 pounds of C4?</tt:p>
+            <tt:p begin="00:06:39.265" end="00:06:42.570">Ugh. I don't think<tt:br/>I even wanna know.</tt:p>
+            <tt:p begin="00:06:42.603" end="00:06:44.637">[LINE RINGS]</tt:p>
+            <tt:p begin="00:06:44.672" end="00:06:46.739">GILLETTE: What? <tt:br/>Heh. Nice.</tt:p>
+            <tt:p begin="00:06:46.773" end="00:06:48.374">Here, take a look at this.</tt:p>
+            <tt:p begin="00:06:48.408" end="00:06:50.010">All right,<tt:br/>which one of these wires--</tt:p>
+            <tt:p begin="00:06:50.043" end="00:06:51.612"> Blue and yellow. <tt:br/>The blue--</tt:p>
+            <tt:p begin="00:06:51.644" end="00:06:53.547">Look at it for more<tt:br/>than half a second.</tt:p>
+            <tt:p begin="00:06:53.581" end="00:06:55.782"> I wired the damn thing, ass. </tt:p>
+            <tt:p begin="00:06:55.815" end="00:06:59.251">Well,<tt:br/>I didn't know that, ass.</tt:p>
+            <tt:p begin="00:06:59.285" end="00:07:00.420">Okay.<tt:br/> Oh, my God. </tt:p>
+            <tt:p begin="00:07:00.420" end="00:07:02.855">What?<tt:br/> I lied, I didn't wire it. </tt:p>
+            <tt:p begin="00:07:02.890" end="00:07:05.693">What? You think that's funny?<tt:br/>[SINGSONG] Ba-dum-dum-zing! </tt:p>
+            <tt:p begin="00:07:05.725" end="00:07:06.960">[DRAWER RATTLING]</tt:p>
+            <tt:p begin="00:07:06.994" end="00:07:08.561">What?<tt:br/> Not compared to that. </tt:p>
+            <tt:p begin="00:07:08.595" end="00:07:10.062">What is that? No.<tt:br/> Oh, yeah. </tt:p>
+            <tt:p begin="00:07:10.096" end="00:07:11.932"> Yeah. Not a bumblebee, is it? <tt:br/>No.</tt:p>
+            <tt:p begin="00:07:11.964" end="00:07:13.667">No, no, no. Ray, what do I do?</tt:p>
+            <tt:p begin="00:07:13.700" end="00:07:15.134"> Well, if you don't <tt:br/> shut it off-- </tt:p>
+            <tt:p begin="00:07:15.168" end="00:07:16.836">She'll know somebody<tt:br/>was in here.</tt:p>
+            <tt:p begin="00:07:16.869" end="00:07:18.771"> So you could wait for <tt:br/> the batteries to die. </tt:p>
+            <tt:p begin="00:07:18.806" end="00:07:20.339">Okay, yeah, that's--</tt:p>
+            <tt:p begin="00:07:20.372" end="00:07:22.976"> Sounds like there's about four <tt:br/> big-ass D cells in there. </tt:p>
+            <tt:p begin="00:07:23.010" end="00:07:24.978">Oh, my God.<tt:br/> Like a jackhammer. </tt:p>
+            <tt:p begin="00:07:25.012" end="00:07:26.713">Yeah, it's pretty big.<tt:br/> Is it black? </tt:p>
+            <tt:p begin="00:07:26.747" end="00:07:28.749">What? No.<tt:br/> Slightly darker black? </tt:p>
+            <tt:p begin="00:07:28.781" end="00:07:31.383">No, it's not any kind of black.<tt:br/> Racist. </tt:p>
+            <tt:p begin="00:07:31.417" end="00:07:33.920">Shut up, it's more of a...</tt:p>
+            <tt:p begin="00:07:33.954" end="00:07:34.988">Aubergine,</tt:p>
+            <tt:p begin="00:07:35.022" end="00:07:36.188">I guess you call that.<tt:br/> Oh. </tt:p>
+            <tt:p begin="00:07:36.223" end="00:07:37.857"> Still pretty hot. <tt:br/>Will you shut up?</tt:p>
+            <tt:p begin="00:07:37.890" end="00:07:39.527"> Take a picture. <tt:br/>Shut up.</tt:p>
+            <tt:p begin="00:07:39.560" end="00:07:42.496">All right, I'm going in. Man,<tt:br/>I can't believe I'm doing this.</tt:p>
+            <tt:p begin="00:07:42.530" end="00:07:44.931"> Try to think about <tt:br/> something else. </tt:p>
+            <tt:p begin="00:07:44.965" end="00:07:46.567"> Like how there's no sink <tt:br/> in there. </tt:p>
+            <tt:p begin="00:07:46.600" end="00:07:47.834">So, what if there's no--</tt:p>
+            <tt:p begin="00:07:47.867" end="00:07:49.637">Oh, my God.<tt:br/> Yeah. </tt:p>
+            <tt:p begin="00:07:49.670" end="00:07:52.573">There's no sink! Ahh!</tt:p>
+            <tt:p begin="00:07:52.606" end="00:07:54.340">[RATTLING STOPS]</tt:p>
+            <tt:p begin="00:07:54.373" end="00:07:55.942">Ah. There's not enough liquor</tt:p>
+            <tt:p begin="00:07:55.976" end="00:07:57.777">and therapy in the world<tt:br/>to undo that.</tt:p>
+            <tt:p begin="00:07:57.810" end="00:07:59.179">Oh,<tt:br/>I touched my mother's dildo.</tt:p>
+            <tt:p begin="00:07:59.211" end="00:08:00.480">GILLETTE:<tt:br/>You should've borrowed these.</tt:p>
+            <tt:p begin="00:08:00.480" end="00:08:04.150">They're, like,<tt:br/>super heavy duty. Gah!</tt:p>
+            <tt:p begin="00:08:04.184" end="00:08:05.585">Hey, what are you doing?</tt:p>
+            <tt:p begin="00:08:05.619" end="00:08:07.521">What are you doing,<tt:br/>making robot birds?</tt:p>
+            <tt:p begin="00:08:07.555" end="00:08:08.956">Lana,<tt:br/>we're in crisis mode.</tt:p>
+            <tt:p begin="00:08:08.989" end="00:08:10.623">Mother's trying to sell us<tt:br/>to ODIN.</tt:p>
+            <tt:p begin="00:08:10.657" end="00:08:13.961">I know. So how about don't break<tt:br/>anymore stuff in my new office?</tt:p>
+            <tt:p begin="00:08:13.994" end="00:08:17.230">Your new-- Oh, my God,<tt:br/>ODIN's making you the new boss?</tt:p>
+            <tt:p begin="00:08:17.263" end="00:08:20.300">Yup. I mean, I kind of maybe<tt:br/>have to sleep with Barry, but--</tt:p>
+            <tt:p begin="00:08:20.332" end="00:08:22.670">Lana, how can you do that?<tt:br/>Um, by getting drunk.</tt:p>
+            <tt:p begin="00:08:22.702" end="00:08:25.337">Same thing your mother's doing.<tt:br/>Hey.</tt:p>
+            <tt:p begin="00:08:25.372" end="00:08:26.540">I know it's killing you</tt:p>
+            <tt:p begin="00:08:26.574" end="00:08:28.075">that she's leaving you<tt:br/>for another man.</tt:p>
+            <tt:p begin="00:08:28.108" end="00:08:30.177">Phrasing.<tt:br/>But you better not mess this up.</tt:p>
+            <tt:p begin="00:08:30.209" end="00:08:33.180">Speaking of mess,<tt:br/>your birdbot is leaking.</tt:p>
+            <tt:p begin="00:08:33.213" end="00:08:34.582">My what? Oh, shit.</tt:p>
+            <tt:p begin="00:08:34.615" end="00:08:36.448">ARCHER:<tt:br/>Probably hydraulic fluid.</tt:p>
+            <tt:p begin="00:08:36.482" end="00:08:38.450">It's sweet-and-sour, dumbass.</tt:p>
+            <tt:p begin="00:08:38.484" end="00:08:41.221">Yeah, who's the dumbass now,<tt:br/>Lana?</tt:p>
+            <tt:p begin="00:08:41.253" end="00:08:43.624">Or whom.<tt:br/>Oh, Barry,</tt:p>
+            <tt:p begin="00:08:43.657" end="00:08:45.025">how's your shattered femur?</tt:p>
+            <tt:p begin="00:08:45.058" end="00:08:46.993">How's your...</tt:p>
+            <tt:p begin="00:08:47.027" end="00:08:49.697">creepily childlike feeling<tt:br/>of maternal abandonment?</tt:p>
+            <tt:p begin="00:08:49.730" end="00:08:51.632">The sale isn't final yet,<tt:br/>Barry.</tt:p>
+            <tt:p begin="00:08:51.665" end="00:08:52.932">No, but it will be.</tt:p>
+            <tt:p begin="00:08:52.965" end="00:08:54.635">And we are here<tt:br/>to make sure of it.</tt:p>
+            <tt:p begin="00:08:56.536" end="00:08:58.138">So don't try to do<tt:br/>anything stupid.</tt:p>
+            <tt:p begin="00:08:58.171" end="00:09:00.540">I don't have to try.</tt:p>
+            <tt:p begin="00:09:01.842" end="00:09:04.812">Shit. Whatever, move.</tt:p>
+            <tt:p begin="00:09:04.844" end="00:09:07.047">Barry,<tt:br/>is that how you get ants?</tt:p>
+            <tt:p begin="00:09:07.080" end="00:09:10.283">Yes, it is, Other Barry,<tt:br/>yes, it is.</tt:p>
+            <tt:p begin="00:09:17.690" end="00:09:20.794">Okay, the satellite link<tt:br/>is online, so let's play God.</tt:p>
+            <tt:p begin="00:09:22.863" end="00:09:24.964">Freaky.<tt:br/>I'll tell you what's freaky</tt:p>
+            <tt:p begin="00:09:24.997" end="00:09:26.699">is guess what<tt:br/>I named that bunny.</tt:p>
+            <tt:p begin="00:09:26.734" end="00:09:28.334">Rabbert Klein?</tt:p>
+            <tt:p begin="00:09:29.603" end="00:09:31.503">Wow, that's actually better.</tt:p>
+            <tt:p begin="00:09:31.537" end="00:09:32.972">Yeah, it's all yours.<tt:br/>Thank you.</tt:p>
+            <tt:p begin="00:09:33.005" end="00:09:34.675">So can you put it<tt:br/>in a person's brain?</tt:p>
+            <tt:p begin="00:09:37.277" end="00:09:38.477">He'd suffocate.</tt:p>
+            <tt:p begin="00:09:38.510" end="00:09:40.147">Not the rabbit, idiot,<tt:br/>the chip.</tt:p>
+            <tt:p begin="00:09:40.180" end="00:09:43.250">Oh, yes, absolutely.<tt:br/>Without killing the person?</tt:p>
+            <tt:p begin="00:09:43.283" end="00:09:46.654">Oh, maybe.</tt:p>
+            <tt:p begin="00:09:46.687" end="00:09:48.020">[TREXLER GROANS]</tt:p>
+            <tt:p begin="00:09:48.054" end="00:09:49.989">Yeah,<tt:br/>doesn't that feel good?</tt:p>
+            <tt:p begin="00:09:50.022" end="00:09:52.058">Feels better<tt:br/>than this offer.</tt:p>
+            <tt:p begin="00:09:52.092" end="00:09:54.493">Len, I need at least<tt:br/>20 percent down.</tt:p>
+            <tt:p begin="00:09:54.526" end="00:09:57.029">Oh, come on, it's not like<tt:br/>you need the money.</tt:p>
+            <tt:p begin="00:09:57.063" end="00:10:00.032">You're already loaded.<tt:br/>What if I weren't?</tt:p>
+            <tt:p begin="00:10:00.066" end="00:10:02.368">Then you would know<tt:br/>I loved you for you.</tt:p>
+            <tt:p begin="00:10:02.402" end="00:10:05.138">You really do, don't you?<tt:br/>And always have.</tt:p>
+            <tt:p begin="00:10:05.172" end="00:10:07.374">Huh. What about<tt:br/>those years you spent</tt:p>
+            <tt:p begin="00:10:07.406" end="00:10:10.376">shacked up with what's-her-face,<tt:br/>the crazy one?</tt:p>
+            <tt:p begin="00:10:10.410" end="00:10:11.778">Anastasia.</tt:p>
+            <tt:p begin="00:10:11.811" end="00:10:13.780">No, the tall brunette,<tt:br/>&quot;crazy&quot; crazy.</tt:p>
+            <tt:p begin="00:10:13.813" end="00:10:15.849">Yeah, Anastasia.<tt:br/>She killed herself.</tt:p>
+            <tt:p begin="00:10:15.882" end="00:10:17.985">Oh, right, sorry.</tt:p>
+            <tt:p begin="00:10:18.017" end="00:10:19.787">Eh.</tt:p>
+            <tt:p begin="00:10:19.819" end="00:10:22.355">Yeah, that's how you like it,<tt:br/>huh?</tt:p>
+            <tt:p begin="00:10:22.388" end="00:10:25.091">Get it all down in your<tt:br/>nooks and crannies.</tt:p>
+            <tt:p begin="00:10:25.125" end="00:10:26.493">Someone's gotten pretty oily--</tt:p>
+            <tt:p begin="00:10:26.525" end="00:10:29.829">So, hey, hate to interrupt<tt:br/>your conversation--</tt:p>
+            <tt:p begin="00:10:29.863" end="00:10:31.764">It wasn't a conversation,<tt:br/>Lana.</tt:p>
+            <tt:p begin="00:10:31.799" end="00:10:34.634">I was just talking to my gun,<tt:br/>not with it.</tt:p>
+            <tt:p begin="00:10:34.668" end="00:10:36.368">Um--<tt:br/>Pretty big difference.</tt:p>
+            <tt:p begin="00:10:36.403" end="00:10:39.306">Yeah, so are they in there<tt:br/>signing the sale contract or--?</tt:p>
+            <tt:p begin="00:10:39.339" end="00:10:41.507">As we speak.<tt:br/>Yes.</tt:p>
+            <tt:p begin="00:10:41.540" end="00:10:42.910">Because I've got tons of ideas</tt:p>
+            <tt:p begin="00:10:42.942" end="00:10:44.311">to run this place efficiently</tt:p>
+            <tt:p begin="00:10:44.344" end="00:10:45.945">once I'm ODIN's<tt:br/>regional director.</tt:p>
+            <tt:p begin="00:10:45.978" end="00:10:47.748">I already jotted<tt:br/>a bunch down and--</tt:p>
+            <tt:p begin="00:10:47.781" end="00:10:49.717">Hey, hey, that's great.</tt:p>
+            <tt:p begin="00:10:49.750" end="00:10:51.017">I really hope you bring</tt:p>
+            <tt:p begin="00:10:51.050" end="00:10:52.985">that same kind of enthusiasm</tt:p>
+            <tt:p begin="00:10:53.019" end="00:10:55.888">and self-starterishness<tt:br/>to having sex with me.</tt:p>
+            <tt:p begin="00:10:55.923" end="00:10:57.691">Oh, so us<tt:br/>hooking up is still--</tt:p>
+            <tt:p begin="00:10:57.725" end="00:10:59.892">A perquisite for the job, yeah.<tt:br/>Right.</tt:p>
+            <tt:p begin="00:10:59.927" end="00:11:00.660">Do I mean &quot;prerequisite&quot;?<tt:br/>Yeah.</tt:p>
+            <tt:p begin="00:11:00.660" end="00:11:03.062">Either way...<tt:br/>Ick.</tt:p>
+            <tt:p begin="00:11:03.095" end="00:11:05.097">...Barry's pretty stoked.</tt:p>
+            <tt:p begin="00:11:05.131" end="00:11:07.067">ARCHER:<tt:br/>Okay, so that's Barry and Lana.</tt:p>
+            <tt:p begin="00:11:07.099" end="00:11:09.435">Pam, you're the amorphous<tt:br/>Rasta blob.</tt:p>
+            <tt:p begin="00:11:09.469" end="00:11:10.670">Big ups.</tt:p>
+            <tt:p begin="00:11:10.703" end="00:11:12.005">All right,<tt:br/>those are ODIN guys.</tt:p>
+            <tt:p begin="00:11:12.039" end="00:11:14.141">Ray, you're the little pink<tt:br/>sailor and--</tt:p>
+            <tt:p begin="00:11:14.174" end="00:11:16.543">Wait, why do we have<tt:br/>so many damn dolls in here?</tt:p>
+            <tt:p begin="00:11:16.576" end="00:11:18.577">For sexual harassment<tt:br/>complaints.</tt:p>
+            <tt:p begin="00:11:18.610" end="00:11:20.247">So people<tt:br/>can nonverbally indicate</tt:p>
+            <tt:p begin="00:11:20.280" end="00:11:21.982">where stuff happened<tt:br/>on their body.</tt:p>
+            <tt:p begin="00:11:22.014" end="00:11:23.751">Yeah, that takes, like,<tt:br/>one doll.</tt:p>
+            <tt:p begin="00:11:23.784" end="00:11:26.219">Not if there's ever<tt:br/>a gang rape.</tt:p>
+            <tt:p begin="00:11:26.253" end="00:11:27.519">[SIGHS]</tt:p>
+            <tt:p begin="00:11:27.554" end="00:11:30.156">Cyril, pill up, you're assisting<tt:br/>Krieger with the surgery.</tt:p>
+            <tt:p begin="00:11:30.190" end="00:11:32.024">What, why me?<tt:br/>You're good at math.</tt:p>
+            <tt:p begin="00:11:32.059" end="00:11:34.093">How is that supposed to help?<tt:br/>It can't hurt.</tt:p>
+            <tt:p begin="00:11:34.126" end="00:11:36.162">Ray, you lure Lana<tt:br/>into the mainframe.</tt:p>
+            <tt:p begin="00:11:36.196" end="00:11:37.629">And Carol,<tt:br/>you lure Barry--</tt:p>
+            <tt:p begin="00:11:37.663" end="00:11:40.566">I wanna lure Barry.<tt:br/>Wrong bait, Ray, he's straight.</tt:p>
+            <tt:p begin="00:11:40.599" end="00:11:41.835">How do you know? Hm?<tt:br/>How--?</tt:p>
+            <tt:p begin="00:11:41.869" end="00:11:44.271">Because he was engaged.<tt:br/>I was married.</tt:p>
+            <tt:p begin="00:11:44.304" end="00:11:48.475">For two years, yeah. I mean,<tt:br/>she was a lesbian, but still--</tt:p>
+            <tt:p begin="00:11:48.507" end="00:11:52.144">We met in a &quot;Pray Away the Gay&quot;<tt:br/>bible group.</tt:p>
+            <tt:p begin="00:11:52.178" end="00:11:54.113">That was a pretty weird time<tt:br/>for me.</tt:p>
+            <tt:p begin="00:11:54.146" end="00:11:56.949">Just get Lana in the mainframe.<tt:br/>I'll take care of Trexler.</tt:p>
+            <tt:p begin="00:11:56.984" end="00:11:59.386">And Pam, your job is to<tt:br/>neutralize the ODIN agents.</tt:p>
+            <tt:p begin="00:11:59.419" end="00:12:01.921">How the shit<tt:br/>am I supposed to do that?</tt:p>
+            <tt:p begin="00:12:01.955" end="00:12:03.824">With Krieger's magic<tt:br/>breath strips.</tt:p>
+            <tt:p begin="00:12:03.857" end="00:12:05.024">But don't touch them.</tt:p>
+            <tt:p begin="00:12:05.058" end="00:12:07.193">Lysergic acid is absorbed<tt:br/>through the skin.</tt:p>
+            <tt:p begin="00:12:07.227" end="00:12:09.596">Even the tip of your finger--<tt:br/>Oh.</tt:p>
+            <tt:p begin="00:12:09.629" end="00:12:11.031">Oh, for [BLEEP]'s sake, Krieger.</tt:p>
+            <tt:p begin="00:12:11.064" end="00:12:12.765">You're about to do<tt:br/>brain surgery.</tt:p>
+            <tt:p begin="00:12:12.800" end="00:12:15.267">Yeah, so sooner's gonna be<tt:br/>better than later.</tt:p>
+            <tt:p begin="00:12:15.302" end="00:12:16.770">Damn it,<tt:br/>how much time do we have?</tt:p>
+            <tt:p begin="00:12:16.804" end="00:12:18.238">For me,<tt:br/>usually about 20 minutes.</tt:p>
+            <tt:p begin="00:12:18.271" end="00:12:19.939">Usually?<tt:br/>Less if I take two.</tt:p>
+            <tt:p begin="00:12:19.973" end="00:12:21.341">Man,<tt:br/>you have got a problem.</tt:p>
+            <tt:p begin="00:12:21.373" end="00:12:23.310">Oh, right,<tt:br/>like you're one to talk.</tt:p>
+            <tt:p begin="00:12:23.343" end="00:12:24.778">Yeah, Pillbo Baggins.</tt:p>
+            <tt:p begin="00:12:24.812" end="00:12:26.746">These are from a doctor.</tt:p>
+            <tt:p begin="00:12:26.780" end="00:12:28.147">So? Krieger's a doctor.</tt:p>
+            <tt:p begin="00:12:28.180" end="00:12:30.516">Not the medical kind.<tt:br/>Not even the other kind.</tt:p>
+            <tt:p begin="00:12:30.550" end="00:12:31.884">ARCHER: Oh, boy.<tt:br/>Technically.</tt:p>
+            <tt:p begin="00:12:31.919" end="00:12:33.986">ARCHER:<tt:br/>I gotta tell you guys,</tt:p>
+            <tt:p begin="00:12:34.021" end="00:12:36.824">not feeling super confident<tt:br/>about this plan.</tt:p>
+            <tt:p begin="00:12:36.857" end="00:12:38.458">[PAM GRUNTS]</tt:p>
+            <tt:p begin="00:12:40.692" end="00:12:42.863">Racist.</tt:p>
+            <tt:p begin="00:12:45.332" end="00:12:48.000">CHERYL:<tt:br/>So I guess you must be</tt:p>
+            <tt:p begin="00:12:48.035" end="00:12:50.804">the infamous Barry<tt:br/>everyone's talking about.</tt:p>
+            <tt:p begin="00:12:50.838" end="00:12:53.273">Yeah. Go away.</tt:p>
+            <tt:p begin="00:12:53.306" end="00:12:54.673">[CHUCKLES]</tt:p>
+            <tt:p begin="00:12:54.706" end="00:12:56.910">Infamously few of words,<tt:br/>I guess.</tt:p>
+            <tt:p begin="00:12:56.944" end="00:13:00.112">Go away.<tt:br/>So Lana said to give you this.</tt:p>
+            <tt:p begin="00:13:02.850" end="00:13:04.083">Pretty succinct.</tt:p>
+            <tt:p begin="00:13:04.117" end="00:13:06.518">Guess you guys have<tt:br/>lots in common.</tt:p>
+            <tt:p begin="00:13:08.720" end="00:13:11.824">Like I bet your genitals are the<tt:br/>same distance from the ground.</tt:p>
+            <tt:p begin="00:13:11.859" end="00:13:13.293">Look alive, gang.</tt:p>
+            <tt:p begin="00:13:13.325" end="00:13:15.227">I think Archer's gonna try<tt:br/>to torpedo this deal</tt:p>
+            <tt:p begin="00:13:15.262" end="00:13:17.229">so until the contract is signed,</tt:p>
+            <tt:p begin="00:13:17.263" end="00:13:19.498">don't let Archer anywhere<tt:br/>near that office.</tt:p>
+            <tt:p begin="00:13:20.968" end="00:13:22.234">[HAWKS THEN SPITS]</tt:p>
+            <tt:p begin="00:13:22.268" end="00:13:24.471">What are you--?<tt:br/>Don't do that, you asshole.</tt:p>
+            <tt:p begin="00:13:24.503" end="00:13:27.875">We're buying this place.<tt:br/>Carpet's shitty enough as it is.</tt:p>
+            <tt:p begin="00:13:27.908" end="00:13:31.277">I'll tell you what's shitty.<tt:br/>Somebody's breath around here.</tt:p>
+            <tt:p begin="00:13:31.311" end="00:13:32.444">[SNIFFING]</tt:p>
+            <tt:p begin="00:13:32.479" end="00:13:34.581">Whoa, here,<tt:br/>take three or four of them.</tt:p>
+            <tt:p begin="00:13:34.613" end="00:13:36.349">Probably won't kill you guys,<tt:br/>either.</tt:p>
+            <tt:p begin="00:13:36.383" end="00:13:38.117">Because somebody<tt:br/>smells like they ate</tt:p>
+            <tt:p begin="00:13:38.150" end="00:13:39.987">the ass end<tt:br/>out of a northbound cow.</tt:p>
+            <tt:p begin="00:13:40.020" end="00:13:42.221">Well, what do you think?</tt:p>
+            <tt:p begin="00:13:42.254" end="00:13:44.491">[SOBBING]<tt:br/>I think I'm gonna<tt:br/>miss you so much.</tt:p>
+            <tt:p begin="00:13:44.524" end="00:13:46.860">Aw, honey,<tt:br/>you're not going anywhere,</tt:p>
+            <tt:p begin="00:13:46.894" end="00:13:49.261">not when<tt:br/>I'm the regional director.</tt:p>
+            <tt:p begin="00:13:49.295" end="00:13:51.763">But are you sure<tt:br/>you'll get the job?</tt:p>
+            <tt:p begin="00:13:51.797" end="00:13:53.265">Oh, honey, totally, yes.</tt:p>
+            <tt:p begin="00:13:53.299" end="00:13:55.335">I mean, I do have to sleep<tt:br/>with Barry, but--</tt:p>
+            <tt:p begin="00:13:55.368" end="00:13:58.170">Right, he said he's in the<tt:br/>mainframe and it's now or never.</tt:p>
+            <tt:p begin="00:13:58.204" end="00:14:00.206">Really?<tt:br/>Yeah, used those exact words.</tt:p>
+            <tt:p begin="00:14:00.239" end="00:14:02.976">Ugh.<tt:br/>It all feels so dirty.</tt:p>
+            <tt:p begin="00:14:03.009" end="00:14:04.743">Yeah, the carpet in there<tt:br/>is gross.</tt:p>
+            <tt:p begin="00:14:04.776" end="00:14:06.914">No, trading sex for this job.<tt:br/>Oh.</tt:p>
+            <tt:p begin="00:14:06.946" end="00:14:08.780">I mean, it is the chance<tt:br/>of a lifetime, but--</tt:p>
+            <tt:p begin="00:14:08.814" end="00:14:10.016">Honey, look at me.</tt:p>
+            <tt:p begin="00:14:10.049" end="00:14:12.585">We all gotta do<tt:br/>what we all gotta do.</tt:p>
+            <tt:p begin="00:14:12.618" end="00:14:14.354">You wouldn't hate me for it?</tt:p>
+            <tt:p begin="00:14:14.386" end="00:14:17.189">Oh, God, no.<tt:br/>But just do reverse cowgirl</tt:p>
+            <tt:p begin="00:14:17.224" end="00:14:19.726">because that carpet<tt:br/>is seriously heinous.</tt:p>
+            <tt:p begin="00:14:19.758" end="00:14:22.162">Wow,<tt:br/>so guess that worked, huh?</tt:p>
+            <tt:p begin="00:14:22.194" end="00:14:24.296">Pamela,<tt:br/>cool runnings, man.</tt:p>
+            <tt:p begin="00:14:24.330" end="00:14:26.298">God, would you give it a rest,<tt:br/>um...?</tt:p>
+            <tt:p begin="00:14:26.332" end="00:14:28.401">[ODIN AGENTS LAUGHING<tt:br/>AND GRUNTING]</tt:p>
+            <tt:p begin="00:14:28.435" end="00:14:31.503">Damn,<tt:br/>I had something for this.</tt:p>
+            <tt:p begin="00:14:31.538" end="00:14:33.672">Blob Marley.</tt:p>
+            <tt:p begin="00:14:33.705" end="00:14:34.942">[CHUCKLES]</tt:p>
+            <tt:p begin="00:14:34.975" end="00:14:37.044">All right,<tt:br/>there's my signature.</tt:p>
+            <tt:p begin="00:14:37.077" end="00:14:38.578">And once you countersign--</tt:p>
+            <tt:p begin="00:14:38.610" end="00:14:40.447">We can set sail for romance.</tt:p>
+            <tt:p begin="00:14:40.480" end="00:14:41.747">Mazatlán, Maui,</tt:p>
+            <tt:p begin="00:14:41.780" end="00:14:45.717">maybe even a small wedding<tt:br/>on the beach in Tahiti.</tt:p>
+            <tt:p begin="00:14:45.751" end="00:14:49.188">Yeah, about that,<tt:br/>could I borrow Len for a second?</tt:p>
+            <tt:p begin="00:14:49.221" end="00:14:50.256">Why?</tt:p>
+            <tt:p begin="00:14:50.289" end="00:14:52.324">To, um,<tt:br/>give him my blessing</tt:p>
+            <tt:p begin="00:14:52.358" end="00:14:54.161">in asking for your hand<tt:br/>in marriage.</tt:p>
+            <tt:p begin="00:14:54.193" end="00:14:56.728">Aw.<tt:br/>Well, that's just weird.</tt:p>
+            <tt:p begin="00:14:56.762" end="00:14:58.932">No, it's beautiful, it's--</tt:p>
+            <tt:p begin="00:14:58.966" end="00:15:02.970">Well, maybe not traditional,<tt:br/>but it's a damn classy move.</tt:p>
+            <tt:p begin="00:15:03.003" end="00:15:04.904">After you, kiddo.</tt:p>
+            <tt:p begin="00:15:05.973" end="00:15:07.706">[BARRY GROANS]</tt:p>
+            <tt:p begin="00:15:07.740" end="00:15:09.175">Barry?<tt:br/>BARRY: In here.</tt:p>
+            <tt:p begin="00:15:09.209" end="00:15:12.779">Just doing some deep knee bends.</tt:p>
+            <tt:p begin="00:15:12.812" end="00:15:14.346">Nude.<tt:br/>Wanted to stay loose.</tt:p>
+            <tt:p begin="00:15:14.381" end="00:15:17.650">Yeah, so listen,<tt:br/>about the job and this,</tt:p>
+            <tt:p begin="00:15:17.683" end="00:15:19.118">I don't think I can do it.</tt:p>
+            <tt:p begin="00:15:19.152" end="00:15:20.920">Then why did you send that note?<tt:br/>What note?</tt:p>
+            <tt:p begin="00:15:20.954" end="00:15:22.354">What the--?</tt:p>
+            <tt:p begin="00:15:22.388" end="00:15:24.623">No, no, no.<tt:br/>Hey, open this damn door!</tt:p>
+            <tt:p begin="00:15:24.657" end="00:15:27.259">Sorry, honey,<tt:br/>please don't hate me.</tt:p>
+            <tt:p begin="00:15:27.294" end="00:15:29.229">Just doing what I gotta do.</tt:p>
+            <tt:p begin="00:15:29.261" end="00:15:32.232">Huh. Sort of pictured<tt:br/>more of a lounge.</tt:p>
+            <tt:p begin="00:15:32.264" end="00:15:34.233">Yeah.<tt:br/>Morris chairs,<tt:br/>that kind of stuff.</tt:p>
+            <tt:p begin="00:15:34.266" end="00:15:36.103">Yeah. So listen.<tt:br/>Some lamps.</tt:p>
+            <tt:p begin="00:15:36.136" end="00:15:38.505">About you and Mother--<tt:br/>We're in love, kiddo.</tt:p>
+            <tt:p begin="00:15:38.538" end="00:15:40.872">Well, maybe you're in love.<tt:br/>She's just in need.</tt:p>
+            <tt:p begin="00:15:40.906" end="00:15:42.274">Of what?<tt:br/>Of money.</tt:p>
+            <tt:p begin="00:15:42.308" end="00:15:43.977">She's broke, Trexler.</tt:p>
+            <tt:p begin="00:15:44.011" end="00:15:45.545">She lost everything<tt:br/>in a Ponzi scheme.</tt:p>
+            <tt:p begin="00:15:45.578" end="00:15:47.447">So, what you're saying,<tt:br/>she's--</tt:p>
+            <tt:p begin="00:15:47.480" end="00:15:49.482">Using you,<tt:br/>you dumb idiot.</tt:p>
+            <tt:p begin="00:15:49.516" end="00:15:50.682">Oh.</tt:p>
+            <tt:p begin="00:15:52.318" end="00:15:54.521">Doesn't matter.<tt:br/>I am crazy about her.<tt:br/>What?</tt:p>
+            <tt:p begin="00:15:54.554" end="00:15:56.990">And if I can be there for her<tt:br/>when she really needs me,</tt:p>
+            <tt:p begin="00:15:57.024" end="00:15:58.158">then all the better.</tt:p>
+            <tt:p begin="00:15:58.190" end="00:15:59.526">I was afraid you'd say that.</tt:p>
+            <tt:p begin="00:15:59.559" end="00:16:00.960">Why? Ow!</tt:p>
+            <tt:p begin="00:16:00.960" end="00:16:04.331">Why are you doing that?<tt:br/>Hello.</tt:p>
+            <tt:p begin="00:16:04.363" end="00:16:06.866">What is that?<tt:br/>Fish paralyzer.</tt:p>
+            <tt:p begin="00:16:06.898" end="00:16:08.700">Okay.</tt:p>
+            <tt:p begin="00:16:08.735" end="00:16:10.337">Okay, he's out.</tt:p>
+            <tt:p begin="00:16:10.370" end="00:16:13.239">How's Krieger doing?<tt:br/>Not great.</tt:p>
+            <tt:p begin="00:16:13.273" end="00:16:15.475">KRIEGER:<tt:br/>Yes, he is. Let's do this!</tt:p>
+            <tt:p begin="00:16:15.507" end="00:16:17.176">[DRILL WHIRRING]</tt:p>
+            <tt:p begin="00:16:17.210" end="00:16:18.810">BARRY:<tt:br/>So are we gonna do this or--?</tt:p>
+            <tt:p begin="00:16:18.845" end="00:16:20.246">No, no, we're not.</tt:p>
+            <tt:p begin="00:16:20.280" end="00:16:22.614">For a list of reasons,<tt:br/>at the top of which is Archer.</tt:p>
+            <tt:p begin="00:16:22.649" end="00:16:25.317">You're not still into that guy?<tt:br/>No. But he's out there</tt:p>
+            <tt:p begin="00:16:25.352" end="00:16:27.953">somewhere and somehow,<tt:br/>dashing all my hopes.</tt:p>
+            <tt:p begin="00:16:27.987" end="00:16:29.421">Look,<tt:br/>this sale's gonna happen.</tt:p>
+            <tt:p begin="00:16:29.455" end="00:16:32.424">So, what we should do<tt:br/>is spread our clothes around</tt:p>
+            <tt:p begin="00:16:32.458" end="00:16:35.827">so our naked bodies<tt:br/>do not touch this carpet.</tt:p>
+            <tt:p begin="00:16:35.861" end="00:16:38.230">MALORY:<tt:br/>Oh, for the--</tt:p>
+            <tt:p begin="00:16:38.265" end="00:16:41.768">Sweet-and-sour?<tt:br/>Might as well start an ant farm.</tt:p>
+            <tt:p begin="00:16:41.800" end="00:16:44.436">And what's taking<tt:br/>those two so long?</tt:p>
+            <tt:p begin="00:16:44.470" end="00:16:46.438">Wow, so that<tt:br/>didn't take long, huh?</tt:p>
+            <tt:p begin="00:16:46.472" end="00:16:48.675">TREXLER: Uh, I don't know.<tt:br/>That was rhetorical.</tt:p>
+            <tt:p begin="00:16:48.708" end="00:16:50.210">Okay, Krieger?<tt:br/>Yes.</tt:p>
+            <tt:p begin="00:16:50.242" end="00:16:52.311">What are you doing?<tt:br/>What's next?</tt:p>
+            <tt:p begin="00:16:52.344" end="00:16:56.216">Okay, cue visual.<tt:br/>Roger, cuing visual.</tt:p>
+            <tt:p begin="00:16:59.219" end="00:17:02.889">Oh, there's my lovely lady love.</tt:p>
+            <tt:p begin="00:17:02.921" end="00:17:05.824">Okay, now--<tt:br/>Wow, that feels good.</tt:p>
+            <tt:p begin="00:17:05.858" end="00:17:07.193">ARCHER:<tt:br/>Krieger.</tt:p>
+            <tt:p begin="00:17:07.227" end="00:17:08.627">Oh, commence the modified<tt:br/>Ludovico.</tt:p>
+            <tt:p begin="00:17:08.661" end="00:17:11.364">Commencing<tt:br/>the modified Ludovico.</tt:p>
+            <tt:p begin="00:17:11.398" end="00:17:15.134">Aah! Aah! No, no, no.</tt:p>
+            <tt:p begin="00:17:15.167" end="00:17:17.236">I don't like this. No, no, no.</tt:p>
+            <tt:p begin="00:17:17.270" end="00:17:19.072">Who is that? Who is that</tt:p>
+            <tt:p begin="00:17:19.106" end="00:17:21.108">horrible woman?</tt:p>
+            <tt:p begin="00:17:21.141" end="00:17:22.474">That's Malory Archer.</tt:p>
+            <tt:p begin="00:17:22.508" end="00:17:25.712">You love her.<tt:br/>TREXLER: No, no, no. Ick!</tt:p>
+            <tt:p begin="00:17:25.744" end="00:17:28.215">Krieger? Krieger?</tt:p>
+            <tt:p begin="00:17:28.247" end="00:17:30.150">Commence satellite link.</tt:p>
+            <tt:p begin="00:17:30.182" end="00:17:32.085">CYRIL:<tt:br/>Commencing satellite link.</tt:p>
+            <tt:p begin="00:17:32.119" end="00:17:35.222">[SCREAMING]</tt:p>
+            <tt:p begin="00:17:35.255" end="00:17:37.690">So you wouldn't wanna marry her?<tt:br/>No, no, please.</tt:p>
+            <tt:p begin="00:17:37.724" end="00:17:40.327">Please make it stop.</tt:p>
+            <tt:p begin="00:17:40.359" end="00:17:42.562">Okay.<tt:br/>What do I do, what do I do?</tt:p>
+            <tt:p begin="00:17:42.595" end="00:17:45.364">Just hit &quot;tab.&quot; Idiot.<tt:br/>Oh.</tt:p>
+            <tt:p begin="00:17:45.397" end="00:17:47.999">Okay,<tt:br/>it's over and you're sure</tt:p>
+            <tt:p begin="00:17:48.033" end="00:17:49.368">you don't wanna marry<tt:br/>that woman?</tt:p>
+            <tt:p begin="00:17:49.401" end="00:17:52.172">Oh, God, no.<tt:br/>You know what I want?</tt:p>
+            <tt:p begin="00:17:52.205" end="00:17:53.740">Tell me.<tt:br/>Some of that lettuce.</tt:p>
+            <tt:p begin="00:17:53.773" end="00:17:54.940">Um, okay.</tt:p>
+            <tt:p begin="00:17:54.973" end="00:17:56.308">Or actually,<tt:br/>can I have all of it?</tt:p>
+            <tt:p begin="00:17:56.343" end="00:17:58.444">And the bunny attached to it.<tt:br/>He is attached, right?</tt:p>
+            <tt:p begin="00:17:58.477" end="00:17:59.911">The bunny and lettuce?</tt:p>
+            <tt:p begin="00:17:59.945" end="00:18:01.080">Can we give Lenny the rabbit?</tt:p>
+            <tt:p begin="00:18:01.080" end="00:18:03.249">And the lettuce.</tt:p>
+            <tt:p begin="00:18:04.317" end="00:18:05.785">Sure thing, go to town.</tt:p>
+            <tt:p begin="00:18:05.817" end="00:18:08.887">Yeah, because you know,<tt:br/>they're brothers.</tt:p>
+            <tt:p begin="00:18:08.921" end="00:18:12.325">Um, is he always gonna be like<tt:br/>this now? Because I feel bad.</tt:p>
+            <tt:p begin="00:18:12.358" end="00:18:14.860">Sterling? Len?</tt:p>
+            <tt:p begin="00:18:14.894" end="00:18:18.230">Either and/or both?<tt:br/>Where the hell are you?</tt:p>
+            <tt:p begin="00:18:18.265" end="00:18:21.468">Len!<tt:br/>Yeah, do you know where he is?</tt:p>
+            <tt:p begin="00:18:21.500" end="00:18:24.035">Yes, I'm just screaming<tt:br/>his name down the hall</tt:p>
+            <tt:p begin="00:18:24.069" end="00:18:26.339">to celebrate that fact.</tt:p>
+            <tt:p begin="00:18:26.372" end="00:18:27.873">Is that some kind of joke?</tt:p>
+            <tt:p begin="00:18:27.907" end="00:18:29.575">Is that?</tt:p>
+            <tt:p begin="00:18:29.609" end="00:18:32.378">It's cold in here.<tt:br/>TREXLER: Because she's here.</tt:p>
+            <tt:p begin="00:18:32.412" end="00:18:35.581">The big, bad lady is here<tt:br/>and she is cold.</tt:p>
+            <tt:p begin="00:18:35.615" end="00:18:37.549">Len, what's going on?<tt:br/>TREXLER: You're mean.</tt:p>
+            <tt:p begin="00:18:37.583" end="00:18:39.219">What?<tt:br/>And I don't like you.</tt:p>
+            <tt:p begin="00:18:39.252" end="00:18:40.687">And I don't want ISIS or you.</tt:p>
+            <tt:p begin="00:18:40.720" end="00:18:43.256">And all I want is this lettuce<tt:br/>and his brother.</tt:p>
+            <tt:p begin="00:18:43.290" end="00:18:45.225">Rabbert Klein.<tt:br/>Rabbert Klein.</tt:p>
+            <tt:p begin="00:18:45.258" end="00:18:46.726">So Barry, you ass.<tt:br/>BARRY: Yeah?</tt:p>
+            <tt:p begin="00:18:46.759" end="00:18:48.295">For the love of all<tt:br/>that's green,</tt:p>
+            <tt:p begin="00:18:48.328" end="00:18:51.798">take me and Rabbert<tt:br/>to the lettuce store.</tt:p>
+            <tt:p begin="00:18:51.831" end="00:18:55.268">Sterling Malory Archer.</tt:p>
+            <tt:p begin="00:18:55.302" end="00:18:58.838">Yes, Mother,<tt:br/>I'm here for you.</tt:p>
+            <tt:p begin="00:18:58.870" end="00:19:01.140">GILLETTE:<tt:br/>You did the right thing, hon.</tt:p>
+            <tt:p begin="00:19:01.140" end="00:19:02.642">And all it cost me<tt:br/>was my dream job.</tt:p>
+            <tt:p begin="00:19:02.674" end="00:19:05.512">And a broken hand which kills.</tt:p>
+            <tt:p begin="00:19:05.545" end="00:19:08.247">[PAM GRUNTS]</tt:p>
+            <tt:p begin="00:19:08.281" end="00:19:11.518">I'm good.<tt:br/>Racist.</tt:p>
+            <tt:p begin="00:19:14.654" end="00:19:17.989">Buy you a cup of coffee?<tt:br/>You know, since you're broke.</tt:p>
+            <tt:p begin="00:19:18.024" end="00:19:19.226">You meddling ass.<tt:br/>Me?</tt:p>
+            <tt:p begin="00:19:19.259" end="00:19:21.593">Sterling, I know what<tt:br/>you did to Trexler.</tt:p>
+            <tt:p begin="00:19:21.627" end="00:19:23.396">I didn't do anyth--<tt:br/>Yes, you did.</tt:p>
+            <tt:p begin="00:19:23.429" end="00:19:25.665">Because certain items<tt:br/>in my desk...</tt:p>
+            <tt:p begin="00:19:25.698" end="00:19:27.467">Bah, bah-bah-bah.<tt:br/>I can't hear you.</tt:p>
+            <tt:p begin="00:19:27.499" end="00:19:29.368">...were not where I put them.<tt:br/>Bah-bah-bah.</tt:p>
+            <tt:p begin="00:19:29.402" end="00:19:30.869">And we need never to speak of</tt:p>
+            <tt:p begin="00:19:30.903" end="00:19:33.138">that sickening invasion<tt:br/>of privacy again.</tt:p>
+            <tt:p begin="00:19:33.172" end="00:19:35.474">Yeah,<tt:br/>and the neverer the better.</tt:p>
+            <tt:p begin="00:19:35.507" end="00:19:38.644">But since I can only assume<tt:br/>that Russian mind-control chip</tt:p>
+            <tt:p begin="00:19:38.678" end="00:19:41.714">is rattling around<tt:br/>in Len Trexler's bald head...</tt:p>
+            <tt:p begin="00:19:41.748" end="00:19:43.515">Not rattling,<tt:br/>Krieger stapled it.</tt:p>
+            <tt:p begin="00:19:43.549" end="00:19:45.852">...I had to go to plan B</tt:p>
+            <tt:p begin="00:19:45.885" end="00:19:47.854">and lease out three floors<tt:br/>in the building.</tt:p>
+            <tt:p begin="00:19:47.887" end="00:19:51.258">And also sell the cleaners.<tt:br/>You sold the cleaners?</tt:p>
+            <tt:p begin="00:19:51.291" end="00:19:52.991">To who?<tt:br/>MAN: Or whom.</tt:p>
+            <tt:p begin="00:19:53.024" end="00:19:55.494">What? Popeye?<tt:br/>Mm-hm.</tt:p>
+            <tt:p begin="00:19:55.527" end="00:19:57.897">And he paid up front,<tt:br/>in cash.</tt:p>
+            <tt:p begin="00:19:57.929" end="00:19:59.130">Yeah, not surprising,</tt:p>
+            <tt:p begin="00:19:59.164" end="00:20:01.200">considering the fact<tt:br/>he's a loan-sharking pimp.</tt:p>
+            <tt:p begin="00:20:01.200" end="00:20:04.937">Former loan-sharking pimp.<tt:br/>I'm going legitimate.</tt:p>
+            <tt:p begin="00:20:04.970" end="00:20:06.473">What do you know about<tt:br/>dry cleaning?</tt:p>
+            <tt:p begin="00:20:06.505" end="00:20:08.507">I know you owe me 3 grand.</tt:p>
+            <tt:p begin="00:20:08.541" end="00:20:10.710">I told you when I--<tt:br/>And I also know I got</tt:p>
+            <tt:p begin="00:20:10.742" end="00:20:12.978">five of your hand-tailored suits<tt:br/>in the back.</tt:p>
+            <tt:p begin="00:20:13.012" end="00:20:14.980">What, you're holding<tt:br/>my suits hostage?</tt:p>
+            <tt:p begin="00:20:15.014" end="00:20:16.248">Collateral.</tt:p>
+            <tt:p begin="00:20:16.283" end="00:20:18.217">Now, get the [BLEEP]<tt:br/>out of my cleaners.</tt:p>
+            <tt:p begin="00:20:18.251" end="00:20:19.952">I think it's a good fit.<tt:br/>What?</tt:p>
+            <tt:p begin="00:20:19.985" end="00:20:21.954">See you tomorrow, Popeye.</tt:p>
+            <tt:p begin="00:20:21.987" end="00:20:23.390">Mm-hm.</tt:p>
+            <tt:p begin="00:20:23.422" end="00:20:25.924">What do I know<tt:br/>about dry cleaning?</tt:p>
+            <tt:p begin="00:20:25.958" end="00:20:29.060">I know I'm switching<tt:br/>from perc to D5.</tt:p>
+            <tt:p begin="00:20:29.095" end="00:20:31.563">Going green up in here.</tt:p>
+            <tt:p begin="00:20:34.032" end="00:20:35.435">Oh...</tt:p>
+            <tt:p begin="00:20:35.467" end="00:20:37.569">[***]</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:01.869" end="00:00:04.272">*</tt:p>
+            <tt:p begin="00:00:04.305" end="00:00:06.074">ANNOUNCER: They're<tt:br/>wheel-to-wheel coming out of</tt:p>
+            <tt:p begin="00:00:06.107" end="00:00:08.676">the last chicane,<tt:br/>the Frenchman DeVoe making a</tt:p>
+            <tt:p begin="00:00:08.709" end="00:00:11.345">run at Bivens for second,<tt:br/>but they won't be able to catch</tt:p>
+            <tt:p begin="00:00:11.379" end="00:00:14.415">Bell as he takes the flag and<tt:br/>oh!</tt:p>
+            <tt:p begin="00:00:14.448" end="00:00:19.220">It's a grrreat start to the<tt:br/>qualifying heats here at the<tt:br/>Monaco Gran Prix!</tt:p>
+            <tt:p begin="00:00:19.253" end="00:00:20.821">MALORY: I beg your pardon?</tt:p>
+            <tt:p begin="00:00:20.854" end="00:00:23.224">BENOIT: Your room, madame,<tt:br/>is no longer.</tt:p>
+            <tt:p begin="00:00:23.257" end="00:00:24.458">MALORY: But I had a reservation!</tt:p>
+            <tt:p begin="00:00:24.492" end="00:00:27.128">BENOIT: Oui madame,<tt:br/>mais c'est le Gran Prix.</tt:p>
+            <tt:p begin="00:00:27.161" end="00:00:30.364">MALORY: I don't care if it's a<tt:br/>Wehrmacht reunion party!</tt:p>
+            <tt:p begin="00:00:30.398" end="00:00:33.267">This isn't my first Grand Prix<tt:br/>you know.</tt:p>
+            <tt:p begin="00:00:33.301" end="00:00:35.436">LANA: Excusez mon amie,<tt:br/>elle est fatiguée --</tt:p>
+            <tt:p begin="00:00:35.469" end="00:00:36.670">BENOIT: Et mal élevée --</tt:p>
+            <tt:p begin="00:00:36.704" end="00:00:40.241">LANA: Sans doute, mais vous avez<tt:br/>une réservation pour moi, non?</tt:p>
+            <tt:p begin="00:00:40.274" end="00:00:41.209">Lana Kane?</tt:p>
+            <tt:p begin="00:00:41.242" end="00:00:41.775">BENOIT: Non.</tt:p>
+            <tt:p begin="00:00:41.809" end="00:00:42.610">MALORY: See?</tt:p>
+            <tt:p begin="00:00:42.643" end="00:00:43.577">LANA: Wh-? !</tt:p>
+            <tt:p begin="00:00:43.611" end="00:00:44.512">Et pourquoi &quot;non&quot;? !</tt:p>
+            <tt:p begin="00:00:44.545" end="00:00:45.646">BENOIT: C'est le Gran Prix.</tt:p>
+            <tt:p begin="00:00:45.679" end="00:00:47.548">LANA: So where are we<tt:br/>supposed to sleep? !</tt:p>
+            <tt:p begin="00:00:47.581" end="00:00:48.749">GILLETTE: Voilà.</tt:p>
+            <tt:p begin="00:00:48.782" end="00:00:51.719">MALORY: No. I am not sharing<tt:br/>a room with you.</tt:p>
+            <tt:p begin="00:00:51.752" end="00:00:54.688">GILLETTE: No, I'm sharing it<tt:br/>with you, and it's the last one<tt:br/>in the hotel.</tt:p>
+            <tt:p begin="00:00:54.722" end="00:00:56.857">No view,<tt:br/>but it's got two queens.</tt:p>
+            <tt:p begin="00:00:56.890" end="00:00:58.759">MALORY: Where's the other one,<tt:br/>greasing up in the bathroom?</tt:p>
+            <tt:p begin="00:00:58.792" end="00:00:59.760">LANA: Malory!</tt:p>
+            <tt:p begin="00:00:59.793" end="00:01:00.594">GILLETTE: You know what?</tt:p>
+            <tt:p begin="00:01:00.628" end="00:01:01.729">LANA: Guys, hey.</tt:p>
+            <tt:p begin="00:01:01.762" end="00:01:03.531">Ray, this is fine, two of us<tt:br/>will just have to double up.</tt:p>
+            <tt:p begin="00:01:03.564" end="00:01:04.732">MALORY: Exactly, two of you.</tt:p>
+            <tt:p begin="00:01:04.765" end="00:01:06.367">GILLETTE: Wh-?</tt:p>
+            <tt:p begin="00:01:06.400" end="00:01:08.336">MALORY: I am not sharing a bed.</tt:p>
+            <tt:p begin="00:01:08.369" end="00:01:12.273">It's bad enough Lachouffe made<tt:br/>us schlep all the way to Monaco<tt:br/>for...</tt:p>
+            <tt:p begin="00:01:12.306" end="00:01:14.442">whatever's on that damn disk.</tt:p>
+            <tt:p begin="00:01:14.475" end="00:01:16.777">Which had better be worth this<tt:br/>splitting headache.</tt:p>
+            <tt:p begin="00:01:16.810" end="00:01:18.279">GILLETTE: Yeah, help yourself.</tt:p>
+            <tt:p begin="00:01:18.312" end="00:01:19.747">Go ahead. Drink it up.</tt:p>
+            <tt:p begin="00:01:19.780" end="00:01:23.684">LANA: Well, it sure better be<tt:br/>worth four million bucks,<tt:br/>which is... where?</tt:p>
+            <tt:p begin="00:01:23.717" end="00:01:24.852">MALORY: Oh, Sterling has it.</tt:p>
+            <tt:p begin="00:01:24.885" end="00:01:26.220">GILLETTE: What? !</tt:p>
+            <tt:p begin="00:01:26.254" end="00:01:28.689">LANA: You turned Archer loose in<tt:br/>a casino with four million<tt:br/>dollars? !</tt:p>
+            <tt:p begin="00:01:28.722" end="00:01:29.757">MALORY: Oh, don't worry.</tt:p>
+            <tt:p begin="00:01:29.790" end="00:01:33.194">He may be a vain, selfish,<tt:br/>lying, and quite possibly</tt:p>
+            <tt:p begin="00:01:33.227" end="00:01:37.631">alcoholic man-whore,<tt:br/>but gambling is one vice<tt:br/>Sterling doesn't have.</tt:p>
+            <tt:p begin="00:01:37.665" end="00:01:40.834">ARCHER: Guess he's too busy<tt:br/>doing all that other awesome<tt:br/>stuff. Thanks, Mother.</tt:p>
+            <tt:p begin="00:01:40.868" end="00:01:42.503">MALORY: Oh shut -- wh-?</tt:p>
+            <tt:p begin="00:01:42.536" end="00:01:47.508">Why isn't there a metal<tt:br/>briefcase full of bearer bonds<tt:br/>handcuffed to your drinking arm?</tt:p>
+            <tt:p begin="00:01:47.541" end="00:01:49.777">ARCHER: Uh, pretty sure you just<tt:br/>answered your own question...</tt:p>
+            <tt:p begin="00:01:49.810" end="00:01:53.647">MALORY: Sterling, if you left<tt:br/>that briefcase in some cathouse,<tt:br/>I swear to God...!</tt:p>
+            <tt:p begin="00:01:53.681" end="00:01:54.748">ARCHER: Relax!</tt:p>
+            <tt:p begin="00:01:54.782" end="00:01:57.285">The money's totally safe,<tt:br/>on deposit with the casino.</tt:p>
+            <tt:p begin="00:01:57.318" end="00:01:58.118">MALORY: Wh-? !</tt:p>
+            <tt:p begin="00:01:58.152" end="00:01:59.787">ARCHER: That way they comp<tt:br/>everything.</tt:p>
+            <tt:p begin="00:01:59.820" end="00:02:04.858">I call it the Sterling Archer<tt:br/>Triple-A Power Play, and yes,<tt:br/>the A stands for awesome.</tt:p>
+            <tt:p begin="00:02:04.892" end="00:02:06.494">MALORY: Did you get a receipt? !</tt:p>
+            <tt:p begin="00:02:06.527" end="00:02:11.165">ARCHER: Of course, I did,<tt:br/>obviously! I did that.</tt:p>
+            <tt:p begin="00:02:11.199" end="00:02:13.167">Now if you will excusez moi...</tt:p>
+            <tt:p begin="00:02:13.201" end="00:02:14.902">BENOIT: Ah, Monsieur Archair!</tt:p>
+            <tt:p begin="00:02:14.935" end="00:02:18.639">If you will please to follow me<tt:br/>to le suite royale,</tt:p>
+            <tt:p begin="00:02:18.672" end="00:02:22.443">where I took a liberté to ave a<tt:br/>woman waiting in your jacuzzi?</tt:p>
+            <tt:p begin="00:02:22.476" end="00:02:24.612">ARCHER: Yes I will!</tt:p>
+            <tt:p begin="00:02:24.645" end="00:02:26.447">Good work there, uh...?</tt:p>
+            <tt:p begin="00:02:26.480" end="00:02:29.383">BENOIT: Benoit.</tt:p>
+            <tt:p begin="00:02:29.417" end="00:02:33.354">ARCHER: Sorry.</tt:p>
+            <tt:p begin="00:02:33.387" end="00:02:34.922">I was laughing at your name.</tt:p>
+            <tt:p begin="00:03:12.526" end="00:03:14.495">ARCHER: I mean because you know<tt:br/>what it sounds like, right?</tt:p>
+            <tt:p begin="00:03:14.528" end="00:03:15.663">BENOIT: Oui, monsieur...</tt:p>
+            <tt:p begin="00:03:15.696" end="00:03:17.565">ARCHER: Sounds like ben-wa<tt:br/>balls, Benoit.</tt:p>
+            <tt:p begin="00:03:17.598" end="00:03:19.367">Balls. See?</tt:p>
+            <tt:p begin="00:03:19.400" end="00:03:21.269">I can't even say it without<tt:br/>saying balls.</tt:p>
+            <tt:p begin="00:03:21.302" end="00:03:22.970">Say your name.</tt:p>
+            <tt:p begin="00:03:23.003" end="00:03:24.004">BENOIT: Benoit.</tt:p>
+            <tt:p begin="00:03:24.037" end="00:03:25.506">ARCHER: Balls. See?</tt:p>
+            <tt:p begin="00:03:25.539" end="00:03:26.707">Physically impossible.</tt:p>
+            <tt:p begin="00:03:26.740" end="00:03:28.909">BENOIT: Does monsieur require<tt:br/>anything else?</tt:p>
+            <tt:p begin="00:03:28.942" end="00:03:30.978">ARCHER: Yes I do! Benoit, balls.</tt:p>
+            <tt:p begin="00:03:31.011" end="00:03:34.415">Monsieur desires<tt:br/>more champagne, steak frites,</tt:p>
+            <tt:p begin="00:03:34.448" end="00:03:39.587">a post-jacuzzi female companion,<tt:br/>and for somebody to get up here<tt:br/>and fold his towels into swans.</tt:p>
+            <tt:p begin="00:03:39.620" end="00:03:41.655">Or actually not these towels,<tt:br/>some thicker ones.</tt:p>
+            <tt:p begin="00:03:41.689" end="00:03:44.925">As thick as possible while<tt:br/>still being swan-shape-foldable.</tt:p>
+            <tt:p begin="00:03:44.958" end="00:03:46.126">BENOIT: Bien sûr.</tt:p>
+            <tt:p begin="00:03:46.159" end="00:03:49.497">And when will monsieur desire<tt:br/>to try his luck at the tables?</tt:p>
+            <tt:p begin="00:03:49.530" end="00:03:51.565">ARCHER: Wow, what's French<tt:br/>for &quot;broken record?&quot;</tt:p>
+            <tt:p begin="00:03:51.599" end="00:03:56.270">BENOIT: Pardon, monsieur, but<tt:br/>as I said, the Suite Royal<tt:br/>is reserved for --</tt:p>
+            <tt:p begin="00:03:56.304" end="00:03:57.438">MALORY: Sterling Malory Archer!</tt:p>
+            <tt:p begin="00:03:57.471" end="00:03:59.039">ARCHER: And there goes<tt:br/>my erection.</tt:p>
+            <tt:p begin="00:03:59.072" end="00:03:59.940">Hi Mother.</tt:p>
+            <tt:p begin="00:03:59.973" end="00:04:01.309">MALORY: We're switching rooms.</tt:p>
+            <tt:p begin="00:04:01.342" end="00:04:03.877">I want my luggage up here in<tt:br/>three minutes.</tt:p>
+            <tt:p begin="00:04:03.911" end="00:04:05.446">BENOIT: Impossible, madame.</tt:p>
+            <tt:p begin="00:04:05.479" end="00:04:07.715">My bellopps ave been taken<tt:br/>prisoner by the Wehrmacht.</tt:p>
+            <tt:p begin="00:04:07.748" end="00:04:10.651">MALORY: Now you just listen to<tt:br/>me, bub --</tt:p>
+            <tt:p begin="00:04:10.684" end="00:04:14.855">BENOIT: Madame! The only way you<tt:br/>will ave zis suite is over my<tt:br/>lifeless corpse!</tt:p>
+            <tt:p begin="00:04:14.888" end="00:04:18.959">Pairaps zat will teach you to<tt:br/>insult ze proud nation of<tt:br/>Monaco!</tt:p>
+            <tt:p begin="00:04:18.992" end="00:04:24.698">Now if you will excuse moi,<tt:br/>I must go find fresh towels<tt:br/>and a whore.</tt:p>
+            <tt:p begin="00:04:24.732" end="00:04:27.701">ARCHER: Hey Benoit, not too<tt:br/>thick on either, O.K.!</tt:p>
+            <tt:p begin="00:04:27.735" end="00:04:28.902">MALORY: Happy? !</tt:p>
+            <tt:p begin="00:04:28.936" end="00:04:30.671">ARCHER: Yeah, except for<tt:br/>my gun's all soapy.</tt:p>
+            <tt:p begin="00:04:30.704" end="00:04:32.540">Pretty dumb taking a bath<tt:br/>with it...</tt:p>
+            <tt:p begin="00:04:32.573" end="00:04:34.675">MALORY: Sterling I'm warning<tt:br/>you, if one red cent of that</tt:p>
+            <tt:p begin="00:04:34.708" end="00:04:37.711">money is missing when we make<tt:br/>the exchange with Lachouffe --</tt:p>
+            <tt:p begin="00:04:37.745" end="00:04:38.579">ARCHER: It won't be!</tt:p>
+            <tt:p begin="00:04:38.612" end="00:04:39.780">Everything's comped!</tt:p>
+            <tt:p begin="00:04:39.813" end="00:04:41.782">MALORY: Because they expect you<tt:br/>to gamble!</tt:p>
+            <tt:p begin="00:04:41.815" end="00:04:45.386">ARCHER: Which I'm not going<tt:br/>to do, duh! Mother,<tt:br/>I've done this tons of times.</tt:p>
+            <tt:p begin="00:04:45.419" end="00:04:46.086">MALORY: Wh-? !</tt:p>
+            <tt:p begin="00:04:46.119" end="00:04:47.955">With ISIS money? !</tt:p>
+            <tt:p begin="00:04:47.988" end="00:04:49.623">ARCHER: No.</tt:p>
+            <tt:p begin="00:04:49.657" end="00:04:51.925">But four million seems pretty<tt:br/>steep for...</tt:p>
+            <tt:p begin="00:04:51.959" end="00:04:53.026">what's on that disk, anyway?</tt:p>
+            <tt:p begin="00:04:53.060" end="00:04:54.695">MALORY: None of your beeswax.</tt:p>
+            <tt:p begin="00:04:54.728" end="00:04:58.832">And the price is irrelevant,<tt:br/>because you're going to steal<tt:br/>it back after the exchange.</tt:p>
+            <tt:p begin="00:04:58.866" end="00:05:00.368">ARCHER: Oh.</tt:p>
+            <tt:p begin="00:05:00.401" end="00:05:05.606">MALORY: Duh. And you have to<tt:br/>steal it back because I, um,<tt:br/>slightly borrowed it.</tt:p>
+            <tt:p begin="00:05:05.639" end="00:05:09.943">ARCHER: Umm,<tt:br/>slightly from where?</tt:p>
+            <tt:p begin="00:05:09.977" end="00:05:12.045">CYRIL: What in the world...?</tt:p>
+            <tt:p begin="00:05:12.079" end="00:05:15.649">Oh no, oh no no no no no...</tt:p>
+            <tt:p begin="00:05:15.683" end="00:05:17.050">Paaaaaaaaaaaaam!</tt:p>
+            <tt:p begin="00:05:17.084" end="00:05:18.719">MALORY: Also irrelevant.</tt:p>
+            <tt:p begin="00:05:18.752" end="00:05:21.689">Because you're not going to<tt:br/>screw this up, are you?</tt:p>
+            <tt:p begin="00:05:21.722" end="00:05:23.557">ARCHER: Aaahhhhhhh... no.</tt:p>
+            <tt:p begin="00:05:23.591" end="00:05:24.825">No I am not Mother.</tt:p>
+            <tt:p begin="00:05:24.858" end="00:05:27.695">MALORY: You better not.</tt:p>
+            <tt:p begin="00:05:27.728" end="00:05:30.097">ARCHER: Oh my God, oh man,<tt:br/>that was fun. Thank you.</tt:p>
+            <tt:p begin="00:05:30.130" end="00:05:34.468">Seriously, not many women<tt:br/>could bring me to orgasm<tt:br/>in front of my mother.</tt:p>
+            <tt:p begin="00:05:34.502" end="00:05:35.803">I wouldn't think.</tt:p>
+            <tt:p begin="00:05:35.836" end="00:05:38.138">CYRIL: Four million dollars,<tt:br/>gone!</tt:p>
+            <tt:p begin="00:05:38.171" end="00:05:40.641">Every single account has been<tt:br/>wiped out!</tt:p>
+            <tt:p begin="00:05:40.674" end="00:05:42.242">PAM: All except Ms. Archer's!</tt:p>
+            <tt:p begin="00:05:42.275" end="00:05:46.880">KRIEGER: And how does she have<tt:br/>two-point-three million<tt:br/>damn dollars in her 401K? !</tt:p>
+            <tt:p begin="00:05:46.914" end="00:05:47.748">CHERYL/CAROL: Is that a lot?</tt:p>
+            <tt:p begin="00:05:47.781" end="00:05:49.983">PAM: Maybe not to you,<tt:br/>Glenda Gotrocks...</tt:p>
+            <tt:p begin="00:05:50.017" end="00:05:51.819">CHERYL/CAROL: Stop calling me<tt:br/>that!</tt:p>
+            <tt:p begin="00:05:51.852" end="00:05:53.487">PAM: Stop being a frickin<tt:br/>jillionaire!</tt:p>
+            <tt:p begin="00:05:53.521" end="00:05:55.088">CHERYL/CAROL: Make me!</tt:p>
+            <tt:p begin="00:05:55.122" end="00:05:58.125">CYRIL: Zip it, you two! Now,<tt:br/>we've obviously been the victims<tt:br/>of identity thieves --</tt:p>
+            <tt:p begin="00:05:58.158" end="00:06:00.628">[explosive laughter]</tt:p>
+            <tt:p begin="00:06:00.661" end="00:06:01.795">CYRIL: Which is funny why?</tt:p>
+            <tt:p begin="00:06:01.829" end="00:06:04.498">CHERYL/CAROL: You think it's<tt:br/>just a coincidence Mr. Archer</tt:p>
+            <tt:p begin="00:06:04.532" end="00:06:08.402">took four million dollars<tt:br/>to Monte Carlo?</tt:p>
+            <tt:p begin="00:06:08.436" end="00:06:10.003">EVERYBODY: Huh? What? Excuse me?</tt:p>
+            <tt:p begin="00:06:10.037" end="00:06:12.640">CHERYL/CAROL: In bearer bonds,<tt:br/>whatever those are.</tt:p>
+            <tt:p begin="00:06:12.673" end="00:06:13.974">PAM: Shitsnackin crackers!</tt:p>
+            <tt:p begin="00:06:14.007" end="00:06:15.876">CYRIL: That thieving bastard!</tt:p>
+            <tt:p begin="00:06:15.909" end="00:06:18.446">He, he's gambling away our<tt:br/>retirement money!</tt:p>
+            <tt:p begin="00:06:18.479" end="00:06:19.947">ARCHER: What?</tt:p>
+            <tt:p begin="00:06:19.980" end="00:06:23.717">BENOIT: Lady Luck, monsieur,<tt:br/>she awaits your passionate<tt:br/>embrace!</tt:p>
+            <tt:p begin="00:06:23.751" end="00:06:24.918">ARCHER: I'm kinda...</tt:p>
+            <tt:p begin="00:06:24.952" end="00:06:28.121">passionate-embraced out right<tt:br/>now, after the tub-snorkeling.</tt:p>
+            <tt:p begin="00:06:28.155" end="00:06:33.694">BENOIT: In the jacuzzi of your<tt:br/>free suite, in which<tt:br/>monsieur desires to remain?</tt:p>
+            <tt:p begin="00:06:33.727" end="00:06:35.496">ARCHER: Uh, yes, yes he does.</tt:p>
+            <tt:p begin="00:06:35.529" end="00:06:36.664">BENOIT: Bon!</tt:p>
+            <tt:p begin="00:06:36.697" end="00:06:38.031">Zen I wish you bonne chance!</tt:p>
+            <tt:p begin="00:06:38.065" end="00:06:39.967">ARCHER: I can't, I don't<tt:br/>have any --</tt:p>
+            <tt:p begin="00:06:40.000" end="00:06:42.670">Chips, thanks Radar.</tt:p>
+            <tt:p begin="00:06:42.703" end="00:06:45.539">Umm, okay...</tt:p>
+            <tt:p begin="00:06:45.573" end="00:06:46.440">CROUPIER: Monsieur?</tt:p>
+            <tt:p begin="00:06:46.474" end="00:06:47.741">Le minimum c'est deux.</tt:p>
+            <tt:p begin="00:06:47.775" end="00:06:49.042">ARCHER: The minimum is two?</tt:p>
+            <tt:p begin="00:06:49.076" end="00:06:51.945">Okay, here...</tt:p>
+            <tt:p begin="00:06:51.979" end="00:06:52.980">BENOIT: Bonne chance!</tt:p>
+            <tt:p begin="00:06:53.013" end="00:06:55.115">ARCHER: Thanks Benoit, balls,<tt:br/>I don't actually --</tt:p>
+            <tt:p begin="00:06:55.148" end="00:06:56.016">CROUPIER: Banque!</tt:p>
+            <tt:p begin="00:06:56.049" end="00:06:58.619">ARCHER: What is bonk,<tt:br/>does that mean I --</tt:p>
+            <tt:p begin="00:06:58.652" end="00:06:59.787">Lose? !</tt:p>
+            <tt:p begin="00:06:59.820" end="00:07:02.856">Hang on, that was -- wait,<tt:br/>how much are these chips worth?</tt:p>
+            <tt:p begin="00:07:02.890" end="00:07:03.991">Twenty-five grand? !</tt:p>
+            <tt:p begin="00:07:04.024" end="00:07:05.092">Apiece? !</tt:p>
+            <tt:p begin="00:07:05.125" end="00:07:06.494">BENOIT: Bonne chance!</tt:p>
+            <tt:p begin="00:07:06.527" end="00:07:07.194">ARCHER: Hey, hang on!</tt:p>
+            <tt:p begin="00:07:07.227" end="00:07:08.896">Benoit? ! Balls? !</tt:p>
+            <tt:p begin="00:07:08.929" end="00:07:12.099">So I uh,<tt:br/>need to get that money back.</tt:p>
+            <tt:p begin="00:07:12.132" end="00:07:13.467">ARCHER: Shit.</tt:p>
+            <tt:p begin="00:07:13.501" end="00:07:15.503">Or whatever, merde.</tt:p>
+            <tt:p begin="00:07:15.536" end="00:07:16.770">CROUPIER: Le grande!</tt:p>
+            <tt:p begin="00:07:16.804" end="00:07:17.805">ARCHER: Okay what's that mean,<tt:br/>do I --</tt:p>
+            <tt:p begin="00:07:17.838" end="00:07:19.039">Win? ! Really?</tt:p>
+            <tt:p begin="00:07:19.072" end="00:07:21.174">Just like that, fifty grand?</tt:p>
+            <tt:p begin="00:07:21.208" end="00:07:23.544">Okay, let's do that again!</tt:p>
+            <tt:p begin="00:07:23.577" end="00:07:25.879">CROUPIER: Huit...cinque...zéro.</tt:p>
+            <tt:p begin="00:07:25.913" end="00:07:28.982">ARCHER: Oh my God, this is like<tt:br/>taking candy from a...</tt:p>
+            <tt:p begin="00:07:29.016" end="00:07:31.018">candy-hating baby!</tt:p>
+            <tt:p begin="00:07:31.051" end="00:07:33.621">Speaking of candy, I'm gonna<tt:br/>be here a while, gorgeous,</tt:p>
+            <tt:p begin="00:07:33.654" end="00:07:36.890">so bring me a fifth of<tt:br/>Glengoolie Black and a bag of<tt:br/>gummi bears.</tt:p>
+            <tt:p begin="00:07:36.924" end="00:07:38.626">You want anything?</tt:p>
+            <tt:p begin="00:07:38.659" end="00:07:40.093">Gummi bears all around.</tt:p>
+            <tt:p begin="00:07:40.127" end="00:07:43.664">I'll eat hers if she doesn't,<tt:br/>um... have teeth.</tt:p>
+            <tt:p begin="00:07:43.697" end="00:07:45.098">Okay!</tt:p>
+            <tt:p begin="00:07:45.132" end="00:07:48.235">Let's play some goddamn cards!</tt:p>
+            <tt:p begin="00:07:52.940" end="00:07:54.007">ARCHER: Yes!</tt:p>
+            <tt:p begin="00:07:54.041" end="00:07:55.075">CROUPIER: Banque.</tt:p>
+            <tt:p begin="00:07:55.108" end="00:07:58.111">No! No no no no no!</tt:p>
+            <tt:p begin="00:07:58.145" end="00:08:01.048">God damn it woman, wipe that<tt:br/>grin off your pie-face!</tt:p>
+            <tt:p begin="00:08:01.081" end="00:08:02.215">He's killing me!</tt:p>
+            <tt:p begin="00:08:02.249" end="00:08:03.717">GILLETTE: I'm gonna kill you!</tt:p>
+            <tt:p begin="00:08:03.751" end="00:08:07.555">ARCHER: No! Ray, stop it,<tt:br/>I can feel a hot streak coming<tt:br/>on, just gimme a --</tt:p>
+            <tt:p begin="00:08:07.588" end="00:08:08.589">GILLETTE: Here, take this?</tt:p>
+            <tt:p begin="00:08:08.622" end="00:08:09.690">ARCHER: No thanks,<tt:br/>I'm not thirs --</tt:p>
+            <tt:p begin="00:08:09.723" end="00:08:10.991">Ow!</tt:p>
+            <tt:p begin="00:08:11.024" end="00:08:12.059">GILLETTE: How much.</tt:p>
+            <tt:p begin="00:08:12.092" end="00:08:14.795">ARCHER: Uh, well it's hard to<tt:br/>say, really, maybe...</tt:p>
+            <tt:p begin="00:08:14.828" end="00:08:16.029">eight hundred thousand?</tt:p>
+            <tt:p begin="00:08:16.063" end="00:08:17.865">GILLETTE: You lost eight hundred<tt:br/>grand? !</tt:p>
+            <tt:p begin="00:08:17.898" end="00:08:19.767">ARCHER: Oh. No, remaining.</tt:p>
+            <tt:p begin="00:08:19.800" end="00:08:21.535">GILLETTE: Pardon? Merci.</tt:p>
+            <tt:p begin="00:08:21.569" end="00:08:22.603">Here, take these?</tt:p>
+            <tt:p begin="00:08:22.636" end="00:08:24.171">ARCHER: Ray, I said I'm<tt:br/>not thirs --</tt:p>
+            <tt:p begin="00:08:24.204" end="00:08:25.105">Tee! Ow!</tt:p>
+            <tt:p begin="00:08:25.138" end="00:08:27.007">GILLETTE: Three-point-two<tt:br/>million dollars? !</tt:p>
+            <tt:p begin="00:08:27.040" end="00:08:28.976">ARCHER: I've been really<tt:br/>streaky, Ray!</tt:p>
+            <tt:p begin="00:08:29.009" end="00:08:30.844">I was up for a while,<tt:br/>then down,</tt:p>
+            <tt:p begin="00:08:30.878" end="00:08:33.947">then up for a really long time,<tt:br/>but then --</tt:p>
+            <tt:p begin="00:08:33.981" end="00:08:35.783">GILLETTE: You've only been here<tt:br/>twenty minutes!</tt:p>
+            <tt:p begin="00:08:35.816" end="00:08:37.785">ARCHER: Wow,<tt:br/>seemed way longer than that...</tt:p>
+            <tt:p begin="00:08:37.818" end="00:08:39.052">GILLETTE: And I thought you<tt:br/>didn't gamble!</tt:p>
+            <tt:p begin="00:08:39.086" end="00:08:39.920">ARCHER: I don't!</tt:p>
+            <tt:p begin="00:08:39.953" end="00:08:41.321">I mean not since --</tt:p>
+            <tt:p begin="00:08:41.354" end="00:08:43.857">I had a really bad experience<tt:br/>one time...</tt:p>
+            <tt:p begin="00:08:43.891" end="00:08:45.292">Umm... hit me?</tt:p>
+            <tt:p begin="00:08:45.325" end="00:08:47.027">MALORY: Busted!</tt:p>
+            <tt:p begin="00:08:47.060" end="00:08:51.765">And now all the candy is<tt:br/>Mother's...</tt:p>
+            <tt:p begin="00:08:51.799" end="00:08:55.235">Cause crybaby hit on seventeen<tt:br/>again.</tt:p>
+            <tt:p begin="00:08:55.268" end="00:08:57.137">Like an idiot.</tt:p>
+            <tt:p begin="00:08:57.170" end="00:08:58.939">ARCHER: Why was I dressed as<tt:br/>Hitler?</tt:p>
+            <tt:p begin="00:08:58.972" end="00:09:01.308">GILLETTE: Wh-? Why do you do<tt:br/>anything you do? !</tt:p>
+            <tt:p begin="00:09:01.341" end="00:09:02.810">Archer, when your mother<tt:br/>finds out --</tt:p>
+            <tt:p begin="00:09:02.843" end="00:09:03.611">ARCHER: No!</tt:p>
+            <tt:p begin="00:09:03.644" end="00:09:04.845">Ray, you can't tell her!</tt:p>
+            <tt:p begin="00:09:04.878" end="00:09:06.580">Or Lana! They'll...</tt:p>
+            <tt:p begin="00:09:06.614" end="00:09:07.615">think less of me.</tt:p>
+            <tt:p begin="00:09:07.648" end="00:09:09.216">GILLETTE: And I won't? !</tt:p>
+            <tt:p begin="00:09:09.249" end="00:09:10.884">ARCHER: I don't care what you<tt:br/>think.</tt:p>
+            <tt:p begin="00:09:10.918" end="00:09:12.119">GILLETTE: I'm telling your<tt:br/>mother.</tt:p>
+            <tt:p begin="00:09:12.152" end="00:09:12.986">MALORY: Telling her what?</tt:p>
+            <tt:p begin="00:09:13.020" end="00:09:13.453">GILLETTE: Your son --</tt:p>
+            <tt:p begin="00:09:13.486" end="00:09:18.726">ARCHER: Shhh, no.</tt:p>
+            <tt:p begin="00:09:18.759" end="00:09:20.027">GILLETTE: Is drunk.</tt:p>
+            <tt:p begin="00:09:20.060" end="00:09:22.029">MALORY: Who're you,<tt:br/>Carrie Nation?</tt:p>
+            <tt:p begin="00:09:22.062" end="00:09:25.132">But my God, Sterling<tt:br/>look at your clothes!</tt:p>
+            <tt:p begin="00:09:25.165" end="00:09:27.000">Just how drunk are you?</tt:p>
+            <tt:p begin="00:09:27.034" end="00:09:28.636">[colossal burp]</tt:p>
+            <tt:p begin="00:09:28.669" end="00:09:29.569">MALORY: Oh for the --</tt:p>
+            <tt:p begin="00:09:29.603" end="00:09:31.371">LANA: We're meeting Lachouffe<tt:br/>in two hours!</tt:p>
+            <tt:p begin="00:09:31.404" end="00:09:33.106">GILLETTE: I'll clean him up,<tt:br/>try to get some coffee in him.</tt:p>
+            <tt:p begin="00:09:33.140" end="00:09:34.642">MALORY: Make sure that's all you<tt:br/>put in him!</tt:p>
+            <tt:p begin="00:09:34.675" end="00:09:35.709">GILLETTE: What?</tt:p>
+            <tt:p begin="00:09:35.743" end="00:09:39.012">MALORY: Keep it in your pants,<tt:br/>sister.</tt:p>
+            <tt:p begin="00:09:39.046" end="00:09:41.181">GILLETTE: Yeah, yuk it up...</tt:p>
+            <tt:p begin="00:09:41.214" end="00:09:45.052">LANA: Wow, all these years,<tt:br/>I've never seen Archer like,<tt:br/>drunk drunk.</tt:p>
+            <tt:p begin="00:09:45.085" end="00:09:46.319">Have you?</tt:p>
+            <tt:p begin="00:09:46.353" end="00:09:49.690">MALORY: Once.</tt:p>
+            <tt:p begin="00:09:49.723" end="00:09:53.694">Can't play cards, can't drink...</tt:p>
+            <tt:p begin="00:09:53.727" end="00:09:54.962">ARCHER: I don't feel good.</tt:p>
+            <tt:p begin="00:09:54.995" end="00:09:58.031">MALORY: What the hell good<tt:br/>are ya?</tt:p>
+            <tt:p begin="00:09:58.065" end="00:09:59.733">Why was he dressed as Hitler?</tt:p>
+            <tt:p begin="00:09:59.767" end="00:10:00.868">Anyhoo.</tt:p>
+            <tt:p begin="00:10:00.901" end="00:10:04.104">Ooh, I think I see a duke!</tt:p>
+            <tt:p begin="00:10:04.137" end="00:10:05.806">LANA: Ugh, what.</tt:p>
+            <tt:p begin="00:10:05.839" end="00:10:07.174">CYRIL: Nice...</tt:p>
+            <tt:p begin="00:10:07.207" end="00:10:11.111">Glad you can still be snotty,<tt:br/>while Archer's gambling away<tt:br/>your 401K!</tt:p>
+            <tt:p begin="00:10:11.144" end="00:10:12.212">LANA: My what? !</tt:p>
+            <tt:p begin="00:10:12.245" end="00:10:13.213">PAM: Tell her I said hey!</tt:p>
+            <tt:p begin="00:10:13.246" end="00:10:14.882">CYRIL: Shut up, and ours too!</tt:p>
+            <tt:p begin="00:10:14.915" end="00:10:16.183">Everybody's!</tt:p>
+            <tt:p begin="00:10:16.216" end="00:10:19.219">LANA: Archer wasn't gambling,<tt:br/>he was just drun...</tt:p>
+            <tt:p begin="00:10:19.252" end="00:10:20.253">CYRIL: Lana, did you hear me?</tt:p>
+            <tt:p begin="00:10:20.287" end="00:10:22.322">LANA: Cet imbécile, il jouait? !</tt:p>
+            <tt:p begin="00:10:22.355" end="00:10:25.392">CROUPIER: Jusqu'il a perdu trois<tt:br/>millions.</tt:p>
+            <tt:p begin="00:10:25.425" end="00:10:26.694">LANA: Oh. Shit.</tt:p>
+            <tt:p begin="00:10:26.727" end="00:10:28.028">PAM: Cyril tell her I said --</tt:p>
+            <tt:p begin="00:10:28.061" end="00:10:28.996">GILLETTE: Idiot!</tt:p>
+            <tt:p begin="00:10:29.029" end="00:10:31.298">Stupid stupid stupid idiot!</tt:p>
+            <tt:p begin="00:10:31.331" end="00:10:33.266">ARCHER: I -- look,<tt:br/>I said I was sorry!</tt:p>
+            <tt:p begin="00:10:33.300" end="00:10:34.401">GILLETTE: No you didn't!</tt:p>
+            <tt:p begin="00:10:34.434" end="00:10:35.635">ARCHER: Well? ! Whatever,<tt:br/>I have a plan to get the money</tt:p>
+            <tt:p begin="00:10:35.669" end="00:10:38.939">back -- which doesn't include<tt:br/>you taking my hotel toiletries!</tt:p>
+            <tt:p begin="00:10:38.972" end="00:10:39.773">GILLETTE: You're not using 'em.</tt:p>
+            <tt:p begin="00:10:39.807" end="00:10:41.041">ARCHER: Yes I am!</tt:p>
+            <tt:p begin="00:10:41.074" end="00:10:42.910">GILLETTE: Go look at your pores<tt:br/>and then tell me your using 'em.</tt:p>
+            <tt:p begin="00:10:42.943" end="00:10:44.812">And then tell me your little<tt:br/>genius plan.</tt:p>
+            <tt:p begin="00:10:44.845" end="00:10:45.846">ARCHER: Rob the casino.</tt:p>
+            <tt:p begin="00:10:45.879" end="00:10:46.947">GILLETTE: Thanks for the lotion.</tt:p>
+            <tt:p begin="00:10:46.980" end="00:10:48.181">ARCHER: Ray, we can do this!</tt:p>
+            <tt:p begin="00:10:48.215" end="00:10:50.851">C'mon, I've broken into<tt:br/>way tougher places!</tt:p>
+            <tt:p begin="00:10:50.884" end="00:10:53.020">I mean, not without my<tt:br/>turtleneck, but --</tt:p>
+            <tt:p begin="00:10:53.053" end="00:10:55.155">GILLETTE: Do you even know<tt:br/>where the bearer bonds are? !</tt:p>
+            <tt:p begin="00:10:55.188" end="00:10:57.958">ARCHER: Well no, not exactly,<tt:br/>but --</tt:p>
+            <tt:p begin="00:10:57.991" end="00:10:59.860">GILLETTE: What's it say on the<tt:br/>receipt?</tt:p>
+            <tt:p begin="00:10:59.893" end="00:11:01.161">That you didn't get, did you?</tt:p>
+            <tt:p begin="00:11:01.194" end="00:11:02.195">ARCHER: No.</tt:p>
+            <tt:p begin="00:11:02.229" end="00:11:03.797">GILLETTE: You know why they're<tt:br/>called bearer bonds?</tt:p>
+            <tt:p begin="00:11:03.831" end="00:11:05.232">ARCHER: Because your gay.</tt:p>
+            <tt:p begin="00:11:05.265" end="00:11:07.300">GILLETTE: Because they're<tt:br/>unregistered and untraceable,</tt:p>
+            <tt:p begin="00:11:07.334" end="00:11:10.437">and the legal owner of a bearer<tt:br/>bond is whatever asshole</tt:p>
+            <tt:p begin="00:11:10.470" end="00:11:12.305">physically holds the piece of<tt:br/>paper!</tt:p>
+            <tt:p begin="00:11:12.339" end="00:11:14.174">ARCHER: Well then I dunno why<tt:br/>you're so pissed off.</tt:p>
+            <tt:p begin="00:11:14.207" end="00:11:16.076">Technically that money was mine.</tt:p>
+            <tt:p begin="00:11:16.109" end="00:11:17.077">LANA: And mine!</tt:p>
+            <tt:p begin="00:11:17.110" end="00:11:17.978">ARCHER: Ugh.</tt:p>
+            <tt:p begin="00:11:18.011" end="00:11:18.846">GILLETTE: Your money?</tt:p>
+            <tt:p begin="00:11:18.879" end="00:11:19.880">LANA: And yours!</tt:p>
+            <tt:p begin="00:11:19.913" end="00:11:21.414">And dickbrain's here!</tt:p>
+            <tt:p begin="00:11:21.448" end="00:11:24.384">And Cyril's! Pam's! Everybody's!</tt:p>
+            <tt:p begin="00:11:24.417" end="00:11:27.454">Because your mother cleaned out<tt:br/>all the ISIS 401K accounts!</tt:p>
+            <tt:p begin="00:11:27.487" end="00:11:28.255">GILLETTE: What? !</tt:p>
+            <tt:p begin="00:11:28.288" end="00:11:29.222">ARCHER: I have a 401K?</tt:p>
+            <tt:p begin="00:11:29.256" end="00:11:30.357">LANA: Not anymore!</tt:p>
+            <tt:p begin="00:11:30.390" end="00:11:32.359">GILLETTE: I had almost two<tt:br/>hundred grand in there, you --</tt:p>
+            <tt:p begin="00:11:32.392" end="00:11:34.194">okay, yeah, that's it.</tt:p>
+            <tt:p begin="00:11:34.227" end="00:11:36.196">ARCHER: Down! Ray, put it down<tt:br/>or I swear --</tt:p>
+            <tt:p begin="00:11:36.229" end="00:11:37.397">LANA: Archer!</tt:p>
+            <tt:p begin="00:11:37.430" end="00:11:39.199">I will put you down.</tt:p>
+            <tt:p begin="00:11:39.232" end="00:11:40.200">ARCHER: How am I the bad guy? !</tt:p>
+            <tt:p begin="00:11:40.233" end="00:11:42.002">Mother's the one who stole our<tt:br/>retirement money!</tt:p>
+            <tt:p begin="00:11:42.035" end="00:11:43.236">All I did was...</tt:p>
+            <tt:p begin="00:11:43.270" end="00:11:45.072">foolishly lose it.</tt:p>
+            <tt:p begin="00:11:45.105" end="00:11:48.909">GILLETTE: He does have a point.</tt:p>
+            <tt:p begin="00:11:48.942" end="00:11:52.145">LANA: Why would she pay<tt:br/>four million bucks for<tt:br/>unverified information?</tt:p>
+            <tt:p begin="00:11:52.179" end="00:11:53.881">GILLETTE: Well, either she's<tt:br/>getting Alzheimer's --</tt:p>
+            <tt:p begin="00:11:53.914" end="00:11:54.848">ARCHER: Hey.</tt:p>
+            <tt:p begin="00:11:54.882" end="00:11:56.216">GILLETTE: Or she thinks it's<tt:br/>another sex tape.</tt:p>
+            <tt:p begin="00:11:56.249" end="00:11:58.251">ARCHER: Hey!</tt:p>
+            <tt:p begin="00:11:58.285" end="00:12:00.988">ARCHER: Actually that wouldn't<tt:br/>surprise me.</tt:p>
+            <tt:p begin="00:12:01.021" end="00:12:03.023">LANA: Well whatever's on the<tt:br/>disk, Lachouffe expects</tt:p>
+            <tt:p begin="00:12:03.056" end="00:12:06.326">four million dollars<tt:br/>in bearer bonds,<tt:br/>and we only have one million --</tt:p>
+            <tt:p begin="00:12:06.359" end="00:12:08.528">ARCHER: Or eight hundred<tt:br/>thousand.</tt:p>
+            <tt:p begin="00:12:08.561" end="00:12:10.397">GILLETTE: For which there is no<tt:br/>receipt.</tt:p>
+            <tt:p begin="00:12:10.430" end="00:12:12.365">ARCHER: Look, Lana, I feel bad<tt:br/>enough as it is.</tt:p>
+            <tt:p begin="00:12:12.399" end="00:12:14.501">LANA: You couldn't feel bad<tt:br/>enough.</tt:p>
+            <tt:p begin="00:12:14.534" end="00:12:15.435">ARCHER: Eh.</tt:p>
+            <tt:p begin="00:12:15.468" end="00:12:16.804">LANA: Shut up,<tt:br/>so here's what we're gonna do.</tt:p>
+            <tt:p begin="00:12:16.837" end="00:12:19.807">First, we have to keep Malory<tt:br/>occupied while we go meet<tt:br/>Lachouffe...</tt:p>
+            <tt:p begin="00:12:19.840" end="00:12:21.875">She's in the bar,<tt:br/>hitting on a duke...</tt:p>
+            <tt:p begin="00:12:21.909" end="00:12:26.446">MALORY: I bet you get chilly at<tt:br/>night, all alone<tt:br/>in that great big castle...</tt:p>
+            <tt:p begin="00:12:26.479" end="00:12:27.547">ARCHER: Ew.</tt:p>
+            <tt:p begin="00:12:27.580" end="00:12:29.416">LANA: But judging from the way<tt:br/>Sir Duke was eye-banging</tt:p>
+            <tt:p begin="00:12:29.449" end="00:12:31.384">the waiters, I don't think<tt:br/>she's gonna have much luck.</tt:p>
+            <tt:p begin="00:12:31.418" end="00:12:33.453">So Ray,<tt:br/>that's where you come in...</tt:p>
+            <tt:p begin="00:12:33.486" end="00:12:34.822">ARCHER: Ew!</tt:p>
+            <tt:p begin="00:12:34.855" end="00:12:36.289">GILLETTE: Yeah, he's like<tt:br/>a thousand.</tt:p>
+            <tt:p begin="00:12:36.323" end="00:12:37.858">LANA: You're not gonna have<tt:br/>sex with him --</tt:p>
+            <tt:p begin="00:12:37.891" end="00:12:39.059">GILLETTE: Well wait,<tt:br/>he is a duke...</tt:p>
+            <tt:p begin="00:12:39.092" end="00:12:40.127">LANA: No means no.</tt:p>
+            <tt:p begin="00:12:40.160" end="00:12:42.863">Because you'll be making the<tt:br/>exchange with Lachouffe.</tt:p>
+            <tt:p begin="00:12:42.896" end="00:12:44.364">ARCHER: But wait,<tt:br/>he's expecting Mother.</tt:p>
+            <tt:p begin="00:12:44.397" end="00:12:45.365">LANA: Yeah...</tt:p>
+            <tt:p begin="00:12:45.398" end="00:12:46.967">ARCHER &amp; GILLETTE: Ew!</tt:p>
+            <tt:p begin="00:12:47.000" end="00:12:49.102">LANA: When Lachouffe realizes<tt:br/>we don't have four million<tt:br/>dollars in bearer bonds...</tt:p>
+            <tt:p begin="00:12:49.136" end="00:12:51.271">LACHOUFFE: Perfidie! Les tuer!</tt:p>
+            <tt:p begin="00:12:51.304" end="00:12:53.306">LANA: We'll take out his<tt:br/>bodyguards.</tt:p>
+            <tt:p begin="00:12:58.311" end="00:13:00.848">LACHOUFFE: Ca suffit!</tt:p>
+            <tt:p begin="00:13:00.881" end="00:13:02.049">GILLETTE: What the hell<tt:br/>does she keep in here?</tt:p>
+            <tt:p begin="00:13:02.082" end="00:13:03.350">Buckles?</tt:p>
+            <tt:p begin="00:13:03.383" end="00:13:05.352">LANA: Then, having retrieved<tt:br/>your mother's disgusting<tt:br/>sex tape --</tt:p>
+            <tt:p begin="00:13:05.385" end="00:13:07.955">ARCHER: Alleged!</tt:p>
+            <tt:p begin="00:13:07.988" end="00:13:09.890">Although probably disgusting.</tt:p>
+            <tt:p begin="00:13:09.923" end="00:13:12.359">LANA: We figure out a way to get<tt:br/>our 401K money back.</tt:p>
+            <tt:p begin="00:13:12.392" end="00:13:15.462">ARCHER: Yeah hi, duh,<tt:br/>we just steal the bearer bonds<tt:br/>from the casino.</tt:p>
+            <tt:p begin="00:13:15.495" end="00:13:17.230">GILLETTE: If they're even in the<tt:br/>casino!</tt:p>
+            <tt:p begin="00:13:17.264" end="00:13:19.366">ARCHER: Well where else would<tt:br/>they be, Ray? !</tt:p>
+            <tt:p begin="00:13:19.399" end="00:13:21.935">BENOIT: Taxi! Taxi!</tt:p>
+            <tt:p begin="00:13:21.969" end="00:13:24.537">Oh, shit.</tt:p>
+            <tt:p begin="00:13:24.571" end="00:13:26.506">C'est le Gran Prix...</tt:p>
+            <tt:p begin="00:13:26.539" end="00:13:28.208">LANA: Well you better hope<tt:br/>they're in the vault.</tt:p>
+            <tt:p begin="00:13:28.241" end="00:13:31.111">Ray hurry up, get changed.</tt:p>
+            <tt:p begin="00:13:31.144" end="00:13:32.512">GILLETTE: I'm good.</tt:p>
+            <tt:p begin="00:13:37.517" end="00:13:39.552">ANNOUNCER: It's the second<tt:br/>qualifying round of the Monaco</tt:p>
+            <tt:p begin="00:13:39.586" end="00:13:44.524">Gran Prix and oh, they're really<tt:br/>burning up the streets of<tt:br/>Monte Carlo!</tt:p>
+            <tt:p begin="00:13:44.557" end="00:13:47.060">Oh, it's just grrreat!</tt:p>
+            <tt:p begin="00:13:47.094" end="00:13:48.361">LANA: No, this is not<tt:br/>at all great!</tt:p>
+            <tt:p begin="00:13:48.395" end="00:13:49.629">ARCHER: Why not? !</tt:p>
+            <tt:p begin="00:13:49.662" end="00:13:52.232">They're already tied up,<tt:br/>and we don't even have any rope,<tt:br/>so --</tt:p>
+            <tt:p begin="00:13:52.265" end="00:13:54.334">GILLETTE: Man, you can have<tt:br/>these control-tops.</tt:p>
+            <tt:p begin="00:13:54.367" end="00:13:55.802">No wonder your mother's such<tt:br/>a bitch.</tt:p>
+            <tt:p begin="00:13:55.835" end="00:13:59.306">ARCHER: Wh-? Can you not rub<tt:br/>your dick in my mother's<tt:br/>pantyhose? ! Please? !</tt:p>
+            <tt:p begin="00:13:59.339" end="00:13:59.839">LANA: Archer!</tt:p>
+            <tt:p begin="00:13:59.873" end="00:14:00.240">ARCHER: What, Lana? !</tt:p>
+            <tt:p begin="00:14:00.273" end="00:14:01.174">Look at him...</tt:p>
+            <tt:p begin="00:14:01.208" end="00:14:02.910">LANA: Why would somebody tie up<tt:br/>the guards?</tt:p>
+            <tt:p begin="00:14:02.943" end="00:14:06.313">ARCHER: Duh! So they could<tt:br/>rob the oh shit.</tt:p>
+            <tt:p begin="00:14:06.346" end="00:14:08.381">LANA: Qui a volé le coffre-fort?</tt:p>
+            <tt:p begin="00:14:08.415" end="00:14:09.149">GUARD: Benoit!</tt:p>
+            <tt:p begin="00:14:09.182" end="00:14:09.983">ARCHER: Balls.</tt:p>
+            <tt:p begin="00:14:10.017" end="00:14:10.617">LANA: Quand? !</tt:p>
+            <tt:p begin="00:14:10.650" end="00:14:11.551">GUARD: Dix minutes?</tt:p>
+            <tt:p begin="00:14:11.584" end="00:14:12.519">Il a pris des papiers!</tt:p>
+            <tt:p begin="00:14:12.552" end="00:14:14.221">LANA: Ou? !</tt:p>
+            <tt:p begin="00:14:14.254" end="00:14:15.889">ARCHER: How the hell<tt:br/>would he know? !</tt:p>
+            <tt:p begin="00:14:15.923" end="00:14:18.358">LANA: Oh, right. Desolée.</tt:p>
+            <tt:p begin="00:14:18.391" end="00:14:21.294">GILLETTE: Well he couldn't have<tt:br/>gone far in ten minutes,<tt:br/>it's a zoo out there.</tt:p>
+            <tt:p begin="00:14:21.328" end="00:14:22.229">ARCHER: There's a zoo here?</tt:p>
+            <tt:p begin="00:14:22.262" end="00:14:24.064">LANA: Wh-? The Gran Prix!</tt:p>
+            <tt:p begin="00:14:24.097" end="00:14:25.398">ARCHER: They could have both!</tt:p>
+            <tt:p begin="00:14:25.432" end="00:14:28.001">Lana! Zoo? Ici?</tt:p>
+            <tt:p begin="00:14:28.035" end="00:14:29.802">LANA: Go, dumbass!</tt:p>
+            <tt:p begin="00:14:29.836" end="00:14:32.973">Because if we don't get my 401K<tt:br/>back, you won't live long enough<tt:br/>to regret you were ever born.</tt:p>
+            <tt:p begin="00:14:33.006" end="00:14:34.541">ARCHER: Doesn't even make<tt:br/>sense...</tt:p>
+            <tt:p begin="00:14:34.574" end="00:14:35.475">Ow!</tt:p>
+            <tt:p begin="00:14:35.508" end="00:14:38.211">KRIEGER: Now is that<tt:br/>bulletproof, or what? !</tt:p>
+            <tt:p begin="00:14:38.245" end="00:14:40.480">GANG LEADER: Yeah,<tt:br/>y'all I didn't even feel that!</tt:p>
+            <tt:p begin="00:14:40.513" end="00:14:42.582">This shit's pretty tight, man.</tt:p>
+            <tt:p begin="00:14:42.615" end="00:14:45.385">KRIEGER: I can let it out,<tt:br/>and I can let all this stuff go</tt:p>
+            <tt:p begin="00:14:45.418" end="00:14:47.220">for forty-one thousand<tt:br/>six-hundred eighty-eight</tt:p>
+            <tt:p begin="00:14:47.254" end="00:14:52.325">dollars,<tt:br/>and I'll even throw in the<tt:br/>Chokebot.</tt:p>
+            <tt:p begin="00:14:52.359" end="00:14:53.893">CYRIL: Krieger, what the hell<tt:br/>are you doing?</tt:p>
+            <tt:p begin="00:14:53.927" end="00:14:59.066">KRIEGER: I'm selling ISIS<tt:br/>equipment until I get every<tt:br/>damn cent of my 401K back!</tt:p>
+            <tt:p begin="00:14:59.099" end="00:15:06.073">CYRIL: Oh... So hey, how'd you<tt:br/>guys like a color copier and<tt:br/>about, say, eighty computers?</tt:p>
+            <tt:p begin="00:15:06.106" end="00:15:07.074">For your clubhouse.</tt:p>
+            <tt:p begin="00:15:07.107" end="00:15:09.709">PAM: And some blowjobs.</tt:p>
+            <tt:p begin="00:15:09.742" end="00:15:12.245">I mean printers.</tt:p>
+            <tt:p begin="00:15:12.279" end="00:15:14.081">LANA: Dammit, we're never<tt:br/>gonna find Benoit!</tt:p>
+            <tt:p begin="00:15:14.114" end="00:15:15.949">ARCHER: Balls,<tt:br/>and we might if you two would</tt:p>
+            <tt:p begin="00:15:15.983" end="00:15:18.485">stop being bitches for five<tt:br/>seconds!</tt:p>
+            <tt:p begin="00:15:18.518" end="00:15:20.220">ARCHER: Case in point, Lana!</tt:p>
+            <tt:p begin="00:15:20.253" end="00:15:21.654">That's -- oh.</tt:p>
+            <tt:p begin="00:15:21.688" end="00:15:23.256">LANA: Hand over the bag, Benoit!</tt:p>
+            <tt:p begin="00:15:23.290" end="00:15:24.124">BENOIT: Balls!</tt:p>
+            <tt:p begin="00:15:24.157" end="00:15:24.992">ARCHER: Dammit, that's my --</tt:p>
+            <tt:p begin="00:15:25.025" end="00:15:27.094">BENOIT: Au revoir, suckairs!</tt:p>
+            <tt:p begin="00:15:27.127" end="00:15:28.461">LANA: Benoooiiiit!</tt:p>
+            <tt:p begin="00:15:28.495" end="00:15:30.363">ARCHER: Balls,<tt:br/>no, the moment's ruined.</tt:p>
+            <tt:p begin="00:15:30.397" end="00:15:31.364">LANA: We're ruined!</tt:p>
+            <tt:p begin="00:15:31.398" end="00:15:36.403">GILLETTE: How're we supposed to<tt:br/>catch him now? !</tt:p>
+            <tt:p begin="00:15:36.436" end="00:15:42.575">ARCHER: Wow, this might be hard<tt:br/>to drive... with such a huge,<tt:br/>throbbing erection.</tt:p>
+            <tt:p begin="00:15:42.609" end="00:15:47.114">Wooo-hoooooo!</tt:p>
+            <tt:p begin="00:15:47.147" end="00:15:51.051">ANNOUNCER: Well Dennis,<tt:br/>it's a strange tairn of events<tt:br/>here at the Gran Prix!</tt:p>
+            <tt:p begin="00:15:51.084" end="00:15:53.987">Because look here now,<tt:br/>who could believe it? !</tt:p>
+            <tt:p begin="00:15:54.021" end="00:15:56.689">A woman driving in a<tt:br/>Formula One race!</tt:p>
+            <tt:p begin="00:15:56.723" end="00:15:59.359">And a Negress at that!</tt:p>
+            <tt:p begin="00:15:59.392" end="00:16:02.195">No, you just don't see that<tt:br/>everyday!</tt:p>
+            <tt:p begin="00:16:02.229" end="00:16:04.431">Or that.</tt:p>
+            <tt:p begin="00:16:26.753" end="00:16:28.388">ARCHER: He's heading for the<tt:br/>coast road!</tt:p>
+            <tt:p begin="00:16:28.421" end="00:16:30.523">GILLETTE: Hey thanks,<tt:br/>Captain Obvious!</tt:p>
+            <tt:p begin="00:16:30.557" end="00:16:31.724">Dukes!</tt:p>
+            <tt:p begin="00:16:31.758" end="00:16:33.593">ARCHER: Is it obvious he has a<tt:br/>gun? !</tt:p>
+            <tt:p begin="00:16:33.626" end="00:16:35.795">GILLETTE: Well yeah, now...</tt:p>
+            <tt:p begin="00:16:35.828" end="00:16:37.330">BENOIT: Ha ha!</tt:p>
+            <tt:p begin="00:16:37.364" end="00:16:39.199">Ow do you like those pommes? !</tt:p>
+            <tt:p begin="00:16:39.232" end="00:16:42.469">ARCHER: How do you like 'em? !</tt:p>
+            <tt:p begin="00:16:42.502" end="00:16:44.437">LANA: What the hell're you<tt:br/>doing? !</tt:p>
+            <tt:p begin="00:16:44.471" end="00:16:47.540">ARCHER: Shooting out his tires<tt:br/>so he loses control and flies<tt:br/>off the cliff!</tt:p>
+            <tt:p begin="00:16:47.574" end="00:16:49.209">LANA: With the bearer bonds? !</tt:p>
+            <tt:p begin="00:16:49.242" end="00:16:50.543">ARCHER: Yes, Lana, with the --</tt:p>
+            <tt:p begin="00:16:50.577" end="00:16:53.080">Oh! Dammit!</tt:p>
+            <tt:p begin="00:16:59.319" end="00:17:00.753">ARCHER: Benoit!</tt:p>
+            <tt:p begin="00:17:00.787" end="00:17:06.293">Balls!</tt:p>
+            <tt:p begin="00:17:06.326" end="00:17:09.562">LANA: That was actually<tt:br/>pretty ballsy...</tt:p>
+            <tt:p begin="00:17:09.596" end="00:17:12.399">ARCHER: And I never got my<tt:br/>swan-shaped towels!</tt:p>
+            <tt:p begin="00:17:12.432" end="00:17:14.801">BENOIT: I can't see, you fool!</tt:p>
+            <tt:p begin="00:17:14.834" end="00:17:15.768">Get off!</tt:p>
+            <tt:p begin="00:17:15.802" end="00:17:17.170">ARCHER: I am getting off!</tt:p>
+            <tt:p begin="00:17:17.204" end="00:17:18.238">I love this!</tt:p>
+            <tt:p begin="00:17:18.271" end="00:17:19.206">LANA: Archer!</tt:p>
+            <tt:p begin="00:17:19.239" end="00:17:20.173">ARCHER: Not now, Lana!</tt:p>
+            <tt:p begin="00:17:20.207" end="00:17:21.741">LANA: Yes! Now!</tt:p>
+            <tt:p begin="00:17:21.774" end="00:17:25.378">ARCHER: Dammit Lana,<tt:br/>I said not -- oh shit!</tt:p>
+            <tt:p begin="00:17:29.616" end="00:17:30.850">Nice plan, Lana!</tt:p>
+            <tt:p begin="00:17:30.883" end="00:17:33.786">LANA: Wh-? !</tt:p>
+            <tt:p begin="00:17:39.426" end="00:17:40.593">GILLETTE: Oh, rocket launcher.</tt:p>
+            <tt:p begin="00:17:40.627" end="00:17:45.198">Y'all! Y'all my car is slowing<tt:br/>down for some unknown reason!</tt:p>
+            <tt:p begin="00:17:45.232" end="00:17:51.871">Just must be out of carburetor<tt:br/>LANA: Archer, look out!</tt:p>
+            <tt:p begin="00:17:51.904" end="00:17:56.576">ARCHER: Yeah, an attack<tt:br/>helicopter and a rocket<tt:br/>launcher, Lana, I see it!</tt:p>
+            <tt:p begin="00:17:56.609" end="00:17:59.379">LANA: Not that!</tt:p>
+            <tt:p begin="00:17:59.412" end="00:18:00.880">ARCHER: I see it, Lana!</tt:p>
+            <tt:p begin="00:18:00.913" end="00:18:03.483">There's this new thing called<tt:br/>situational awareness? !</tt:p>
+            <tt:p begin="00:18:03.516" end="00:18:04.217">LANA: Great!</tt:p>
+            <tt:p begin="00:18:04.251" end="00:18:05.785">Tell that to Benoit!</tt:p>
+            <tt:p begin="00:18:05.818" end="00:18:08.821">ARCHER: Balls.</tt:p>
+            <tt:p begin="00:18:15.328" end="00:18:17.130">LACHOUFFE: Meeeeerrrrrr --</tt:p>
+            <tt:p begin="00:18:17.164" end="00:18:23.503">BENOIT: Meeeeeeeerrrrde!</tt:p>
+            <tt:p begin="00:18:23.536" end="00:18:24.471">ARCHER: Waagh!</tt:p>
+            <tt:p begin="00:18:24.504" end="00:18:25.805">LANA: Archer!</tt:p>
+            <tt:p begin="00:18:25.838" end="00:18:26.639">GILLETTE: The money!</tt:p>
+            <tt:p begin="00:18:26.673" end="00:18:27.740">Where's the money? !</tt:p>
+            <tt:p begin="00:18:27.774" end="00:18:29.542">ARCHER: It's right here, Ray!</tt:p>
+            <tt:p begin="00:18:29.576" end="00:18:31.211">And I'm fine, since you asked.</tt:p>
+            <tt:p begin="00:18:31.244" end="00:18:32.245">GILLETTE: Yeah, I didn't.</tt:p>
+            <tt:p begin="00:18:32.279" end="00:18:35.848">ARCHER: Hey, ya know what?</tt:p>
+            <tt:p begin="00:18:35.882" end="00:18:38.918">LANA: So, guess that's it for<tt:br/>Lachouffe and Benoit...</tt:p>
+            <tt:p begin="00:18:38.951" end="00:18:40.253">ARCHER: Balls!</tt:p>
+            <tt:p begin="00:18:40.287" end="00:18:44.224">Nailed it!</tt:p>
+            <tt:p begin="00:18:44.257" end="00:18:45.725">LANA: And speaking of...</tt:p>
+            <tt:p begin="00:18:45.758" end="00:18:48.228">You are so lucky<tt:br/>this worked out.</tt:p>
+            <tt:p begin="00:18:48.261" end="00:18:51.831">ARCHER: Well you know what they<tt:br/>say, Lana, unlucky at cards,<tt:br/>lucky at...</tt:p>
+            <tt:p begin="00:18:51.864" end="00:18:54.201">a whole shitload of all kinds<tt:br/>of other stuff.</tt:p>
+            <tt:p begin="00:18:54.234" end="00:18:56.269">LANA: Yeah, you're the best.</tt:p>
+            <tt:p begin="00:18:56.303" end="00:18:57.804">ARCHER: Thank you.</tt:p>
+            <tt:p begin="00:18:57.837" end="00:18:59.839">MALORY: Why are you drinking<tt:br/>again? !</tt:p>
+            <tt:p begin="00:18:59.872" end="00:19:01.708">We're meeting Lachouffe<tt:br/>in ten minutes!</tt:p>
+            <tt:p begin="00:19:01.741" end="00:19:02.942">ARCHER: Already did.</tt:p>
+            <tt:p begin="00:19:02.975" end="00:19:04.711">MALORY: You -- oh!</tt:p>
+            <tt:p begin="00:19:04.744" end="00:19:06.846">ARCHER: And I just assume I<tt:br/>don't wanna know what's on that.</tt:p>
+            <tt:p begin="00:19:06.879" end="00:19:09.482">MALORY: Don't worry,<tt:br/>Nosey Parker, you won't.</tt:p>
+            <tt:p begin="00:19:09.516" end="00:19:12.352">But it's a lot more interesting<tt:br/>than my afternoon.</tt:p>
+            <tt:p begin="00:19:12.385" end="00:19:14.787">You'd think that duke had never<tt:br/>been with a woman before...</tt:p>
+            <tt:p begin="00:19:14.821" end="00:19:16.323">ARCHER: Would vomit, too tired.</tt:p>
+            <tt:p begin="00:19:16.356" end="00:19:17.457">MALORY: Oh shut up.</tt:p>
+            <tt:p begin="00:19:17.490" end="00:19:20.327">And every dime of the four<tt:br/>million better be in that bag.</tt:p>
+            <tt:p begin="00:19:20.360" end="00:19:22.529">ARCHER: It is, and while<tt:br/>we're on the subject --</tt:p>
+            <tt:p begin="00:19:22.562" end="00:19:24.831">GILLETTE: Thanks for stealing<tt:br/>our 401K money!</tt:p>
+            <tt:p begin="00:19:24.864" end="00:19:29.869">MALORY: I -- first of all,<tt:br/>if that's my Chanel suit I will<tt:br/>have your guts for garters --</tt:p>
+            <tt:p begin="00:19:29.902" end="00:19:31.338">GILLETTE: You need some garters.</tt:p>
+            <tt:p begin="00:19:31.371" end="00:19:34.474">MALORY: And second of all,<tt:br/>I didn't steal that money,<tt:br/>I merely borrowed it.</tt:p>
+            <tt:p begin="00:19:34.507" end="00:19:35.942">LANA: Well just for the record?</tt:p>
+            <tt:p begin="00:19:35.975" end="00:19:40.613">I think using our 401K's as<tt:br/>your personal ATM machine was<tt:br/>incredibly lame.</tt:p>
+            <tt:p begin="00:19:40.647" end="00:19:43.583">MALORY: And just for the record<tt:br/>I don't care.</tt:p>
+            <tt:p begin="00:19:43.616" end="00:19:47.454">That being said, we better<tt:br/>hurry up and redeposit this.</tt:p>
+            <tt:p begin="00:19:47.487" end="00:19:53.460">No telling what those idiots<tt:br/>might do if they find out their<tt:br/>measly 401K's are missing...</tt:p>
+            <tt:p begin="00:19:53.493" end="00:19:55.762">GANG LEADER: Been a real<tt:br/>pleasure doin business with<tt:br/>y'all.</tt:p>
+            <tt:p begin="00:19:55.795" end="00:19:57.630">Especially you, Pam.</tt:p>
+            <tt:p begin="00:19:57.664" end="00:20:01.901">PAM: Holla!</tt:p>
+            <tt:p begin="00:20:01.934" end="00:20:03.903">GANG LEADER: Uh-huh.</tt:p>
+            <tt:p begin="00:20:03.936" end="00:20:07.874">A'ight, peace out!</tt:p>
+            <tt:p begin="00:20:07.907" end="00:20:12.845">CHERYL/CAROL: So wait,<tt:br/>they're gonna fence all that<tt:br/>stuff and then pay us for it?</tt:p>
+            <tt:p begin="00:20:12.879" end="00:20:13.813">CYRIL: Damn it!</tt:p>
+            <tt:p begin="00:20:13.846" end="00:20:15.448">PAM: Way to go, stupid.</tt:p>
+            <tt:p begin="00:20:15.482" end="00:20:19.919">CYRIL: Me? ! Hey, I'm not<tt:br/>the one who was handing out<tt:br/>blowjobs like puffy stickers!</tt:p>
+            <tt:p begin="00:20:19.952" end="00:20:21.954">PAM: Aw, shit!</tt:p>
+            <tt:p begin="00:20:21.988" end="00:20:24.824">Plus I gave 'em all my stickers.</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

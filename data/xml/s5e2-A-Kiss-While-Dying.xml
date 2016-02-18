@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:03.704" end="00:00:05.706">ARCHER: Are you shitting me?!</tt:p>
+            <tt:p begin="00:00:05.739" end="00:00:06.974">How can they do that?!</tt:p>
+            <tt:p begin="00:00:07.007" end="00:00:08.842">And do you have to do that</tt:p>
+            <tt:p begin="00:00:08.876" end="00:00:10.811">right goddamn now?!</tt:p>
+            <tt:p begin="00:00:10.844" end="00:00:11.979">KRIEGER: I actually</tt:p>
+            <tt:p begin="00:00:12.012" end="00:00:13.481">don't have to do it ever.</tt:p>
+            <tt:p begin="00:00:13.514" end="00:00:14.815">CYRIL: And so I ask again,</tt:p>
+            <tt:p begin="00:00:14.848" end="00:00:16.016">why are you?!</tt:p>
+            <tt:p begin="00:00:16.050" end="00:00:17.751">KRIEGER: Mm-m.</tt:p>
+            <tt:p begin="00:00:17.785" end="00:00:18.586">ARCHER: How can they seize</tt:p>
+            <tt:p begin="00:00:18.619" end="00:00:19.487">my penthouse?!</tt:p>
+            <tt:p begin="00:00:19.520" end="00:00:20.521">MALORY: Well A, they're the</tt:p>
+            <tt:p begin="00:00:20.554" end="00:00:22.556">government, and B, ISIS owned</tt:p>
+            <tt:p begin="00:00:22.590" end="00:00:23.724">that penthouse, so -</tt:p>
+            <tt:p begin="00:00:23.757" end="00:00:24.592">ARCHER: Since when?</tt:p>
+            <tt:p begin="00:00:24.625" end="00:00:25.426">MALORY: Since this new thing</tt:p>
+            <tt:p begin="00:00:25.459" end="00:00:27.595">called always?</tt:p>
+            <tt:p begin="00:00:27.628" end="00:00:28.829">It never struck you as odd</tt:p>
+            <tt:p begin="00:00:28.862" end="00:00:30.098">that you lived there</tt:p>
+            <tt:p begin="00:00:30.131" end="00:00:31.031">for ten years and never paid</tt:p>
+            <tt:p begin="00:00:31.065" end="00:00:31.932">a dime in rent?!</tt:p>
+            <tt:p begin="00:00:31.965" end="00:00:32.933">ARCHER: I just thought it was</tt:p>
+            <tt:p begin="00:00:32.966" end="00:00:33.934">because I banged the landlord's</tt:p>
+            <tt:p begin="00:00:33.967" end="00:00:34.935">wife when she dropped off</tt:p>
+            <tt:p begin="00:00:34.968" end="00:00:36.604">the key.</tt:p>
+            <tt:p begin="00:00:36.637" end="00:00:37.571">But I realize now</tt:p>
+            <tt:p begin="00:00:37.605" end="00:00:39.006">that I was mistaken.</tt:p>
+            <tt:p begin="00:00:39.039" end="00:00:39.840">LANA: Aw, what a scary</tt:p>
+            <tt:p begin="00:00:39.873" end="00:00:40.941">new feeling for you.</tt:p>
+            <tt:p begin="00:00:40.974" end="00:00:41.875">ARCHER: Not as scary</tt:p>
+            <tt:p begin="00:00:41.909" end="00:00:42.776">as having to live</tt:p>
+            <tt:p begin="00:00:42.810" end="00:00:43.911">in Casa de Addams Family</tt:p>
+            <tt:p begin="00:00:43.944" end="00:00:44.945">with you two!</tt:p>
+            <tt:p begin="00:00:44.978" end="00:00:46.080">MALORY: Ugh, no,</tt:p>
+            <tt:p begin="00:00:46.114" end="00:00:47.181">I'm just working here,</tt:p>
+            <tt:p begin="00:00:47.215" end="00:00:48.682">not moving in.</tt:p>
+            <tt:p begin="00:00:48.716" end="00:00:50.050">I was smart enough to put</tt:p>
+            <tt:p begin="00:00:50.084" end="00:00:51.885">my apartment in Ron's name.</tt:p>
+            <tt:p begin="00:00:51.919" end="00:00:52.620">LANA: We all could've hidden</tt:p>
+            <tt:p begin="00:00:52.653" end="00:00:53.854">our assets if you'd warned us</tt:p>
+            <tt:p begin="00:00:53.887" end="00:00:54.755">we were about to be</tt:p>
+            <tt:p begin="00:00:54.788" end="00:00:56.457">arrested for treason!</tt:p>
+            <tt:p begin="00:00:56.490" end="00:00:57.891">MALORY: Oh for the love,</tt:p>
+            <tt:p begin="00:00:57.925" end="00:00:58.759">how long are you going to</tt:p>
+            <tt:p begin="00:00:58.792" end="00:01:00.194">throw that in my face? !</tt:p>
+            <tt:p begin="00:01:00.228" end="00:01:01.095">LANA: Probably at least</tt:p>
+            <tt:p begin="00:01:01.129" end="00:01:02.130">through the weekend.</tt:p>
+            <tt:p begin="00:01:02.163" end="00:01:02.863">MALORY: Well, then you'll have</tt:p>
+            <tt:p begin="00:01:02.896" end="00:01:03.964">to throw it from Miami.</tt:p>
+            <tt:p begin="00:01:03.997" end="00:01:05.133">LANA: Wait, no, why,</tt:p>
+            <tt:p begin="00:01:05.166" end="00:01:06.200">what's in --</tt:p>
+            <tt:p begin="00:01:06.234" end="00:01:09.437">[ BEEP BEEP BEEP! ]</tt:p>
+            <tt:p begin="00:01:09.470" end="00:01:10.304">LANA: -- Miami.</tt:p>
+            <tt:p begin="00:01:10.338" end="00:01:11.305">MALORY: Besides ninety percent</tt:p>
+            <tt:p begin="00:01:11.339" end="00:01:12.406">of all mosquitoes and Cubans</tt:p>
+            <tt:p begin="00:01:12.440" end="00:01:13.574">on earth?</tt:p>
+            <tt:p begin="00:01:13.607" end="00:01:14.308">ARCHER: That sounds high.</tt:p>
+            <tt:p begin="00:01:14.342" end="00:01:15.543">MALORY: A buyer for twenty</tt:p>
+            <tt:p begin="00:01:15.576" end="00:01:17.478">kilos of our cocaine.</tt:p>
+            <tt:p begin="00:01:17.511" end="00:01:19.380">LANA: Okay, now you sound high.</tt:p>
+            <tt:p begin="00:01:19.413" end="00:01:22.616">[ BRAWMP! ]</tt:p>
+            <tt:p begin="00:01:22.650" end="00:01:23.584">MALORY: And what did I say</tt:p>
+            <tt:p begin="00:01:23.617" end="00:01:24.752">about that horn? !</tt:p>
+            <tt:p begin="00:01:24.785" end="00:01:26.220">PAM: Oh, you were serious?</tt:p>
+            <tt:p begin="00:01:26.254" end="00:01:26.820">MALORY: Did I not</tt:p>
+            <tt:p begin="00:01:26.854" end="00:01:27.988">look serious? !</tt:p>
+            <tt:p begin="00:01:28.021" end="00:01:28.822">LANA: Well maybe she</tt:p>
+            <tt:p begin="00:01:28.856" end="00:01:29.657">couldn't tell,</tt:p>
+            <tt:p begin="00:01:29.690" end="00:01:30.491">because you seemed pretty</tt:p>
+            <tt:p begin="00:01:30.524" end="00:01:31.492">serious just now,</tt:p>
+            <tt:p begin="00:01:31.525" end="00:01:32.226">when you said you set up</tt:p>
+            <tt:p begin="00:01:32.260" end="00:01:33.161">a drug deal.</tt:p>
+            <tt:p begin="00:01:33.194" end="00:01:34.128">MALORY: How else are we</tt:p>
+            <tt:p begin="00:01:34.162" end="00:01:35.163">supposed to sell it?</tt:p>
+            <tt:p begin="00:01:35.196" end="00:01:35.996">It's not like we can have</tt:p>
+            <tt:p begin="00:01:36.029" end="00:01:36.997">a yard sale.</tt:p>
+            <tt:p begin="00:01:37.030" end="00:01:38.232">ARCHER: Yeah, Lana.</tt:p>
+            <tt:p begin="00:01:38.266" end="00:01:39.967">Hello, people would steal it?</tt:p>
+            <tt:p begin="00:01:40.000" end="00:01:41.435">LANA: I realize.</tt:p>
+            <tt:p begin="00:01:41.469" end="00:01:43.304">We can't have a yard sale.</tt:p>
+            <tt:p begin="00:01:43.337" end="00:01:44.505">ARCHER: Plus it's illegal?</tt:p>
+            <tt:p begin="00:01:44.538" end="00:01:45.673">LANA: My point.</tt:p>
+            <tt:p begin="00:01:45.706" end="00:01:47.141">Is how did you, Malory,</tt:p>
+            <tt:p begin="00:01:47.175" end="00:01:48.909">possibly, set up</tt:p>
+            <tt:p begin="00:01:48.942" end="00:01:50.010">a major drug deal?</tt:p>
+            <tt:p begin="00:01:50.043" end="00:01:50.778">MALORY: Oh,</tt:p>
+            <tt:p begin="00:01:50.811" end="00:01:51.912">don't worry about that...</tt:p>
+            <tt:p begin="00:01:51.945" end="00:01:53.181">LANA: Kinda feel like I should.</tt:p>
+            <tt:p begin="00:01:53.214" end="00:01:53.981">MALORY: Just worry about</tt:p>
+            <tt:p begin="00:01:54.014" end="00:01:55.449">not screwing up this deal,</tt:p>
+            <tt:p begin="00:01:55.483" end="00:01:56.917">because if it all goes well,</tt:p>
+            <tt:p begin="00:01:56.950" end="00:01:58.352">my contact's people may</tt:p>
+            <tt:p begin="00:01:58.386" end="00:01:59.287">buy the rest.</tt:p>
+            <tt:p begin="00:01:59.320" end="00:02:00.188">And the sooner we sell</tt:p>
+            <tt:p begin="00:02:00.221" end="00:02:01.021">this cocaine,</tt:p>
+            <tt:p begin="00:02:01.054" end="00:02:02.022">the sooner we'll all be</tt:p>
+            <tt:p begin="00:02:02.055" end="00:02:03.457">set for life.</tt:p>
+            <tt:p begin="00:02:03.491" end="00:02:04.425">ARCHER: And the sooner we</tt:p>
+            <tt:p begin="00:02:04.458" end="00:02:05.626">can move out of this enormous,</tt:p>
+            <tt:p begin="00:02:05.659" end="00:02:07.195">Gilded Age mansion.</tt:p>
+            <tt:p begin="00:02:07.228" end="00:02:08.529">Which -- where the hell is</tt:p>
+            <tt:p begin="00:02:08.562" end="00:02:09.630">Woodhouse?</tt:p>
+            <tt:p begin="00:02:09.663" end="00:02:10.931">PAM: In the pool.</tt:p>
+            <tt:p begin="00:02:10.964" end="00:02:12.966">WOODHOUSE: Hello?</tt:p>
+            <tt:p begin="00:02:13.000" end="00:02:14.802">I've finished!</tt:p>
+            <tt:p begin="00:02:14.835" end="00:02:15.769">ARCHER: Jesus Christ,</tt:p>
+            <tt:p begin="00:02:15.803" end="00:02:16.604">how long does it take him</tt:p>
+            <tt:p begin="00:02:16.637" end="00:02:17.471">to move in?</tt:p>
+            <tt:p begin="00:02:17.505" end="00:02:18.372">MALORY: And so, the sooner</tt:p>
+            <tt:p begin="00:02:18.406" end="00:02:19.540">you go to Miami...</tt:p>
+            <tt:p begin="00:02:19.573" end="00:02:20.941">LANA: Oh, I'm sorry,</tt:p>
+            <tt:p begin="00:02:20.974" end="00:02:21.709">lemme eat forty pounds of</tt:p>
+            <tt:p begin="00:02:21.742" end="00:02:22.610">coke-filled rubbers,</tt:p>
+            <tt:p begin="00:02:22.643" end="00:02:23.377">and we're off.</tt:p>
+            <tt:p begin="00:02:23.411" end="00:02:24.812">MALORY: Don't be ridiculous -</tt:p>
+            <tt:p begin="00:02:24.845" end="00:02:26.013">ARCHER: Hello, pregnant?</tt:p>
+            <tt:p begin="00:02:26.046" end="00:02:27.147">MALORY: -- Dr. Krieger has</tt:p>
+            <tt:p begin="00:02:27.181" end="00:02:28.115">devised a way</tt:p>
+            <tt:p begin="00:02:28.148" end="00:02:28.949">to transport the cocaine</tt:p>
+            <tt:p begin="00:02:28.982" end="00:02:30.218">undetected.</tt:p>
+            <tt:p begin="00:02:30.251" end="00:02:31.885">KRIEGER: Oh, you were serious?</tt:p>
+            <tt:p begin="00:02:31.919" end="00:02:34.322">MALORY: Wh-? God! Dammit!</tt:p>
+            <tt:p begin="00:02:34.355" end="00:02:35.389">KRIEGER: Sometimes it's hard</tt:p>
+            <tt:p begin="00:02:35.423" end="00:02:36.624">to tell with you!</tt:p>
+            <tt:p begin="00:02:36.657" end="00:02:37.558">MALORY: And since Carol insists</tt:p>
+            <tt:p begin="00:02:37.591" end="00:02:39.393">on keeping Ms. Gillette here</tt:p>
+            <tt:p begin="00:02:39.427" end="00:02:40.694">as a voice coach...</tt:p>
+            <tt:p begin="00:02:40.728" end="00:02:42.396">CHERYL/CAROL: Do, re, mi,</tt:p>
+            <tt:p begin="00:02:42.430" end="00:02:46.200">fa, so, la, teeeeee!</tt:p>
+            <tt:p begin="00:02:46.234" end="00:02:48.636">GILLETTE: No no no no no!</tt:p>
+            <tt:p begin="00:02:48.669" end="00:02:49.637">Again!</tt:p>
+            <tt:p begin="00:02:49.670" end="00:02:51.472">CHERYL/CAROL: Do -</tt:p>
+            <tt:p begin="00:02:51.505" end="00:02:52.240">ARCHER: And also</tt:p>
+            <tt:p begin="00:02:52.273" end="00:02:53.173">since he's crippled...</tt:p>
+            <tt:p begin="00:02:53.207" end="00:02:53.874">MALORY: And also since</tt:p>
+            <tt:p begin="00:02:53.907" end="00:02:54.742">he's crippled, Pam --</tt:p>
+            <tt:p begin="00:02:54.775" end="00:02:57.578">[ BRAWMP! ]</tt:p>
+            <tt:p begin="00:02:57.611" end="00:02:59.980">MALORY: will be going with you.</tt:p>
+            <tt:p begin="00:03:00.013" end="00:03:01.081">PAM: Kinda like the third</tt:p>
+            <tt:p begin="00:03:01.114" end="00:03:03.484">Musketeer, huh? !</tt:p>
+            <tt:p begin="00:03:03.517" end="00:03:05.719">MALORY: Kinda.</tt:p>
+            <tt:p begin="00:03:05.753" end="00:03:07.488">ARCHER: Hey Pam, relax, breathe</tt:p>
+            <tt:p begin="00:03:07.521" end="00:03:09.223">you're doing fine...</tt:p>
+            <tt:p begin="00:03:09.257" end="00:03:10.391">But since that, um,</tt:p>
+            <tt:p begin="00:03:10.424" end="00:03:12.426">special &quot;plaster&quot; in your cast</tt:p>
+            <tt:p begin="00:03:12.460" end="00:03:13.927">can totally be absorbed through</tt:p>
+            <tt:p begin="00:03:13.961" end="00:03:14.762">the skin,</tt:p>
+            <tt:p begin="00:03:14.795" end="00:03:16.397">you're probably gonna wanna try</tt:p>
+            <tt:p begin="00:03:16.430" end="00:03:18.198">to minimize the sweating.</tt:p>
+            <tt:p begin="00:03:18.232" end="00:03:19.567">Yeah, just think cool thoughts.</tt:p>
+            <tt:p begin="00:03:19.600" end="00:03:20.734">Like eating mint</tt:p>
+            <tt:p begin="00:03:20.768" end="00:03:22.603">chocolate chip ice cream.</tt:p>
+            <tt:p begin="00:03:22.636" end="00:03:26.940">In your refrigerated drawer.</tt:p>
+            <tt:p begin="00:03:26.974" end="00:03:29.710">At the morgue.</tt:p>
+            <tt:p begin="00:04:10.818" end="00:04:12.052">CHERYL/CAROL: Do, re, mi, fa --</tt:p>
+            <tt:p begin="00:04:12.085" end="00:04:14.655">GILLETTE: No! Again!</tt:p>
+            <tt:p begin="00:04:14.688" end="00:04:16.123">MALORY: My God,</tt:p>
+            <tt:p begin="00:04:16.156" end="00:04:17.391">how I envy the deaf.</tt:p>
+            <tt:p begin="00:04:17.425" end="00:04:18.459">I hope you're a better lawyer</tt:p>
+            <tt:p begin="00:04:18.492" end="00:04:19.827">than she is a singer.</tt:p>
+            <tt:p begin="00:04:19.860" end="00:04:21.329">CYRIL: I'd have to be.</tt:p>
+            <tt:p begin="00:04:21.362" end="00:04:22.496">And I will be,</tt:p>
+            <tt:p begin="00:04:22.530" end="00:04:23.497">I'm pretty darn excited</tt:p>
+            <tt:p begin="00:04:23.531" end="00:04:24.832">to be practicing law again.</tt:p>
+            <tt:p begin="00:04:24.865" end="00:04:25.966">I mean, hopefully I won't have</tt:p>
+            <tt:p begin="00:04:25.999" end="00:04:26.934">to defend anybody in court,</tt:p>
+            <tt:p begin="00:04:26.967" end="00:04:27.801">but --</tt:p>
+            <tt:p begin="00:04:27.835" end="00:04:28.769">MALORY: But there's always</tt:p>
+            <tt:p begin="00:04:28.802" end="00:04:29.503">a district attorney</tt:p>
+            <tt:p begin="00:04:29.537" end="00:04:30.270">to blackmail,</tt:p>
+            <tt:p begin="00:04:30.304" end="00:04:31.171">a witness to coerce,</tt:p>
+            <tt:p begin="00:04:31.204" end="00:04:32.172">a judge to bribe...</tt:p>
+            <tt:p begin="00:04:32.205" end="00:04:33.006">CYRIL: Bribe with what?</tt:p>
+            <tt:p begin="00:04:33.040" end="00:04:33.974">The government seized the</tt:p>
+            <tt:p begin="00:04:34.007" end="00:04:35.943">ISIS accounts, we're broke.</tt:p>
+            <tt:p begin="00:04:35.976" end="00:04:37.110">MALORY: Hopefully not for long.</tt:p>
+            <tt:p begin="00:04:37.144" end="00:04:38.412">And when that drug money</tt:p>
+            <tt:p begin="00:04:38.446" end="00:04:39.513">starts pouring in,</tt:p>
+            <tt:p begin="00:04:39.547" end="00:04:40.348">you'll be in charge of</tt:p>
+            <tt:p begin="00:04:40.381" end="00:04:42.516">laundering.</tt:p>
+            <tt:p begin="00:04:42.550" end="00:04:43.150">CYRIL: I'll start looking</tt:p>
+            <tt:p begin="00:04:43.183" end="00:04:44.084">for a laundromat.</tt:p>
+            <tt:p begin="00:04:44.117" end="00:04:44.752">MALORY: Wh-?</tt:p>
+            <tt:p begin="00:04:44.785" end="00:04:47.755">Money laundering, you ass!</tt:p>
+            <tt:p begin="00:04:47.788" end="00:04:49.323">Oh, you mean as a front,</tt:p>
+            <tt:p begin="00:04:49.357" end="00:04:50.257">because a laundromat</tt:p>
+            <tt:p begin="00:04:50.290" end="00:04:53.160">is a cash-based business.</tt:p>
+            <tt:p begin="00:04:53.193" end="00:04:54.662">Why don't I just leave that</tt:p>
+            <tt:p begin="00:04:54.695" end="00:04:55.596">whole side of the organization</tt:p>
+            <tt:p begin="00:04:55.629" end="00:04:56.930">to you?</tt:p>
+            <tt:p begin="00:04:56.964" end="00:04:58.265">CYRIL: Only if you promise</tt:p>
+            <tt:p begin="00:04:58.298" end="00:05:00.133">to periodically micromanage it.</tt:p>
+            <tt:p begin="00:05:00.167" end="00:05:01.702">And emasculate me.</tt:p>
+            <tt:p begin="00:05:01.735" end="00:05:02.870">MALORY: Cyril,</tt:p>
+            <tt:p begin="00:05:02.903" end="00:05:03.671">I would have thought</tt:p>
+            <tt:p begin="00:05:03.704" end="00:05:06.807">that goes without saying.</tt:p>
+            <tt:p begin="00:05:06.840" end="00:05:07.541">ARCHER: Ugh!</tt:p>
+            <tt:p begin="00:05:07.575" end="00:05:09.142">It smells like a skunk ape!</tt:p>
+            <tt:p begin="00:05:09.176" end="00:05:09.977">LANA: Yeah,</tt:p>
+            <tt:p begin="00:05:10.010" end="00:05:10.711">I'm hoping the mattresses</tt:p>
+            <tt:p begin="00:05:10.744" end="00:05:12.179">are just mildewy, and not...</tt:p>
+            <tt:p begin="00:05:12.212" end="00:05:14.548">Mildewy and dead-hookery.</tt:p>
+            <tt:p begin="00:05:14.582" end="00:05:15.516">ARCHER: No, not the room.</tt:p>
+            <tt:p begin="00:05:15.549" end="00:05:16.316">These.</tt:p>
+            <tt:p begin="00:05:16.350" end="00:05:17.618">PAM: Casts smell bad when</tt:p>
+            <tt:p begin="00:05:17.651" end="00:05:18.218">you take 'em off it's a</tt:p>
+            <tt:p begin="00:05:18.251" end="00:05:19.720">thing people know about!</tt:p>
+            <tt:p begin="00:05:19.753" end="00:05:20.854">ARCHER: Yeah after six weeks,</tt:p>
+            <tt:p begin="00:05:20.888" end="00:05:22.289">not six hours!</tt:p>
+            <tt:p begin="00:05:22.322" end="00:05:23.624">LANA: So listen,</tt:p>
+            <tt:p begin="00:05:23.657" end="00:05:24.392">about this deal...</tt:p>
+            <tt:p begin="00:05:24.425" end="00:05:25.158">ARCHER: Hang on.</tt:p>
+            <tt:p begin="00:05:25.192" end="00:05:27.828">Pam, chop chop, torso!</tt:p>
+            <tt:p begin="00:05:27.861" end="00:05:29.797">Ugh, this smells like a kennel,</tt:p>
+            <tt:p begin="00:05:29.830" end="00:05:31.465">but for dogs that are poor.</tt:p>
+            <tt:p begin="00:05:31.499" end="00:05:32.065">LANA: Archer!</tt:p>
+            <tt:p begin="00:05:32.099" end="00:05:33.033">ARCHER: What, smell it.</tt:p>
+            <tt:p begin="00:05:33.066" end="00:05:34.301">LANA: Shut up, look</tt:p>
+            <tt:p begin="00:05:34.334" end="00:05:35.302">your mother's got the time</tt:p>
+            <tt:p begin="00:05:35.335" end="00:05:36.570">in here, the place,</tt:p>
+            <tt:p begin="00:05:36.604" end="00:05:37.371">price per kilo...</tt:p>
+            <tt:p begin="00:05:37.405" end="00:05:38.406">But there's nothing</tt:p>
+            <tt:p begin="00:05:38.439" end="00:05:39.407">about her contact,</tt:p>
+            <tt:p begin="00:05:39.440" end="00:05:40.073">no picture,</tt:p>
+            <tt:p begin="00:05:40.107" end="00:05:41.174">not even a name?</tt:p>
+            <tt:p begin="00:05:41.208" end="00:05:42.510">What if this &quot;person&quot; is</tt:p>
+            <tt:p begin="00:05:42.543" end="00:05:43.811">really a biker gang?</tt:p>
+            <tt:p begin="00:05:43.844" end="00:05:44.545">ARCHER: Who gives a shit?</tt:p>
+            <tt:p begin="00:05:44.578" end="00:05:45.413">Hang on.</tt:p>
+            <tt:p begin="00:05:45.446" end="00:05:46.514">Legs!</tt:p>
+            <tt:p begin="00:05:46.547" end="00:05:47.881">Lana, you and I, more me,</tt:p>
+            <tt:p begin="00:05:47.915" end="00:05:49.182">were two of the best</tt:p>
+            <tt:p begin="00:05:49.216" end="00:05:50.083">secret agents in the</tt:p>
+            <tt:p begin="00:05:50.117" end="00:05:50.751">world...</tt:p>
+            <tt:p begin="00:05:50.784" end="00:05:51.685">LANA: We were rogues.</tt:p>
+            <tt:p begin="00:05:51.719" end="00:05:52.486">ARCHER: Potato, puh-treason,</tt:p>
+            <tt:p begin="00:05:52.520" end="00:05:53.521">whatever, but we've been</tt:p>
+            <tt:p begin="00:05:53.554" end="00:05:54.922">up against terrorists,</tt:p>
+            <tt:p begin="00:05:54.955" end="00:05:56.590">assassins, the KGB,</tt:p>
+            <tt:p begin="00:05:56.624" end="00:05:58.659">the IRA remember, North Korea,</tt:p>
+            <tt:p begin="00:05:58.692" end="00:06:01.429">cyborgs, help me out...</tt:p>
+            <tt:p begin="00:06:01.462" end="00:06:03.163">LANA: Space pirates...</tt:p>
+            <tt:p begin="00:06:03.196" end="00:06:04.732">ARCHER: Oh my God, I forgot</tt:p>
+            <tt:p begin="00:06:04.765" end="00:06:05.599">about the space pirates!</tt:p>
+            <tt:p begin="00:06:05.633" end="00:06:06.867">But the point is,</tt:p>
+            <tt:p begin="00:06:06.900" end="00:06:07.935">we are highly trained</tt:p>
+            <tt:p begin="00:06:07.968" end="00:06:09.036">covert operatives with an</tt:p>
+            <tt:p begin="00:06:09.069" end="00:06:10.103">extremely dangerous set</tt:p>
+            <tt:p begin="00:06:10.137" end="00:06:11.371">of skills --</tt:p>
+            <tt:p begin="00:06:11.405" end="00:06:13.206">Pam, legs!</tt:p>
+            <tt:p begin="00:06:13.240" end="00:06:13.941">-- and since the government</tt:p>
+            <tt:p begin="00:06:13.974" end="00:06:15.075">has unjustly accused us</tt:p>
+            <tt:p begin="00:06:15.108" end="00:06:16.109">of treason,</tt:p>
+            <tt:p begin="00:06:16.143" end="00:06:16.944">we are now forced to transfer</tt:p>
+            <tt:p begin="00:06:16.977" end="00:06:19.547">those skills from espionage</tt:p>
+            <tt:p begin="00:06:19.580" end="00:06:20.948">to criminal activity,</tt:p>
+            <tt:p begin="00:06:20.981" end="00:06:22.382">kind of like the A-Team,</tt:p>
+            <tt:p begin="00:06:22.416" end="00:06:23.717">but we sell drugs.</tt:p>
+            <tt:p begin="00:06:23.751" end="00:06:24.585">LANA: And you're okay</tt:p>
+            <tt:p begin="00:06:24.618" end="00:06:25.218">with that.</tt:p>
+            <tt:p begin="00:06:25.252" end="00:06:26.219">ARCHER: Are you not? !</tt:p>
+            <tt:p begin="00:06:26.253" end="00:06:27.688">Lana, it's the A-Team</tt:p>
+            <tt:p begin="00:06:27.721" end="00:06:29.022">meets Scarface!</tt:p>
+            <tt:p begin="00:06:29.056" end="00:06:31.124">That makes me...</tt:p>
+            <tt:p begin="00:06:31.158" end="00:06:32.292">LANA: Hannibal Montana?</tt:p>
+            <tt:p begin="00:06:32.325" end="00:06:33.961">ARCHER: What the--? Pam? !</tt:p>
+            <tt:p begin="00:06:33.994" end="00:06:35.228">Goddammit, tell me you're not --</tt:p>
+            <tt:p begin="00:06:35.262" end="00:06:39.900">Pam !</tt:p>
+            <tt:p begin="00:06:39.933" end="00:06:43.737">Stop eating it, dammit !</tt:p>
+            <tt:p begin="00:06:43.771" end="00:06:45.873">LANA: Pam?</tt:p>
+            <tt:p begin="00:06:45.906" end="00:06:46.707">Archer?</tt:p>
+            <tt:p begin="00:06:46.740" end="00:06:47.641">PAM: He's okay!</tt:p>
+            <tt:p begin="00:06:47.675" end="00:06:48.576">He's okay don't come in here</tt:p>
+            <tt:p begin="00:06:48.609" end="00:06:50.478">don't come in here he's okay!</tt:p>
+            <tt:p begin="00:06:50.511" end="00:06:53.447">LANA: Oh shit.</tt:p>
+            <tt:p begin="00:06:53.481" end="00:06:54.214">PAM: What,</tt:p>
+            <tt:p begin="00:06:54.247" end="00:07:02.790">I said don't come in here!</tt:p>
+            <tt:p begin="00:07:02.823" end="00:07:07.427">LANA: No, Leon!</tt:p>
+            <tt:p begin="00:07:11.799" end="00:07:12.800">LANA: No, I'm honestly</tt:p>
+            <tt:p begin="00:07:12.833" end="00:07:14.134">not judging you...</tt:p>
+            <tt:p begin="00:07:14.167" end="00:07:16.269">PAM: Really, so this super-judgy</tt:p>
+            <tt:p begin="00:07:16.303" end="00:07:17.337">feeling I'm feeling is just me</tt:p>
+            <tt:p begin="00:07:17.370" end="00:07:18.305">feeling like you're super-judgy</tt:p>
+            <tt:p begin="00:07:18.338" end="00:07:20.674">and that's me? !</tt:p>
+            <tt:p begin="00:07:20.708" end="00:07:22.309">LANA: So, um, are you hearing</tt:p>
+            <tt:p begin="00:07:22.342" end="00:07:23.811">your words?</tt:p>
+            <tt:p begin="00:07:23.844" end="00:07:25.579">PAM: Are you shitting me?</tt:p>
+            <tt:p begin="00:07:25.613" end="00:07:26.480">I can't hear anything over</tt:p>
+            <tt:p begin="00:07:26.514" end="00:07:27.815">my har --</tt:p>
+            <tt:p begin="00:07:27.848" end="00:07:31.351">tbeat, yerp,</tt:p>
+            <tt:p begin="00:07:31.384" end="00:07:32.620">fired back up boop!</tt:p>
+            <tt:p begin="00:07:32.653" end="00:07:34.522">LANA: It's just we're like,</tt:p>
+            <tt:p begin="00:07:34.555" end="00:07:35.656">two days into this whole</tt:p>
+            <tt:p begin="00:07:35.689" end="00:07:36.690">drug cartel thing,</tt:p>
+            <tt:p begin="00:07:36.724" end="00:07:37.658">and you're already</tt:p>
+            <tt:p begin="00:07:37.691" end="00:07:39.026">addicted to cocaine.</tt:p>
+            <tt:p begin="00:07:39.059" end="00:07:41.929">PAM: Oh okay so I should</tt:p>
+            <tt:p begin="00:07:41.962" end="00:07:42.996">take life advice from</tt:p>
+            <tt:p begin="00:07:43.030" end="00:07:47.668">an unwed mother? !</tt:p>
+            <tt:p begin="00:07:47.701" end="00:07:52.706">With a dirty car? !</tt:p>
+            <tt:p begin="00:07:57.477" end="00:07:59.312">PAM: Is he dead?</tt:p>
+            <tt:p begin="00:07:59.346" end="00:08:01.148">LANA: No.</tt:p>
+            <tt:p begin="00:08:01.181" end="00:08:02.115">PAM: He looks dead.</tt:p>
+            <tt:p begin="00:08:02.149" end="00:08:03.517">LANA: He's not.</tt:p>
+            <tt:p begin="00:08:03.551" end="00:08:04.552">PAM: I think he's dead.</tt:p>
+            <tt:p begin="00:08:04.585" end="00:08:05.485">LANA: Pam?</tt:p>
+            <tt:p begin="00:08:05.519" end="00:08:06.319">LATINO VOICE: Mis amigas,</tt:p>
+            <tt:p begin="00:08:06.353" end="00:08:07.187">por favor!</tt:p>
+            <tt:p begin="00:08:07.220" end="00:08:08.055">ARCHER: Unghh...</tt:p>
+            <tt:p begin="00:08:08.088" end="00:08:08.856">PAM: Is he a zombie?</tt:p>
+            <tt:p begin="00:08:08.889" end="00:08:09.890">LANA: Pam!</tt:p>
+            <tt:p begin="00:08:09.923" end="00:08:11.158">LATINO VOICE: Sterling?</tt:p>
+            <tt:p begin="00:08:11.191" end="00:08:13.060">Sterling can you hear me?</tt:p>
+            <tt:p begin="00:08:13.093" end="00:08:13.727">ARCHER: Ramón? !</tt:p>
+            <tt:p begin="00:08:13.761" end="00:08:15.028">RAMON: Sí, mi amigo,</tt:p>
+            <tt:p begin="00:08:15.062" end="00:08:16.229">soy yo!</tt:p>
+            <tt:p begin="00:08:16.263" end="00:08:16.964">LANA: Wh-?</tt:p>
+            <tt:p begin="00:08:16.997" end="00:08:18.566">You two know each other? !</tt:p>
+            <tt:p begin="00:08:18.599" end="00:08:20.500">ARCHER: Sh-shut your h-hole,</tt:p>
+            <tt:p begin="00:08:20.534" end="00:08:21.368">am I d-dying?</tt:p>
+            <tt:p begin="00:08:21.401" end="00:08:23.303">RAMON: No, amigo, estas bien!</tt:p>
+            <tt:p begin="00:08:23.336" end="00:08:24.137">ARCHER: But I'm s-so,</tt:p>
+            <tt:p begin="00:08:24.171" end="00:08:26.540">c-co -- oh.</tt:p>
+            <tt:p begin="00:08:26.574" end="00:08:27.374">Um...</tt:p>
+            <tt:p begin="00:08:27.407" end="00:08:28.375">RAMON: She insisted.</tt:p>
+            <tt:p begin="00:08:28.408" end="00:08:29.342">PAM: So we could unfreeze</tt:p>
+            <tt:p begin="00:08:29.376" end="00:08:30.210">you in the future,</tt:p>
+            <tt:p begin="00:08:30.243" end="00:08:31.044">once medical science had</tt:p>
+            <tt:p begin="00:08:31.078" end="00:08:32.245">developed a cure for...</tt:p>
+            <tt:p begin="00:08:32.279" end="00:08:33.146">headsmash.</tt:p>
+            <tt:p begin="00:08:33.180" end="00:08:34.314">ARCHER: And you...</tt:p>
+            <tt:p begin="00:08:34.347" end="00:08:35.315">LANA: Acquiesced.</tt:p>
+            <tt:p begin="00:08:35.348" end="00:08:36.183">She's all...</tt:p>
+            <tt:p begin="00:08:36.216" end="00:08:38.151">coke-strong.</tt:p>
+            <tt:p begin="00:08:38.185" end="00:08:38.919">RAMON: So yes,</tt:p>
+            <tt:p begin="00:08:38.952" end="00:08:40.220">I am your mother's contact.</tt:p>
+            <tt:p begin="00:08:40.253" end="00:08:41.321">After Fidel's hitmen try</tt:p>
+            <tt:p begin="00:08:41.354" end="00:08:42.222">to kill me --</tt:p>
+            <tt:p begin="00:08:42.255" end="00:08:43.557">ARCHER: Ugh, Charles and Rudi,</tt:p>
+            <tt:p begin="00:08:43.591" end="00:08:44.658">those dicks.</tt:p>
+            <tt:p begin="00:08:44.692" end="00:08:45.225">I wonder what ever happened</tt:p>
+            <tt:p begin="00:08:45.258" end="00:08:45.926">to --</tt:p>
+            <tt:p begin="00:08:45.959" end="00:08:47.027">RAMON: Anyway! I go into hiding,</tt:p>
+            <tt:p begin="00:08:47.060" end="00:08:48.228">change my name,</tt:p>
+            <tt:p begin="00:08:48.261" end="00:08:49.262">buy this business with some</tt:p>
+            <tt:p begin="00:08:49.296" end="00:08:50.598">little money I borrow from Mamá,</tt:p>
+            <tt:p begin="00:08:50.631" end="00:08:51.565">and --</tt:p>
+            <tt:p begin="00:08:51.599" end="00:08:52.833">ARCHER: Hey, how is your mother?</tt:p>
+            <tt:p begin="00:08:52.866" end="00:08:54.534">RAMON: Pff, como siempre.</tt:p>
+            <tt:p begin="00:08:54.568" end="00:08:55.836">Y la tuya?</tt:p>
+            <tt:p begin="00:08:55.869" end="00:08:57.204">CHERYL/CAROL: Do, re --</tt:p>
+            <tt:p begin="00:08:57.237" end="00:08:58.271">[ BLAM BLAM BLAM BLAM! ]</tt:p>
+            <tt:p begin="00:08:58.305" end="00:08:59.039">CHERYL/CAROL: Jesus!</tt:p>
+            <tt:p begin="00:08:59.072" end="00:09:00.608">Alright already!</tt:p>
+            <tt:p begin="00:09:00.641" end="00:09:02.042">MALORY: Thank you.</tt:p>
+            <tt:p begin="00:09:02.075" end="00:09:03.110">ARCHER: Como siempre.</tt:p>
+            <tt:p begin="00:09:03.143" end="00:09:04.845">RAMON: So, she telephone me,</tt:p>
+            <tt:p begin="00:09:04.878" end="00:09:06.413">ask if I know some maybe people,</tt:p>
+            <tt:p begin="00:09:06.446" end="00:09:07.380">I say yes,</tt:p>
+            <tt:p begin="00:09:07.414" end="00:09:08.582">I know some maybe people,</tt:p>
+            <tt:p begin="00:09:08.616" end="00:09:09.783">and here we are.</tt:p>
+            <tt:p begin="00:09:09.817" end="00:09:10.584">LANA: And, sorry,</tt:p>
+            <tt:p begin="00:09:10.618" end="00:09:11.551">you're getting out of this</tt:p>
+            <tt:p begin="00:09:11.585" end="00:09:12.285">maybe what?</tt:p>
+            <tt:p begin="00:09:12.319" end="00:09:13.086">ARCHER: Lana!</tt:p>
+            <tt:p begin="00:09:13.120" end="00:09:14.955">He's helping a dear friend!</tt:p>
+            <tt:p begin="00:09:14.988" end="00:09:16.590">RAMON: Sí, claro.</tt:p>
+            <tt:p begin="00:09:16.624" end="00:09:18.058">And also how you say,</tt:p>
+            <tt:p begin="00:09:18.091" end="00:09:19.760">a finder's fee?</tt:p>
+            <tt:p begin="00:09:19.793" end="00:09:21.028">Five thousand a kilo.</tt:p>
+            <tt:p begin="00:09:21.061" end="00:09:22.062">ARCHER: Oh.</tt:p>
+            <tt:p begin="00:09:22.095" end="00:09:23.263">RAMON: Because I want to buy</tt:p>
+            <tt:p begin="00:09:23.296" end="00:09:24.431">that place...</tt:p>
+            <tt:p begin="00:09:24.464" end="00:09:25.933">EVERYBODY: [ Gasps ]</tt:p>
+            <tt:p begin="00:09:25.966" end="00:09:27.267">RAMON: Nice, eh?</tt:p>
+            <tt:p begin="00:09:27.300" end="00:09:28.268">Is the best club in Miami.</tt:p>
+            <tt:p begin="00:09:28.301" end="00:09:29.937">ARCHER: Uh, duh!</tt:p>
+            <tt:p begin="00:09:29.970" end="00:09:30.570">You need investors? !</tt:p>
+            <tt:p begin="00:09:30.604" end="00:09:31.772">LANA: Archer, what're you --</tt:p>
+            <tt:p begin="00:09:31.805" end="00:09:32.706">ARCHER: Lana, we're gonna need</tt:p>
+            <tt:p begin="00:09:32.740" end="00:09:33.540">an office in Miami,</tt:p>
+            <tt:p begin="00:09:33.573" end="00:09:34.875">and that office is gonna need</tt:p>
+            <tt:p begin="00:09:34.908" end="00:09:36.576">to be a red leather banquette!</tt:p>
+            <tt:p begin="00:09:36.610" end="00:09:37.611">RAMON: Dios mío,</tt:p>
+            <tt:p begin="00:09:37.645" end="00:09:39.212">that would be increíble!</tt:p>
+            <tt:p begin="00:09:39.246" end="00:09:41.381">You and me, together at last...</tt:p>
+            <tt:p begin="00:09:41.414" end="00:09:42.415">LANA: Implying that you two</tt:p>
+            <tt:p begin="00:09:42.449" end="00:09:44.317">haven't ever, cough,</tt:p>
+            <tt:p begin="00:09:44.351" end="00:09:46.119">been together, or...?</tt:p>
+            <tt:p begin="00:09:46.153" end="00:09:47.554">ARCHER: It was a mission, Lana!</tt:p>
+            <tt:p begin="00:09:47.587" end="00:09:48.656">Ramón's Latino,</tt:p>
+            <tt:p begin="00:09:48.689" end="00:09:49.589">so he's comfortable</tt:p>
+            <tt:p begin="00:09:49.623" end="00:09:50.791">expressing affection!</tt:p>
+            <tt:p begin="00:09:50.824" end="00:09:52.159">It doesn't make him gay!</tt:p>
+            <tt:p begin="00:09:52.192" end="00:09:52.893">RAMON: Although I am.</tt:p>
+            <tt:p begin="00:09:52.926" end="00:09:53.961">ARCHER: So go ahead, Lana,</tt:p>
+            <tt:p begin="00:09:53.994" end="00:09:55.095">judge away!</tt:p>
+            <tt:p begin="00:09:55.128" end="00:09:55.963">PAM: Right?</tt:p>
+            <tt:p begin="00:09:55.996" end="00:09:56.964">LANA: I -- Pam shut up,</tt:p>
+            <tt:p begin="00:09:56.997" end="00:09:58.065">and Archer you know better,</tt:p>
+            <tt:p begin="00:09:58.098" end="00:09:59.466">I don't care about that.</tt:p>
+            <tt:p begin="00:09:59.499" end="00:10:00.834">What I do care about are</tt:p>
+            <tt:p begin="00:10:00.868" end="00:10:01.902">these buyers of yours, Ramón.</tt:p>
+            <tt:p begin="00:10:01.935" end="00:10:03.236">Who are they?</tt:p>
+            <tt:p begin="00:10:03.270" end="00:10:04.638">RAMON: Just some guys.</tt:p>
+            <tt:p begin="00:10:04.672" end="00:10:06.139">We'll go see them, they're cool,</tt:p>
+            <tt:p begin="00:10:06.173" end="00:10:07.140">dun't worry about it.</tt:p>
+            <tt:p begin="00:10:07.174" end="00:10:08.475">LANA: Kinda feel like I should.</tt:p>
+            <tt:p begin="00:10:08.508" end="00:10:09.743">ARCHER: Lana, Ramón vouches</tt:p>
+            <tt:p begin="00:10:09.777" end="00:10:11.578">for them, I vouch for him,</tt:p>
+            <tt:p begin="00:10:11.611" end="00:10:12.946">and you're embarrassing me!</tt:p>
+            <tt:p begin="00:10:12.980" end="00:10:13.781">LANA: I am.</tt:p>
+            <tt:p begin="00:10:13.814" end="00:10:17.284">PAM: Kachoooo!</tt:p>
+            <tt:p begin="00:10:17.317" end="00:10:19.019">LANA: That's flour, by the way.</tt:p>
+            <tt:p begin="00:10:19.052" end="00:10:20.688">PAM: I know.</tt:p>
+            <tt:p begin="00:10:20.721" end="00:10:21.488">CHERYL/CAROL: Don't you think</tt:p>
+            <tt:p begin="00:10:21.521" end="00:10:23.290">I know that? !</tt:p>
+            <tt:p begin="00:10:23.323" end="00:10:24.658">I know it's bad,</tt:p>
+            <tt:p begin="00:10:24.692" end="00:10:26.326">I'm not ear-crippled!</tt:p>
+            <tt:p begin="00:10:26.359" end="00:10:27.527">GILLETTE: Well,</tt:p>
+            <tt:p begin="00:10:27.560" end="00:10:28.829">then maybe being a c --</tt:p>
+            <tt:p begin="00:10:28.862" end="00:10:30.197">CHERYL/CAROL: Not a,</tt:p>
+            <tt:p begin="00:10:30.230" end="00:10:31.364">the number one country music</tt:p>
+            <tt:p begin="00:10:31.398" end="00:10:32.666">singer in all of America,</tt:p>
+            <tt:p begin="00:10:32.700" end="00:10:33.701">and some of Canada!</tt:p>
+            <tt:p begin="00:10:33.734" end="00:10:34.334">GILLETTE: Well,</tt:p>
+            <tt:p begin="00:10:34.367" end="00:10:35.335">what if maybe that goal's</tt:p>
+            <tt:p begin="00:10:35.368" end="00:10:37.004">not realistic?</tt:p>
+            <tt:p begin="00:10:37.037" end="00:10:40.140">Or even unlaughable?</tt:p>
+            <tt:p begin="00:10:40.173" end="00:10:42.509">CHERYL/CAROL: Get out!</tt:p>
+            <tt:p begin="00:10:42.542" end="00:10:43.276">ARCHER: Wait, seriously?</tt:p>
+            <tt:p begin="00:10:43.310" end="00:10:43.944">RAMON: Yes,</tt:p>
+            <tt:p begin="00:10:43.977" end="00:10:44.945">they were very clear,</tt:p>
+            <tt:p begin="00:10:44.978" end="00:10:45.779">no guns.</tt:p>
+            <tt:p begin="00:10:45.813" end="00:10:46.379">ARCHER: But --</tt:p>
+            <tt:p begin="00:10:46.413" end="00:10:47.514">RAMON: I gave mi palabra.</tt:p>
+            <tt:p begin="00:10:47.547" end="00:10:48.448">ARCHER: Right, sorry, I --</tt:p>
+            <tt:p begin="00:10:48.481" end="00:10:49.349">LANA: Archer.</tt:p>
+            <tt:p begin="00:10:49.382" end="00:10:49.883">ARCHER: Lana he gave</tt:p>
+            <tt:p begin="00:10:49.917" end="00:10:52.219">his palabra!</tt:p>
+            <tt:p begin="00:10:52.252" end="00:10:53.020">LANA: If anything goes wrong</tt:p>
+            <tt:p begin="00:10:53.053" end="00:10:55.022">I'm holding you responsible.</tt:p>
+            <tt:p begin="00:10:55.055" end="00:11:01.494">ARCHER: Yeah, that'll teach me.</tt:p>
+            <tt:p begin="00:11:01.528" end="00:11:02.495">CYRIL: Tough day, huh?</tt:p>
+            <tt:p begin="00:11:02.529" end="00:11:03.396">GILLETTE: The high point</tt:p>
+            <tt:p begin="00:11:03.430" end="00:11:04.564">was getting shot at.</tt:p>
+            <tt:p begin="00:11:04.597" end="00:11:05.999">CYRIL: It's so weird, I mean,</tt:p>
+            <tt:p begin="00:11:06.033" end="00:11:07.167">she's a billionaire,</tt:p>
+            <tt:p begin="00:11:07.200" end="00:11:08.335">she could be anything,</tt:p>
+            <tt:p begin="00:11:08.368" end="00:11:09.369">a world traveler,</tt:p>
+            <tt:p begin="00:11:09.402" end="00:11:10.303">an art collector...</tt:p>
+            <tt:p begin="00:11:10.337" end="00:11:11.071">GILLETTE: A transatlantic</tt:p>
+            <tt:p begin="00:11:11.104" end="00:11:12.672">goddamn balloonist!</tt:p>
+            <tt:p begin="00:11:12.706" end="00:11:14.207">CYRIL: So, why does she want</tt:p>
+            <tt:p begin="00:11:14.241" end="00:11:16.143">to be a country singer so badly?</tt:p>
+            <tt:p begin="00:11:16.176" end="00:11:17.711">Besides being clinically insane.</tt:p>
+            <tt:p begin="00:11:17.745" end="00:11:18.846">GILLETTE: Yeah.</tt:p>
+            <tt:p begin="00:11:18.879" end="00:11:22.716">Here's to the crazy ones.</tt:p>
+            <tt:p begin="00:11:22.750" end="00:11:27.020">CYRIL: Um...</tt:p>
+            <tt:p begin="00:11:27.054" end="00:11:28.055">RAMON: Ugh, díos mio,</tt:p>
+            <tt:p begin="00:11:28.088" end="00:11:29.022">that stinks!</tt:p>
+            <tt:p begin="00:11:29.056" end="00:11:31.558">PAM: It's not that bad!</tt:p>
+            <tt:p begin="00:11:31.591" end="00:11:35.195">I mean it's not great, but...</tt:p>
+            <tt:p begin="00:11:35.228" end="00:11:36.696">This is still some primo shit.</tt:p>
+            <tt:p begin="00:11:36.730" end="00:11:38.031">ARCHER: Pam! Quit eating</tt:p>
+            <tt:p begin="00:11:38.065" end="00:11:39.699">all the goddamn cocaine!</tt:p>
+            <tt:p begin="00:11:39.733" end="00:11:40.333">CHARLES: Yeah,</tt:p>
+            <tt:p begin="00:11:40.367" end="00:11:42.369">save some for us, bitches!</tt:p>
+            <tt:p begin="00:11:42.402" end="00:11:43.737">ARCHER: Charles and Rudi? !</tt:p>
+            <tt:p begin="00:11:43.771" end="00:11:45.072">LANA: Wait, the hitmen? !</tt:p>
+            <tt:p begin="00:11:45.105" end="00:11:46.673">RAMON: Tranquilo, tranquilo!</tt:p>
+            <tt:p begin="00:11:46.706" end="00:11:47.574">It's okay!</tt:p>
+            <tt:p begin="00:11:47.607" end="00:11:48.208">CHARLES: Yeah,</tt:p>
+            <tt:p begin="00:11:48.241" end="00:11:49.009">we're like BFF's now.</tt:p>
+            <tt:p begin="00:11:49.042" end="00:11:49.676">ARCHER: What? !</tt:p>
+            <tt:p begin="00:11:49.709" end="00:11:50.443">RAMON: Well...</tt:p>
+            <tt:p begin="00:11:50.477" end="00:11:51.178">CHARLES: Or whatever,</tt:p>
+            <tt:p begin="00:11:51.211" end="00:11:52.512">here's your fondue set, and...</tt:p>
+            <tt:p begin="00:11:52.545" end="00:11:54.047">was there only one blue fork?</tt:p>
+            <tt:p begin="00:11:54.081" end="00:11:54.948">ARCHER: What the hell? !</tt:p>
+            <tt:p begin="00:11:54.982" end="00:11:56.183">CHARLES: And how is</tt:p>
+            <tt:p begin="00:11:56.216" end="00:11:56.950">that tone necessary?</tt:p>
+            <tt:p begin="00:11:56.984" end="00:11:57.918">RUDI: Thank you.</tt:p>
+            <tt:p begin="00:11:57.951" end="00:11:58.752">CHARLES: It's a fork.</tt:p>
+            <tt:p begin="00:11:58.786" end="00:11:59.686">RAMON: And there were two</tt:p>
+            <tt:p begin="00:11:59.719" end="00:12:01.054">of each color and you know this</tt:p>
+            <tt:p begin="00:12:01.088" end="00:12:02.355">as well as me because we stood</tt:p>
+            <tt:p begin="00:12:02.389" end="00:12:04.057">in my kitchen and counted.</tt:p>
+            <tt:p begin="00:12:04.091" end="00:12:05.525">CHARLES: Well then I apologize,</tt:p>
+            <tt:p begin="00:12:05.558" end="00:12:06.426">and I'll be happy</tt:p>
+            <tt:p begin="00:12:06.459" end="00:12:07.761">to throw in another...</tt:p>
+            <tt:p begin="00:12:07.795" end="00:12:09.529">five dollars?</tt:p>
+            <tt:p begin="00:12:09.562" end="00:12:10.263">RAMON: Eighty dollars.</tt:p>
+            <tt:p begin="00:12:10.297" end="00:12:11.264">CHARLES: For a fork? !</tt:p>
+            <tt:p begin="00:12:11.298" end="00:12:12.766">RAMON: You can't buy only one</tt:p>
+            <tt:p begin="00:12:12.800" end="00:12:13.433">blue fork,</tt:p>
+            <tt:p begin="00:12:13.466" end="00:12:14.234">you have to buy the whole set!</tt:p>
+            <tt:p begin="00:12:14.267" end="00:12:15.635">CHARLES: Oh, that is such --</tt:p>
+            <tt:p begin="00:12:15.668" end="00:12:17.437">okay okay, ya know what?</tt:p>
+            <tt:p begin="00:12:17.470" end="00:12:18.271">Fine.</tt:p>
+            <tt:p begin="00:12:18.305" end="00:12:19.106">We'll call it one million</tt:p>
+            <tt:p begin="00:12:19.139" end="00:12:20.373">and eighty dollars!</tt:p>
+            <tt:p begin="00:12:20.407" end="00:12:20.974">RAMON: Well, there is a small</tt:p>
+            <tt:p begin="00:12:21.008" end="00:12:22.709">problem there.</tt:p>
+            <tt:p begin="00:12:22.742" end="00:12:23.777">CHARLES: What, we agreed</tt:p>
+            <tt:p begin="00:12:23.811" end="00:12:24.611">on fifty grand a kilo!</tt:p>
+            <tt:p begin="00:12:24.644" end="00:12:25.245">And fifty times twenty --</tt:p>
+            <tt:p begin="00:12:25.278" end="00:12:26.113">LANA: I think we're probably</tt:p>
+            <tt:p begin="00:12:26.146" end="00:12:26.814">a little closer to</tt:p>
+            <tt:p begin="00:12:26.847" end="00:12:28.816">nineteen and a half?</tt:p>
+            <tt:p begin="00:12:28.849" end="00:12:29.917">CHARLES: Okay, couple Q's,</tt:p>
+            <tt:p begin="00:12:29.950" end="00:12:30.884">I'd love some A's.</tt:p>
+            <tt:p begin="00:12:30.918" end="00:12:32.252">One, what the hell</tt:p>
+            <tt:p begin="00:12:32.285" end="00:12:33.153">is that thing?</tt:p>
+            <tt:p begin="00:12:33.186" end="00:12:34.754">ARCHER: We made a body cast</tt:p>
+            <tt:p begin="00:12:34.788" end="00:12:35.588">out of the coke.</tt:p>
+            <tt:p begin="00:12:35.622" end="00:12:36.323">RAMON: But I tested it,</tt:p>
+            <tt:p begin="00:12:36.356" end="00:12:37.624">it's very pure.</tt:p>
+            <tt:p begin="00:12:37.657" end="00:12:38.792">CHARLES: Mmkay, two,</tt:p>
+            <tt:p begin="00:12:38.826" end="00:12:40.460">how can you eat a pound of</tt:p>
+            <tt:p begin="00:12:40.493" end="00:12:41.461">cocaine and not be dead?</tt:p>
+            <tt:p begin="00:12:41.494" end="00:12:42.395">PAM: I've actually</tt:p>
+            <tt:p begin="00:12:42.429" end="00:12:44.664">never felt better!</tt:p>
+            <tt:p begin="00:12:44.697" end="00:12:45.632">I hope that lasts.</tt:p>
+            <tt:p begin="00:12:45.665" end="00:12:46.299">CHARLES: I'm sure it will,</tt:p>
+            <tt:p begin="00:12:46.333" end="00:12:47.400">okay here's the dilly</tt:p>
+            <tt:p begin="00:12:47.434" end="00:12:48.268">and the sweets.</tt:p>
+            <tt:p begin="00:12:48.301" end="00:12:49.502">We're gonna round that down</tt:p>
+            <tt:p begin="00:12:49.536" end="00:12:50.470">to nineteen kilos even,</tt:p>
+            <tt:p begin="00:12:50.503" end="00:12:51.404">so I'll just take back</tt:p>
+            <tt:p begin="00:12:51.438" end="00:12:51.972">fifty grand...</tt:p>
+            <tt:p begin="00:12:52.005" end="00:12:52.739">ARCHER: Way to go, Pam.</tt:p>
+            <tt:p begin="00:12:52.772" end="00:12:53.406">CHARLES: And since the coke's</tt:p>
+            <tt:p begin="00:12:53.440" end="00:12:54.307">in the shape of</tt:p>
+            <tt:p begin="00:12:54.341" end="00:12:55.142">a Poppin' Fresh costume,</tt:p>
+            <tt:p begin="00:12:55.175" end="00:12:56.009">and taintsweaty,</tt:p>
+            <tt:p begin="00:12:56.043" end="00:12:57.477">I'm taking off another fifty...</tt:p>
+            <tt:p begin="00:12:57.510" end="00:12:58.111">ARCHER: The hell you are!</tt:p>
+            <tt:p begin="00:12:58.145" end="00:12:58.812">CHARLES: Can I finish?</tt:p>
+            <tt:p begin="00:12:58.846" end="00:13:00.180">Can I finish?</tt:p>
+            <tt:p begin="00:13:00.213" end="00:13:01.248">Since Ramón gave his word</tt:p>
+            <tt:p begin="00:13:01.281" end="00:13:02.015">that you people</tt:p>
+            <tt:p begin="00:13:02.049" end="00:13:03.016">wouldn't bring any guns...</tt:p>
+            <tt:p begin="00:13:03.050" end="00:13:04.117">ARCHER: We didn't,</tt:p>
+            <tt:p begin="00:13:04.151" end="00:13:05.518">not even my underwear gun.</tt:p>
+            <tt:p begin="00:13:05.552" end="00:13:07.020">RAMON: I gave mi palabra.</tt:p>
+            <tt:p begin="00:13:07.054" end="00:13:08.288">CHARLES: Well that's just</tt:p>
+            <tt:p begin="00:13:08.321" end="00:13:08.922">terrific.</tt:p>
+            <tt:p begin="00:13:08.956" end="00:13:11.458">Because...</tt:p>
+            <tt:p begin="00:13:11.491" end="00:13:12.125">You dum-dums,</tt:p>
+            <tt:p begin="00:13:12.159" end="00:13:12.792">we're gonna go ahead and take</tt:p>
+            <tt:p begin="00:13:12.826" end="00:13:14.661">the cocaine and the money.</tt:p>
+            <tt:p begin="00:13:14.694" end="00:13:15.963">ARCHER: Goddammit.</tt:p>
+            <tt:p begin="00:13:15.996" end="00:13:17.464">LANA: And so, right about here</tt:p>
+            <tt:p begin="00:13:17.497" end="00:13:18.465">is the part where I hold</tt:p>
+            <tt:p begin="00:13:18.498" end="00:13:20.267">you responsible.</tt:p>
+            <tt:p begin="00:13:20.300" end="00:13:22.335">ARCHER: Oh my God the burden.</tt:p>
+            <tt:p begin="00:13:22.369" end="00:13:22.903">RUDI: Make sure</tt:p>
+            <tt:p begin="00:13:22.936" end="00:13:23.536">you take the fondue set</tt:p>
+            <tt:p begin="00:13:23.570" end="00:13:24.804">CHARLES: Can I finish? !</tt:p>
+            <tt:p begin="00:13:24.838" end="00:13:25.805">And I'll take the fondue set.</tt:p>
+            <tt:p begin="00:13:25.839" end="00:13:26.506">Because you were a total</tt:p>
+            <tt:p begin="00:13:26.539" end="00:13:28.475">b-hole about the fork.</tt:p>
+            <tt:p begin="00:13:28.508" end="00:13:31.611">It's not even real Le Creuset!</tt:p>
+            <tt:p begin="00:13:31.644" end="00:13:32.779">LANA: Ugh!</tt:p>
+            <tt:p begin="00:13:32.812" end="00:13:33.680">RAMON: Right?</tt:p>
+            <tt:p begin="00:13:33.713" end="00:13:34.181">Of course it is real.</tt:p>
+            <tt:p begin="00:13:34.214" end="00:13:34.848">ARCHER: Ramón?</tt:p>
+            <tt:p begin="00:13:34.882" end="00:13:35.548">RAMON: Just because it's from</tt:p>
+            <tt:p begin="00:13:35.582" end="00:13:36.483">the outlet store doesn't mean --</tt:p>
+            <tt:p begin="00:13:36.516" end="00:13:37.184">ARCHER: Ramón!</tt:p>
+            <tt:p begin="00:13:37.217" end="00:13:37.985">RAMON: What?</tt:p>
+            <tt:p begin="00:13:38.018" end="00:13:40.954">Sterling, are you angry with me?</tt:p>
+            <tt:p begin="00:13:40.988" end="00:13:42.022">Wait, you don't think this is</tt:p>
+            <tt:p begin="00:13:42.055" end="00:13:46.359">my fault? !</tt:p>
+            <tt:p begin="00:13:50.530" end="00:13:51.831">RAMON: Sterling, please!</tt:p>
+            <tt:p begin="00:13:51.865" end="00:13:53.233">This is loco!</tt:p>
+            <tt:p begin="00:13:53.266" end="00:13:54.301">ARCHER: No, Ramón,</tt:p>
+            <tt:p begin="00:13:54.334" end="00:13:55.502">getting my stolen money back</tt:p>
+            <tt:p begin="00:13:55.535" end="00:13:57.905">isn't loco, it's --</tt:p>
+            <tt:p begin="00:13:57.938" end="00:13:58.671">Wait, what's the word</tt:p>
+            <tt:p begin="00:13:58.705" end="00:13:59.739">for rational?</tt:p>
+            <tt:p begin="00:13:59.772" end="00:14:00.740">RAMON: Racional.</tt:p>
+            <tt:p begin="00:14:00.773" end="00:14:01.541">ARCHER: Goddammit.</tt:p>
+            <tt:p begin="00:14:01.574" end="00:14:02.675">LANA: What was loco</tt:p>
+            <tt:p begin="00:14:02.709" end="00:14:04.411">was trusting you!</tt:p>
+            <tt:p begin="00:14:04.444" end="00:14:06.379">RAMON: How can you say that? !</tt:p>
+            <tt:p begin="00:14:06.413" end="00:14:08.181">ARCHER: To Ramón, Of all people!</tt:p>
+            <tt:p begin="00:14:08.215" end="00:14:09.082">LANA: Look, I don't know</tt:p>
+            <tt:p begin="00:14:09.116" end="00:14:10.383">what kind of &quot;history&quot;</tt:p>
+            <tt:p begin="00:14:10.417" end="00:14:11.518">you two have together, but --</tt:p>
+            <tt:p begin="00:14:11.551" end="00:14:12.419">ARCHER: History? !</tt:p>
+            <tt:p begin="00:14:12.452" end="00:14:13.686">What're you trying to --</tt:p>
+            <tt:p begin="00:14:13.720" end="00:14:15.255">that's crazy,</tt:p>
+            <tt:p begin="00:14:15.288" end="00:14:16.689">we didn't even kiss!</tt:p>
+            <tt:p begin="00:14:16.723" end="00:14:19.192">PAM: Zip!</tt:p>
+            <tt:p begin="00:14:19.226" end="00:14:20.160">ARCHER: Do you even hear</tt:p>
+            <tt:p begin="00:14:20.193" end="00:14:21.528">how crazy you sound?</tt:p>
+            <tt:p begin="00:14:21.561" end="00:14:22.362">LANA: Do you? !</tt:p>
+            <tt:p begin="00:14:22.395" end="00:14:24.531">ARCHER: I dunno, yes, shut up.</tt:p>
+            <tt:p begin="00:14:24.564" end="00:14:25.565">Ramón, I'm sorry but this whole</tt:p>
+            <tt:p begin="00:14:25.598" end="00:14:27.434">thing is kinda your fault,</tt:p>
+            <tt:p begin="00:14:27.467" end="00:14:28.368">so you're taking us to</tt:p>
+            <tt:p begin="00:14:28.401" end="00:14:29.569">wherever Charles and Rudi</tt:p>
+            <tt:p begin="00:14:29.602" end="00:14:30.870">are having a money fight</tt:p>
+            <tt:p begin="00:14:30.904" end="00:14:34.041">with our million bucks.</tt:p>
+            <tt:p begin="00:14:34.074" end="00:14:35.542">RAMON: A million and eighty.</tt:p>
+            <tt:p begin="00:14:35.575" end="00:14:37.577">ARCHER: Alright, uno rampageeo!</tt:p>
+            <tt:p begin="00:14:37.610" end="00:14:38.378">Okay, Lana,</tt:p>
+            <tt:p begin="00:14:38.411" end="00:14:39.612">LANA: Votes we cut our</tt:p>
+            <tt:p begin="00:14:39.646" end="00:14:40.780">losses and go home.</tt:p>
+            <tt:p begin="00:14:40.813" end="00:14:41.915">While reminding you,</tt:p>
+            <tt:p begin="00:14:41.949" end="00:14:43.683">seemingly unnecessarily,</tt:p>
+            <tt:p begin="00:14:43.716" end="00:14:45.285">that she is pregnant.</tt:p>
+            <tt:p begin="00:14:45.318" end="00:14:46.219">ARCHER: Oh my God,</tt:p>
+            <tt:p begin="00:14:46.253" end="00:14:47.187">how long are you gonna use that</tt:p>
+            <tt:p begin="00:14:47.220" end="00:14:48.388">for an excuse?</tt:p>
+            <tt:p begin="00:14:48.421" end="00:14:49.289">LANA: Probably at least</tt:p>
+            <tt:p begin="00:14:49.322" end="00:14:50.457">through childbirth.</tt:p>
+            <tt:p begin="00:14:50.490" end="00:14:55.362">ARCHER: Oh, you were serious?</tt:p>
+            <tt:p begin="00:14:55.395" end="00:14:57.064">MALORY: Alright, I'm going home,</tt:p>
+            <tt:p begin="00:14:57.097" end="00:14:58.231">but --</tt:p>
+            <tt:p begin="00:14:58.265" end="00:14:59.432">What's her problem?</tt:p>
+            <tt:p begin="00:14:59.466" end="00:15:01.201">CYRIL: Scotch.</tt:p>
+            <tt:p begin="00:15:01.234" end="00:15:02.902">And also maybe</tt:p>
+            <tt:p begin="00:15:02.936" end="00:15:04.404">post-traumatic stress disorder,</tt:p>
+            <tt:p begin="00:15:04.437" end="00:15:05.405">from listening to --</tt:p>
+            <tt:p begin="00:15:05.438" end="00:15:06.206">CHERYL/CAROL: 40 miles</tt:p>
+            <tt:p begin="00:15:06.239" end="00:15:07.374">of mountain road...</tt:p>
+            <tt:p begin="00:15:07.407" end="00:15:10.043">MALORY: Carol?</tt:p>
+            <tt:p begin="00:15:10.077" end="00:15:11.078">KRIEGER: Yep yep yep!</tt:p>
+            <tt:p begin="00:15:11.111" end="00:15:12.212">MALORY: But...</tt:p>
+            <tt:p begin="00:15:12.245" end="00:15:13.213">how is that possible?</tt:p>
+            <tt:p begin="00:15:13.246" end="00:15:13.913">KRIEGER: I've got the whole</tt:p>
+            <tt:p begin="00:15:13.947" end="00:15:14.747">house wired up.</tt:p>
+            <tt:p begin="00:15:14.781" end="00:15:17.617">Bedrooms, bathrooms, bathrooms,</tt:p>
+            <tt:p begin="00:15:17.650" end="00:15:19.752">other bathrooms,</tt:p>
+            <tt:p begin="00:15:19.786" end="00:15:22.255">the swimming pool...</tt:p>
+            <tt:p begin="00:15:22.289" end="00:15:23.790">MALORY: I meant! Ass!</tt:p>
+            <tt:p begin="00:15:23.823" end="00:15:24.624">KRIEGER: Ow!</tt:p>
+            <tt:p begin="00:15:24.657" end="00:15:26.326">MALORY: How is she singing so...</tt:p>
+            <tt:p begin="00:15:26.359" end="00:15:27.394">well?</tt:p>
+            <tt:p begin="00:15:27.427" end="00:15:28.261">KRIEGER: Probably because</tt:p>
+            <tt:p begin="00:15:28.295" end="00:15:28.928">she doesn't know anyone's</tt:p>
+            <tt:p begin="00:15:28.962" end="00:15:29.929">watching.</tt:p>
+            <tt:p begin="00:15:29.963" end="00:15:30.663">You'd be amazed</tt:p>
+            <tt:p begin="00:15:30.697" end="00:15:31.464">what you people do</tt:p>
+            <tt:p begin="00:15:31.498" end="00:15:33.566">when you think you're alone.</tt:p>
+            <tt:p begin="00:15:33.600" end="00:15:34.567">Cyril.</tt:p>
+            <tt:p begin="00:15:34.601" end="00:15:35.168">CYRIL: Wh-?</tt:p>
+            <tt:p begin="00:15:35.202" end="00:15:36.636">Dammit Krieger, you -- ow!</tt:p>
+            <tt:p begin="00:15:36.669" end="00:15:37.737">MALORY: Turn it up!</tt:p>
+            <tt:p begin="00:15:37.770" end="00:15:38.738">CHERYL/CAROL: 40 miles</tt:p>
+            <tt:p begin="00:15:38.771" end="00:15:39.306">of Gerogia clay...</tt:p>
+            <tt:p begin="00:15:39.339" end="00:15:40.307">ARCHER: Oh my God.</tt:p>
+            <tt:p begin="00:15:40.340" end="00:15:41.274">This is exactly</tt:p>
+            <tt:p begin="00:15:41.308" end="00:15:42.809">how I pictured their house.</tt:p>
+            <tt:p begin="00:15:42.842" end="00:15:43.610">RAMON: Oh, wait until you see</tt:p>
+            <tt:p begin="00:15:43.643" end="00:15:45.745">inside, díos mio,</tt:p>
+            <tt:p begin="00:15:45.778" end="00:15:47.747">they just redid the kitchen.</tt:p>
+            <tt:p begin="00:15:47.780" end="00:15:48.448">LANA: Ahem.</tt:p>
+            <tt:p begin="00:15:48.481" end="00:15:49.316">ARCHER: What,</tt:p>
+            <tt:p begin="00:15:49.349" end="00:15:51.318">just because you have no taste.</tt:p>
+            <tt:p begin="00:15:51.351" end="00:15:52.119">LANA: Or patience,</tt:p>
+            <tt:p begin="00:15:52.152" end="00:15:52.986">so if you could hurry up</tt:p>
+            <tt:p begin="00:15:53.020" end="00:15:53.953">and get our money --</tt:p>
+            <tt:p begin="00:15:53.987" end="00:15:54.654">PAM: And cocaine and cocaine</tt:p>
+            <tt:p begin="00:15:54.687" end="00:15:55.688">get the cocai --</tt:p>
+            <tt:p begin="00:15:55.722" end="00:15:59.626">[ BLOOP. ]</tt:p>
+            <tt:p begin="00:15:59.659" end="00:16:00.360">PAM: Oh my God Lana, Lana,</tt:p>
+            <tt:p begin="00:16:00.393" end="00:16:01.461">you know what I could</tt:p>
+            <tt:p begin="00:16:01.494" end="00:16:03.363">totally go for right now? !</tt:p>
+            <tt:p begin="00:16:03.396" end="00:16:04.364">LANA: Some cocaine?</tt:p>
+            <tt:p begin="00:16:04.397" end="00:16:05.132">PAM: Right? !</tt:p>
+            <tt:p begin="00:16:05.165" end="00:16:07.000">PAM: Popety, pop pop pop, pow.</tt:p>
+            <tt:p begin="00:16:07.034" end="00:16:08.968">RAMON: Did I tell you?</tt:p>
+            <tt:p begin="00:16:09.002" end="00:16:11.204">Here, give me your gun.</tt:p>
+            <tt:p begin="00:16:11.238" end="00:16:12.205">Now push that button,</tt:p>
+            <tt:p begin="00:16:12.239" end="00:16:15.208">right there.</tt:p>
+            <tt:p begin="00:16:15.242" end="00:16:15.975">ARCHER: This is the</tt:p>
+            <tt:p begin="00:16:16.009" end="00:16:17.644">best kitchen ever!</tt:p>
+            <tt:p begin="00:16:17.677" end="00:16:19.479">CHARLES: Aww mercy, thank you...</tt:p>
+            <tt:p begin="00:16:19.512" end="00:16:20.447">Ya know, if we could go back in</tt:p>
+            <tt:p begin="00:16:20.480" end="00:16:21.148">time there's a few things</tt:p>
+            <tt:p begin="00:16:21.181" end="00:16:22.049">we'd change...</tt:p>
+            <tt:p begin="00:16:22.082" end="00:16:22.815">ARCHER: Goddammit...</tt:p>
+            <tt:p begin="00:16:22.849" end="00:16:23.483">CHARLES: But overall</tt:p>
+            <tt:p begin="00:16:23.516" end="00:16:24.151">we're pretty happy.</tt:p>
+            <tt:p begin="00:16:24.184" end="00:16:25.152">Even though it's gonna be a</tt:p>
+            <tt:p begin="00:16:25.185" end="00:16:26.886">bitch to scrub your brains</tt:p>
+            <tt:p begin="00:16:26.919" end="00:16:27.820">out of the grout.</tt:p>
+            <tt:p begin="00:16:27.854" end="00:16:29.489">RAMON: Charles, por favor!</tt:p>
+            <tt:p begin="00:16:29.522" end="00:16:30.490">You have your cocaine,</tt:p>
+            <tt:p begin="00:16:30.523" end="00:16:31.791">just give them their money!</tt:p>
+            <tt:p begin="00:16:31.824" end="00:16:33.026">CHARLES: Oh okay sure,</tt:p>
+            <tt:p begin="00:16:33.060" end="00:16:34.461">we've got it right here.</tt:p>
+            <tt:p begin="00:16:34.494" end="00:16:35.828">ARCHER: Oh! Great, yes,</tt:p>
+            <tt:p begin="00:16:35.862" end="00:16:37.830">and we've got about a five hour</tt:p>
+            <tt:p begin="00:16:37.864" end="00:16:39.999">flight home, with Pam...</tt:p>
+            <tt:p begin="00:16:40.033" end="00:16:43.170">PAM: Poppety pop pop, cocaine.</tt:p>
+            <tt:p begin="00:16:43.203" end="00:16:44.504">ARCHER: So can you</tt:p>
+            <tt:p begin="00:16:44.537" end="00:16:45.505">throw in a pound of coke?</tt:p>
+            <tt:p begin="00:16:45.538" end="00:16:46.739">CHARLES: Can I? !</tt:p>
+            <tt:p begin="00:16:46.773" end="00:16:48.208">I only totally insist!</tt:p>
+            <tt:p begin="00:16:48.241" end="00:16:49.209">ARCHER: Oh. So,</tt:p>
+            <tt:p begin="00:16:49.242" end="00:16:50.510">you're being facetious.</tt:p>
+            <tt:p begin="00:16:50.543" end="00:16:53.513">CHARLES: Extra-eemly, yes.</tt:p>
+            <tt:p begin="00:16:53.546" end="00:16:54.747">A, the coke is gone...</tt:p>
+            <tt:p begin="00:16:54.781" end="00:16:55.515">RAMON: What? !</tt:p>
+            <tt:p begin="00:16:55.548" end="00:16:56.183">What do you mean, gone? !</tt:p>
+            <tt:p begin="00:16:56.216" end="00:16:57.184">CHARLES: Not gone gone,</tt:p>
+            <tt:p begin="00:16:57.217" end="00:16:58.185">you-know-who has it --</tt:p>
+            <tt:p begin="00:16:58.218" end="00:16:59.486">ARCHER: Wh-? ! Ramón? !</tt:p>
+            <tt:p begin="00:16:59.519" end="00:17:00.420">Who is you-know-who? !</tt:p>
+            <tt:p begin="00:17:00.453" end="00:17:02.021">RAMON: I, uh --</tt:p>
+            <tt:p begin="00:17:02.055" end="00:17:03.090">CHARLES: You still get your cut,</tt:p>
+            <tt:p begin="00:17:03.123" end="00:17:04.257">'cuz you-know who says good</tt:p>
+            <tt:p begin="00:17:04.291" end="00:17:05.525">job on you-know-what!</tt:p>
+            <tt:p begin="00:17:05.558" end="00:17:06.493">ARCHER: What? !</tt:p>
+            <tt:p begin="00:17:06.526" end="00:17:08.261">RAMON: Por qué no te callas? !</tt:p>
+            <tt:p begin="00:17:08.295" end="00:17:11.364">ARCHER: Ramón!</tt:p>
+            <tt:p begin="00:17:11.398" end="00:17:16.536">[ GUNFIRE ]</tt:p>
+            <tt:p begin="00:17:16.569" end="00:17:17.870">ARCHER: Ramón!</tt:p>
+            <tt:p begin="00:17:17.904" end="00:17:19.372">RAMON: Sterling...</tt:p>
+            <tt:p begin="00:17:19.406" end="00:17:20.673">díos mio,</tt:p>
+            <tt:p begin="00:17:20.707" end="00:17:23.076">I'm... sorry.</tt:p>
+            <tt:p begin="00:17:23.110" end="00:17:24.544">LANA: Sorry baby</tt:p>
+            <tt:p begin="00:17:24.577" end="00:17:26.913">sorry baby sorry baby...</tt:p>
+            <tt:p begin="00:17:26.946" end="00:17:30.950">PAM: Lanaaa! get cocaaaaaaine!</tt:p>
+            <tt:p begin="00:17:30.983" end="00:17:32.119">RAMON: Oh, Sterling,</tt:p>
+            <tt:p begin="00:17:32.152" end="00:17:34.121">I'm s-so c-cold...</tt:p>
+            <tt:p begin="00:17:34.154" end="00:17:35.622">ARCHER: What, like hearted?</tt:p>
+            <tt:p begin="00:17:35.655" end="00:17:36.689">Ramón, what the hell,</tt:p>
+            <tt:p begin="00:17:36.723" end="00:17:38.225">was this all a scam, or --</tt:p>
+            <tt:p begin="00:17:38.258" end="00:17:39.259">RAMON: No, I swear,</tt:p>
+            <tt:p begin="00:17:39.292" end="00:17:42.061">is just muy complicado.</tt:p>
+            <tt:p begin="00:17:42.095" end="00:17:43.363">Sorry,</tt:p>
+            <tt:p begin="00:17:43.396" end="00:17:45.064">I cannot explain right now.</tt:p>
+            <tt:p begin="00:17:45.098" end="00:17:45.898">ARCHER: Oh really? !</tt:p>
+            <tt:p begin="00:17:45.932" end="00:17:48.568">Why, because you're --</tt:p>
+            <tt:p begin="00:17:48.601" end="00:17:51.104">Dying, right, sorry.</tt:p>
+            <tt:p begin="00:17:51.138" end="00:17:52.239">RAMON: Take the money,</tt:p>
+            <tt:p begin="00:17:52.272" end="00:17:54.073">God knows you've earned it.</tt:p>
+            <tt:p begin="00:17:54.107" end="00:17:55.108">All I ask,</tt:p>
+            <tt:p begin="00:17:55.142" end="00:17:59.612">is one small favor...</tt:p>
+            <tt:p begin="00:17:59.646" end="00:18:01.114">Before I die.</tt:p>
+            <tt:p begin="00:18:01.148" end="00:18:02.949">ARCHER: Yes, Ramón,</tt:p>
+            <tt:p begin="00:18:02.982" end="00:18:04.451">I'll do anything!</tt:p>
+            <tt:p begin="00:18:04.484" end="00:18:05.618">LANA: You name it kid,</tt:p>
+            <tt:p begin="00:18:05.652" end="00:18:06.653">savings bond, a puppy,</tt:p>
+            <tt:p begin="00:18:06.686" end="00:18:07.587">breastfeed you senseless...</tt:p>
+            <tt:p begin="00:18:07.620" end="00:18:09.088">just forgive me</tt:p>
+            <tt:p begin="00:18:09.122" end="00:18:11.358">for what's about to happen.</tt:p>
+            <tt:p begin="00:18:17.697" end="00:18:22.435">LANA: So, um, quick question...</tt:p>
+            <tt:p begin="00:18:22.469" end="00:18:23.303">MALORY: Why the hell</tt:p>
+            <tt:p begin="00:18:23.336" end="00:18:24.604">were you kissing him? !</tt:p>
+            <tt:p begin="00:18:24.637" end="00:18:25.272">LANA: With what appeared</tt:p>
+            <tt:p begin="00:18:25.305" end="00:18:25.938">to be tongue...</tt:p>
+            <tt:p begin="00:18:25.972" end="00:18:26.739">ARCHER: Because, I --</tt:p>
+            <tt:p begin="00:18:26.773" end="00:18:29.576">it was muy complicado Lana!</tt:p>
+            <tt:p begin="00:18:29.609" end="00:18:30.477">And the last wish</tt:p>
+            <tt:p begin="00:18:30.510" end="00:18:31.911">of a dying man!</tt:p>
+            <tt:p begin="00:18:31.944" end="00:18:32.945">LANA: Who you had a crush on.</tt:p>
+            <tt:p begin="00:18:32.979" end="00:18:34.447">ARCHER: I -- no, I --</tt:p>
+            <tt:p begin="00:18:34.481" end="00:18:36.283">go smoke some menthols!</tt:p>
+            <tt:p begin="00:18:36.316" end="00:18:37.116">MALORY: Alright, Sterling,</tt:p>
+            <tt:p begin="00:18:37.150" end="00:18:38.285">calm down.</tt:p>
+            <tt:p begin="00:18:38.318" end="00:18:40.119">My God, it's not as if I care.</tt:p>
+            <tt:p begin="00:18:40.153" end="00:18:40.820">As long --</tt:p>
+            <tt:p begin="00:18:40.853" end="00:18:41.621">ARCHER: As long as I brought</tt:p>
+            <tt:p begin="00:18:41.654" end="00:18:42.455">back the money!</tt:p>
+            <tt:p begin="00:18:42.489" end="00:18:43.022">Is that what you were</tt:p>
+            <tt:p begin="00:18:43.055" end="00:18:43.623">going to say? !</tt:p>
+            <tt:p begin="00:18:43.656" end="00:18:44.624">MALORY: Yes.</tt:p>
+            <tt:p begin="00:18:44.657" end="00:18:45.592">And I don't have time for this,</tt:p>
+            <tt:p begin="00:18:45.625" end="00:18:46.859">I have a country music star</tt:p>
+            <tt:p begin="00:18:46.893" end="00:18:48.127">to manage.</tt:p>
+            <tt:p begin="00:18:48.161" end="00:18:49.262">CHERYL/CAROL: Says you!</tt:p>
+            <tt:p begin="00:18:49.296" end="00:18:50.297">MALORY: Says your contract,</tt:p>
+            <tt:p begin="00:18:50.330" end="00:18:51.030">missy!</tt:p>
+            <tt:p begin="00:18:51.063" end="00:18:51.964">Read it!</tt:p>
+            <tt:p begin="00:18:51.998" end="00:18:54.767">CHERYL/CAROL: You read it!</tt:p>
+            <tt:p begin="00:18:54.801" end="00:18:57.304">Goddammit.</tt:p>
+            <tt:p begin="00:18:57.337" end="00:18:58.104">CYRIL: And, I'm sorry,</tt:p>
+            <tt:p begin="00:18:58.137" end="00:19:00.307">the money is where, exactly?</tt:p>
+            <tt:p begin="00:19:00.340" end="00:19:01.174">ARCHER: Uh, in your</tt:p>
+            <tt:p begin="00:19:01.208" end="00:19:02.775">masturbators, you idiot.</tt:p>
+            <tt:p begin="00:19:02.809" end="00:19:04.477">CYRIL: Oh, I'm the idiot?</tt:p>
+            <tt:p begin="00:19:04.511" end="00:19:05.645">ARCHER: I mean, historically...</tt:p>
+            <tt:p begin="00:19:05.678" end="00:19:06.479">CYRIL: Well I'm not the one</tt:p>
+            <tt:p begin="00:19:06.513" end="00:19:07.814">who sold twenty kilos of coke</tt:p>
+            <tt:p begin="00:19:07.847" end="00:19:09.682">for... Monopoly money!</tt:p>
+            <tt:p begin="00:19:09.716" end="00:19:11.284">EVERYBODY: Huh? What?</tt:p>
+            <tt:p begin="00:19:11.318" end="00:19:12.385">CYRIL: It's counterfeit!</tt:p>
+            <tt:p begin="00:19:12.419" end="00:19:14.120">Every last bill!</tt:p>
+            <tt:p begin="00:19:14.153" end="00:19:16.289">MALORY: Son of a...!</tt:p>
+            <tt:p begin="00:19:16.323" end="00:19:17.990">Sterling, you fool,</tt:p>
+            <tt:p begin="00:19:18.024" end="00:19:19.158">was this was all just a huge</tt:p>
+            <tt:p begin="00:19:19.192" end="00:19:19.859">set up!</tt:p>
+            <tt:p begin="00:19:19.892" end="00:19:20.727">ARCHER: For what mother,</tt:p>
+            <tt:p begin="00:19:20.760" end="00:19:21.694">a funeral? !</tt:p>
+            <tt:p begin="00:19:21.728" end="00:19:23.396">They're all dead!</tt:p>
+            <tt:p begin="00:19:23.430" end="00:19:24.797">LANA: Yeah, but...</tt:p>
+            <tt:p begin="00:19:24.831" end="00:19:26.633">are they?</tt:p>
+            <tt:p begin="00:19:26.666" end="00:19:27.400">LANA: We got out of there</tt:p>
+            <tt:p begin="00:19:27.434" end="00:19:29.502">in a hurry...</tt:p>
+            <tt:p begin="00:19:29.536" end="00:19:30.837">ARCHER: Ramóoooon!</tt:p>
+            <tt:p begin="00:19:30.870" end="00:19:33.506">LANA: Will you come on? !</tt:p>
+            <tt:p begin="00:19:33.540" end="00:19:35.242">ARCHER: But the gunshots...</tt:p>
+            <tt:p begin="00:19:35.275" end="00:19:36.976">all the blood.</tt:p>
+            <tt:p begin="00:19:37.009" end="00:19:39.178">LANA: Blood packs and blanks.</tt:p>
+            <tt:p begin="00:19:39.212" end="00:19:40.547">ARCHER: Even Ramón?</tt:p>
+            <tt:p begin="00:19:40.580" end="00:19:42.682">LANA: Especially Ramón.</tt:p>
+            <tt:p begin="00:19:42.715" end="00:19:43.683">I bet the whole thing</tt:p>
+            <tt:p begin="00:19:43.716" end="00:19:45.218">was his idea.</tt:p>
+            <tt:p begin="00:19:45.252" end="00:19:46.185">ARCHER: Aha!</tt:p>
+            <tt:p begin="00:19:46.219" end="00:19:47.254">You're forgetting a key</tt:p>
+            <tt:p begin="00:19:47.287" end="00:19:48.588">piece of the puzzle, Lana!</tt:p>
+            <tt:p begin="00:19:48.621" end="00:19:50.056">They'd already stolen our coke,</tt:p>
+            <tt:p begin="00:19:50.089" end="00:19:51.758">and they had the money!</tt:p>
+            <tt:p begin="00:19:51.791" end="00:19:52.659">Why go to the trouble</tt:p>
+            <tt:p begin="00:19:52.692" end="00:19:55.362">of a fake shootout? !</tt:p>
+            <tt:p begin="00:19:55.395" end="00:19:56.663">CHARLES: See what I'm saying?</tt:p>
+            <tt:p begin="00:19:56.696" end="00:19:57.664">RAMON: But this way,</tt:p>
+            <tt:p begin="00:19:57.697" end="00:19:58.865">we have twenty kilos of pure,</tt:p>
+            <tt:p begin="00:19:58.898" end="00:20:01.200">uncut, Colombian cocaine.</tt:p>
+            <tt:p begin="00:20:01.234" end="00:20:02.001">CHARLES: Holy shit, yes!</tt:p>
+            <tt:p begin="00:20:02.034" end="00:20:03.903">Which we had already stolen,</tt:p>
+            <tt:p begin="00:20:03.936" end="00:20:05.338">so we still would've had it!</tt:p>
+            <tt:p begin="00:20:05.372" end="00:20:06.339">Plus the counterfeit</tt:p>
+            <tt:p begin="00:20:06.373" end="00:20:07.173">million dollars,</tt:p>
+            <tt:p begin="00:20:07.206" end="00:20:08.408">which now we don't have!</tt:p>
+            <tt:p begin="00:20:08.441" end="00:20:09.041">RAMON: Ohhhhh...</tt:p>
+            <tt:p begin="00:20:09.075" end="00:20:09.776">CHARLES: Like, fifty times</tt:p>
+            <tt:p begin="00:20:09.809" end="00:20:11.344">I tried to explain this!</tt:p>
+            <tt:p begin="00:20:11.378" end="00:20:12.345">RAMON: I see now,</tt:p>
+            <tt:p begin="00:20:12.379" end="00:20:13.580">what you were saying.</tt:p>
+            <tt:p begin="00:20:13.613" end="00:20:14.547">CHARLES: Ta-daaaaa!</tt:p>
+            <tt:p begin="00:20:14.581" end="00:20:15.582">Jesus, it's like trying to</tt:p>
+            <tt:p begin="00:20:15.615" end="00:20:18.017">explain particle physics to...</tt:p>
+            <tt:p begin="00:20:18.050" end="00:20:18.618">a particle.</tt:p>
+            <tt:p begin="00:20:18.651" end="00:20:20.019">RAMON: Aha! But this way,</tt:p>
+            <tt:p begin="00:20:20.052" end="00:20:21.521">my way, Archer thinks</tt:p>
+            <tt:p begin="00:20:21.554" end="00:20:22.522">we are dead,</tt:p>
+            <tt:p begin="00:20:22.555" end="00:20:24.391">so he will never think to come</tt:p>
+            <tt:p begin="00:20:24.424" end="00:20:27.794">looking for us again!</tt:p>
+            <tt:p begin="00:20:27.827" end="00:20:30.263">CHARLES: It was still a stupid,</tt:p>
+            <tt:p begin="00:20:30.297" end="00:20:35.101">stupid, stupid, stupid, stupid,</tt:p>
+            <tt:p begin="00:20:35.134" end="00:20:37.937">stupid, stupid, stupid plan.</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

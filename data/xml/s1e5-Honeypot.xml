@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng">
+    <tt:head>
+        <tt:styling>
+            <tt:style xml:id="AmazonDefaultStyle" tts:backgroundColor="transparent" tts:color="#FFCC00" tts:displayAlign="before" tts:extent="80% 15%" tts:fontSize="80%" tts:opacity="1.00" tts:origin="10% 80%" tts:overflow="visible" tts:textAlign="center" tts:textOutline="#000000 2px" tts:wrapOption="wrap"/>
+        </tt:styling>
+        <tt:layout>
+            <tt:region xml:id="AmazonDefaultRegion" style="AmazonDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="AmazonDefaultRegion">
+        <tt:div>
+            <tt:p begin="00:00:02.836" end="00:00:04.272">Malory: UGH! UGH!</tt:p>
+            <tt:p begin="00:00:04.305" end="00:00:06.107">I CANNOT BELIEVE YOU!</tt:p>
+            <tt:p begin="00:00:06.140" end="00:00:09.443">ARE YOU OUT OF YOUR BIG, FAT,<tt:br/>RUSSIAN SKULL?</tt:p>
+            <tt:p begin="00:00:09.477" end="00:00:11.545">OF ALL THE DUMB STUNTS YOU'VE --</tt:p>
+            <tt:p begin="00:00:11.579" end="00:00:13.481">NIKOLAI, HOW COULD YOU DO THIS?</tt:p>
+            <tt:p begin="00:00:13.514" end="00:00:15.683">Jakov: WITH KGB SURVEILLANCE<tt:br/>TEAM.</tt:p>
+            <tt:p begin="00:00:15.716" end="00:00:16.550">THEY --</tt:p>
+            <tt:p begin="00:00:16.584" end="00:00:18.319">Malory: NOT HOW HOW, YOU ASS.</tt:p>
+            <tt:p begin="00:00:18.352" end="00:00:19.220"> WHY HOW?</tt:p>
+            <tt:p begin="00:00:19.253" end="00:00:22.123">Jakov: FOR RECORD OF<tt:br/>ACTIVITIES IN KRAKóW.</tt:p>
+            <tt:p begin="00:00:22.156" end="00:00:24.625">Malory: OH, SOME BLURRY 8mm<tt:br/>OF --</tt:p>
+            <tt:p begin="00:00:24.658" end="00:00:27.161">Jakov: NO, WE HAVE THE<tt:br/>DIGITAL HI-DEF NOW!</tt:p>
+            <tt:p begin="00:00:27.195" end="00:00:30.764">Malory: WONDERFUL -- SO THEY<tt:br/>CAN BLOW IT UP FOR THE JURY AT<tt:br/>MY TREASON TRIAL.</tt:p>
+            <tt:p begin="00:00:30.798" end="00:00:33.234">Jakov: IS AMAZING -- NO LOSS<tt:br/>OF RESOLUTION.</tt:p>
+            <tt:p begin="00:00:33.267" end="00:00:35.069">Malory: DAMN YOUR BLOODSHOT<tt:br/>EYES.</tt:p>
+            <tt:p begin="00:00:35.103" end="00:00:35.936">I'M SERIOUS.</tt:p>
+            <tt:p begin="00:00:35.969" end="00:00:38.439">Jakov: I WILL NOT LET THAT<tt:br/>HAPPEN TO YOU.</tt:p>
+            <tt:p begin="00:00:38.472" end="00:00:42.743">Malory: YOU LET THIS HAPPEN<tt:br/>AND, BY DOING SO, JEOPARDIZED<tt:br/>OUR ENTIRE OPERATION.</tt:p>
+            <tt:p begin="00:00:42.776" end="00:00:45.313">Jakov: DARLING, PLEASE, DON'T<tt:br/>SAY THAT.</tt:p>
+            <tt:p begin="00:00:45.346" end="00:00:47.848">I HAVE NO IDEA HOW THIS<tt:br/>RAMóN LIMóN GOT THE DISK.</tt:p>
+            <tt:p begin="00:00:47.881" end="00:00:49.783">HE MUST HAVE GONE ROGUE.</tt:p>
+            <tt:p begin="00:00:49.817" end="00:00:51.585">Malory: OH, ALL HISPANICS<tt:br/>LOOK ROGUISH.</tt:p>
+            <tt:p begin="00:00:51.619" end="00:00:54.422">Ramón: [ Cuban accent ] THE<tt:br/>KGB HAD NO IDEA ABOUT MY PLAN.</tt:p>
+            <tt:p begin="00:00:54.455" end="00:00:56.557">SO, PLEASE, DO NOT BLAME MAJOR<tt:br/>JAKOV.</tt:p>
+            <tt:p begin="00:00:56.590" end="00:00:58.692">Malory: OH, RIGHT, HOW<tt:br/>COULD I?</tt:p>
+            <tt:p begin="00:00:58.726" end="00:01:02.096">Ramón: THE IMPORTANT THING IS<tt:br/>THAT THE DISK DOES NOT FALL INTO<tt:br/>THE WRONG HANDS.</tt:p>
+            <tt:p begin="00:01:02.130" end="00:01:03.497">Malory: YOU MEAN WRONGER <tt:br/>HANDS.</tt:p>
+            <tt:p begin="00:01:03.531" end="00:01:05.866">Ramón: LIKE YOUR<tt:br/>GOVERNMENT'S...OR MINE.</tt:p>
+            <tt:p begin="00:01:05.899" end="00:01:09.470">Malory: I FIND IT VERY<tt:br/>SURPRISING THAT CASTRO OKAYED AN</tt:p>
+            <tt:p begin="00:01:09.503" end="00:01:12.606">OPERATION WITH SUCH POTENTIAL TO<tt:br/>EMBARRASS THE SOVIETS.</tt:p>
+            <tt:p begin="00:01:12.640" end="00:01:14.242">Ramón: WELL, HE IS...</tt:p>
+            <tt:p begin="00:01:14.275" end="00:01:19.180">UNPREDICTABLE, WHICH IS WHY I'M<tt:br/>PLANNING AHEAD FOR MY RETIREMENT<tt:br/>IN BEAUTIFUL MIAMI.</tt:p>
+            <tt:p begin="00:01:19.213" end="00:01:24.185">Malory: AND SO, HERE ARE THE<tt:br/>KEYS AND THE DEED TO MY CONDO IN<tt:br/>SOUTH BEACH.</tt:p>
+            <tt:p begin="00:01:24.218" end="00:01:26.554">Ramón: A NICE START TO A NEW<tt:br/>START.</tt:p>
+            <tt:p begin="00:01:26.587" end="00:01:28.422">BUT WHAT OF THE FINANCIAL<tt:br/>ARRANGEMENTS?</tt:p>
+            <tt:p begin="00:01:28.456" end="00:01:30.891">Malory: YOU'LL GET THE MONEY<tt:br/>WHEN I GET THE DISK.</tt:p>
+            <tt:p begin="00:01:30.924" end="00:01:32.793">AND IF YOU'VE MADE COPIES --</tt:p>
+            <tt:p begin="00:01:32.826" end="00:01:36.664">Ramón: I TRIED, BUT YOUR<tt:br/>RUSSIAN WAS SMART ENOUGH TO<tt:br/>COPY-PROTECT THE DISK.</tt:p>
+            <tt:p begin="00:01:36.697" end="00:01:38.266">Malory: YEAH, HE'S A REAL<tt:br/>GENIUS.</tt:p>
+            <tt:p begin="00:01:38.299" end="00:01:45.139">Ramón: BUT IF YOU TRY TO<tt:br/>DOUBLE-CROSS ME, WELL, YOU<tt:br/>SHOULD KNOW WHAT...KIND OF A...</tt:p>
+            <tt:p begin="00:01:45.173" end="00:01:47.475">MAN YOU ARE...DEALING WITH.</tt:p>
+            <tt:p begin="00:01:47.508" end="00:01:51.645">Malory: OH, RAMóN, I THINK I<tt:br/>KNOW EXACTLY WHAT KIND OF MAN<tt:br/>YOU ARE.</tt:p>
+            <tt:p begin="00:01:51.679" end="00:01:52.913">Ramón: UH, QUé?</tt:p>
+            <tt:p begin="00:01:52.946" end="00:01:55.749">Malory: I SAID I COULD EAT<tt:br/>THE ABSOLUTE PANTS OFF SOME<tt:br/>SHRIMP.</tt:p>
+            <tt:p begin="00:02:27.615" end="00:02:29.717">Malory: I DON'T SUPPOSE HE'S<tt:br/>UP.</tt:p>
+            <tt:p begin="00:02:29.750" end="00:02:33.187">Woodhouse: NO, MA'AM, AND<tt:br/>FROM THE LOOKS OF IT -- NOT TO</tt:p>
+            <tt:p begin="00:02:33.221" end="00:02:36.524">MENTION THE LEMUR -- I WOULD<tt:br/>HAZARD HE'S TAKING A PERSONAL<tt:br/>DAY.</tt:p>
+            <tt:p begin="00:02:36.557" end="00:02:38.226">Malory: THE HELL HE IS.</tt:p>
+            <tt:p begin="00:02:38.259" end="00:02:39.927">Archer: WOODHOUSE, WE GOT ANY<tt:br/>LUBE?</tt:p>
+            <tt:p begin="00:02:39.960" end="00:02:41.862">LIKE, AT THIS POINT, EVEN OLIVE<tt:br/>OIL WOULD...</tt:p>
+            <tt:p begin="00:02:41.895" end="00:02:43.331">Malory: [ SIGHS ]</tt:p>
+            <tt:p begin="00:02:43.364" end="00:02:44.932">Archer: ...HELP ME GET THAT<tt:br/>DRAWER UNSTUCK.</tt:p>
+            <tt:p begin="00:02:44.965" end="00:02:46.934">Malory: JESUS GOD, STERLING,<tt:br/>SCHOOLGIRLS?</tt:p>
+            <tt:p begin="00:02:46.967" end="00:02:48.769">Archer: TH-THOSE ARE JUST<tt:br/>COSTUMES.</tt:p>
+            <tt:p begin="00:02:48.802" end="00:02:50.738">Malory: AND I SUPPOSE THAT<tt:br/>MAKES IT BETTER?</tt:p>
+            <tt:p begin="00:02:50.771" end="00:02:52.005">Archer: DOESN'T IT?</tt:p>
+            <tt:p begin="00:02:52.039" end="00:02:54.475">OH, AND, UH, WOODHOUSE, I TOLD<tt:br/>MY GUESTS YOU'D PACK THEIR<tt:br/>LUNCH.</tt:p>
+            <tt:p begin="00:02:54.508" end="00:02:55.976">Woodhouse: I'LL DO MY BEST,<tt:br/>SIR.</tt:p>
+            <tt:p begin="00:02:56.009" end="00:02:58.212">I'M AFRAID THE LEMUR GOT INTO<tt:br/>THE PUDDING CUPS.</tt:p>
+            <tt:p begin="00:02:58.246" end="00:03:00.348">Archer: YEAH, LIKE I TOLD YOU<tt:br/>HE WOULD, YOU IDIOT!</tt:p>
+            <tt:p begin="00:03:00.381" end="00:03:02.316">Malory: WILL YOU PLEASE<tt:br/>FOCUS?</tt:p>
+            <tt:p begin="00:03:02.350" end="00:03:04.652">NOW, I KNOW YOU'RE FAMILIAR WITH<tt:br/>THE HONEYPOT.</tt:p>
+            <tt:p begin="00:03:04.685" end="00:03:07.688">Archer: SEDUCING AND<tt:br/>BLACKMAILING A HOT FEMALE ENEMY<tt:br/>AGENT.</tt:p>
+            <tt:p begin="00:03:07.721" end="00:03:09.223">I LOVE THE HONEYPOT.</tt:p>
+            <tt:p begin="00:03:09.257" end="00:03:11.225">Malory: I'M SURE YOU DO.</tt:p>
+            <tt:p begin="00:03:11.259" end="00:03:14.628">BUT THIS TIME, YOU MAY NOT FIND<tt:br/>THE TARGET...APPEALING.</tt:p>
+            <tt:p begin="00:03:14.662" end="00:03:16.230">Archer: WHAT? IS IT PAM?</tt:p>
+            <tt:p begin="00:03:16.264" end="00:03:18.366">SERIOUSLY, WHOEVER -- IT'S ALL<tt:br/>THE SAME IN THE DA-- NO.</tt:p>
+            <tt:p begin="00:03:18.399" end="00:03:18.832">Malory: YES.</tt:p>
+            <tt:p begin="00:03:18.866" end="00:03:19.467">Archer: NO.</tt:p>
+            <tt:p begin="00:03:19.500" end="00:03:19.933">Malory: YES.</tt:p>
+            <tt:p begin="00:03:19.967" end="00:03:20.568">Archer: NO.</tt:p>
+            <tt:p begin="00:03:20.601" end="00:03:21.435">Malory: YES!</tt:p>
+            <tt:p begin="00:03:21.469" end="00:03:22.470">Archer: COME ON, HAVE<tt:br/>GILLETTE DO THIS.</tt:p>
+            <tt:p begin="00:03:22.503" end="00:03:25.573">Malory: STERLING, YOU'RE THE<tt:br/>ONLY ONE I CAN TRUST.</tt:p>
+            <tt:p begin="00:03:25.606" end="00:03:28.442">AND DON'T EVEN GET ME STARTED ON<tt:br/>MISS GILLETTE.</tt:p>
+            <tt:p begin="00:03:28.476" end="00:03:30.244">Gillette: SHE HAS NEVER LIKED<tt:br/>ME.</tt:p>
+            <tt:p begin="00:03:30.278" end="00:03:31.812">[ EXHALES ]</tt:p>
+            <tt:p begin="00:03:31.845" end="00:03:36.317">BUT SOMEDAY I'M GONNA WRITE A<tt:br/>BOOK ABOUT THIS PLACE, MM-HMM,<tt:br/>A REAL SMACKEROONI.</tt:p>
+            <tt:p begin="00:03:36.350" end="00:03:39.353">Malory: STERLING, PLEASE, I<tt:br/>NEED YOUR HELP!</tt:p>
+            <tt:p begin="00:03:39.387" end="00:03:41.722">THIS RAMóN LIMóN IS BLACKMAILING<tt:br/>ME!</tt:p>
+            <tt:p begin="00:03:41.755" end="00:03:42.523">Archer: WITH WHAT?</tt:p>
+            <tt:p begin="00:03:42.556" end="00:03:43.424">WHAT'S HE GOT ON YOU?</tt:p>
+            <tt:p begin="00:03:43.457" end="00:03:45.626">Malory: IT'S...NONE OF YOUR<tt:br/>NOSY BEESWAX.</tt:p>
+            <tt:p begin="00:03:45.659" end="00:03:47.828">Archer: WELL, THEN IT SUCKS<tt:br/>TO BE YOU.</tt:p>
+            <tt:p begin="00:03:47.861" end="00:03:51.332">Malory: YOU'LL BE WHOM IT<tt:br/>SUCKS TO BE IF I HAVE TO CALL MY<tt:br/>BRIDGE PARTNER.</tt:p>
+            <tt:p begin="00:03:51.365" end="00:03:53.267">Archer: OHH, WHO'S YOUR<tt:br/>BRIDGE PARTNER?</tt:p>
+            <tt:p begin="00:03:53.301" end="00:03:54.602">Malory: THE DISTRICT<tt:br/>ATTORNEY.</tt:p>
+            <tt:p begin="00:03:54.635" end="00:03:55.636">Archer: SO?</tt:p>
+            <tt:p begin="00:03:55.669" end="00:03:57.971">Woodhouse: SIR, THAT STOLEN<tt:br/>LEMUR BIT ONE OF YOUR</tt:p>
+            <tt:p begin="00:03:58.005" end="00:04:01.609">PROSTITUTES RIGHT IN THE FACE,<tt:br/>AND SHE SAYS SHE CAN'T GO TO</tt:p>
+            <tt:p begin="00:04:01.642" end="00:04:06.447">HOSPITAL BECAUSE SHE'S &quot;TRIPPING<tt:br/>BALLS.&quot;</tt:p>
+            <tt:p begin="00:04:06.480" end="00:04:09.817">Archer: YOU KNOW, WHEN I WAS<tt:br/>LITTLE, I USED TO PRETEND YOU<tt:br/>WEREN'T MY MOTHER?</tt:p>
+            <tt:p begin="00:04:09.850" end="00:04:10.618">[ ICE CUBES CLINKING ]</tt:p>
+            <tt:p begin="00:04:10.651" end="00:04:11.385">Malory: ME, TOO.</tt:p>
+            <tt:p begin="00:04:11.419" end="00:04:11.985">Pam: BANG.</tt:p>
+            <tt:p begin="00:04:12.019" end="00:04:13.020">- [ KEY CLACKS ]<tt:br/>- BANG.</tt:p>
+            <tt:p begin="00:04:13.053" end="00:04:13.787">[ KEY CLACKS ]</tt:p>
+            <tt:p begin="00:04:13.821" end="00:04:14.388">EW. KILL.</tt:p>
+            <tt:p begin="00:04:14.422" end="00:04:15.623">- [ KEY CLACKS ]<tt:br/>- BANG.</tt:p>
+            <tt:p begin="00:04:15.656" end="00:04:16.757">- [ KEY CLACKS ]<tt:br/>- SHOCK.</tt:p>
+            <tt:p begin="00:04:16.790" end="00:04:17.558">Pam: SHUT UP.</tt:p>
+            <tt:p begin="00:04:17.591" end="00:04:18.258">OH, MY GOD -- BANG.</tt:p>
+            <tt:p begin="00:04:18.292" end="00:04:19.727">Cyril: I HESITATE TO EVEN<tt:br/>ASK.</tt:p>
+            <tt:p begin="00:04:19.760" end="00:04:21.362">WE'RE DOING &quot;KILL, BANG,<tt:br/>MARRY.&quot;</tt:p>
+            <tt:p begin="00:04:21.395" end="00:04:22.596">Cyril: AGAIN -- HESITATION.</tt:p>
+            <tt:p begin="00:04:22.630" end="00:04:24.197">Pam: IT'S ON THE ISIS<tt:br/>INTRANET.</tt:p>
+            <tt:p begin="00:04:24.231" end="00:04:27.435">YOU CLICK THROUGH PICTURES OF<tt:br/>EVERYBODY WHO WORKS HERE, AND<tt:br/>SAY IF YOU'D RATHER --</tt:p>
+            <tt:p begin="00:04:27.468" end="00:04:29.503">KILL THEM OR BANG OR MARRY<tt:br/>THEM.</tt:p>
+            <tt:p begin="00:04:29.537" end="00:04:32.005">Cyril: WOW, THAT IS ENTIRELY<tt:br/>INAPPROPRIATE.</tt:p>
+            <tt:p begin="00:04:32.039" end="00:04:34.675">Pam: THAT'S WHAT I SAID, BUT<tt:br/>IF YOU GO THROUGH THE WHOLE</tt:p>
+            <tt:p begin="00:04:34.708" end="00:04:36.877">LIST, YOU CAN SEE WHAT EVERYBODY<tt:br/>SAID ABOUT EVERYBODY.</tt:p>
+            <tt:p begin="00:04:36.910" end="00:04:38.812">Cyril: EVERYBODY? LIKE --</tt:p>
+            <tt:p begin="00:04:38.846" end="00:04:42.883">LIKE LANA AND IF -- I DON'T<tt:br/>KNOW -- MAYBE SHE SAID &quot;BANG&quot;<tt:br/>ABOUT MR. ARCHER.</tt:p>
+            <tt:p begin="00:04:42.916" end="00:04:43.717">Cyril: I GOT UPS!</tt:p>
+            <tt:p begin="00:04:43.751" end="00:04:44.251">Pam: HEY --</tt:p>
+            <tt:p begin="00:04:44.284" end="00:04:45.252">Cyril: MOVE IT, CHUBS.</tt:p>
+            <tt:p begin="00:04:45.285" end="00:04:47.888">Malory: DR. KRIEGER'S COVERT<tt:br/>TEAM INSTALLED THESE</tt:p>
+            <tt:p begin="00:04:47.921" end="00:04:50.724">SURVEILLANCE CAMERAS WHILE LIMóN<tt:br/>WAS OUT SHOPPING YESTERDAY.</tt:p>
+            <tt:p begin="00:04:50.758" end="00:04:53.527">Krieger: YEP, WE'VE GOT<tt:br/>VIDEO AND AUDIO, WITH A</tt:p>
+            <tt:p begin="00:04:53.561" end="00:04:57.398">SATELLITE FEED BACK TO THESE<tt:br/>HARD DRIVES -- SAME SETUP I'VE<tt:br/>GOT IN MY VAN.</tt:p>
+            <tt:p begin="00:04:57.431" end="00:04:59.933">Archer: JESUS, KRIEGER,<tt:br/>YOU'RE STILL TAPING BUM FIGHTS?</tt:p>
+            <tt:p begin="00:04:59.967" end="00:05:02.770">Krieger: NO, NOW I'M INTO<tt:br/>SOMETHING...DARKER.</tt:p>
+            <tt:p begin="00:05:02.803" end="00:05:04.071">Malory: [ CLEARS THROAT ]</tt:p>
+            <tt:p begin="00:05:04.104" end="00:05:07.341">SINCE THAT OBNOXIOUS LITTLE<tt:br/>CASTRO IS SUCH A RAGING<tt:br/>HOMOPHOBE...</tt:p>
+            <tt:p begin="00:05:07.375" end="00:05:08.909">Krieger: Fidel hates the<tt:br/>gays.</tt:p>
+            <tt:p begin="00:05:08.942" end="00:05:12.413">Malory: ...IT'S A SAFE BET<tt:br/>HE'D HAVE RAMóN KILLED IF HE<tt:br/>EVER FOUND OUT HE WAS GAY.</tt:p>
+            <tt:p begin="00:05:12.446" end="00:05:13.647">SO, ONCE YOU SEDUCE HIM --</tt:p>
+            <tt:p begin="00:05:13.681" end="00:05:15.483">Archer: WHOA, WHOA, WHOA,<tt:br/>WHOA.</tt:p>
+            <tt:p begin="00:05:15.516" end="00:05:17.585">I THOUGHT NOBODY ELSE WAS<tt:br/>SUPPOSED TO KNOW ABOUT THIS.</tt:p>
+            <tt:p begin="00:05:17.618" end="00:05:18.619">Malory: HE WON'T REMEMBER.</tt:p>
+            <tt:p begin="00:05:18.652" end="00:05:19.720">Krieger: YEAH, NO, I'M --</tt:p>
+            <tt:p begin="00:05:19.753" end="00:05:20.988">I AM SHIT-FACED.</tt:p>
+            <tt:p begin="00:05:21.021" end="00:05:22.890">MS. ARCHER, YOU HAVE A PHONE<tt:br/>CALL.</tt:p>
+            <tt:p begin="00:05:22.923" end="00:05:23.957">Malory: I'M BUSY.</tt:p>
+            <tt:p begin="00:05:23.991" end="00:05:25.459">UM, WE ALL ARE.</tt:p>
+            <tt:p begin="00:05:25.493" end="00:05:26.026">Cyril: BANG.</tt:p>
+            <tt:p begin="00:05:26.059" end="00:05:26.827">[ KEY CLACKS ]</tt:p>
+            <tt:p begin="00:05:26.860" end="00:05:27.661">UH, KILL, I GUESS.</tt:p>
+            <tt:p begin="00:05:27.695" end="00:05:28.696">Pam: THANKS A LOT.</tt:p>
+            <tt:p begin="00:05:28.729" end="00:05:30.364">Cyril: IT'S A BAD PICTURE,<tt:br/>PAM.</tt:p>
+            <tt:p begin="00:05:30.398" end="00:05:31.331">BUT HE SAYS IT'S URGENT --</tt:p>
+            <tt:p begin="00:05:31.365" end="00:05:32.900">SOMETHING ABOUT RECENT<tt:br/>DEVELOPMENTS IN KRAKóW.</tt:p>
+            <tt:p begin="00:05:32.933" end="00:05:34.535">Malory: KRAKóW?</tt:p>
+            <tt:p begin="00:05:34.568" end="00:05:40.641">OH, FOR -- STERLING, GET TO<tt:br/>MIAMI, AND DON'T COME BACK UNTIL<tt:br/>YOU'VE COMPLETED YOUR...</tt:p>
+            <tt:p begin="00:05:40.674" end="00:05:41.475">ASSIGNMENT.</tt:p>
+            <tt:p begin="00:05:41.509" end="00:05:43.010">Krieger: TAKING ONE FOR THE<tt:br/>TEAM, HUH?</tt:p>
+            <tt:p begin="00:05:43.043" end="00:05:44.111">Archer: HOPEFULLY NOT.</tt:p>
+            <tt:p begin="00:05:44.144" end="00:05:46.714">Krieger: WELL, IF YOU DO,<tt:br/>I'VE DEVELOPED A PROPRIETARY</tt:p>
+            <tt:p begin="00:05:46.747" end="00:05:48.682">CHEMICAL COMPOUND WHICH MAY COME<tt:br/>IN HANDY.</tt:p>
+            <tt:p begin="00:05:48.716" end="00:05:52.420">I CALL IT &quot;FORMULA 'K.'&quot;<tt:br/>Archer: AND IT MAKES YOU<tt:br/>TEMPORARILY GAY?</tt:p>
+            <tt:p begin="00:05:52.453" end="00:05:53.421">Krieger: I DON'T KNOW.</tt:p>
+            <tt:p begin="00:05:53.454" end="00:05:54.588">JUST STARTED HUMAN TESTING...</tt:p>
+            <tt:p begin="00:05:54.622" end="00:05:57.024">by dosing Danny the intern's<tt:br/>coffee.</tt:p>
+            <tt:p begin="00:05:57.057" end="00:05:59.560">Danny: DANNY IS DEFINITELY<tt:br/>FEELING SOMETHING!</tt:p>
+            <tt:p begin="00:05:59.593" end="00:06:01.495">Archer: I THINK I'M GOING<tt:br/>TO PASS.</tt:p>
+            <tt:p begin="00:06:01.529" end="00:06:02.596">Krieger: SUIT YOURSELF.</tt:p>
+            <tt:p begin="00:06:02.630" end="00:06:03.330">[ GASPS ]</tt:p>
+            <tt:p begin="00:06:03.363" end="00:06:05.165">JUST MEANS MORE FOR ME AND<tt:br/>DANNY.</tt:p>
+            <tt:p begin="00:06:05.198" end="00:06:08.001">Danny: WHO IS LOVING IT!</tt:p>
+            <tt:p begin="00:06:08.035" end="00:06:12.440">[ LATIN MUSIC PLAYING ]</tt:p>
+            <tt:p begin="00:06:12.473" end="00:06:16.444">Ramón: MAMá, POR FAVOR, NO<tt:br/>COMIENZAS, EH?</tt:p>
+            <tt:p begin="00:06:16.477" end="00:06:19.780">Sí, MAMá, ESTOY BUSCANDO UNA<tt:br/>NOVIA.</tt:p>
+            <tt:p begin="00:06:19.813" end="00:06:21.982">Woodhouse: I HAVE ASCERTAINED<tt:br/>THE TARGET, SIR.</tt:p>
+            <tt:p begin="00:06:22.015" end="00:06:24.785">AND HE'S ACTUALLY QUITE<tt:br/>HANDSOME.</tt:p>
+            <tt:p begin="00:06:24.818" end="00:06:26.454">Archer: AND I SUPPOSE THAT<tt:br/>MAKES IT BETTER.</tt:p>
+            <tt:p begin="00:06:26.487" end="00:06:27.354">Woodhouse: DOESN'T IT?</tt:p>
+            <tt:p begin="00:06:27.387" end="00:06:29.790">Archer: NO, IT -- WOODHOUSE,<tt:br/>THIS IS MIAMI.</tt:p>
+            <tt:p begin="00:06:29.823" end="00:06:31.692">DON'T YOU HAVE ANY COOLER<tt:br/>CLOTHES?</tt:p>
+            <tt:p begin="00:06:31.725" end="00:06:33.594">Woodhouse: NO, SIR, NOT<tt:br/>ANYMORE.</tt:p>
+            <tt:p begin="00:06:33.627" end="00:06:34.962">Archer: AND YOUR SHOES!</tt:p>
+            <tt:p begin="00:06:34.995" end="00:06:38.198">BECAUSE HOW HARD IS IT TO POACH<tt:br/>A GODDAMN EGG PROPERLY?!</tt:p>
+            <tt:p begin="00:06:38.231" end="00:06:42.002">SERIOUSLY, THAT'S LIKE, EGGS<tt:br/>101, WOODHOUSE.</tt:p>
+            <tt:p begin="00:06:42.035" end="00:06:44.605">Malory: NOW I KNOW YOU'VE<tt:br/>LOST YOUR MIND.</tt:p>
+            <tt:p begin="00:06:44.638" end="00:06:46.507">YOU WANT ME TO DEFECT TO RUSSIA?</tt:p>
+            <tt:p begin="00:06:46.540" end="00:06:49.743">Jakov: JUST, YOU KNOW, IF THE<tt:br/>WORST HAPPENS.</tt:p>
+            <tt:p begin="00:06:49.777" end="00:06:51.545">Malory: THAT IS THE WORST!</tt:p>
+            <tt:p begin="00:06:51.579" end="00:06:54.582">STANDING IN THE SNOW FOR BEET<tt:br/>RATIONS IN MY BLAHNIKS?</tt:p>
+            <tt:p begin="00:06:54.615" end="00:06:55.549">Jakov: COME ON!</tt:p>
+            <tt:p begin="00:06:55.583" end="00:06:57.150">I'M HEAD OF KGB!</tt:p>
+            <tt:p begin="00:06:57.184" end="00:06:58.552">I HAVE MY BEETS DELIVERED.</tt:p>
+            <tt:p begin="00:06:58.586" end="00:06:59.853">Malory: NIKOLAI!</tt:p>
+            <tt:p begin="00:06:59.887" end="00:07:04.658">Jakov: FREE STOLICHNAYA,<tt:br/>BELUGA CAVIAR, MY OWN PRIVATE<tt:br/>LIMOUSINE.</tt:p>
+            <tt:p begin="00:07:04.692" end="00:07:07.194">THE SOVIET SYSTEM IS ACTUALLY<tt:br/>INCREDIBLY UNFAIR.</tt:p>
+            <tt:p begin="00:07:07.227" end="00:07:09.830">Malory: AND IT JUST SOUNDS<tt:br/>WONDERFUL, BUT --</tt:p>
+            <tt:p begin="00:07:09.863" end="00:07:12.032">Jakov: HEY, I'M JUST PUTTING<tt:br/>IT OUT THERE.</tt:p>
+            <tt:p begin="00:07:12.065" end="00:07:13.667">Malory: WELL, JUST PUT IT<tt:br/>BACK IN.</tt:p>
+            <tt:p begin="00:07:13.701" end="00:07:15.135">YOU'RE THE WHOLE REASON I'M IN<tt:br/>THIS MESS!</tt:p>
+            <tt:p begin="00:07:15.168" end="00:07:17.170">Jakov: I'M TRYING TO HELP.</tt:p>
+            <tt:p begin="00:07:17.204" end="00:07:20.808">I MEAN, IF THAT CUBAN DOES NOT<tt:br/>FALL FOR THE HONEYPOT --</tt:p>
+            <tt:p begin="00:07:20.841" end="00:07:22.610">Malory: OH, I THINK HE WILL.</tt:p>
+            <tt:p begin="00:07:22.643" end="00:07:24.745">I'VE GOT MY TOP MAN ON IT...</tt:p>
+            <tt:p begin="00:07:24.778" end="00:07:26.647">OR POSSIBLY BOTTOM.</tt:p>
+            <tt:p begin="00:07:31.251" end="00:07:32.486">[ CHAIR LEGS SCREECH ]</tt:p>
+            <tt:p begin="00:07:32.520" end="00:07:34.221">Ramón: MAMá, TENGO QUE IRME.</tt:p>
+            <tt:p begin="00:07:34.254" end="00:07:34.988">[ KEYPAD BEEPS ]</tt:p>
+            <tt:p begin="00:07:35.022" end="00:07:35.756">[ CLEARS THROAT ]</tt:p>
+            <tt:p begin="00:07:35.789" end="00:07:36.389">CAN I HELP YOU?</tt:p>
+            <tt:p begin="00:07:36.423" end="00:07:37.224">Archer: WELL, I DON'T KNOW.</tt:p>
+            <tt:p begin="00:07:37.257" end="00:07:38.726">CAN YOU?</tt:p>
+            <tt:p begin="00:07:38.759" end="00:07:40.961">Ramón: IS THIS SOME SORT OF<tt:br/>VIRAL MARKETING?</tt:p>
+            <tt:p begin="00:07:40.994" end="00:07:41.862">Archer: W-WHAT?</tt:p>
+            <tt:p begin="00:07:41.895" end="00:07:43.063">NO, I MEANT --</tt:p>
+            <tt:p begin="00:07:43.096" end="00:07:45.533">Ramón: OR ARE YOU ASKING ME<tt:br/>SPECIFICALLY IF I HAVE A PENIS?</tt:p>
+            <tt:p begin="00:07:45.566" end="00:07:48.135">Archer: UH, IT'S MORE OF A<tt:br/>CONVERSATION STARTER.</tt:p>
+            <tt:p begin="00:07:48.168" end="00:07:51.204">Ramón: AND HERE'S A<tt:br/>CONVERSATION ENDER -- ADIOS.</tt:p>
+            <tt:p begin="00:07:51.238" end="00:07:52.673">Charles: OHH! BILINGUAL SNAP!</tt:p>
+            <tt:p begin="00:07:52.706" end="00:07:54.074">Rudi: [ SCOFFS ] THANK YOU.</tt:p>
+            <tt:p begin="00:07:54.107" end="00:07:57.845">Archer: DO YOU NOT SEE ME<tt:br/>ROCKING THIS CHISELED SLAB OF<tt:br/>HARD MAN-BODY?</tt:p>
+            <tt:p begin="00:07:57.878" end="00:07:59.012">I MEAN, COME ON!</tt:p>
+            <tt:p begin="00:07:59.046" end="00:08:00.614">ARE YOU GAY OR NOT?</tt:p>
+            <tt:p begin="00:08:00.648" end="00:08:03.784">Ramón: I AM, BUT YOU -- YOU<tt:br/>ARENOT MY TYPE.</tt:p>
+            <tt:p begin="00:08:03.817" end="00:08:05.919">Archer: WH-- HEY, I AM<tt:br/>EVERYBODY'S TYPE!</tt:p>
+            <tt:p begin="00:08:05.953" end="00:08:07.588">Charles: OH, PLEASE.</tt:p>
+            <tt:p begin="00:08:07.621" end="00:08:08.556">Archer: WHAT?</tt:p>
+            <tt:p begin="00:08:08.589" end="00:08:10.090">Rudi: YOU ARE ENTIRELY TOO<tt:br/>GAY.</tt:p>
+            <tt:p begin="00:08:10.123" end="00:08:10.924">Archer: NO, I'M NOT!</tt:p>
+            <tt:p begin="00:08:10.958" end="00:08:11.925">ARE YOU KIDDING?</tt:p>
+            <tt:p begin="00:08:11.959" end="00:08:14.061">Charles: OH, MY GOD, YOU,<tt:br/>LIKE, SNEEZE GLITTER.</tt:p>
+            <tt:p begin="00:08:14.094" end="00:08:15.996">Rudi: THANK YOU.</tt:p>
+            <tt:p begin="00:08:18.932" end="00:08:22.603">Archer: SO, YEAH, I'M AN ISIS<tt:br/>AGENT AND THAT RAMóN GUY'S A</tt:p>
+            <tt:p begin="00:08:22.636" end="00:08:26.674">CUBAN AGENT AND I'M SUPPOSED TO<tt:br/>RUN WHAT WE CALL A HONEYPOT ON<tt:br/>HIM.</tt:p>
+            <tt:p begin="00:08:26.707" end="00:08:30.177">AND I CAN'T BELIEVE YOU HAVE ALL<tt:br/>THIS STUFF AND IT'S, LIKE,<tt:br/>PORTABLE.</tt:p>
+            <tt:p begin="00:08:30.210" end="00:08:32.913">Charles: I CAN'T BELIEVE YOU<tt:br/>BLAB ALL OVER THE WORLD THAT<tt:br/>YOU'RE A SECRET AGENT.</tt:p>
+            <tt:p begin="00:08:32.946" end="00:08:36.750">Archer: I CAN'T BELIEVE<tt:br/>YOU'RE A HAIRDRESSER AND RUDI'S<tt:br/>AN INTERIOR DECORATOR.</tt:p>
+            <tt:p begin="00:08:36.784" end="00:08:38.118">Charles: OH, MY GOD, HE'S THE<tt:br/>BEST IN MIAMI.</tt:p>
+            <tt:p begin="00:08:38.151" end="00:08:38.952">Rudi: THANK YOU.</tt:p>
+            <tt:p begin="00:08:38.986" end="00:08:40.320">Woodhouse: YOU'RE QUITE<tt:br/>WELCOME, SIR.</tt:p>
+            <tt:p begin="00:08:40.353" end="00:08:41.321">Rudi: IF I HAD A SPOON...</tt:p>
+            <tt:p begin="00:08:41.354" end="00:08:42.556">Archer: NO, NO, DON'T --</tt:p>
+            <tt:p begin="00:08:42.590" end="00:08:43.591">Rudi: ...I WOULD EAT YOU UP.</tt:p>
+            <tt:p begin="00:08:43.624" end="00:08:44.958">Archer: DON'T BE NICE TO HIM.</tt:p>
+            <tt:p begin="00:08:44.992" end="00:08:47.094">Charles: SO, THIS SPY<tt:br/>AGENCY -- IS IT LIKE THE REAL</tt:p>
+            <tt:p begin="00:08:47.127" end="00:08:48.729">CIA, JAMES BOND-Y DEAL, OR<tt:br/>WHAT?</tt:p>
+            <tt:p begin="00:08:48.762" end="00:08:51.599">Archer: CHARLES, ISIS EMPLOYS<tt:br/>SOME OF THE WORLD'S FOREMOST</tt:p>
+            <tt:p begin="00:08:51.632" end="00:08:55.068">INTELLIGENCE ANALYSTS, COVERT<tt:br/>OPERATIVES, AND SCIENTISTS.</tt:p>
+            <tt:p begin="00:08:55.102" end="00:08:57.738">Lana: WAIT, DID CYRIL PLAY<tt:br/>THIS STUPID GAME?</tt:p>
+            <tt:p begin="00:08:57.771" end="00:08:59.573">YOU'LL HAVE TO PLAY TO FIND<tt:br/>OUT.</tt:p>
+            <tt:p begin="00:08:59.607" end="00:09:00.608">Danny: [ PANTING ]</tt:p>
+            <tt:p begin="00:09:00.641" end="00:09:01.341">Krieger: DANNY!</tt:p>
+            <tt:p begin="00:09:01.374" end="00:09:02.242">DANNY, STOP RUNNING!</tt:p>
+            <tt:p begin="00:09:02.275" end="00:09:04.077">WE GOT TO KEEP THAT HEART RATE<tt:br/>DOWN, BUDDY!</tt:p>
+            <tt:p begin="00:09:04.111" end="00:09:04.778">Lana: OKAY.</tt:p>
+            <tt:p begin="00:09:04.812" end="00:09:05.312">Krieger: DANNY!</tt:p>
+            <tt:p begin="00:09:05.345" end="00:09:06.113">Lana: KILL.</tt:p>
+            <tt:p begin="00:09:06.146" end="00:09:06.914">[ KEY CLACKS ]</tt:p>
+            <tt:p begin="00:09:06.947" end="00:09:07.615">BANG. BANG.</tt:p>
+            <tt:p begin="00:09:07.648" end="00:09:08.215">[ KEY CLACKS ]</tt:p>
+            <tt:p begin="00:09:08.248" end="00:09:09.116">EW. KILL.</tt:p>
+            <tt:p begin="00:09:09.149" end="00:09:11.051">Pam: WELL, THANKS A LOT!</tt:p>
+            <tt:p begin="00:09:11.084" end="00:09:12.720">Lana: PAM, IT'S A BAD<tt:br/>PICTURE.</tt:p>
+            <tt:p begin="00:09:12.753" end="00:09:13.887">I THINK THAT'S HOT.</tt:p>
+            <tt:p begin="00:09:13.921" end="00:09:15.255">LIKE, SOMEBODY MURDERING ME --</tt:p>
+            <tt:p begin="00:09:15.288" end="00:09:17.825">IT'S SO...INTIMATE.</tt:p>
+            <tt:p begin="00:09:17.858" end="00:09:21.795">Archer: SO, YEAH, BASICALLY,<tt:br/>WE'RE THE FRONT LINE IN THE<tt:br/>FIGHT AGAINST TYRANNY.</tt:p>
+            <tt:p begin="00:09:21.829" end="00:09:22.429">Rudi: THANK YOU.</tt:p>
+            <tt:p begin="00:09:22.462" end="00:09:24.064">Woodhouse: MY PLEASURE, SIR.</tt:p>
+            <tt:p begin="00:09:24.097" end="00:09:26.934">Rudi: I WANT TO DRESS YOU UP<tt:br/>LIKE A LITTLE GNOME AND JUST<tt:br/>HAVE YOU LIVE IN MY GARDEN.</tt:p>
+            <tt:p begin="00:09:26.967" end="00:09:28.368">Woodhouse: I WOULD LIKE SOME<tt:br/>NEW CLOTHES.</tt:p>
+            <tt:p begin="00:09:28.401" end="00:09:29.703">Archer: SHUT UP.</tt:p>
+            <tt:p begin="00:09:29.737" end="00:09:33.073">BUT ALSO -- AND SPEAKING OF<tt:br/>CLOTHES -- THESE SEEM WAY TOO<tt:br/>NORMAL.</tt:p>
+            <tt:p begin="00:09:33.106" end="00:09:35.308">Charles: WHAT, &quot;NORMAL&quot; AS<tt:br/>OPPOSED TO &quot;GAY&quot;?</tt:p>
+            <tt:p begin="00:09:35.342" end="00:09:37.344">Rudi: IMPLYING THAT &quot;GAY&quot; IS<tt:br/>ABNORMAL?</tt:p>
+            <tt:p begin="00:09:37.377" end="00:09:39.312">Archer: NOT ABNORMAL, JUST...<tt:br/>GAY.</tt:p>
+            <tt:p begin="00:09:39.346" end="00:09:42.716">Charles: LOOK, IN SPITE OF<tt:br/>YOUR PERSONALITY, YOU GET PLENTY<tt:br/>OF WOMEN, RIGHT?</tt:p>
+            <tt:p begin="00:09:42.750" end="00:09:44.217">Archer: DUH AND/OR HELLO!</tt:p>
+            <tt:p begin="00:09:44.251" end="00:09:48.255">Charles: SO, DUH AND/OR<tt:br/>HELLO -- JUST ACT LIKE YOU<tt:br/>NORMALLY DO AROUND WOMEN.</tt:p>
+            <tt:p begin="00:09:48.288" end="00:09:49.389">Archer: REALLY?</tt:p>
+            <tt:p begin="00:09:49.422" end="00:09:52.960">BECAUSE HOW HARD IS IT TO POACH<tt:br/>A GODDAMN EGG PROPERLY?!</tt:p>
+            <tt:p begin="00:09:52.993" end="00:09:54.461">[ EXHALES ]</tt:p>
+            <tt:p begin="00:09:54.494" end="00:09:58.131">Woodhouse: I BELIEVE HE MEANS<tt:br/>BEFORE YOU LURE THEM INTO THE<tt:br/>APARTMENT, SIR.</tt:p>
+            <tt:p begin="00:09:58.165" end="00:10:00.267">Archer: OH, YEAH, THAT MAKES<tt:br/>MORE SENSE.</tt:p>
+            <tt:p begin="00:10:00.300" end="00:10:02.369">SO, I JUST LIKE, WHAT, APPROACH<tt:br/>HIM IN A BAR?</tt:p>
+            <tt:p begin="00:10:02.402" end="00:10:04.137">Rudi: YEAH, IF I WERE YOU,<tt:br/>I'D TRY THE COCKFIGHT.</tt:p>
+            <tt:p begin="00:10:04.171" end="00:10:05.038">Archer: A COCKFIGHT?</tt:p>
+            <tt:p begin="00:10:05.072" end="00:10:06.874">Charles: YEAH, IT'S THE NAME<tt:br/>OF A GAY BAR.</tt:p>
+            <tt:p begin="00:10:06.907" end="00:10:08.642">Rudi: BUT THEY ALSO HAVE<tt:br/>ACTUAL COCKFIGHTS.</tt:p>
+            <tt:p begin="00:10:08.676" end="00:10:09.810">Charles: YEAH, LATINO MEN --</tt:p>
+            <tt:p begin="00:10:09.843" end="00:10:11.044">YOU TAKE THE BAD WITH THE GOOD.</tt:p>
+            <tt:p begin="00:10:11.078" end="00:10:13.080">Archer: JESUS, MAN, WHAT IS<tt:br/>YOUR PROBLEM?</tt:p>
+            <tt:p begin="00:10:13.113" end="00:10:14.982">Ramón: YOU ARE -- BLONDE,<tt:br/>BRUNETTE.</tt:p>
+            <tt:p begin="00:10:15.015" end="00:10:17.050">I THOUGHT I MADE IT CLEAR YOU<tt:br/>ARE NOT MY TYPE.</tt:p>
+            <tt:p begin="00:10:17.084" end="00:10:18.652">Archer: IS THAT WHERE WE<tt:br/>LANDED ON THAT...</tt:p>
+            <tt:p begin="00:10:18.686" end="00:10:19.820">Ramón: DIOS MíO.</tt:p>
+            <tt:p begin="00:10:19.853" end="00:10:23.190">IS YOUR EGO SO LARGE YOU CANNOT<tt:br/>HANDLE A SINGLE REJECTION?</tt:p>
+            <tt:p begin="00:10:23.223" end="00:10:24.057">Archer: YES.</tt:p>
+            <tt:p begin="00:10:24.091" end="00:10:25.158">LET ME BUY YOU A DRINK.</tt:p>
+            <tt:p begin="00:10:25.192" end="00:10:27.060">Ramón: I ALREADY HAVE A<tt:br/>DRINK.</tt:p>
+            <tt:p begin="00:10:27.094" end="00:10:28.395">WHY DON'T YOU BUY HIM ONE?</tt:p>
+            <tt:p begin="00:10:28.428" end="00:10:29.262">HE COULD USE IT.</tt:p>
+            <tt:p begin="00:10:29.296" end="00:10:30.197">[ CRYING ]</tt:p>
+            <tt:p begin="00:10:30.230" end="00:10:32.900">Archer: W-W-WHY DON'T WE ALL<tt:br/>HAVE ONE AND...</tt:p>
+            <tt:p begin="00:10:32.933" end="00:10:33.701">TALK ABOUT IT.</tt:p>
+            <tt:p begin="00:10:33.734" end="00:10:35.235">[ CRYING INTENSIFIES ]</tt:p>
+            <tt:p begin="00:10:35.268" end="00:10:39.439">Rudi: SERIOUSLY, WOODHOUSE,<tt:br/>HOW CAN YOU BE SO TOTALLY<tt:br/>AWESOME AND NOT BE GAY?</tt:p>
+            <tt:p begin="00:10:39.472" end="00:10:43.777">Woodhouse: WELL, I WAS VERY<tt:br/>FOND OF A BOY AT SCHOOL ONCE --</tt:p>
+            <tt:p begin="00:10:43.811" end="00:10:45.312">REGGIE THISTLETON.</tt:p>
+            <tt:p begin="00:10:45.345" end="00:10:48.315">BUT HE DIED IN THE WAR, AT<tt:br/>FLANDERS.</tt:p>
+            <tt:p begin="00:10:48.348" end="00:10:49.216">Rudi: FLANDERS?</tt:p>
+            <tt:p begin="00:10:49.249" end="00:10:50.718">Charles: WHAT WAR WAS THAT?</tt:p>
+            <tt:p begin="00:10:50.751" end="00:10:52.319">Woodhouse: OH, THE GREAT WAR.</tt:p>
+            <tt:p begin="00:10:52.352" end="00:10:53.286">Rudi: THEY'RE ALL GREAT.</tt:p>
+            <tt:p begin="00:10:53.320" end="00:10:55.288">Charles: OH, MY GOD, YES,<tt:br/>THOSE NAZI UNIFORMS?</tt:p>
+            <tt:p begin="00:10:55.322" end="00:10:56.089">Rudi: HUGO BOSS!</tt:p>
+            <tt:p begin="00:10:56.123" end="00:10:56.957">Charles: SHUT UP.</tt:p>
+            <tt:p begin="00:10:56.990" end="00:10:58.025">Rudi: SWEAR TO GOD.</tt:p>
+            <tt:p begin="00:10:58.058" end="00:10:59.827">AND LOOK AT SLUT JUST GETTING<tt:br/>HOME.</tt:p>
+            <tt:p begin="00:10:59.860" end="00:11:01.795">Charles: WELL, I GUESS OUR<tt:br/>ADVICE WORKED.</tt:p>
+            <tt:p begin="00:11:01.829" end="00:11:02.830">Archer: NO, IT DIDN'T.</tt:p>
+            <tt:p begin="00:11:02.863" end="00:11:03.630">RAMóN BLEW ME OFF.</tt:p>
+            <tt:p begin="00:11:03.663" end="00:11:05.232">Rudi: THEN WHERE WERE YOU ALL<tt:br/>NIGHT?</tt:p>
+            <tt:p begin="00:11:05.265" end="00:11:09.136">Archer: WAY THE CHRIST OUT IN<tt:br/>THE EVERGLADES, BURYING SOME<tt:br/>DOMINICAN GUY'S ROOSTER!</tt:p>
+            <tt:p begin="00:11:09.169" end="00:11:10.971">Charles: FUN!</tt:p>
+            <tt:p begin="00:11:11.004" end="00:11:11.839">OH, YOU MEAN LITERALLY.</tt:p>
+            <tt:p begin="00:11:11.872" end="00:11:12.339">Archer: YES!</tt:p>
+            <tt:p begin="00:11:12.372" end="00:11:13.106">Charles: SORRY.</tt:p>
+            <tt:p begin="00:11:13.140" end="00:11:14.808">Archer: I MEAN, LOOK AT MY<tt:br/>CLOTHES.</tt:p>
+            <tt:p begin="00:11:14.842" end="00:11:16.443">AND WHAT THE HELL ARE YOU<tt:br/>WEARING, WOODHOUSE?</tt:p>
+            <tt:p begin="00:11:16.476" end="00:11:17.610">Woodhouse: I --</tt:p>
+            <tt:p begin="00:11:17.644" end="00:11:20.013">Charles: WE BOUGHT THOSE FOR<tt:br/>HIM, AND IF YOU THROW THEM OFF</tt:p>
+            <tt:p begin="00:11:20.047" end="00:11:22.349">THE ROOF, I WILL FLY TO NEW YORK<tt:br/>AND FLING ACID IN YOUR FACE.</tt:p>
+            <tt:p begin="00:11:22.382" end="00:11:23.383">Rudi: THANK YOU.</tt:p>
+            <tt:p begin="00:11:23.416" end="00:11:24.852">[ CELL PHONE RINGING ]</tt:p>
+            <tt:p begin="00:11:24.885" end="00:11:25.753">Archer: OH, GREAT.</tt:p>
+            <tt:p begin="00:11:25.786" end="00:11:26.553">[ KEYPAD BEEPS ]</tt:p>
+            <tt:p begin="00:11:26.586" end="00:11:28.121">MOTHER, I HAVE NOTHING TO REPORT<tt:br/>YET.</tt:p>
+            <tt:p begin="00:11:28.155" end="00:11:30.157">THIS IS A LOT HARDER THAN I<tt:br/>THOUGHT IT WOULD BE.</tt:p>
+            <tt:p begin="00:11:30.190" end="00:11:33.060">Malory: HOW HARD COULD IT BE<tt:br/>TO TALK A GAY MAN INTO HAVING<tt:br/>ANONYMOUS SEX?</tt:p>
+            <tt:p begin="00:11:33.093" end="00:11:35.128">Charles: DO YOU SEE THE<tt:br/>STEREOTYPES WE PUT UP WITH?</tt:p>
+            <tt:p begin="00:11:35.162" end="00:11:37.197">Archer: LOOK, YOU DON'T KNOW<tt:br/>WHAT I'M DEALING WITH.</tt:p>
+            <tt:p begin="00:11:37.230" end="00:11:39.432">Malory: YOU DON'T KNOW WHAT<tt:br/> I'M DEALING WITH!</tt:p>
+            <tt:p begin="00:11:39.466" end="00:11:43.937">Jakov: SEE? HERE IS MY NICE<tt:br/>BUILDING, MY LIMOUSINE, MY<tt:br/>MOTHER.</tt:p>
+            <tt:p begin="00:11:43.971" end="00:11:48.141">OH, AND MY APARTMENT IS TWO<tt:br/>BEDROOMS, SO SHE WON'T EVEN HAVE<tt:br/>TO MOVE OUT.</tt:p>
+            <tt:p begin="00:11:48.175" end="00:11:51.411">Malory: SO, YOU JUST LISTEN<tt:br/>TO ME, MR. MAN -- GET ME SOME</tt:p>
+            <tt:p begin="00:11:51.444" end="00:11:55.949">VIDEO OF HOT MAN-ON-MAN ACTION<tt:br/>BY TONIGHT OR DON'T BOTHER<tt:br/>COMING HOME.</tt:p>
+            <tt:p begin="00:11:55.983" end="00:11:56.616">[ KEYPAD BEEPS ]</tt:p>
+            <tt:p begin="00:11:56.649" end="00:11:58.185">Charles: SHE SOUNDS FABULOUS.</tt:p>
+            <tt:p begin="00:11:58.218" end="00:11:59.987">Archer: YEAH, SHE'S ACTUALLY<tt:br/>NOT.</tt:p>
+            <tt:p begin="00:12:00.020" end="00:12:02.255">Charles: BUT THE STEREOTYPE<tt:br/>THING HAS GOT ME THINKING</tt:p>
+            <tt:p begin="00:12:02.289" end="00:12:04.124">BECAUSE -- LET'S SEE -- RAMóN IS<tt:br/>LATINO.</tt:p>
+            <tt:p begin="00:12:04.157" end="00:12:06.459">Rudi: AND LATINOS ARE ALL <tt:br/>ABOUT MACHISMO.</tt:p>
+            <tt:p begin="00:12:06.493" end="00:12:08.095">Charles: SO, YOU MAY HAVE TO<tt:br/>OUT-MACHO HIM.</tt:p>
+            <tt:p begin="00:12:08.128" end="00:12:09.129">Archer: [ Effeminate voice ]</tt:p>
+            <tt:p begin="00:12:09.162" end="00:12:10.898">OUT-MACHO A GAY GUY?</tt:p>
+            <tt:p begin="00:12:10.931" end="00:12:12.365">OH, MY STARS!</tt:p>
+            <tt:p begin="00:12:12.399" end="00:12:15.135">Charles: OR -- WAIT -- YOU<tt:br/>COULD JUST BE A SARCASTIC BITCH<tt:br/>YOUR WHOLE LIFE.</tt:p>
+            <tt:p begin="00:12:15.168" end="00:12:16.369">Rudi: THANK YOU.</tt:p>
+            <tt:p begin="00:12:16.403" end="00:12:19.973">Malory: WAIT A -- DID YOU SET<tt:br/>THIS WHOLE THING UP JUST SO I'D</tt:p>
+            <tt:p begin="00:12:20.007" end="00:12:22.142">HAVE TO COME LIVE WITH YOU AND<tt:br/>YOUR MOTHER?</tt:p>
+            <tt:p begin="00:12:22.175" end="00:12:22.776">Jakov: NO!</tt:p>
+            <tt:p begin="00:12:22.810" end="00:12:24.111">IT WAS MERELY INCOMPETENCE!</tt:p>
+            <tt:p begin="00:12:24.144" end="00:12:26.880">Malory: AND I SUPPOSE THAT<tt:br/>MAKES IT BETTER?</tt:p>
+            <tt:p begin="00:12:26.914" end="00:12:27.815">Jakov: DOESN'T IT?</tt:p>
+            <tt:p begin="00:12:27.848" end="00:12:28.882">Archer: WAIT A MINUTE.</tt:p>
+            <tt:p begin="00:12:28.916" end="00:12:31.151">HOW DO YOU KNOW RAMóN'S PLAYING<tt:br/>JAI ALAI RIGHT NOW?</tt:p>
+            <tt:p begin="00:12:31.184" end="00:12:32.452">Charles: UM, HE'S LATINO.</tt:p>
+            <tt:p begin="00:12:32.485" end="00:12:34.454">Rudi: SO, IT'S EITHER THAT OR<tt:br/>DOMINOES.</tt:p>
+            <tt:p begin="00:12:34.487" end="00:12:36.523">Charles: STEREOTYPES EXIST<tt:br/>FOR A REASON.</tt:p>
+            <tt:p begin="00:12:36.556" end="00:12:38.458">OKAY, WE'RE OFF TO GET OUR<tt:br/>SCROTUMS WAXED.</tt:p>
+            <tt:p begin="00:12:38.491" end="00:12:40.894">[ TIRES SCREECH ]</tt:p>
+            <tt:p begin="00:12:40.928" end="00:12:42.195">Ramón: ...CUANTAS VECES --</tt:p>
+            <tt:p begin="00:12:42.229" end="00:12:43.563">Archer: RAMóN, HEY!</tt:p>
+            <tt:p begin="00:12:43.596" end="00:12:45.298">I HAVE A PROPOSITION FOR YOU!</tt:p>
+            <tt:p begin="00:12:45.332" end="00:12:46.934">Ramón: Puta madre.</tt:p>
+            <tt:p begin="00:12:46.967" end="00:12:48.168">MAMá, HAVE TO CALL YOU BACK.</tt:p>
+            <tt:p begin="00:12:48.201" end="00:12:49.102">[ KEYPAD BEEPS ]</tt:p>
+            <tt:p begin="00:12:49.136" end="00:12:50.270">DON'T YOU EVER GIVE UP?</tt:p>
+            <tt:p begin="00:12:50.303" end="00:12:53.173">Archer: NOT WHEN IT COMES TO<tt:br/>SOMEBODY REFUSING TO HAVE SEX</tt:p>
+            <tt:p begin="00:12:53.206" end="00:12:55.208">WITH ME -- YOU KNOW,<tt:br/>CONSENSUALLY OR WHATEVER.</tt:p>
+            <tt:p begin="00:12:55.242" end="00:12:56.776">Ramón: HMM.</tt:p>
+            <tt:p begin="00:12:56.810" end="00:13:00.047">Archer: SO, ME AND YOU, ONE<tt:br/>ON ONE -- LOSER HAS TO DO<tt:br/>WHATEVER THE WINNER SAYS.</tt:p>
+            <tt:p begin="00:13:00.080" end="00:13:02.916">Ramón: IF I WIN, I WANT YOU<tt:br/>TO LEAVE ME ALONE.</tt:p>
+            <tt:p begin="00:13:02.950" end="00:13:08.555">Archer: FINE, BUT IF I WIN,<tt:br/>WE GO TO YOUR PLACE AND HAVE,<tt:br/>YOU KNOW, GAY SEX.</tt:p>
+            <tt:p begin="00:13:08.588" end="00:13:10.557">Ramón: HAVE YOU EVER EVEN<tt:br/>PLAYED JAI ALAI?</tt:p>
+            <tt:p begin="00:13:10.590" end="00:13:13.326">Archer: UH, ACTUALLY,<tt:br/>LACROSSE, BUT IT'S JAI ALAI FOR<tt:br/>WHITE PEOPLE.</tt:p>
+            <tt:p begin="00:13:13.360" end="00:13:14.394">Ramón: LACROSSE IS GAY.</tt:p>
+            <tt:p begin="00:13:14.427" end="00:13:15.362">Archer: YOU'RE GAY.</tt:p>
+            <tt:p begin="00:13:15.395" end="00:13:16.229">I MEAN, I AM, TOO.</tt:p>
+            <tt:p begin="00:13:16.263" end="00:13:17.597">WE'RE BOTH GAY.</tt:p>
+            <tt:p begin="00:13:17.630" end="00:13:20.868">Ramón: SERIOUSLY, I CAN SERVE<tt:br/>THIS PELOTA ALMOST 200 MILES AN<tt:br/>HOUR.</tt:p>
+            <tt:p begin="00:13:20.901" end="00:13:22.970">Archer: BIG WHOOP, THAT<tt:br/>LITTLE SQUISHY -- JESUS!</tt:p>
+            <tt:p begin="00:13:23.003" end="00:13:24.171">IS THIS MADE OF LIMESTONE?!</tt:p>
+            <tt:p begin="00:13:24.204" end="00:13:25.873">Ramón: IT'S A DANGEROUS GAME,<tt:br/>AMIGO.</tt:p>
+            <tt:p begin="00:13:25.906" end="00:13:30.477">Archer: YEAH, WELL, I'M <tt:br/>DANGEROUS AND I'M GONNA WIN AND <tt:br/>GAY SEX.</tt:p>
+            <tt:p begin="00:13:30.510" end="00:13:31.411">Ramón: [ Chuckling ] OKAY.</tt:p>
+            <tt:p begin="00:13:31.444" end="00:13:32.379">GO STAND OVER THERE.</tt:p>
+            <tt:p begin="00:13:32.412" end="00:13:33.546">Archer: WHERE? OVER HERE?</tt:p>
+            <tt:p begin="00:13:33.580" end="00:13:35.515">Ramón: MM, LITTLE MORE FAR.</tt:p>
+            <tt:p begin="00:13:35.548" end="00:13:36.616">Archer: WHAT? HERE?</tt:p>
+            <tt:p begin="00:13:36.649" end="00:13:38.351">Ramón: Sí, Sí, THAT'S GOOD,<tt:br/>RIGHT THERE.</tt:p>
+            <tt:p begin="00:13:38.385" end="00:13:43.123">Archer: YEAH, THAT'S WHAT<tt:br/>YOU'RE GONNA BE SAYING WHEN I'M,<tt:br/>UH, ALL INSIDE YOU WITH GAY SEX.</tt:p>
+            <tt:p begin="00:13:43.156" end="00:13:44.291">Ramón: VAMOS A VER.</tt:p>
+            <tt:p begin="00:13:44.324" end="00:13:45.192">ARE YOU READY?</tt:p>
+            <tt:p begin="00:13:45.225" end="00:13:46.393">Archer: YEAH, I'M READY.</tt:p>
+            <tt:p begin="00:13:46.426" end="00:13:47.594">WAIT. WAIT. DO I NEED A HELMET?</tt:p>
+            <tt:p begin="00:13:47.627" end="00:13:51.131">Ramón: PROBABLY.</tt:p>
+            <tt:p begin="00:13:51.164" end="00:13:53.901">I MEAN, AFTER ALL...</tt:p>
+            <tt:p begin="00:13:53.934" end="00:13:59.539">YOU ARE PLAYING A VERY DANGEROUS<tt:br/>GAME, STERLING ARCHER OF ISIS.</tt:p>
+            <tt:p begin="00:14:02.409" end="00:14:03.877">Archer: [ GROANING ]</tt:p>
+            <tt:p begin="00:14:03.911" end="00:14:05.145">Ramón: THERE HE IS.</tt:p>
+            <tt:p begin="00:14:05.178" end="00:14:06.179">WELCOME BACK, AMIGO.</tt:p>
+            <tt:p begin="00:14:06.213" end="00:14:07.347">Archer: JESUS CHRIST...</tt:p>
+            <tt:p begin="00:14:07.380" end="00:14:12.886">WHO APPARENTLY USES THE SAME<tt:br/>AWFUL DECORATOR AS MY MOTHER.</tt:p>
+            <tt:p begin="00:14:12.920" end="00:14:16.323">Ramón: TRUST ME -- WHOEVER<tt:br/>DECORATED THIS CONDO IS NOT IN<tt:br/>HEAVEN.</tt:p>
+            <tt:p begin="00:14:16.356" end="00:14:18.926">AND NEITHER ARE YOU, AGENT<tt:br/>STERLING ARCHER OF ISIS.</tt:p>
+            <tt:p begin="00:14:18.959" end="00:14:19.392">Archer: WAIT.</tt:p>
+            <tt:p begin="00:14:19.426" end="00:14:19.960">YOU KNOW WHO I AM?</tt:p>
+            <tt:p begin="00:14:19.993" end="00:14:21.494">Ramón: DUH AND/OR HOLA!</tt:p>
+            <tt:p begin="00:14:21.528" end="00:14:23.330">Archer: SO, YOU KNOW WHY I'M<tt:br/>HERE.</tt:p>
+            <tt:p begin="00:14:23.363" end="00:14:26.033">Ramón: I ASSUME BECAUSE YOUR<tt:br/>MOTHER FORCED YOU TO POSE AS A</tt:p>
+            <tt:p begin="00:14:26.066" end="00:14:28.335">GAY MAN IN THE HOPES OF CATCHING<tt:br/>ME IN A -- HOW YOU SAY? --</tt:p>
+            <tt:p begin="00:14:28.368" end="00:14:29.336">POT OF HONEY.</tt:p>
+            <tt:p begin="00:14:29.369" end="00:14:31.404">Archer: YEAH, WHICH IS JUST<tt:br/>SO JUST CLASSIC HER.</tt:p>
+            <tt:p begin="00:14:31.438" end="00:14:33.606">Ramón: OHH, YOU SHOULD MEET<tt:br/>MY MOTHER. SHE --</tt:p>
+            <tt:p begin="00:14:33.640" end="00:14:35.008">Archer: NO, NO, NO, SHUT UP.</tt:p>
+            <tt:p begin="00:14:35.042" end="00:14:35.909">LISTEN, MY MOTHER --</tt:p>
+            <tt:p begin="00:14:35.943" end="00:14:36.910">[ CELL PHONES RINGING ]</tt:p>
+            <tt:p begin="00:14:36.944" end="00:14:38.345">Archer: OH, MY GOD, THAT'S<tt:br/>HER.</tt:p>
+            <tt:p begin="00:14:38.378" end="00:14:39.679">Ramón: AY, DIOS MíO, IT'S<tt:br/>HER!</tt:p>
+            <tt:p begin="00:14:39.712" end="00:14:42.182">[ RINGING CONTINUES ]</tt:p>
+            <tt:p begin="00:14:42.215" end="00:14:44.985">[ KEYPADS BEEP ]</tt:p>
+            <tt:p begin="00:14:45.018" end="00:14:47.654">VIVA LA REVOLUCIóN DE LOS HIJOS!</tt:p>
+            <tt:p begin="00:14:47.687" end="00:14:49.990">Archer: I C-- I CAN'T BELIEVE<tt:br/>WE HUNG UP ON THEM.</tt:p>
+            <tt:p begin="00:14:50.023" end="00:14:51.458">THAT WAS SO THOROUGHLY AWESOME.</tt:p>
+            <tt:p begin="00:14:51.491" end="00:14:53.060">Ramón: THIS IS AWESOME.</tt:p>
+            <tt:p begin="00:14:53.093" end="00:14:53.994">HERE, TRY IT.</tt:p>
+            <tt:p begin="00:14:54.027" end="00:14:55.528">Archer: NO, WHOA, WHOA, WHOA,<tt:br/>IT'S RAW, MAN.</tt:p>
+            <tt:p begin="00:14:55.562" end="00:14:56.629">Ramón: NO.</tt:p>
+            <tt:p begin="00:14:56.663" end="00:14:59.466">THE CITRIC ACID FROM THE LIMES<tt:br/>ACTUALLY COOKS THE FISH.</tt:p>
+            <tt:p begin="00:14:59.499" end="00:15:00.167">TRY IT.</tt:p>
+            <tt:p begin="00:15:00.200" end="00:15:01.101">Archer: MMM. MMM.</tt:p>
+            <tt:p begin="00:15:01.134" end="00:15:01.668">OH, MY, RAMóN.</tt:p>
+            <tt:p begin="00:15:01.701" end="00:15:02.502">Ramón: RIGHT?</tt:p>
+            <tt:p begin="00:15:02.535" end="00:15:03.870">Archer: THAT IS AMAZING.</tt:p>
+            <tt:p begin="00:15:03.903" end="00:15:08.075">Ramón: MAMá ALWAYS SAID,<tt:br/>&quot;RAMóN, UN HOMBRE REAL DEBE<tt:br/>SABER COCINAR.&quot;</tt:p>
+            <tt:p begin="00:15:08.108" end="00:15:11.111">Archer: MINE ALWAYS SAID,<tt:br/>&quot;STERLING, COME IN HERE AND<tt:br/>CHECK ME FOR LUMPS.&quot;</tt:p>
+            <tt:p begin="00:15:11.144" end="00:15:12.312">HOLY SHIT. WAS THAT OUT LOUD?</tt:p>
+            <tt:p begin="00:15:12.345" end="00:15:13.380">Ramón: HEY, IT'S OKAY.</tt:p>
+            <tt:p begin="00:15:13.413" end="00:15:14.347">THIS IS A SAFE PLACE.</tt:p>
+            <tt:p begin="00:15:14.381" end="00:15:16.216">Archer: YEAH, BUT IT -- BUT<tt:br/>IT'S NOT, THOUGH.</tt:p>
+            <tt:p begin="00:15:16.249" end="00:15:17.484">Ramón: ARE YOU REFERRING TO<tt:br/>THESE?</tt:p>
+            <tt:p begin="00:15:17.517" end="00:15:18.118">Archer: HA!</tt:p>
+            <tt:p begin="00:15:18.151" end="00:15:19.052">YOU FOUND KRIEGER'S CAMERAS?</tt:p>
+            <tt:p begin="00:15:19.086" end="00:15:21.621">Ramón: I THINK HE IS NOT SO<tt:br/>GOOD AT HIS JOB.</tt:p>
+            <tt:p begin="00:15:21.654" end="00:15:25.325">Krieger: [ Crying ] DANNY!</tt:p>
+            <tt:p begin="00:15:25.358" end="00:15:28.095">Archer: DUDE, THAT WHOLE<tt:br/>AGENCY'S NOT SO GOOD AT THEIR<tt:br/>JOBS.</tt:p>
+            <tt:p begin="00:15:28.128" end="00:15:29.229">Lana: [ YAWNS ] KILL.</tt:p>
+            <tt:p begin="00:15:29.262" end="00:15:30.230">- [ KEY CLACKS ]<tt:br/>- KILL.</tt:p>
+            <tt:p begin="00:15:30.263" end="00:15:31.398">[ KEY CLACKS ]</tt:p>
+            <tt:p begin="00:15:31.431" end="00:15:33.433">GOD, WHEN DO I GET TO THE END SO<tt:br/>I CAN SEE WHAT CYRIL SAID?</tt:p>
+            <tt:p begin="00:15:33.466" end="00:15:35.235">YOU SERIOUSLY DON'T THINK<tt:br/>THAT'S HOT?</tt:p>
+            <tt:p begin="00:15:35.268" end="00:15:36.703">Pam: I SERIOUSLY THINK YOU'RE<tt:br/>SCARY.</tt:p>
+            <tt:p begin="00:15:36.736" end="00:15:37.837">NO, NO, NO, NO.</tt:p>
+            <tt:p begin="00:15:37.870" end="00:15:40.573">LIKE, A BIG, SWEATY FIREMAN<tt:br/>CARRIES YOU OUT OF A BURNING</tt:p>
+            <tt:p begin="00:15:40.607" end="00:15:43.510">BUILDING, LAYS YOU ON THE<tt:br/>SIDEWALK, AND YOU THINK, &quot;YEAH,</tt:p>
+            <tt:p begin="00:15:43.543" end="00:15:46.446">OKAY, HE'S GONNA GIVE ME MOUTH<tt:br/>TO MOUTH,&quot; BUT INSTEAD HE JUST</tt:p>
+            <tt:p begin="00:15:46.479" end="00:15:48.748">STARTS CHOKING THE SHIT OUT OF<tt:br/>YOU.</tt:p>
+            <tt:p begin="00:15:48.781" end="00:15:53.186">AND THE LAST SENSATION THAT YOU<tt:br/>FEEL BEFORE YOU DIE IS HE IS</tt:p>
+            <tt:p begin="00:15:53.220" end="00:15:59.226">SQUEEZING YOUR THROAT SO HARD<tt:br/>THAT A BIG, WET BLOB OF DROOL<tt:br/>DRIPS OFF HIS TEETH AND JUST --</tt:p>
+            <tt:p begin="00:15:59.259" end="00:16:02.529">FLERP! -- FALLS RIGHT ONTO YOUR<tt:br/>POPPED-OUT EYEBALL.</tt:p>
+            <tt:p begin="00:16:02.562" end="00:16:04.764">[ SLOW JAZZ MUSIC PLAYING ]</tt:p>
+            <tt:p begin="00:16:04.797" end="00:16:07.067">Pam: JESUS CHRIST.</tt:p>
+            <tt:p begin="00:16:07.100" end="00:16:07.734">I KNOW, RIGHT?</tt:p>
+            <tt:p begin="00:16:07.767" end="00:16:09.036">Lana: WHAT THE HELL?!</tt:p>
+            <tt:p begin="00:16:09.069" end="00:16:10.603">I'M WET JUST THINKING ABOUT<tt:br/>IT.</tt:p>
+            <tt:p begin="00:16:10.637" end="00:16:11.538">Lana: CYRIL!!</tt:p>
+            <tt:p begin="00:16:11.571" end="00:16:12.905">CYRIL, YOU GET YOUR ASS OUT<tt:br/>HERE RIGHT NOW!</tt:p>
+            <tt:p begin="00:16:12.939" end="00:16:16.276">IS SHE FREAKING 'CAUSE CYRIL<tt:br/>SAID HE WANTED TO BANG DANNY THE<tt:br/>INTERN?</tt:p>
+            <tt:p begin="00:16:16.309" end="00:16:18.378">Pam: NO, I THINK IT'S 'CAUSE<tt:br/>HE SAID HE WANTED TO MARRY HER.</tt:p>
+            <tt:p begin="00:16:18.411" end="00:16:19.746">SHE'S SO WEIRD.</tt:p>
+            <tt:p begin="00:16:19.779" end="00:16:21.514">HEY, WILL YOU CHOKE ME A LITTLE<tt:br/>BIT?</tt:p>
+            <tt:p begin="00:16:21.548" end="00:16:22.715">Ramón: PSH!</tt:p>
+            <tt:p begin="00:16:22.749" end="00:16:25.785">THAT'S NOTHING COMPARED TO THE<tt:br/>PENDEJOS I HAVE TO WORK WITH.</tt:p>
+            <tt:p begin="00:16:25.818" end="00:16:28.555">Archer: WELL, AT LEAST YOU<tt:br/>HAVEN'T BANGED HALF OF THEM<tt:br/>LIKE YOURS TRULY.</tt:p>
+            <tt:p begin="00:16:28.588" end="00:16:29.889">Ramón: I CAN'T.</tt:p>
+            <tt:p begin="00:16:29.922" end="00:16:33.526">IF FIDEL FINDS OUT I'M GAY,<tt:br/>HE'D -- WELL, THAT'S WHY YOU'RE<tt:br/>HERE.</tt:p>
+            <tt:p begin="00:16:33.560" end="00:16:37.297">Archer: AND MAYBE IT'S THE<tt:br/>CONCUSSION, BUT I SERIOUSLY FEEL<tt:br/>CRAPPY ABOUT THAT.</tt:p>
+            <tt:p begin="00:16:37.330" end="00:16:39.332">Ramón: NO, I FEEL CRAPPY.</tt:p>
+            <tt:p begin="00:16:39.366" end="00:16:41.368">I SHOULD NOT HAVE TRIED TO<tt:br/>BLACKMAIL YOUR MOTHER.</tt:p>
+            <tt:p begin="00:16:41.401" end="00:16:43.270">Archer: YEAH, WHAT'S ON THIS<tt:br/>THING, ANYWAY?</tt:p>
+            <tt:p begin="00:16:43.303" end="00:16:44.871">[ WOOD BREAKING ]</tt:p>
+            <tt:p begin="00:16:44.904" end="00:16:47.407">Charles: GET ON THE FLOOR,<tt:br/>YOU TACKY-ASS, &quot;WHITE AFTER<tt:br/>LABOR DAY WEARING&quot; BITCHES!</tt:p>
+            <tt:p begin="00:16:47.440" end="00:16:48.341">Rudi: THANK YOU!</tt:p>
+            <tt:p begin="00:16:48.375" end="00:16:49.442">Archer: CHARLES AND RUDI?!</tt:p>
+            <tt:p begin="00:16:49.476" end="00:16:50.243">WHAT THE --</tt:p>
+            <tt:p begin="00:16:50.277" end="00:16:51.811">Ramón: WHAT IS THE MEANING OF<tt:br/>THIS?</tt:p>
+            <tt:p begin="00:16:51.844" end="00:16:54.347">Charles: SORRY, WE'RE A HIT<tt:br/>SQUAD -- FORGOT TO TELL YOU.</tt:p>
+            <tt:p begin="00:16:54.381" end="00:16:57.084">Rudi: TURNS OUT FIDEL IS<tt:br/>UNHAPPY THAT ONE OF HIS TOP<tt:br/>AGENTS IS GAY!</tt:p>
+            <tt:p begin="00:16:57.117" end="00:16:58.218">Ramón: AY, DIOS MíO!</tt:p>
+            <tt:p begin="00:16:58.251" end="00:17:00.220">Charles: HEY, SAVE YOUR<tt:br/>BREATH FOR COOLING YOUR CEVICHE.</tt:p>
+            <tt:p begin="00:17:00.253" end="00:17:01.288">Ramón: CEVICHE IS ALREADY --</tt:p>
+            <tt:p begin="00:17:01.321" end="00:17:02.489">Charles: I KNOW!</tt:p>
+            <tt:p begin="00:17:02.522" end="00:17:04.557">Archer: YOU DICKS WERE<tt:br/>WORKING FOR CASTRO THIS WHOLE<tt:br/>TIME?</tt:p>
+            <tt:p begin="00:17:04.591" end="00:17:06.326">Charles: POSITUTELY, YES.</tt:p>
+            <tt:p begin="00:17:06.359" end="00:17:08.561">BUT WE WERE HAVING SUCH A BLAST<tt:br/>HANGING WITH WOODHOUSE --</tt:p>
+            <tt:p begin="00:17:08.595" end="00:17:10.230">Rudi: WHO IS FINE, BY THE<tt:br/>WAY.</tt:p>
+            <tt:p begin="00:17:10.263" end="00:17:12.099">Charles: I AM GENUINELY SORRY<tt:br/>ABOUT THIS.</tt:p>
+            <tt:p begin="00:17:12.132" end="00:17:13.633">Woodhouse: BUT MAY I KEEP THE<tt:br/>CLOTHES?</tt:p>
+            <tt:p begin="00:17:13.666" end="00:17:15.568">Rudi: FOREVER AND ALWAYS.</tt:p>
+            <tt:p begin="00:17:15.602" end="00:17:16.669">NOT THAT YOU CARE!</tt:p>
+            <tt:p begin="00:17:16.703" end="00:17:18.671">Archer: YEAH, I ACTUALLY<tt:br/>DON'T!</tt:p>
+            <tt:p begin="00:17:18.705" end="00:17:20.273">SO, ARE YOU TWO EVEN REALLY<tt:br/>GAY?</tt:p>
+            <tt:p begin="00:17:20.307" end="00:17:22.142">Charles: AS BIG OLD<tt:br/>TANGERINES, YES.</tt:p>
+            <tt:p begin="00:17:22.175" end="00:17:24.144">Ramón: THEN HOW CAN YOU WORK<tt:br/>FOR CASTRO?</tt:p>
+            <tt:p begin="00:17:24.177" end="00:17:26.113">YOU KNOW HIS STANCE ON<tt:br/>HOMOSEXUALITY.</tt:p>
+            <tt:p begin="00:17:26.146" end="00:17:28.748">Charles: BECAUSE, COMMIE, I<tt:br/>HAVE SOMETHING CALLED A<tt:br/>MORTGAGE.</tt:p>
+            <tt:p begin="00:17:28.781" end="00:17:30.417">Archer: HEY, WHOA, WHOA.</tt:p>
+            <tt:p begin="00:17:30.450" end="00:17:33.753">IF THIS IS ABOUT MONEY, I KNOW<tt:br/>SOMEBODY WHO'D PAY A WHOLE LOT<tt:br/>OF MONEY TO GET THIS BACK.</tt:p>
+            <tt:p begin="00:17:33.786" end="00:17:34.754">Ramón: STERLING, NO!</tt:p>
+            <tt:p begin="00:17:34.787" end="00:17:36.123">Archer: RAMóN, SHUT UP.</tt:p>
+            <tt:p begin="00:17:36.156" end="00:17:37.624">Charles: YEAH, LET THE MUMMY<tt:br/>TALK.</tt:p>
+            <tt:p begin="00:17:37.657" end="00:17:39.226">Ramón: I CAN'T LET YOU DO<tt:br/>THIS.</tt:p>
+            <tt:p begin="00:17:39.259" end="00:17:40.193">Archer: WHAT THE --</tt:p>
+            <tt:p begin="00:17:40.227" end="00:17:42.129">Ramón: YOU'LL NEVER TAKE ME<tt:br/>ALIVE, BASTARDOS!</tt:p>
+            <tt:p begin="00:17:42.162" end="00:17:43.296">[ RAPID GUNFIRE ]</tt:p>
+            <tt:p begin="00:17:43.330" end="00:17:45.465">Charles: LET'S OUTSOURCE IT<tt:br/>TO SOME CRACKED-UP HAITIANS --</tt:p>
+            <tt:p begin="00:17:45.498" end="00:17:46.333">THAT'S WHAT I SAID.</tt:p>
+            <tt:p begin="00:17:46.366" end="00:17:47.500">KNOW WHY?</tt:p>
+            <tt:p begin="00:17:47.534" end="00:17:49.469">Rudi: SO YOU COULD BE ALL<tt:br/>LITTLE MISS &quot;HINDSIGHT'S 20/20&quot;!</tt:p>
+            <tt:p begin="00:17:49.502" end="00:17:50.270">Ramón: HERE, TAKE THIS!</tt:p>
+            <tt:p begin="00:17:50.303" end="00:17:52.139">Archer: WHY DID YOU HAVE A<tt:br/>SALAD GUN?</tt:p>
+            <tt:p begin="00:17:52.172" end="00:17:53.740">Ramón: HEY, I WAS GOING TO<tt:br/>KILL YOU.</tt:p>
+            <tt:p begin="00:17:53.773" end="00:17:55.375">Archer: OH, YOU ARE JUST THE<tt:br/>WORST KIND OF --</tt:p>
+            <tt:p begin="00:17:55.408" end="00:17:56.075">Ramón: ME?</tt:p>
+            <tt:p begin="00:17:56.109" end="00:17:56.943">YOUR MOTHER STARTED ALL OF THIS.</tt:p>
+            <tt:p begin="00:17:56.976" end="00:17:58.111">Archer: SO, GIVE THEM THE<tt:br/>FRICKING DISK!</tt:p>
+            <tt:p begin="00:17:58.145" end="00:18:01.548">Ramón: IF I DO THAT, IT WILL<tt:br/>BECOME PUBLIC, AND IF YOU SEE</tt:p>
+            <tt:p begin="00:18:01.581" end="00:18:04.684">WHAT'S ON THIS DISK -- WELL, IF<tt:br/>YOU WEREN'T GAY, YOU WILL BE.</tt:p>
+            <tt:p begin="00:18:04.717" end="00:18:05.818">Archer: [ LAUGHS ]</tt:p>
+            <tt:p begin="00:18:05.852" end="00:18:08.688">WHAT IS IT, A SEX TAPE OF<tt:br/>MOTHER?</tt:p>
+            <tt:p begin="00:18:08.721" end="00:18:10.257">Ramón: [ CLEARS THROAT ]</tt:p>
+            <tt:p begin="00:18:10.290" end="00:18:11.724">Archer: OH, MY -- [ VOMITS ]</tt:p>
+            <tt:p begin="00:18:11.758" end="00:18:13.126">Ramón: BUT THERE, YOU SEE?</tt:p>
+            <tt:p begin="00:18:13.160" end="00:18:13.693">IT'S GONE NOW.</tt:p>
+            <tt:p begin="00:18:13.726" end="00:18:14.661">Archer: OH, GOD.</tt:p>
+            <tt:p begin="00:18:14.694" end="00:18:15.695">Ramón: SO, IT'S OKAY.</tt:p>
+            <tt:p begin="00:18:15.728" end="00:18:16.763">JUST LET IT ALL OUT.</tt:p>
+            <tt:p begin="00:18:16.796" end="00:18:19.332">Charles: JESUS GOD, DO YOU<tt:br/>LADIES WANT TO PUT ON YOUR</tt:p>
+            <tt:p begin="00:18:19.366" end="00:18:21.868">NIGHTGOWNS, CRACK OPEN A TUBE OF<tt:br/>COOKIE DOUGH, AND JUST TALK IT<tt:br/>OUT?</tt:p>
+            <tt:p begin="00:18:21.901" end="00:18:23.170">Archer: GOD DAMN IT!</tt:p>
+            <tt:p begin="00:18:23.203" end="00:18:26.406">YOU KNOW, WE'RE DEALING WITH<tt:br/>SOME PROFOUND ISSUES HERE, YOU<tt:br/>QUEER!</tt:p>
+            <tt:p begin="00:18:26.439" end="00:18:27.840">Ramón: WHAT THE HELL, MAN?</tt:p>
+            <tt:p begin="00:18:27.874" end="00:18:29.742">Archer: SORRY, I-I MEANT<tt:br/>&quot;HOMOSEXUAL.&quot;</tt:p>
+            <tt:p begin="00:18:29.776" end="00:18:32.245">Ramón: NO, YOU IDIOTO, WE<tt:br/>HAVE A FINITE NUMBER OF BULLETS.</tt:p>
+            <tt:p begin="00:18:32.279" end="00:18:32.745">[ GUN CLICKING ]</tt:p>
+            <tt:p begin="00:18:32.779" end="00:18:33.513">Archer: OH. MY BAD.</tt:p>
+            <tt:p begin="00:18:33.546" end="00:18:35.348">Ramón: [ Mockingly ] &quot;OH, MY<tt:br/>BAD.&quot;</tt:p>
+            <tt:p begin="00:18:35.382" end="00:18:35.915">[ GUN CLICKING ]</tt:p>
+            <tt:p begin="00:18:35.948" end="00:18:36.916">Ramón: PUTA MADRE.</tt:p>
+            <tt:p begin="00:18:36.949" end="00:18:38.318">Archer: NOW WHO FEELS STUPID?</tt:p>
+            <tt:p begin="00:18:38.351" end="00:18:40.220">Charles: MY GUESS IS BOTH OF<tt:br/>YOU.</tt:p>
+            <tt:p begin="00:18:40.253" end="00:18:42.689">Rudi: SINCE THE LAST THING<tt:br/>YOU SEE IS GONNA BE THAT<tt:br/>HORRIFIC SOFA.</tt:p>
+            <tt:p begin="00:18:42.722" end="00:18:43.690">Archer: OH, SHUT UP.</tt:p>
+            <tt:p begin="00:18:43.723" end="00:18:45.892">I BET YOU'RE NOT EVEN A REAL<tt:br/>INTERIOR DECORATOR.</tt:p>
+            <tt:p begin="00:18:45.925" end="00:18:48.895">Charles: WELL, HE'S NOT<tt:br/>LICENSED OR ANYTHING, BUT HE'S<tt:br/>GOT A REAL FLAIR FOR IT --</tt:p>
+            <tt:p begin="00:18:48.928" end="00:18:50.397">Rudi: THANK YOU!</tt:p>
+            <tt:p begin="00:18:50.430" end="00:18:52.899">Charles: SO, HOW ABOUT STAND<tt:br/>UP AND LET US PAINT THE WALLS<tt:br/>WITH YOUR BRAINS?</tt:p>
+            <tt:p begin="00:18:52.932" end="00:18:53.933">Ramón: TAKE THIS.</tt:p>
+            <tt:p begin="00:18:53.966" end="00:18:55.368">Archer: JESUS, A CLAYMORE?</tt:p>
+            <tt:p begin="00:18:55.402" end="00:18:56.603">Ramón: I CAN EXPLAIN --</tt:p>
+            <tt:p begin="00:18:56.636" end="00:18:58.371">Archer: YOU WERE GONNA FRAG<tt:br/>ME?</tt:p>
+            <tt:p begin="00:18:58.405" end="00:19:00.240">Ramón: NO, THIS WAS FOR<tt:br/>DECORATING.</tt:p>
+            <tt:p begin="00:19:00.273" end="00:19:01.508">WHAT? LOOK AT THIS PLACE.</tt:p>
+            <tt:p begin="00:19:01.541" end="00:19:03.543">I WAS GOING TO HAVE TO START<tt:br/>FROM SCRATCH.</tt:p>
+            <tt:p begin="00:19:03.576" end="00:19:04.477">Archer: I DON'T KNOW.</tt:p>
+            <tt:p begin="00:19:04.511" end="00:19:05.278">THE KITCHEN'S NOT BAD.</tt:p>
+            <tt:p begin="00:19:05.312" end="00:19:07.180">Charles: OH, MY GOD, ARE YOU<tt:br/>KIDDING?</tt:p>
+            <tt:p begin="00:19:07.214" end="00:19:08.315">THAT KITCHEN'S AWFUL.<tt:br/>OH, CRAP.</tt:p>
+            <tt:p begin="00:19:08.348" end="00:19:12.952">Rudi: NO, THANK YOU.</tt:p>
+            <tt:p begin="00:19:12.985" end="00:19:14.721">Archer: [ COUGHS ]</tt:p>
+            <tt:p begin="00:19:14.754" end="00:19:17.957">RAMóN, WAS THAT NOT TOTALLY<tt:br/>EPIC?</tt:p>
+            <tt:p begin="00:19:17.990" end="00:19:21.294">Ramón: Sí, STERLING, BECAUSE<tt:br/>YOU LIVE TO TELL THE TALE.</tt:p>
+            <tt:p begin="00:19:21.328" end="00:19:24.331">Archer: NO, NO, NO, BECAUSE<tt:br/>MY MOTHER'S CONDO GOT TRASHED!</tt:p>
+            <tt:p begin="00:19:24.364" end="00:19:25.665">GOD, SHE IS GONNA FREAK WHEN --</tt:p>
+            <tt:p begin="00:19:25.698" end="00:19:26.566">WAIT, WAIT, WAIT.</tt:p>
+            <tt:p begin="00:19:26.599" end="00:19:27.700">WHERE'S CHARLES AND RUDI?</tt:p>
+            <tt:p begin="00:19:27.734" end="00:19:29.035">Ramón: HMM.</tt:p>
+            <tt:p begin="00:19:29.068" end="00:19:32.305">I THINK THEY MUST HAVE ESCAPED,<tt:br/>HOWEVER IMPLAUSIBLE THAT MAY<tt:br/>SEEM.</tt:p>
+            <tt:p begin="00:19:32.339" end="00:19:34.374">Archer: THAT DOES SEEM<tt:br/>IMPLAUSIBLE.</tt:p>
+            <tt:p begin="00:19:34.407" end="00:19:36.809">Ramón: AND SO I MUST NOW GO<tt:br/>INTO HIDING.</tt:p>
+            <tt:p begin="00:19:36.843" end="00:19:40.780">FIDEL WILL KEEP SENDING HIT<tt:br/>SQUADS, AND HE WILL NOT STOP<tt:br/>UNTIL I AM DEAD.</tt:p>
+            <tt:p begin="00:19:40.813" end="00:19:43.450">Archer: SO, WHAT, JUST A LIFE<tt:br/>ON THE RUN?</tt:p>
+            <tt:p begin="00:19:43.483" end="00:19:45.985">Ramón: Sí, JUST LIKE EL<tt:br/>DR. DAVID BANNER.</tt:p>
+            <tt:p begin="00:19:46.018" end="00:19:47.854">Archer: HOW DO YOU SAY &quot;THE<tt:br/>HULK&quot; IN SPANISH?</tt:p>
+            <tt:p begin="00:19:47.887" end="00:19:48.721">Ramón: &quot;EL HULK.&quot;</tt:p>
+            <tt:p begin="00:19:48.755" end="00:19:49.489">Archer: GAY.</tt:p>
+            <tt:p begin="00:19:49.522" end="00:19:50.189">Ramón: WHAT?</tt:p>
+            <tt:p begin="00:19:50.223" end="00:19:51.524">WE DON'T HAVE A WORD FOR &quot;HULK.&quot;</tt:p>
+            <tt:p begin="00:19:51.558" end="00:19:52.892">Archer: YOU HAVE A WORD FOR<tt:br/>&quot;GAY?&quot;</tt:p>
+            <tt:p begin="00:19:52.925" end="00:19:53.760">Ramón: &quot;GAY.&quot;</tt:p>
+            <tt:p begin="00:19:53.793" end="00:19:54.627">Archer: GAYER!</tt:p>
+            <tt:p begin="00:19:54.661" end="00:19:56.663">JESUS, SPANISH, OUR JOBS AREN'T<tt:br/>ENOUGH?</tt:p>
+            <tt:p begin="00:19:56.696" end="00:19:57.964">NOW YOU GOT TO TAKE OUR WORDS?</tt:p>
+            <tt:p begin="00:19:57.997" end="00:19:58.598">Ramón: STERLING!</tt:p>
+            <tt:p begin="00:19:58.631" end="00:19:59.832">Archer: I DIDN'T MEAN THAT.</tt:p>
+            <tt:p begin="00:19:59.866" end="00:20:02.602">IT WAS RACIST, AND EVEN THOUGH<tt:br/>YOU WERE GONNA SHOOT AND/OR FRAG</tt:p>
+            <tt:p begin="00:20:02.635" end="00:20:04.871">ME, I REALLY FEEL LIKE WE HAD A<tt:br/>KIND OF A CONNECTION.</tt:p>
+            <tt:p begin="00:20:04.904" end="00:20:09.242">Ramón: [ Crying ] I'M SAD<tt:br/>BECAUSE WE HAD A CONNECTION, AND<tt:br/>NOW --</tt:p>
+            <tt:p begin="00:20:09.276" end="00:20:13.346">Archer: NOW I FEEL LIKE A<tt:br/>DICK, SO, COME ON -- LET ME TURN<tt:br/>THAT FROWN UPSIDE DOWN.</tt:p>
+            <tt:p begin="00:20:13.380" end="00:20:14.514">Ramón: HOW?</tt:p>
+            <tt:p begin="00:20:14.547" end="00:20:16.783">Archer: WELL, THE BEDROOM WAS<tt:br/>UNTOUCHED BY THE EXPLOSION.</tt:p>
+            <tt:p begin="00:20:16.816" end="00:20:17.684">Ramón: I'M LISTENING.</tt:p>
+            <tt:p begin="00:20:17.717" end="00:20:19.486">Archer: SO, LET'S BLOW THE<tt:br/>SHIT OUT OF IT.</tt:p>
+            <tt:p begin="00:20:19.519" end="00:20:20.287">Ramón: OH.</tt:p>
+            <tt:p begin="00:20:20.320" end="00:20:21.921">I THOUGHT YOU MEANT YOU WANTED<tt:br/>TO...</tt:p>
+            <tt:p begin="00:20:21.954" end="00:20:23.790">Archer: [ LAUGHS ] RAMóN!</tt:p>
+            <tt:p begin="00:20:23.823" end="00:20:26.359">Ramón: AND JUST WHY IS THAT<tt:br/>SO FUNNY?</tt:p>
+            <tt:p begin="00:20:26.393" end="00:20:27.560">Archer: NOT THAT.</tt:p>
+            <tt:p begin="00:20:27.594" end="00:20:30.663">WOODHOUSE -- HE'S ALL TIED UP<tt:br/>SOMEWHERE, SCA-- [ LAUGHS ] --</tt:p>
+            <tt:p begin="00:20:30.697" end="00:20:32.632">SCARED AND ALONE...</tt:p>
+            <tt:p begin="00:20:32.665" end="00:20:33.833">[ LAUGHS ]</tt:p>
+            <tt:p begin="00:20:33.866" end="00:20:36.436">...PROBABLY DEHYDRATED!</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

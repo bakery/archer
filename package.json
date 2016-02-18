@@ -1,0 +1,19 @@
+{
+  "name": "archer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "commander": "^2.9.0",
+    "request": "^2.69.0",
+    "slug": "^0.9.1",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.16"
+  }
+}
